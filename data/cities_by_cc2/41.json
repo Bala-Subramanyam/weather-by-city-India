@@ -1,0 +1,2900 @@
+[
+  {
+    "name": "thang",
+    "cc2": "41",
+    "latitude": 34.9274,
+    "longitude": 76.79336
+  },
+  {
+    "name": "chalunka",
+    "cc2": "41",
+    "latitude": 34.82016,
+    "longitude": 76.94212
+  },
+  {
+    "name": "zulidok",
+    "cc2": "41",
+    "latitude": 34.05488,
+    "longitude": 76.32796
+  },
+  {
+    "name": "zozar",
+    "cc2": "41",
+    "latitude": 33.58839,
+    "longitude": 77.00959
+  },
+  {
+    "name": "zongsa",
+    "cc2": "41",
+    "latitude": 35.01112,
+    "longitude": 77.35926
+  },
+  {
+    "name": "zong",
+    "cc2": "41",
+    "latitude": 32.68506,
+    "longitude": 78.86262
+  },
+  {
+    "name": "zingral",
+    "cc2": "41",
+    "latitude": 34.02643,
+    "longitude": 77.91831
+  },
+  {
+    "name": "zangla",
+    "cc2": "41",
+    "latitude": 33.65922,
+    "longitude": 76.98969
+  },
+  {
+    "name": "zagok",
+    "cc2": "41",
+    "latitude": 33.76073,
+    "longitude": 78.02518
+  },
+  {
+    "name": "zagalnakchan",
+    "cc2": "41",
+    "latitude": 34.75853,
+    "longitude": 76.94574
+  },
+  {
+    "name": "yelchang",
+    "cc2": "41",
+    "latitude": 33.91667,
+    "longitude": 76.86667
+  },
+  {
+    "name": "yaytah",
+    "cc2": "41",
+    "latitude": 33.32563,
+    "longitude": 77.22268
+  },
+  {
+    "name": "yalong",
+    "cc2": "41",
+    "latitude": 33.51602,
+    "longitude": 76.89564
+  },
+  {
+    "name": "warshi",
+    "cc2": "41",
+    "latitude": 35.06105,
+    "longitude": 77.33595
+  },
+  {
+    "name": "waris",
+    "cc2": "41",
+    "latitude": 34.84832,
+    "longitude": 77.14556
+  },
+  {
+    "name": "wanlah",
+    "cc2": "41",
+    "latitude": 34.25118,
+    "longitude": 76.83211
+  },
+  {
+    "name": "urdas",
+    "cc2": "41",
+    "latitude": 34.63673,
+    "longitude": 76.3844
+  },
+  {
+    "name": "upshi",
+    "cc2": "41",
+    "latitude": 33.81982,
+    "longitude": 77.82197
+  },
+  {
+    "name": "unmaru",
+    "cc2": "41",
+    "latitude": 34.7009,
+    "longitude": 77.27019
+  },
+  {
+    "name": "umba",
+    "cc2": "41",
+    "latitude": 34.32256,
+    "longitude": 75.89748
+  },
+  {
+    "name": "ukdungle",
+    "cc2": "41",
+    "latitude": 32.60284,
+    "longitude": 78.94623
+  },
+  {
+    "name": "ugu",
+    "cc2": "41",
+    "latitude": 33.87962,
+    "longitude": 77.7713
+  },
+  {
+    "name": "turtok",
+    "cc2": "41",
+    "latitude": 34.84598,
+    "longitude": 76.82925
+  },
+  {
+    "name": "tungus",
+    "cc2": "41",
+    "latitude": 34.42978,
+    "longitude": 75.84078
+  },
+  {
+    "name": "tungring",
+    "cc2": "41",
+    "latitude": 33.52382,
+    "longitude": 76.7983
+  },
+  {
+    "name": "tunah",
+    "cc2": "41",
+    "latitude": 33.76951,
+    "longitude": 77.8645
+  },
+  {
+    "name": "tugla",
+    "cc2": "41",
+    "latitude": 33.75055,
+    "longitude": 77.98713
+  },
+  {
+    "name": "tongul",
+    "cc2": "41",
+    "latitude": 34.05085,
+    "longitude": 75.94483
+  },
+  {
+    "name": "tirit",
+    "cc2": "41",
+    "latitude": 34.53422,
+    "longitude": 77.64253
+  },
+  {
+    "name": "tirido",
+    "cc2": "41",
+    "latitude": 33.58297,
+    "longitude": 78.08083
+  },
+  {
+    "name": "tiricha",
+    "cc2": "41",
+    "latitude": 34.73629,
+    "longitude": 77.57112
+  },
+  {
+    "name": "tikse",
+    "cc2": "41",
+    "latitude": 34.05322,
+    "longitude": 77.6656
+  },
+  {
+    "name": "tiggur",
+    "cc2": "41",
+    "latitude": 34.61863,
+    "longitude": 77.61996
+  },
+  {
+    "name": "thonde",
+    "cc2": "41",
+    "latitude": 33.51886,
+    "longitude": 76.97482
+  },
+  {
+    "name": "thoise",
+    "cc2": "41",
+    "latitude": 34.65679,
+    "longitude": 77.36122
+  },
+  {
+    "name": "thirit",
+    "cc2": "41",
+    "latitude": 34.53333,
+    "longitude": 77.65
+  },
+  {
+    "name": "thangra",
+    "cc2": "41",
+    "latitude": 33.22226,
+    "longitude": 78.87766
+  },
+  {
+    "name": "thamo",
+    "cc2": "41",
+    "latitude": 34.20198,
+    "longitude": 75.92543
+  },
+  {
+    "name": "tetha",
+    "cc2": "41",
+    "latitude": 33.18503,
+    "longitude": 77.16197
+  },
+  {
+    "name": "tashigang",
+    "cc2": "41",
+    "latitude": 32.90386,
+    "longitude": 79.20221
+  },
+  {
+    "name": "tasgam",
+    "cc2": "41",
+    "latitude": 34.47717,
+    "longitude": 75.93381
+  },
+  {
+    "name": "tarklak",
+    "cc2": "41",
+    "latitude": 34.22739,
+    "longitude": 76.84129
+  },
+  {
+    "name": "tanze",
+    "cc2": "41",
+    "latitude": 33.14156,
+    "longitude": 77.21135
+  },
+  {
+    "name": "chananwari",
+    "cc2": "41",
+    "latitude": 34.08109,
+    "longitude": 75.41929
+  },
+  {
+    "name": "tangtse",
+    "cc2": "41",
+    "latitude": 34.03452,
+    "longitude": 78.16983
+  },
+  {
+    "name": "takh",
+    "cc2": "41",
+    "latitude": 33.12285,
+    "longitude": 77.53804
+  },
+  {
+    "name": "suru",
+    "cc2": "41",
+    "latitude": 34.11578,
+    "longitude": 75.95954
+  },
+  {
+    "name": "sunnit",
+    "cc2": "41",
+    "latitude": 34.60466,
+    "longitude": 76.51546
+  },
+  {
+    "name": "sumsam",
+    "cc2": "41",
+    "latitude": 33.42385,
+    "longitude": 76.41962
+  },
+  {
+    "name": "sumdo",
+    "cc2": "41",
+    "latitude": 35.08244,
+    "longitude": 78.74569
+  },
+  {
+    "name": "sumdah",
+    "cc2": "41",
+    "latitude": 34.13373,
+    "longitude": 77.1538
+  },
+  {
+    "name": "sumchum goempa",
+    "cc2": "41",
+    "latitude": 33.5548,
+    "longitude": 76.66751
+  },
+  {
+    "name": "suktiyal",
+    "cc2": "41",
+    "latitude": 34.41974,
+    "longitude": 75.7651
+  },
+  {
+    "name": "stakna",
+    "cc2": "41",
+    "latitude": 34.0061,
+    "longitude": 77.69262
+  },
+  {
+    "name": "stak",
+    "cc2": "41",
+    "latitude": 34.07132,
+    "longitude": 77.54697
+  },
+  {
+    "name": "spangmik",
+    "cc2": "41",
+    "latitude": 33.91711,
+    "longitude": 78.45422
+  },
+  {
+    "name": "sonamarg",
+    "cc2": "41",
+    "latitude": 34.3037,
+    "longitude": 75.29816
+  },
+  {
+    "name": "sokhniz",
+    "cc2": "41",
+    "latitude": 33.98374,
+    "longitude": 75.51534
+  },
+  {
+    "name": "sogra",
+    "cc2": "41",
+    "latitude": 34.34587,
+    "longitude": 76.96752
+  },
+  {
+    "name": "skirbuchan",
+    "cc2": "41",
+    "latitude": 34.43191,
+    "longitude": 76.71808
+  },
+  {
+    "name": "skio",
+    "cc2": "41",
+    "latitude": 33.98918,
+    "longitude": 77.26079
+  },
+  {
+    "name": "singran",
+    "cc2": "41",
+    "latitude": 34.26117,
+    "longitude": 76.03952
+  },
+  {
+    "name": "silapi",
+    "cc2": "41",
+    "latitude": 33.48538,
+    "longitude": 76.83979
+  },
+  {
+    "name": "shyok",
+    "cc2": "41",
+    "latitude": 34.17733,
+    "longitude": 78.14346
+  },
+  {
+    "name": "shushot",
+    "cc2": "41",
+    "latitude": 34.05334,
+    "longitude": 77.62486
+  },
+  {
+    "name": "shupkanjan",
+    "cc2": "41",
+    "latitude": 33.83825,
+    "longitude": 75.7696
+  },
+  {
+    "name": "shila",
+    "cc2": "41",
+    "latitude": 33.43094,
+    "longitude": 76.8965
+  },
+  {
+    "name": "shergol",
+    "cc2": "41",
+    "latitude": 34.39466,
+    "longitude": 76.30537
+  },
+  {
+    "name": "sherak",
+    "cc2": "41",
+    "latitude": 33.75702,
+    "longitude": 78.01992
+  },
+  {
+    "name": "she",
+    "cc2": "41",
+    "latitude": 34.08083,
+    "longitude": 77.63017
+  },
+  {
+    "name": "shadi",
+    "cc2": "41",
+    "latitude": 33.40356,
+    "longitude": 77.23956
+  },
+  {
+    "name": "satti",
+    "cc2": "41",
+    "latitude": 34.47707,
+    "longitude": 77.73318
+  },
+  {
+    "name": "saspul goempa",
+    "cc2": "41",
+    "latitude": 34.24578,
+    "longitude": 77.16004
+  },
+  {
+    "name": "sasoma",
+    "cc2": "41",
+    "latitude": 34.90723,
+    "longitude": 77.47199
+  },
+  {
+    "name": "saraks",
+    "cc2": "41",
+    "latitude": 34.3814,
+    "longitude": 76.47743
+  },
+  {
+    "name": "santakhchan",
+    "cc2": "41",
+    "latitude": 34.50894,
+    "longitude": 76.62005
+  },
+  {
+    "name": "sanko",
+    "cc2": "41",
+    "latitude": 34.29022,
+    "longitude": 75.9524
+  },
+  {
+    "name": "sanjak",
+    "cc2": "41",
+    "latitude": 34.57624,
+    "longitude": 76.52548
+  },
+  {
+    "name": "sanacha",
+    "cc2": "41",
+    "latitude": 34.64192,
+    "longitude": 76.35504
+  },
+  {
+    "name": "rupshu",
+    "cc2": "41",
+    "latitude": 32.96667,
+    "longitude": 78.28333
+  },
+  {
+    "name": "rumbak",
+    "cc2": "41",
+    "latitude": 34.04974,
+    "longitude": 77.4162
+  },
+  {
+    "name": "rulagung",
+    "cc2": "41",
+    "latitude": 33.73425,
+    "longitude": 76.82824
+  },
+  {
+    "name": "rongdu",
+    "cc2": "41",
+    "latitude": 34.40506,
+    "longitude": 77.78735
+  },
+  {
+    "name": "rong",
+    "cc2": "41",
+    "latitude": 33.6877,
+    "longitude": 77.73301
+  },
+  {
+    "name": "roang",
+    "cc2": "41",
+    "latitude": 33.63723,
+    "longitude": 78.14081
+  },
+  {
+    "name": "ringdom goempa",
+    "cc2": "41",
+    "latitude": 34.03737,
+    "longitude": 76.37481
+  },
+  {
+    "name": "rikinwas",
+    "cc2": "41",
+    "latitude": 33.9494,
+    "longitude": 75.51851
+  },
+  {
+    "name": "rhongo",
+    "cc2": "41",
+    "latitude": 33.10095,
+    "longitude": 78.82869
+  },
+  {
+    "name": "rezan",
+    "cc2": "41",
+    "latitude": 34.27425,
+    "longitude": 75.18536
+  },
+  {
+    "name": "reru",
+    "cc2": "41",
+    "latitude": 33.34615,
+    "longitude": 76.95043
+  },
+  {
+    "name": "ranbirpura",
+    "cc2": "41",
+    "latitude": 34.03732,
+    "longitude": 77.67868
+  },
+  {
+    "name": "punguk",
+    "cc2": "41",
+    "latitude": 32.75788,
+    "longitude": 78.89947
+  },
+  {
+    "name": "puga",
+    "cc2": "41",
+    "latitude": 33.23342,
+    "longitude": 78.37199
+  },
+  {
+    "name": "pongunagu",
+    "cc2": "41",
+    "latitude": 33.37624,
+    "longitude": 77.94789
+  },
+  {
+    "name": "poin",
+    "cc2": "41",
+    "latitude": 34.56226,
+    "longitude": 76.13016
+  },
+  {
+    "name": "pituk",
+    "cc2": "41",
+    "latitude": 34.13908,
+    "longitude": 77.53604
+  },
+  {
+    "name": "pidmu",
+    "cc2": "41",
+    "latitude": 33.69119,
+    "longitude": 76.92355
+  },
+  {
+    "name": "phuktal goempa",
+    "cc2": "41",
+    "latitude": 33.2647,
+    "longitude": 77.17751
+  },
+  {
+    "name": "photaksar",
+    "cc2": "41",
+    "latitude": 34.07014,
+    "longitude": 76.82496
+  },
+  {
+    "name": "phobrang",
+    "cc2": "41",
+    "latitude": 34.0545,
+    "longitude": 78.44056
+  },
+  {
+    "name": "phe",
+    "cc2": "41",
+    "latitude": 33.6111,
+    "longitude": 76.71275
+  },
+  {
+    "name": "pharona",
+    "cc2": "41",
+    "latitude": 34.37796,
+    "longitude": 75.97693
+  },
+  {
+    "name": "phanjila",
+    "cc2": "41",
+    "latitude": 34.20035,
+    "longitude": 76.86835
+  },
+  {
+    "name": "pashkyum",
+    "cc2": "41",
+    "latitude": 34.50318,
+    "longitude": 76.20521
+  },
+  {
+    "name": "partek",
+    "cc2": "41",
+    "latitude": 34.19989,
+    "longitude": 75.91824
+  },
+  {
+    "name": "parkutse",
+    "cc2": "41",
+    "latitude": 34.1,
+    "longitude": 76.01667
+  },
+  {
+    "name": "parkaryan",
+    "cc2": "41",
+    "latitude": 34.09031,
+    "longitude": 75.99146
+  },
+  {
+    "name": "panamik",
+    "cc2": "41",
+    "latitude": 34.77956,
+    "longitude": 77.53946
+  },
+  {
+    "name": "padam",
+    "cc2": "41",
+    "latitude": 33.46659,
+    "longitude": 76.88488
+  },
+  {
+    "name": "pachari",
+    "cc2": "41",
+    "latitude": 34.4087,
+    "longitude": 76.64662
+  },
+  {
+    "name": "ororotse",
+    "cc2": "41",
+    "latitude": 34.28764,
+    "longitude": 78.43067
+  },
+  {
+    "name": "nyoma rap",
+    "cc2": "41",
+    "latitude": 33.20492,
+    "longitude": 78.65508
+  },
+  {
+    "name": "nyingri",
+    "cc2": "41",
+    "latitude": 34.23342,
+    "longitude": 79.08168
+  },
+  {
+    "name": "nyagzu",
+    "cc2": "41",
+    "latitude": 34.00999,
+    "longitude": 78.90718
+  },
+  {
+    "name": "nurla",
+    "cc2": "41",
+    "latitude": 34.31667,
+    "longitude": 76.96667
+  },
+  {
+    "name": "nischu",
+    "cc2": "41",
+    "latitude": 34.5224,
+    "longitude": 79.10813
+  },
+  {
+    "name": "nior nis",
+    "cc2": "41",
+    "latitude": 33.42858,
+    "longitude": 78.20424
+  },
+  {
+    "name": "nimu",
+    "cc2": "41",
+    "latitude": 34.19571,
+    "longitude": 77.33508
+  },
+  {
+    "name": "nichinai",
+    "cc2": "41",
+    "latitude": 34.35,
+    "longitude": 75.18333
+  },
+  {
+    "name": "nawi",
+    "cc2": "41",
+    "latitude": 33.16811,
+    "longitude": 78.81596
+  },
+  {
+    "name": "narmu",
+    "cc2": "41",
+    "latitude": 34.37009,
+    "longitude": 76.80479
+  },
+  {
+    "name": "narkial",
+    "cc2": "41",
+    "latitude": 34.49447,
+    "longitude": 76.76915
+  },
+  {
+    "name": "namchang",
+    "cc2": "41",
+    "latitude": 33.75743,
+    "longitude": 78.04109
+  },
+  {
+    "name": "naerung",
+    "cc2": "41",
+    "latitude": 33.88499,
+    "longitude": 76.91336
+  },
+  {
+    "name": "muski",
+    "cc2": "41",
+    "latitude": 34.43729,
+    "longitude": 75.6554
+  },
+  {
+    "name": "mulbekh",
+    "cc2": "41",
+    "latitude": 34.37581,
+    "longitude": 76.3704
+  },
+  {
+    "name": "muglib",
+    "cc2": "41",
+    "latitude": 34.03303,
+    "longitude": 78.26924
+  },
+  {
+    "name": "mudil",
+    "cc2": "41",
+    "latitude": 33.39904,
+    "longitude": 78.23115
+  },
+  {
+    "name": "mone leh",
+    "cc2": "41",
+    "latitude": 33.24038,
+    "longitude": 77.44886
+  },
+  {
+    "name": "mondari",
+    "cc2": "41",
+    "latitude": 34.66875,
+    "longitude": 77.40435
+  },
+  {
+    "name": "metwan",
+    "cc2": "41",
+    "latitude": 33.69729,
+    "longitude": 75.85215
+  },
+  {
+    "name": "merak",
+    "cc2": "41",
+    "latitude": 33.807,
+    "longitude": 78.58949
+  },
+  {
+    "name": "matsel",
+    "cc2": "41",
+    "latitude": 33.41622,
+    "longitude": 76.34535
+  },
+  {
+    "name": "matayan",
+    "cc2": "41",
+    "latitude": 34.3669,
+    "longitude": 75.5907
+  },
+  {
+    "name": "martselang",
+    "cc2": "41",
+    "latitude": 33.9072,
+    "longitude": 77.73711
+  },
+  {
+    "name": "markha",
+    "cc2": "41",
+    "latitude": 33.88633,
+    "longitude": 77.42384
+  },
+  {
+    "name": "manda",
+    "cc2": "41",
+    "latitude": 33.62494,
+    "longitude": 76.69592
+  },
+  {
+    "name": "man",
+    "cc2": "41",
+    "latitude": 33.85814,
+    "longitude": 78.53032
+  },
+  {
+    "name": "mamor",
+    "cc2": "41",
+    "latitude": 34.48731,
+    "longitude": 76.48776
+  },
+  {
+    "name": "mahe",
+    "cc2": "41",
+    "latitude": 33.25762,
+    "longitude": 78.54264
+  },
+  {
+    "name": "machhoi",
+    "cc2": "41",
+    "latitude": 34.30978,
+    "longitude": 75.52541
+  },
+  {
+    "name": "lumsu",
+    "cc2": "41",
+    "latitude": 34.5238,
+    "longitude": 76.3831
+  },
+  {
+    "name": "lukung",
+    "cc2": "41",
+    "latitude": 34,
+    "longitude": 78.4
+  },
+  {
+    "name": "lotsun",
+    "cc2": "41",
+    "latitude": 34.46919,
+    "longitude": 76.25633
+  },
+  {
+    "name": "longzaling",
+    "cc2": "41",
+    "latitude": 34.08447,
+    "longitude": 76.80064
+  },
+  {
+    "name": "lomba",
+    "cc2": "41",
+    "latitude": 34.36342,
+    "longitude": 76.1335
+  },
+  {
+    "name": "linshot",
+    "cc2": "41",
+    "latitude": 33.9015,
+    "longitude": 76.82345
+  },
+  {
+    "name": "likche",
+    "cc2": "41",
+    "latitude": 33.73201,
+    "longitude": 77.95918
+  },
+  {
+    "name": "liekzan",
+    "cc2": "41",
+    "latitude": 34.60408,
+    "longitude": 77.62846
+  },
+  {
+    "name": "lhayul",
+    "cc2": "41",
+    "latitude": 35.08956,
+    "longitude": 77.26894
+  },
+  {
+    "name": "lhabap",
+    "cc2": "41",
+    "latitude": 34.29261,
+    "longitude": 77.83203
+  },
+  {
+    "name": "lekong yok",
+    "cc2": "41",
+    "latitude": 32.79672,
+    "longitude": 79.17168
+  },
+  {
+    "name": "leh",
+    "cc2": "41",
+    "latitude": 34.16504,
+    "longitude": 77.58402
+  },
+  {
+    "name": "lazing",
+    "cc2": "41",
+    "latitude": 34.29133,
+    "longitude": 77.30382
+  },
+  {
+    "name": "lamayuru",
+    "cc2": "41",
+    "latitude": 34.28845,
+    "longitude": 76.77327
+  },
+  {
+    "name": "lalu",
+    "cc2": "41",
+    "latitude": 34.59033,
+    "longitude": 76.29664
+  },
+  {
+    "name": "kyonon",
+    "cc2": "41",
+    "latitude": 32.96261,
+    "longitude": 77.43431
+  },
+  {
+    "name": "kushol",
+    "cc2": "41",
+    "latitude": 33.67794,
+    "longitude": 76.60243
+  },
+  {
+    "name": "kursha goempa",
+    "cc2": "41",
+    "latitude": 33.5352,
+    "longitude": 76.9038
+  },
+  {
+    "name": "kurio",
+    "cc2": "41",
+    "latitude": 33.58584,
+    "longitude": 77.4677
+  },
+  {
+    "name": "kurgiakh",
+    "cc2": "41",
+    "latitude": 33.06245,
+    "longitude": 77.22632
+  },
+  {
+    "name": "kunore",
+    "cc2": "41",
+    "latitude": 34.4139,
+    "longitude": 76.05563
+  },
+  {
+    "name": "kungi la",
+    "cc2": "41",
+    "latitude": 34.11667,
+    "longitude": 76.53333
+  },
+  {
+    "name": "kumdok",
+    "cc2": "41",
+    "latitude": 33.5213,
+    "longitude": 78.19014
+  },
+  {
+    "name": "kulan",
+    "cc2": "41",
+    "latitude": 34.27094,
+    "longitude": 75.15336
+  },
+  {
+    "name": "koyuel",
+    "cc2": "41",
+    "latitude": 32.86554,
+    "longitude": 79.27648
+  },
+  {
+    "name": "k'o-shih-erh-ts'un",
+    "cc2": "41",
+    "latitude": 35.33902,
+    "longitude": 78.86508
+  },
+  {
+    "name": "kon nag",
+    "cc2": "41",
+    "latitude": 34.0132,
+    "longitude": 75.67694
+  },
+  {
+    "name": "kimi",
+    "cc2": "41",
+    "latitude": 34.94667,
+    "longitude": 77.41722
+  },
+  {
+    "name": "kilchu",
+    "cc2": "41",
+    "latitude": 34.20629,
+    "longitude": 76.5845
+  },
+  {
+    "name": "kiari",
+    "cc2": "41",
+    "latitude": 33.47616,
+    "longitude": 78.12588
+  },
+  {
+    "name": "kiagi",
+    "cc2": "41",
+    "latitude": 33.5879,
+    "longitude": 78.27216
+  },
+  {
+    "name": "khurna kur",
+    "cc2": "41",
+    "latitude": 33.60155,
+    "longitude": 77.48755
+  },
+  {
+    "name": "khurna",
+    "cc2": "41",
+    "latitude": 33.51056,
+    "longitude": 77.50989
+  },
+  {
+    "name": "khuldo",
+    "cc2": "41",
+    "latitude": 32.7592,
+    "longitude": 78.98187
+  },
+  {
+    "name": "khor",
+    "cc2": "41",
+    "latitude": 34.85426,
+    "longitude": 77.04928
+  },
+  {
+    "name": "khibar",
+    "cc2": "41",
+    "latitude": 34.48187,
+    "longitude": 75.94554
+  },
+  {
+    "name": "kharu",
+    "cc2": "41",
+    "latitude": 34.67815,
+    "longitude": 77.3024
+  },
+  {
+    "name": "khardung",
+    "cc2": "41",
+    "latitude": 34.40041,
+    "longitude": 77.66943
+  },
+  {
+    "name": "kharbu",
+    "cc2": "41",
+    "latitude": 34.54205,
+    "longitude": 75.99365
+  },
+  {
+    "name": "khalsar",
+    "cc2": "41",
+    "latitude": 34.49409,
+    "longitude": 77.70377
+  },
+  {
+    "name": "khalatse",
+    "cc2": "41",
+    "latitude": 34.31284,
+    "longitude": 76.84272
+  },
+  {
+    "name": "katge lato",
+    "cc2": "41",
+    "latitude": 33.22634,
+    "longitude": 77.14057
+  },
+  {
+    "name": "karzok goempa",
+    "cc2": "41",
+    "latitude": 32.97434,
+    "longitude": 78.25805
+  },
+  {
+    "name": "karu",
+    "cc2": "41",
+    "latitude": 33.91536,
+    "longitude": 77.74443
+  },
+  {
+    "name": "kartse",
+    "cc2": "41",
+    "latitude": 34.26667,
+    "longitude": 76.01667
+  },
+  {
+    "name": "kargil",
+    "cc2": "41",
+    "latitude": 34.55765,
+    "longitude": 76.12622
+  },
+  {
+    "name": "kargi",
+    "cc2": "41",
+    "latitude": 34.13303,
+    "longitude": 75.9577
+  },
+  {
+    "name": "kanutse",
+    "cc2": "41",
+    "latitude": 34.6,
+    "longitude": 76.56667
+  },
+  {
+    "name": "kangi",
+    "cc2": "41",
+    "latitude": 34.23127,
+    "longitude": 76.60374
+  },
+  {
+    "name": "kakstet",
+    "cc2": "41",
+    "latitude": 33.78592,
+    "longitude": 78.61528
+  },
+  {
+    "name": "kakshar",
+    "cc2": "41",
+    "latitude": 34.58308,
+    "longitude": 75.98153
+  },
+  {
+    "name": "itchu",
+    "cc2": "41",
+    "latitude": 34.20987,
+    "longitude": 76.22271
+  },
+  {
+    "name": "hundar",
+    "cc2": "41",
+    "latitude": 34.5846,
+    "longitude": 77.4696
+  },
+  {
+    "name": "humpet",
+    "cc2": "41",
+    "latitude": 34.06605,
+    "longitude": 75.59996
+  },
+  {
+    "name": "honupatta",
+    "cc2": "41",
+    "latitude": 34.16026,
+    "longitude": 76.84344
+  },
+  {
+    "name": "honia",
+    "cc2": "41",
+    "latitude": 33.6877,
+    "longitude": 76.94069
+  },
+  {
+    "name": "hiniskut",
+    "cc2": "41",
+    "latitude": 34.25,
+    "longitude": 76.58333
+  },
+  {
+    "name": "hemis",
+    "cc2": "41",
+    "latitude": 33.91293,
+    "longitude": 77.70932
+  },
+  {
+    "name": "hawal",
+    "cc2": "41",
+    "latitude": 33.54044,
+    "longitude": 75.96093
+  },
+  {
+    "name": "hanle",
+    "cc2": "41",
+    "latitude": 32.78943,
+    "longitude": 78.9962
+  },
+  {
+    "name": "hankar",
+    "cc2": "41",
+    "latitude": 33.83273,
+    "longitude": 77.50343
+  },
+  {
+    "name": "hangdangsmin",
+    "cc2": "41",
+    "latitude": 34.67865,
+    "longitude": 76.64456
+  },
+  {
+    "name": "hamiling",
+    "cc2": "41",
+    "latitude": 33.66069,
+    "longitude": 76.62873
+  },
+  {
+    "name": "hagnis",
+    "cc2": "41",
+    "latitude": 34.48218,
+    "longitude": 76.47958
+  },
+  {
+    "name": "gya",
+    "cc2": "41",
+    "latitude": 33.64983,
+    "longitude": 77.7364
+  },
+  {
+    "name": "gund",
+    "cc2": "41",
+    "latitude": 34.25888,
+    "longitude": 75.08733
+  },
+  {
+    "name": "gulmatungo",
+    "cc2": "41",
+    "latitude": 34.07075,
+    "longitude": 76.15886
+  },
+  {
+    "name": "grantung",
+    "cc2": "41",
+    "latitude": 34.4736,
+    "longitude": 76.07969
+  },
+  {
+    "name": "gondpapa",
+    "cc2": "41",
+    "latitude": 34.21872,
+    "longitude": 77.274
+  },
+  {
+    "name": "goempa",
+    "cc2": "41",
+    "latitude": 35.05617,
+    "longitude": 77.31076
+  },
+  {
+    "name": "goma hanu",
+    "cc2": "41",
+    "latitude": 34.62814,
+    "longitude": 76.63421
+  },
+  {
+    "name": "goma",
+    "cc2": "41",
+    "latitude": 34.43038,
+    "longitude": 76.28816
+  },
+  {
+    "name": "gangra",
+    "cc2": "41",
+    "latitude": 33.40954,
+    "longitude": 78.38895
+  },
+  {
+    "name": "gandpa goempa",
+    "cc2": "41",
+    "latitude": 33.32725,
+    "longitude": 78.85824
+  },
+  {
+    "name": "gaik",
+    "cc2": "41",
+    "latitude": 33.55273,
+    "longitude": 78.15108
+  },
+  {
+    "name": "gaik",
+    "cc2": "41",
+    "latitude": 33.55,
+    "longitude": 78.13333
+  },
+  {
+    "name": "ezas",
+    "cc2": "41",
+    "latitude": 34.11701,
+    "longitude": 77.18638
+  },
+  {
+    "name": "erad",
+    "cc2": "41",
+    "latitude": 33.95705,
+    "longitude": 78.19742
+  },
+  {
+    "name": "durgu",
+    "cc2": "41",
+    "latitude": 34.10151,
+    "longitude": 78.12176
+  },
+  {
+    "name": "dumkhar",
+    "cc2": "41",
+    "latitude": 34.38692,
+    "longitude": 76.762
+  },
+  {
+    "name": "drogulika",
+    "cc2": "41",
+    "latitude": 34.12933,
+    "longitude": 77.06804
+  },
+  {
+    "name": "dras",
+    "cc2": "41",
+    "latitude": 34.43071,
+    "longitude": 75.75392
+  },
+  {
+    "name": "dorzong",
+    "cc2": "41",
+    "latitude": 33.28074,
+    "longitude": 77.0332
+  },
+  {
+    "name": "deshkit",
+    "cc2": "41",
+    "latitude": 34.54949,
+    "longitude": 77.55254
+  },
+  {
+    "name": "demchok",
+    "cc2": "41",
+    "latitude": 32.69815,
+    "longitude": 79.45378
+  },
+  {
+    "name": "darbuk",
+    "cc2": "41",
+    "latitude": 34.11667,
+    "longitude": 78.11667
+  },
+  {
+    "name": "dalunang",
+    "cc2": "41",
+    "latitude": 34.6244,
+    "longitude": 75.95391
+  },
+  {
+    "name": "dah",
+    "cc2": "41",
+    "latitude": 34.62481,
+    "longitude": 76.47885
+  },
+  {
+    "name": "chutak",
+    "cc2": "41",
+    "latitude": 33.26532,
+    "longitude": 78.01745
+  },
+  {
+    "name": "chushul",
+    "cc2": "41",
+    "latitude": 33.5994,
+    "longitude": 78.64633
+  },
+  {
+    "name": "chumatang",
+    "cc2": "41",
+    "latitude": 33.36052,
+    "longitude": 78.35741
+  },
+  {
+    "name": "chumar",
+    "cc2": "41",
+    "latitude": 32.65958,
+    "longitude": 78.57743
+  },
+  {
+    "name": "chulichang",
+    "cc2": "41",
+    "latitude": 34.66895,
+    "longitude": 76.31088
+  },
+  {
+    "name": "chulati",
+    "cc2": "41",
+    "latitude": 34.49396,
+    "longitude": 76.21196
+  },
+  {
+    "name": "chorkongma",
+    "cc2": "41",
+    "latitude": 34.08095,
+    "longitude": 78.58207
+  },
+  {
+    "name": "chompa",
+    "cc2": "41",
+    "latitude": 33.62664,
+    "longitude": 78.10119
+  },
+  {
+    "name": "chispiyanzan",
+    "cc2": "41",
+    "latitude": 34.31734,
+    "longitude": 76.72889
+  },
+  {
+    "name": "chimre",
+    "cc2": "41",
+    "latitude": 33.97449,
+    "longitude": 77.81165
+  },
+  {
+    "name": "chilingkik",
+    "cc2": "41",
+    "latitude": 33.5521,
+    "longitude": 77.00297
+  },
+  {
+    "name": "chiling",
+    "cc2": "41",
+    "latitude": 34.05956,
+    "longitude": 77.21049
+  },
+  {
+    "name": "chiklitan",
+    "cc2": "41",
+    "latitude": 34.45778,
+    "longitude": 76.52082
+  },
+  {
+    "name": "charasa",
+    "cc2": "41",
+    "latitude": 34.68333,
+    "longitude": 77.56667
+  },
+  {
+    "name": "char",
+    "cc2": "41",
+    "latitude": 33.23192,
+    "longitude": 77.13847
+  },
+  {
+    "name": "changlung",
+    "cc2": "41",
+    "latitude": 34.93961,
+    "longitude": 77.46455
+  },
+  {
+    "name": "buruqqu",
+    "cc2": "41",
+    "latitude": 34.51639,
+    "longitude": 76.19014
+  },
+  {
+    "name": "burdun goempa",
+    "cc2": "41",
+    "latitude": 33.39782,
+    "longitude": 76.91345
+  },
+  {
+    "name": "bod kharbu",
+    "cc2": "41",
+    "latitude": 34.34283,
+    "longitude": 76.56237
+  },
+  {
+    "name": "biagdangdo",
+    "cc2": "41",
+    "latitude": 34.80469,
+    "longitude": 77.03374
+  },
+  {
+    "name": "bhuzas",
+    "cc2": "41",
+    "latitude": 33.41886,
+    "longitude": 76.45205
+  },
+  {
+    "name": "basgo",
+    "cc2": "41",
+    "latitude": 34.226,
+    "longitude": 77.27247
+  },
+  {
+    "name": "bartu",
+    "cc2": "41",
+    "latitude": 34.22289,
+    "longitude": 76.13318
+  },
+  {
+    "name": "baltal",
+    "cc2": "41",
+    "latitude": 34.25356,
+    "longitude": 75.42122
+  },
+  {
+    "name": "badogam",
+    "cc2": "41",
+    "latitude": 34.55004,
+    "longitude": 75.06065
+  },
+  {
+    "name": "badoab",
+    "cc2": "41",
+    "latitude": 34.52975,
+    "longitude": 75.16912
+  },
+  {
+    "name": "ating",
+    "cc2": "41",
+    "latitude": 33.57955,
+    "longitude": 76.73525
+  },
+  {
+    "name": "argi",
+    "cc2": "41",
+    "latitude": 33.64441,
+    "longitude": 78.03214
+  },
+  {
+    "name": "arau",
+    "cc2": "41",
+    "latitude": 34.09006,
+    "longitude": 75.26273
+  },
+  {
+    "name": "arann",
+    "cc2": "41",
+    "latitude": 34.882,
+    "longitude": 77.46292
+  },
+  {
+    "name": "ampultun",
+    "cc2": "41",
+    "latitude": 34.2203,
+    "longitude": 76.5948
+  },
+  {
+    "name": "amarnath",
+    "cc2": "41",
+    "latitude": 34.21667,
+    "longitude": 75.5
+  },
+  {
+    "name": "alchi goempa",
+    "cc2": "41",
+    "latitude": 34.23082,
+    "longitude": 77.16626
+  },
+  {
+    "name": "achirik",
+    "cc2": "41",
+    "latitude": 34.13431,
+    "longitude": 77.19222
+  },
+  {
+    "name": "abring",
+    "cc2": "41",
+    "latitude": 33.6886,
+    "longitude": 76.58438
+  },
+  {
+    "name": "abdullun",
+    "cc2": "41",
+    "latitude": 34.53474,
+    "longitude": 75.27089
+  },
+  {
+    "name": "mujbar",
+    "cc2": "41",
+    "latitude": 34.67592,
+    "longitude": 76.25864
+  },
+  {
+    "name": "phuro",
+    "cc2": "41",
+    "latitude": 34.69534,
+    "longitude": 76.31296
+  },
+  {
+    "name": "dungai chak",
+    "cc2": "41",
+    "latitude": 34.54808,
+    "longitude": 75.25435
+  },
+  {
+    "name": "dadareli chak",
+    "cc2": "41",
+    "latitude": 34.52806,
+    "longitude": 75.28326
+  },
+  {
+    "name": "chak subhan mir",
+    "cc2": "41",
+    "latitude": 34.61708,
+    "longitude": 75.06723
+  },
+  {
+    "name": "sikandar mir",
+    "cc2": "41",
+    "latitude": 34.60556,
+    "longitude": 75.05833
+  },
+  {
+    "name": "gratnar",
+    "cc2": "41",
+    "latitude": 34.55278,
+    "longitude": 75.06389
+  },
+  {
+    "name": "sarodab",
+    "cc2": "41",
+    "latitude": 34.54846,
+    "longitude": 75.07814
+  },
+  {
+    "name": "waziri thal",
+    "cc2": "41",
+    "latitude": 34.54536,
+    "longitude": 75.05523
+  },
+  {
+    "name": "kunpathri",
+    "cc2": "41",
+    "latitude": 34.51667,
+    "longitude": 75.1
+  },
+  {
+    "name": "malangam",
+    "cc2": "41",
+    "latitude": 34.53147,
+    "longitude": 75.1444
+  },
+  {
+    "name": "hasangam",
+    "cc2": "41",
+    "latitude": 34.5329,
+    "longitude": 75.12682
+  },
+  {
+    "name": "gundi gul shekh",
+    "cc2": "41",
+    "latitude": 34.53889,
+    "longitude": 75.11389
+  },
+  {
+    "name": "buglandar",
+    "cc2": "41",
+    "latitude": 34.54019,
+    "longitude": 75.10503
+  },
+  {
+    "name": "khutian thal",
+    "cc2": "41",
+    "latitude": 34.54569,
+    "longitude": 75.09131
+  },
+  {
+    "name": "tatri thal",
+    "cc2": "41",
+    "latitude": 34.55,
+    "longitude": 75.08889
+  },
+  {
+    "name": "dalimond",
+    "cc2": "41",
+    "latitude": 34.56944,
+    "longitude": 75.10556
+  },
+  {
+    "name": "sarimaidan",
+    "cc2": "41",
+    "latitude": 34.6,
+    "longitude": 75.09167
+  },
+  {
+    "name": "gujran",
+    "cc2": "41",
+    "latitude": 34.53584,
+    "longitude": 75.23861
+  },
+  {
+    "name": "lor khanba",
+    "cc2": "41",
+    "latitude": 34.53333,
+    "longitude": 75.21667
+  },
+  {
+    "name": "angaikor",
+    "cc2": "41",
+    "latitude": 34.51851,
+    "longitude": 75.1859
+  },
+  {
+    "name": "dangidar",
+    "cc2": "41",
+    "latitude": 34.52885,
+    "longitude": 75.20705
+  },
+  {
+    "name": "larchi masjid",
+    "cc2": "41",
+    "latitude": 34.50972,
+    "longitude": 76.19583
+  },
+  {
+    "name": "khardang",
+    "cc2": "41",
+    "latitude": 34.50139,
+    "longitude": 76.20278
+  },
+  {
+    "name": "azgang",
+    "cc2": "41",
+    "latitude": 34.51389,
+    "longitude": 76.19444
+  },
+  {
+    "name": "samar",
+    "cc2": "41",
+    "latitude": 34.5125,
+    "longitude": 76.2
+  },
+  {
+    "name": "khargok",
+    "cc2": "41",
+    "latitude": 34.50694,
+    "longitude": 76.2
+  },
+  {
+    "name": "titichhung",
+    "cc2": "41",
+    "latitude": 34.52361,
+    "longitude": 76.13333
+  },
+  {
+    "name": "zamshung",
+    "cc2": "41",
+    "latitude": 34.52083,
+    "longitude": 76.13333
+  },
+  {
+    "name": "brokhar",
+    "cc2": "41",
+    "latitude": 34.52222,
+    "longitude": 76.18194
+  },
+  {
+    "name": "tharumsa",
+    "cc2": "41",
+    "latitude": 34.51884,
+    "longitude": 76.17027
+  },
+  {
+    "name": "gurung",
+    "cc2": "41",
+    "latitude": 34.51226,
+    "longitude": 76.19239
+  },
+  {
+    "name": "phekbar",
+    "cc2": "41",
+    "latitude": 34.51806,
+    "longitude": 76.19167
+  },
+  {
+    "name": "baru",
+    "cc2": "41",
+    "latitude": 34.54444,
+    "longitude": 76.13889
+  },
+  {
+    "name": "barutrock",
+    "cc2": "41",
+    "latitude": 34.5428,
+    "longitude": 76.13205
+  },
+  {
+    "name": "ando",
+    "cc2": "41",
+    "latitude": 34.54444,
+    "longitude": 76.14722
+  },
+  {
+    "name": "chanching",
+    "cc2": "41",
+    "latitude": 34.56528,
+    "longitude": 76.12917
+  },
+  {
+    "name": "polokhor",
+    "cc2": "41",
+    "latitude": 34.5625,
+    "longitude": 76.12222
+  },
+  {
+    "name": "mangmur",
+    "cc2": "41",
+    "latitude": 34.56111,
+    "longitude": 76.14861
+  },
+  {
+    "name": "yogma",
+    "cc2": "41",
+    "latitude": 34.55972,
+    "longitude": 76.16111
+  },
+  {
+    "name": "ackamal",
+    "cc2": "41",
+    "latitude": 34.55694,
+    "longitude": 76.15833
+  },
+  {
+    "name": "raung",
+    "cc2": "41",
+    "latitude": 34.55417,
+    "longitude": 76.16944
+  },
+  {
+    "name": "chhutumel",
+    "cc2": "41",
+    "latitude": 34.55278,
+    "longitude": 76.18194
+  },
+  {
+    "name": "gond",
+    "cc2": "41",
+    "latitude": 34.56528,
+    "longitude": 76.17778
+  },
+  {
+    "name": "astangas",
+    "cc2": "41",
+    "latitude": 34.55833,
+    "longitude": 76.19167
+  },
+  {
+    "name": "tumel",
+    "cc2": "41",
+    "latitude": 34.56111,
+    "longitude": 76.20556
+  },
+  {
+    "name": "gorpung",
+    "cc2": "41",
+    "latitude": 34.56528,
+    "longitude": 76.21111
+  },
+  {
+    "name": "sumedar",
+    "cc2": "41",
+    "latitude": 34.575,
+    "longitude": 76.00139
+  },
+  {
+    "name": "gon kargil",
+    "cc2": "41",
+    "latitude": 34.56944,
+    "longitude": 76.11944
+  },
+  {
+    "name": "shilkacha",
+    "cc2": "41",
+    "latitude": 34.575,
+    "longitude": 76.12222
+  },
+  {
+    "name": "bethang",
+    "cc2": "41",
+    "latitude": 34.57361,
+    "longitude": 76.125
+  },
+  {
+    "name": "kulumbur",
+    "cc2": "41",
+    "latitude": 34.56944,
+    "longitude": 76.15556
+  },
+  {
+    "name": "beyama",
+    "cc2": "41",
+    "latitude": 34.57674,
+    "longitude": 76.1916
+  },
+  {
+    "name": "golcha",
+    "cc2": "41",
+    "latitude": 34.57083,
+    "longitude": 76.1875
+  },
+  {
+    "name": "thanjok",
+    "cc2": "41",
+    "latitude": 34.57361,
+    "longitude": 76.19861
+  },
+  {
+    "name": "yurbathak",
+    "cc2": "41",
+    "latitude": 34.57639,
+    "longitude": 76.19861
+  },
+  {
+    "name": "phikar",
+    "cc2": "41",
+    "latitude": 34.56944,
+    "longitude": 76.19583
+  },
+  {
+    "name": "shogram",
+    "cc2": "41",
+    "latitude": 34.575,
+    "longitude": 76.20417
+  },
+  {
+    "name": "anati",
+    "cc2": "41",
+    "latitude": 34.56944,
+    "longitude": 76.2125
+  },
+  {
+    "name": "barche",
+    "cc2": "41",
+    "latitude": 34.575,
+    "longitude": 76.2375
+  },
+  {
+    "name": "chhanigund",
+    "cc2": "41",
+    "latitude": 34.59861,
+    "longitude": 76.05972
+  },
+  {
+    "name": "silikche",
+    "cc2": "41",
+    "latitude": 34.58472,
+    "longitude": 76.12778
+  },
+  {
+    "name": "karkitchhu",
+    "cc2": "41",
+    "latitude": 34.60278,
+    "longitude": 76.04722
+  },
+  {
+    "name": "majdas",
+    "cc2": "41",
+    "latitude": 34.61111,
+    "longitude": 76.05
+  },
+  {
+    "name": "hardas",
+    "cc2": "41",
+    "latitude": 34.60694,
+    "longitude": 76.09028
+  },
+  {
+    "name": "gundarman",
+    "cc2": "41",
+    "latitude": 34.61445,
+    "longitude": 76.12822
+  },
+  {
+    "name": "khunda",
+    "cc2": "41",
+    "latitude": 34.61944,
+    "longitude": 76.04167
+  },
+  {
+    "name": "badgam",
+    "cc2": "41",
+    "latitude": 34.62917,
+    "longitude": 76.04444
+  },
+  {
+    "name": "brock",
+    "cc2": "41",
+    "latitude": 34.62639,
+    "longitude": 76.08056
+  },
+  {
+    "name": "dasnail",
+    "cc2": "41",
+    "latitude": 34.62493,
+    "longitude": 76.04622
+  },
+  {
+    "name": "jalla",
+    "cc2": "41",
+    "latitude": 34.63472,
+    "longitude": 76.05556
+  },
+  {
+    "name": "ishman",
+    "cc2": "41",
+    "latitude": 34.64575,
+    "longitude": 76.01966
+  },
+  {
+    "name": "lulo",
+    "cc2": "41",
+    "latitude": 34.66111,
+    "longitude": 76.0125
+  },
+  {
+    "name": "neril",
+    "cc2": "41",
+    "latitude": 34.66667,
+    "longitude": 76.01389
+  },
+  {
+    "name": "brok",
+    "cc2": "41",
+    "latitude": 34.65694,
+    "longitude": 76.24583
+  },
+  {
+    "name": "chet",
+    "cc2": "41",
+    "latitude": 34.66111,
+    "longitude": 76.24861
+  },
+  {
+    "name": "kuste",
+    "cc2": "41",
+    "latitude": 34.51339,
+    "longitude": 76.27393
+  },
+  {
+    "name": "shakar brok",
+    "cc2": "41",
+    "latitude": 34.49462,
+    "longitude": 76.40067
+  },
+  {
+    "name": "shakar",
+    "cc2": "41",
+    "latitude": 34.50986,
+    "longitude": 76.4496
+  },
+  {
+    "name": "shakar",
+    "cc2": "41",
+    "latitude": 34.50833,
+    "longitude": 76.47222
+  },
+  {
+    "name": "chomortan",
+    "cc2": "41",
+    "latitude": 34.49495,
+    "longitude": 76.49215
+  },
+  {
+    "name": "korit",
+    "cc2": "41",
+    "latitude": 34.52883,
+    "longitude": 76.34183
+  },
+  {
+    "name": "yogma kharbu",
+    "cc2": "41",
+    "latitude": 34.52361,
+    "longitude": 76.43333
+  },
+  {
+    "name": "shakardo",
+    "cc2": "41",
+    "latitude": 34.51667,
+    "longitude": 76.48889
+  },
+  {
+    "name": "samchurche",
+    "cc2": "41",
+    "latitude": 34.52639,
+    "longitude": 76.49306
+  },
+  {
+    "name": "kharbudu",
+    "cc2": "41",
+    "latitude": 34.55494,
+    "longitude": 76.5017
+  },
+  {
+    "name": "sando",
+    "cc2": "41",
+    "latitude": 34.53889,
+    "longitude": 76.40139
+  },
+  {
+    "name": "gachu",
+    "cc2": "41",
+    "latitude": 34.54167,
+    "longitude": 76.42083
+  },
+  {
+    "name": "sispingchan",
+    "cc2": "41",
+    "latitude": 34.53472,
+    "longitude": 76.49306
+  },
+  {
+    "name": "mullung",
+    "cc2": "41",
+    "latitude": 34.54167,
+    "longitude": 76.49444
+  },
+  {
+    "name": "talmahdo",
+    "cc2": "41",
+    "latitude": 34.54368,
+    "longitude": 76.49633
+  },
+  {
+    "name": "sakist",
+    "cc2": "41",
+    "latitude": 34.54583,
+    "longitude": 76.49861
+  },
+  {
+    "name": "talma",
+    "cc2": "41",
+    "latitude": 34.54929,
+    "longitude": 76.46431
+  },
+  {
+    "name": "lalung",
+    "cc2": "41",
+    "latitude": 34.59167,
+    "longitude": 76.3
+  },
+  {
+    "name": "mantha",
+    "cc2": "41",
+    "latitude": 34.60683,
+    "longitude": 76.38864
+  },
+  {
+    "name": "langtut",
+    "cc2": "41",
+    "latitude": 34.59234,
+    "longitude": 76.39435
+  },
+  {
+    "name": "daskinathang",
+    "cc2": "41",
+    "latitude": 34.60139,
+    "longitude": 76.29861
+  },
+  {
+    "name": "dems",
+    "cc2": "41",
+    "latitude": 34.60556,
+    "longitude": 76.38889
+  },
+  {
+    "name": "silmp",
+    "cc2": "41",
+    "latitude": 34.62222,
+    "longitude": 76.31389
+  },
+  {
+    "name": "darchiks",
+    "cc2": "41",
+    "latitude": 34.61684,
+    "longitude": 76.40139
+  },
+  {
+    "name": "shore",
+    "cc2": "41",
+    "latitude": 34.62361,
+    "longitude": 76.44722
+  },
+  {
+    "name": "chalten",
+    "cc2": "41",
+    "latitude": 34.625,
+    "longitude": 76.47778
+  },
+  {
+    "name": "gampa",
+    "cc2": "41",
+    "latitude": 34.63472,
+    "longitude": 76.38472
+  },
+  {
+    "name": "chorten",
+    "cc2": "41",
+    "latitude": 34.6375,
+    "longitude": 76.41667
+  },
+  {
+    "name": "garkhun",
+    "cc2": "41",
+    "latitude": 34.63353,
+    "longitude": 76.44697
+  },
+  {
+    "name": "sarche",
+    "cc2": "41",
+    "latitude": 34.65417,
+    "longitude": 76.29167
+  },
+  {
+    "name": "batalik",
+    "cc2": "41",
+    "latitude": 34.65694,
+    "longitude": 76.34167
+  },
+  {
+    "name": "sachik",
+    "cc2": "41",
+    "latitude": 34.65417,
+    "longitude": 76.34444
+  },
+  {
+    "name": "yogmathang",
+    "cc2": "41",
+    "latitude": 34.65833,
+    "longitude": 76.34306
+  },
+  {
+    "name": "grugurdo",
+    "cc2": "41",
+    "latitude": 34.6625,
+    "longitude": 76.33889
+  },
+  {
+    "name": "damgul",
+    "cc2": "41",
+    "latitude": 34.65971,
+    "longitude": 76.34695
+  },
+  {
+    "name": "zuti",
+    "cc2": "41",
+    "latitude": 34.64862,
+    "longitude": 76.42208
+  },
+  {
+    "name": "shudi",
+    "cc2": "41",
+    "latitude": 34.63685,
+    "longitude": 76.42994
+  },
+  {
+    "name": "dundur",
+    "cc2": "41",
+    "latitude": 34.65483,
+    "longitude": 76.4772
+  },
+  {
+    "name": "dundurlungpa",
+    "cc2": "41",
+    "latitude": 34.65556,
+    "longitude": 76.48889
+  },
+  {
+    "name": "yaldoda",
+    "cc2": "41",
+    "latitude": 34.67639,
+    "longitude": 76.47778
+  },
+  {
+    "name": "shanglo",
+    "cc2": "41",
+    "latitude": 34.68056,
+    "longitude": 76.49028
+  },
+  {
+    "name": "kha barora",
+    "cc2": "41",
+    "latitude": 34.68611,
+    "longitude": 76.42361
+  },
+  {
+    "name": "barora",
+    "cc2": "41",
+    "latitude": 34.68001,
+    "longitude": 76.4184
+  },
+  {
+    "name": "sarche brok",
+    "cc2": "41",
+    "latitude": 34.64167,
+    "longitude": 76.27917
+  },
+  {
+    "name": "alchi village",
+    "cc2": "41",
+    "latitude": 34.2334,
+    "longitude": 77.1625
+  },
+  {
+    "name": "karnag",
+    "cc2": "41",
+    "latitude": 33.7,
+    "longitude": 78.9
+  },
+  {
+    "name": "somat",
+    "cc2": "41",
+    "latitude": 34.44007,
+    "longitude": 75.90912
+  },
+  {
+    "name": "warch",
+    "cc2": "41",
+    "latitude": 35.07428,
+    "longitude": 77.33816
+  },
+  {
+    "name": "skyangpoche",
+    "cc2": "41",
+    "latitude": 35.01744,
+    "longitude": 77.59672
+  },
+  {
+    "name": "murgi",
+    "cc2": "41",
+    "latitude": 34.75657,
+    "longitude": 77.53017
+  },
+  {
+    "name": "arganglas",
+    "cc2": "41",
+    "latitude": 34.59096,
+    "longitude": 77.76776
+  },
+  {
+    "name": "tachungkaru",
+    "cc2": "41",
+    "latitude": 33.64012,
+    "longitude": 78.54264
+  },
+  {
+    "name": "chigul namgole",
+    "cc2": "41",
+    "latitude": 32.6093,
+    "longitude": 78.95243
+  },
+  {
+    "name": "shispur",
+    "cc2": "41",
+    "latitude": 34.24751,
+    "longitude": 76.08391
+  },
+  {
+    "name": "kuckarcha",
+    "cc2": "41",
+    "latitude": 34.42911,
+    "longitude": 76.54028
+  },
+  {
+    "name": "zinchan",
+    "cc2": "41",
+    "latitude": 34.09554,
+    "longitude": 77.43231
+  },
+  {
+    "name": "machakka",
+    "cc2": "41",
+    "latitude": 34.21693,
+    "longitude": 77.29493
+  },
+  {
+    "name": "changa",
+    "cc2": "41",
+    "latitude": 33.93746,
+    "longitude": 77.72542
+  },
+  {
+    "name": "chaluk",
+    "cc2": "41",
+    "latitude": 33.92005,
+    "longitude": 77.3782
+  },
+  {
+    "name": "baziran",
+    "cc2": "41",
+    "latitude": 34.04097,
+    "longitude": 75.64307
+  },
+  {
+    "name": "chumikgiar",
+    "cc2": "41",
+    "latitude": 32.94522,
+    "longitude": 77.55322
+  },
+  {
+    "name": "choglamsar",
+    "cc2": "41",
+    "latitude": 34.11163,
+    "longitude": 77.58794
+  },
+  {
+    "name": "razur",
+    "cc2": "41",
+    "latitude": 33.41314,
+    "longitude": 76.25435
+  },
+  {
+    "name": "shiniu",
+    "cc2": "41",
+    "latitude": 33.41751,
+    "longitude": 76.30928
+  },
+  {
+    "name": "lankh",
+    "cc2": "41",
+    "latitude": 33.42183,
+    "longitude": 76.35189
+  },
+  {
+    "name": "kulan",
+    "cc2": "41",
+    "latitude": 33.42799,
+    "longitude": 76.35532
+  },
+  {
+    "name": "khinor",
+    "cc2": "41",
+    "latitude": 33.4138,
+    "longitude": 76.32172
+  },
+  {
+    "name": "dangar",
+    "cc2": "41",
+    "latitude": 33.41255,
+    "longitude": 76.31464
+  },
+  {
+    "name": "hango",
+    "cc2": "41",
+    "latitude": 33.42224,
+    "longitude": 76.33384
+  },
+  {
+    "name": "sanot",
+    "cc2": "41",
+    "latitude": 33.41782,
+    "longitude": 76.33601
+  },
+  {
+    "name": "ghorna",
+    "cc2": "41",
+    "latitude": 33.40646,
+    "longitude": 76.37489
+  },
+  {
+    "name": "dangel",
+    "cc2": "41",
+    "latitude": 33.40349,
+    "longitude": 76.38275
+  },
+  {
+    "name": "halot",
+    "cc2": "41",
+    "latitude": 33.42903,
+    "longitude": 76.32966
+  },
+  {
+    "name": "entsal",
+    "cc2": "41",
+    "latitude": 33.43341,
+    "longitude": 76.32389
+  },
+  {
+    "name": "hamur",
+    "cc2": "41",
+    "latitude": 33.40272,
+    "longitude": 76.31897
+  },
+  {
+    "name": "kajwar",
+    "cc2": "41",
+    "latitude": 33.40641,
+    "longitude": 76.30567
+  },
+  {
+    "name": "banju",
+    "cc2": "41",
+    "latitude": 33.38924,
+    "longitude": 76.28514
+  },
+  {
+    "name": "rulen",
+    "cc2": "41",
+    "latitude": 33.38021,
+    "longitude": 76.28803
+  },
+  {
+    "name": "karai",
+    "cc2": "41",
+    "latitude": 33.39833,
+    "longitude": 76.26195
+  },
+  {
+    "name": "lusen",
+    "cc2": "41",
+    "latitude": 33.41015,
+    "longitude": 76.36219
+  },
+  {
+    "name": "kalawan",
+    "cc2": "41",
+    "latitude": 34.10974,
+    "longitude": 75.2468
+  },
+  {
+    "name": "shitkari",
+    "cc2": "41",
+    "latitude": 34.30932,
+    "longitude": 75.26489
+  },
+  {
+    "name": "saraj",
+    "cc2": "41",
+    "latitude": 34.30235,
+    "longitude": 75.2954
+  },
+  {
+    "name": "saribal",
+    "cc2": "41",
+    "latitude": 34.27021,
+    "longitude": 75.35949
+  },
+  {
+    "name": "nilagrar",
+    "cc2": "41",
+    "latitude": 34.2914,
+    "longitude": 75.33222
+  },
+  {
+    "name": "sarai",
+    "cc2": "41",
+    "latitude": 34.25579,
+    "longitude": 75.42363
+  },
+  {
+    "name": "hoksar baihk",
+    "cc2": "41",
+    "latitude": 34.20377,
+    "longitude": 75.30916
+  },
+  {
+    "name": "kolahoi-in-kot",
+    "cc2": "41",
+    "latitude": 34.206,
+    "longitude": 75.27981
+  },
+  {
+    "name": "sosirwan",
+    "cc2": "41",
+    "latitude": 34.1769,
+    "longitude": 75.27484
+  },
+  {
+    "name": "naunlur",
+    "cc2": "41",
+    "latitude": 34.16035,
+    "longitude": 75.25955
+  },
+  {
+    "name": "laminiohhan",
+    "cc2": "41",
+    "latitude": 34.11332,
+    "longitude": 75.27423
+  },
+  {
+    "name": "girwar",
+    "cc2": "41",
+    "latitude": 34.10337,
+    "longitude": 75.28213
+  },
+  {
+    "name": "brariyen",
+    "cc2": "41",
+    "latitude": 34.10628,
+    "longitude": 75.26779
+  },
+  {
+    "name": "karihol",
+    "cc2": "41",
+    "latitude": 34.09442,
+    "longitude": 75.29844
+  },
+  {
+    "name": "trekanna",
+    "cc2": "41",
+    "latitude": 34.09207,
+    "longitude": 75.28058
+  },
+  {
+    "name": "barimarg",
+    "cc2": "41",
+    "latitude": 34.08432,
+    "longitude": 75.29818
+  },
+  {
+    "name": "sangain",
+    "cc2": "41",
+    "latitude": 34.0824,
+    "longitude": 75.32538
+  },
+  {
+    "name": "shurmarg",
+    "cc2": "41",
+    "latitude": 34.07948,
+    "longitude": 75.28599
+  },
+  {
+    "name": "narpathri",
+    "cc2": "41",
+    "latitude": 34.0728,
+    "longitude": 75.29749
+  },
+  {
+    "name": "naginpathri",
+    "cc2": "41",
+    "latitude": 34.0653,
+    "longitude": 75.33074
+  },
+  {
+    "name": "nagrad",
+    "cc2": "41",
+    "latitude": 34.06081,
+    "longitude": 75.31947
+  },
+  {
+    "name": "mondlan",
+    "cc2": "41",
+    "latitude": 34.05792,
+    "longitude": 75.29415
+  },
+  {
+    "name": "braripathri",
+    "cc2": "41",
+    "latitude": 34.05316,
+    "longitude": 75.32968
+  },
+  {
+    "name": "zambarub",
+    "cc2": "41",
+    "latitude": 34.05252,
+    "longitude": 75.31775
+  },
+  {
+    "name": "zamtarwan",
+    "cc2": "41",
+    "latitude": 34.05074,
+    "longitude": 75.30783
+  },
+  {
+    "name": "hajkut",
+    "cc2": "41",
+    "latitude": 34.05124,
+    "longitude": 75.30453
+  },
+  {
+    "name": "laripur",
+    "cc2": "41",
+    "latitude": 34.03396,
+    "longitude": 75.32015
+  },
+  {
+    "name": "wachran",
+    "cc2": "41",
+    "latitude": 34.03773,
+    "longitude": 75.29749
+  },
+  {
+    "name": "wokhalbal",
+    "cc2": "41",
+    "latitude": 34.02372,
+    "longitude": 75.39955
+  },
+  {
+    "name": "gogzipathar",
+    "cc2": "41",
+    "latitude": 34.03243,
+    "longitude": 75.3677
+  },
+  {
+    "name": "mainpal",
+    "cc2": "41",
+    "latitude": 34.03278,
+    "longitude": 75.35444
+  },
+  {
+    "name": "rainspat",
+    "cc2": "41",
+    "latitude": 34.04644,
+    "longitude": 75.34431
+  },
+  {
+    "name": "nexabatun",
+    "cc2": "41",
+    "latitude": 34.05112,
+    "longitude": 75.3468
+  },
+  {
+    "name": "lorinar",
+    "cc2": "41",
+    "latitude": 34.05938,
+    "longitude": 75.37976
+  },
+  {
+    "name": "phraslun",
+    "cc2": "41",
+    "latitude": 34.06415,
+    "longitude": 75.36817
+  },
+  {
+    "name": "gagarwain",
+    "cc2": "41",
+    "latitude": 34.06724,
+    "longitude": 75.38894
+  },
+  {
+    "name": "chutpantaal",
+    "cc2": "41",
+    "latitude": 34.07559,
+    "longitude": 75.34174
+  },
+  {
+    "name": "pinda",
+    "cc2": "41",
+    "latitude": 34.0821,
+    "longitude": 75.36259
+  },
+  {
+    "name": "armiun",
+    "cc2": "41",
+    "latitude": 34.09742,
+    "longitude": 75.33487
+  },
+  {
+    "name": "burzulkat",
+    "cc2": "41",
+    "latitude": 34.08514,
+    "longitude": 75.46336
+  },
+  {
+    "name": "wopaspathar",
+    "cc2": "41",
+    "latitude": 34.09139,
+    "longitude": 75.41898
+  },
+  {
+    "name": "dudal",
+    "cc2": "41",
+    "latitude": 34.05904,
+    "longitude": 75.42053
+  },
+  {
+    "name": "naginpathar",
+    "cc2": "41",
+    "latitude": 34.01338,
+    "longitude": 75.47916
+  },
+  {
+    "name": "ganwat",
+    "cc2": "41",
+    "latitude": 34.1031,
+    "longitude": 75.33214
+  },
+  {
+    "name": "gumbar",
+    "cc2": "41",
+    "latitude": 33.93115,
+    "longitude": 75.53142
+  },
+  {
+    "name": "mareg",
+    "cc2": "41",
+    "latitude": 33.91544,
+    "longitude": 75.52476
+  },
+  {
+    "name": "basmen",
+    "cc2": "41",
+    "latitude": 33.89966,
+    "longitude": 75.51412
+  },
+  {
+    "name": "kuzuz",
+    "cc2": "41",
+    "latitude": 33.88192,
+    "longitude": 75.5733
+  },
+  {
+    "name": "boerpathar",
+    "cc2": "41",
+    "latitude": 33.82029,
+    "longitude": 75.67614
+  },
+  {
+    "name": "bangan",
+    "cc2": "41",
+    "latitude": 33.67827,
+    "longitude": 75.829
+  },
+  {
+    "name": "gurantror",
+    "cc2": "41",
+    "latitude": 33.66894,
+    "longitude": 75.79892
+  },
+  {
+    "name": "zaban",
+    "cc2": "41",
+    "latitude": 33.6663,
+    "longitude": 75.8093
+  },
+  {
+    "name": "dund",
+    "cc2": "41",
+    "latitude": 33.66641,
+    "longitude": 75.83068
+  },
+  {
+    "name": "tarpach",
+    "cc2": "41",
+    "latitude": 33.54392,
+    "longitude": 75.96818
+  },
+  {
+    "name": "pransan",
+    "cc2": "41",
+    "latitude": 33.54588,
+    "longitude": 75.97312
+  },
+  {
+    "name": "kaikut",
+    "cc2": "41",
+    "latitude": 33.54807,
+    "longitude": 75.99187
+  },
+  {
+    "name": "tsogund",
+    "cc2": "41",
+    "latitude": 33.53251,
+    "longitude": 75.94342
+  },
+  {
+    "name": "sudar",
+    "cc2": "41",
+    "latitude": 33.66551,
+    "longitude": 75.80239
+  },
+  {
+    "name": "terbhate",
+    "cc2": "41",
+    "latitude": 33.37962,
+    "longitude": 76.00392
+  },
+  {
+    "name": "diskit",
+    "cc2": "41",
+    "latitude": 34.54686,
+    "longitude": 77.55627
+  },
+  {
+    "name": "hemis monastery",
+    "cc2": "41",
+    "latitude": 33.91591,
+    "longitude": 77.69767
+  },
+  {
+    "name": "uletokpo",
+    "cc2": "41",
+    "latitude": 34.24345,
+    "longitude": 77.11493
+  }
+]

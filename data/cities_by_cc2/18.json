@@ -1,0 +1,1340 @@
+[
+  {
+    "name": "waitang",
+    "cc2": "18",
+    "latitude": 25.31904,
+    "longitude": 92.81987
+  },
+  {
+    "name": "wahjajer",
+    "cc2": "18",
+    "latitude": 25.53145,
+    "longitude": 92.16175
+  },
+  {
+    "name": "umsning",
+    "cc2": "18",
+    "latitude": 25.73647,
+    "longitude": 91.88804
+  },
+  {
+    "name": "umshem",
+    "cc2": "18",
+    "latitude": 25.72465,
+    "longitude": 91.29165
+  },
+  {
+    "name": "umran",
+    "cc2": "18",
+    "latitude": 25.77005,
+    "longitude": 91.87811
+  },
+  {
+    "name": "umlympung",
+    "cc2": "18",
+    "latitude": 25.47062,
+    "longitude": 91.8239
+  },
+  {
+    "name": "umlaiteng",
+    "cc2": "18",
+    "latitude": 25.79641,
+    "longitude": 92.06676
+  },
+  {
+    "name": "tura",
+    "cc2": "18",
+    "latitude": 25.51421,
+    "longitude": 90.20239
+  },
+  {
+    "name": "tongseng",
+    "cc2": "18",
+    "latitude": 25.32391,
+    "longitude": 92.50206
+  },
+  {
+    "name": "tikrikila",
+    "cc2": "18",
+    "latitude": 25.941,
+    "longitude": 90.221
+  },
+  {
+    "name": "thuruk",
+    "cc2": "18",
+    "latitude": 25.32166,
+    "longitude": 92.71495
+  },
+  {
+    "name": "thongbolgiri",
+    "cc2": "18",
+    "latitude": 25.59949,
+    "longitude": 90.39844
+  },
+  {
+    "name": "sutnga",
+    "cc2": "18",
+    "latitude": 25.37042,
+    "longitude": 92.43748
+  },
+  {
+    "name": "suanggiri",
+    "cc2": "18",
+    "latitude": 25.51011,
+    "longitude": 90.79881
+  },
+  {
+    "name": "songsak",
+    "cc2": "18",
+    "latitude": 25.64316,
+    "longitude": 90.61165
+  },
+  {
+    "name": "sohrarim",
+    "cc2": "18",
+    "latitude": 25.35,
+    "longitude": 91.73333
+  },
+  {
+    "name": "smit",
+    "cc2": "18",
+    "latitude": 25.50218,
+    "longitude": 91.9037
+  },
+  {
+    "name": "singrimari",
+    "cc2": "18",
+    "latitude": 25.73177,
+    "longitude": 89.8968
+  },
+  {
+    "name": "shillong",
+    "cc2": "18",
+    "latitude": 25.56892,
+    "longitude": 91.88313
+  },
+  {
+    "name": "shangpung",
+    "cc2": "18",
+    "latitude": 25.47679,
+    "longitude": 92.35132
+  },
+  {
+    "name": "selbalgiri",
+    "cc2": "18",
+    "latitude": 25.34008,
+    "longitude": 90.04972
+  },
+  {
+    "name": "sangsik",
+    "cc2": "18",
+    "latitude": 25.52565,
+    "longitude": 90.86486
+  },
+  {
+    "name": "saitthad",
+    "cc2": "18",
+    "latitude": 25.54288,
+    "longitude": 92.53597
+  },
+  {
+    "name": "rongsanggiri",
+    "cc2": "18",
+    "latitude": 25.49056,
+    "longitude": 90.01117
+  },
+  {
+    "name": "rongrenggiri",
+    "cc2": "18",
+    "latitude": 25.53061,
+    "longitude": 90.57068
+  },
+  {
+    "name": "rongram",
+    "cc2": "18",
+    "latitude": 25.5991,
+    "longitude": 90.25615
+  },
+  {
+    "name": "rongra",
+    "cc2": "18",
+    "latitude": 25.194,
+    "longitude": 90.783
+  },
+  {
+    "name": "rongmachokgiri",
+    "cc2": "18",
+    "latitude": 25.80463,
+    "longitude": 90.0681
+  },
+  {
+    "name": "rongjeng",
+    "cc2": "18",
+    "latitude": 25.61111,
+    "longitude": 90.86887
+  },
+  {
+    "name": "rongchugiri",
+    "cc2": "18",
+    "latitude": 25.69181,
+    "longitude": 90.1451
+  },
+  {
+    "name": "ringkhap songmong",
+    "cc2": "18",
+    "latitude": 25.29655,
+    "longitude": 90.44252
+  },
+  {
+    "name": "rewak songmong",
+    "cc2": "18",
+    "latitude": 25.29384,
+    "longitude": 90.66597
+  },
+  {
+    "name": "rembigiri",
+    "cc2": "18",
+    "latitude": 25.86652,
+    "longitude": 90.34898
+  },
+  {
+    "name": "rangthong",
+    "cc2": "18",
+    "latitude": 25.33931,
+    "longitude": 91.38471
+  },
+  {
+    "name": "rangshken",
+    "cc2": "18",
+    "latitude": 25.46667,
+    "longitude": 91.73333
+  },
+  {
+    "name": "rambrai",
+    "cc2": "18",
+    "latitude": 25.65192,
+    "longitude": 91.31924
+  },
+  {
+    "name": "pynursla",
+    "cc2": "18",
+    "latitude": 25.31174,
+    "longitude": 91.90122
+  },
+  {
+    "name": "psiar",
+    "cc2": "18",
+    "latitude": 25.59181,
+    "longitude": 92.57828
+  },
+  {
+    "name": "phulbari",
+    "cc2": "18",
+    "latitude": 25.88648,
+    "longitude": 90.03712
+  },
+  {
+    "name": "phlangmawphra",
+    "cc2": "18",
+    "latitude": 25.29023,
+    "longitude": 91.26611
+  },
+  {
+    "name": "pdengshakap",
+    "cc2": "18",
+    "latitude": 25.23288,
+    "longitude": 92.14764
+  },
+  {
+    "name": "patharkhnang",
+    "cc2": "18",
+    "latitude": 25.62401,
+    "longitude": 91.15235
+  },
+  {
+    "name": "patakata",
+    "cc2": "18",
+    "latitude": 25.85293,
+    "longitude": 89.98849
+  },
+  {
+    "name": "panikunda",
+    "cc2": "18",
+    "latitude": 25.20947,
+    "longitude": 91.01887
+  },
+  {
+    "name": "pamdkhar",
+    "cc2": "18",
+    "latitude": 25.73333,
+    "longitude": 92.37665
+  },
+  {
+    "name": "pambriew",
+    "cc2": "18",
+    "latitude": 25.42474,
+    "longitude": 91.36236
+  },
+  {
+    "name": "pala",
+    "cc2": "18",
+    "latitude": 25.41667,
+    "longitude": 92.56667
+  },
+  {
+    "name": "nongwalbibra",
+    "cc2": "18",
+    "latitude": 25.46667,
+    "longitude": 90.7
+  },
+  {
+    "name": "nongstoin",
+    "cc2": "18",
+    "latitude": 25.51704,
+    "longitude": 91.26484
+  },
+  {
+    "name": "nongspung",
+    "cc2": "18",
+    "latitude": 25.45251,
+    "longitude": 91.60036
+  },
+  {
+    "name": "nongpur",
+    "cc2": "18",
+    "latitude": 25.68855,
+    "longitude": 91.05387
+  },
+  {
+    "name": "nongpoh",
+    "cc2": "18",
+    "latitude": 25.9023,
+    "longitude": 91.87694
+  },
+  {
+    "name": "nongkynshi",
+    "cc2": "18",
+    "latitude": 25.52331,
+    "longitude": 91.54232
+  },
+  {
+    "name": "nongkrem",
+    "cc2": "18",
+    "latitude": 25.49657,
+    "longitude": 91.87991
+  },
+  {
+    "name": "nongkhlaw",
+    "cc2": "18",
+    "latitude": 25.6838,
+    "longitude": 91.63717
+  },
+  {
+    "name": "nongjrong",
+    "cc2": "18",
+    "latitude": 25.70549,
+    "longitude": 92.49296
+  },
+  {
+    "name": "nongbah",
+    "cc2": "18",
+    "latitude": 25.5213,
+    "longitude": 92.24891
+  },
+  {
+    "name": "nengkhra agalgiri",
+    "cc2": "18",
+    "latitude": 25.51669,
+    "longitude": 90.69418
+  },
+  {
+    "name": "nartiang",
+    "cc2": "18",
+    "latitude": 25.56892,
+    "longitude": 92.20881
+  },
+  {
+    "name": "mynso",
+    "cc2": "18",
+    "latitude": 25.55335,
+    "longitude": 92.32563
+  },
+  {
+    "name": "mynsning",
+    "cc2": "18",
+    "latitude": 25.38333,
+    "longitude": 92.55
+  },
+  {
+    "name": "mylliem",
+    "cc2": "18",
+    "latitude": 25.50011,
+    "longitude": 91.8179
+  },
+  {
+    "name": "mutah",
+    "cc2": "18",
+    "latitude": 25.63604,
+    "longitude": 92.27906
+  },
+  {
+    "name": "mokalaw",
+    "cc2": "18",
+    "latitude": 25.52704,
+    "longitude": 92.43994
+  },
+  {
+    "name": "mawsynram",
+    "cc2": "18",
+    "latitude": 25.29847,
+    "longitude": 91.58225
+  },
+  {
+    "name": "mawrongor",
+    "cc2": "18",
+    "latitude": 25.46854,
+    "longitude": 91.42741
+  },
+  {
+    "name": "mawphlang",
+    "cc2": "18",
+    "latitude": 25.45351,
+    "longitude": 91.75787
+  },
+  {
+    "name": "mawryngkneng",
+    "cc2": "18",
+    "latitude": 25.55604,
+    "longitude": 92.06165
+  },
+  {
+    "name": "mawlyngkhung",
+    "cc2": "18",
+    "latitude": 25.66942,
+    "longitude": 91.90492
+  },
+  {
+    "name": "mawliba",
+    "cc2": "18",
+    "latitude": 25.55497,
+    "longitude": 91.18629
+  },
+  {
+    "name": "mawkarah",
+    "cc2": "18",
+    "latitude": 25.70146,
+    "longitude": 91.57259
+  },
+  {
+    "name": "mawiong",
+    "cc2": "18",
+    "latitude": 25.57039,
+    "longitude": 91.70372
+  },
+  {
+    "name": "mawhati",
+    "cc2": "18",
+    "latitude": 25.80947,
+    "longitude": 92.07787
+  },
+  {
+    "name": "mawdoh",
+    "cc2": "18",
+    "latitude": 25.67499,
+    "longitude": 91.41118
+  },
+  {
+    "name": "mawdem",
+    "cc2": "18",
+    "latitude": 25.81223,
+    "longitude": 91.48072
+  },
+  {
+    "name": "mankachar",
+    "cc2": "18",
+    "latitude": 25.53347,
+    "longitude": 89.86373
+  },
+  {
+    "name": "mairang",
+    "cc2": "18",
+    "latitude": 25.56165,
+    "longitude": 91.63602
+  },
+  {
+    "name": "mahendraganj",
+    "cc2": "18",
+    "latitude": 25.30076,
+    "longitude": 89.84944
+  },
+  {
+    "name": "lyngiong",
+    "cc2": "18",
+    "latitude": 25.42356,
+    "longitude": 91.69902
+  },
+  {
+    "name": "lobang",
+    "cc2": "18",
+    "latitude": 25.44058,
+    "longitude": 92.66764
+  },
+  {
+    "name": "lakadong",
+    "cc2": "18",
+    "latitude": 25.18391,
+    "longitude": 92.2703
+  },
+  {
+    "name": "laitmawsiang",
+    "cc2": "18",
+    "latitude": 25.39657,
+    "longitude": 91.60792
+  },
+  {
+    "name": "laitlyngkot",
+    "cc2": "18",
+    "latitude": 25.44025,
+    "longitude": 91.83621
+  },
+  {
+    "name": "kyrdem",
+    "cc2": "18",
+    "latitude": 25.69376,
+    "longitude": 92.07578
+  },
+  {
+    "name": "ksehkma bazar",
+    "cc2": "18",
+    "latitude": 25.88973,
+    "longitude": 92.12347
+  },
+  {
+    "name": "kobak",
+    "cc2": "18",
+    "latitude": 25.3,
+    "longitude": 92.8
+  },
+  {
+    "name": "kherapara",
+    "cc2": "18",
+    "latitude": 25.34028,
+    "longitude": 90.1904
+  },
+  {
+    "name": "khainduli",
+    "cc2": "18",
+    "latitude": 25.72795,
+    "longitude": 92.44348
+  },
+  {
+    "name": "khaddum",
+    "cc2": "18",
+    "latitude": 25.15261,
+    "longitude": 92.44536
+  },
+  {
+    "name": "jowai",
+    "cc2": "18",
+    "latitude": 25.43596,
+    "longitude": 92.19132
+  },
+  {
+    "name": "jongohetpara",
+    "cc2": "18",
+    "latitude": 25.4501,
+    "longitude": 90.00569
+  },
+  {
+    "name": "jarain",
+    "cc2": "18",
+    "latitude": 25.31842,
+    "longitude": 92.13425
+  },
+  {
+    "name": "jalalpur",
+    "cc2": "18",
+    "latitude": 25.01667,
+    "longitude": 92.46667
+  },
+  {
+    "name": "jakrem",
+    "cc2": "18",
+    "latitude": 25.39265,
+    "longitude": 91.50298
+  },
+  {
+    "name": "genapara",
+    "cc2": "18",
+    "latitude": 25.3,
+    "longitude": 90.01667
+  },
+  {
+    "name": "gasuapara",
+    "cc2": "18",
+    "latitude": 25.19477,
+    "longitude": 90.34521
+  },
+  {
+    "name": "garobadha",
+    "cc2": "18",
+    "latitude": 25.57316,
+    "longitude": 90.00175
+  },
+  {
+    "name": "dommati",
+    "cc2": "18",
+    "latitude": 25.83955,
+    "longitude": 91.64114
+  },
+  {
+    "name": "diwon",
+    "cc2": "18",
+    "latitude": 25.96667,
+    "longitude": 92.01667
+  },
+  {
+    "name": "dingpasoh",
+    "cc2": "18",
+    "latitude": 25.5944,
+    "longitude": 92.04309
+  },
+  {
+    "name": "digligiri",
+    "cc2": "18",
+    "latitude": 25.4101,
+    "longitude": 89.86324
+  },
+  {
+    "name": "darugiri",
+    "cc2": "18",
+    "latitude": 25.62118,
+    "longitude": 90.76806
+  },
+  {
+    "name": "damra",
+    "cc2": "18",
+    "latitude": 25.93483,
+    "longitude": 90.77237
+  },
+  {
+    "name": "dambu",
+    "cc2": "18",
+    "latitude": 25.66426,
+    "longitude": 90.84249
+  },
+  {
+    "name": "dainadubi",
+    "cc2": "18",
+    "latitude": 25.90122,
+    "longitude": 90.78302
+  },
+  {
+    "name": "dabigiri",
+    "cc2": "18",
+    "latitude": 25.76808,
+    "longitude": 90.22164
+  },
+  {
+    "name": "chibilbang",
+    "cc2": "18",
+    "latitude": 25.7074,
+    "longitude": 90.74711
+  },
+  {
+    "name": "cherrapunjee",
+    "cc2": "18",
+    "latitude": 25.30089,
+    "longitude": 91.69619
+  },
+  {
+    "name": "cheran",
+    "cc2": "18",
+    "latitude": 25.73049,
+    "longitude": 90.69122
+  },
+  {
+    "name": "borpani",
+    "cc2": "18",
+    "latitude": 25.64696,
+    "longitude": 91.87805
+  },
+  {
+    "name": "bishwarpur",
+    "cc2": "18",
+    "latitude": 25,
+    "longitude": 92.45
+  },
+  {
+    "name": "bhoilymbong",
+    "cc2": "18",
+    "latitude": 25.70966,
+    "longitude": 92.02118
+  },
+  {
+    "name": "bataw",
+    "cc2": "18",
+    "latitude": 25.2302,
+    "longitude": 92.24353
+  },
+  {
+    "name": "barni hat",
+    "cc2": "18",
+    "latitude": 26.04264,
+    "longitude": 91.86599
+  },
+  {
+    "name": "barato",
+    "cc2": "18",
+    "latitude": 25.60862,
+    "longitude": 92.45909
+  },
+  {
+    "name": "bangsi",
+    "cc2": "18",
+    "latitude": 25.86008,
+    "longitude": 90.73517
+  },
+  {
+    "name": "bajengdoba",
+    "cc2": "18",
+    "latitude": 25.89401,
+    "longitude": 90.50455
+  },
+  {
+    "name": "baghamara",
+    "cc2": "18",
+    "latitude": 25.18954,
+    "longitude": 90.64789
+  },
+  {
+    "name": "adugiri",
+    "cc2": "18",
+    "latitude": 25.44389,
+    "longitude": 90.22316
+  },
+  {
+    "name": "bara pani",
+    "cc2": "18",
+    "latitude": 25.67889,
+    "longitude": 91.92673
+  },
+  {
+    "name": "williamnagar",
+    "cc2": "18",
+    "latitude": 25.4955,
+    "longitude": 90.6168
+  },
+  {
+    "name": "nongthymmai",
+    "cc2": "18",
+    "latitude": 25.5637,
+    "longitude": 91.9064
+  },
+  {
+    "name": "romgiri",
+    "cc2": "18",
+    "latitude": 25.73101,
+    "longitude": 90.13749
+  },
+  {
+    "name": "chibongbonggiri",
+    "cc2": "18",
+    "latitude": 25.67795,
+    "longitude": 90.19665
+  },
+  {
+    "name": "chenggalgiri",
+    "cc2": "18",
+    "latitude": 25.74055,
+    "longitude": 90.28787
+  },
+  {
+    "name": "manda",
+    "cc2": "18",
+    "latitude": 25.73062,
+    "longitude": 90.46268
+  },
+  {
+    "name": "gandopar",
+    "cc2": "18",
+    "latitude": 25.62077,
+    "longitude": 90.05275
+  },
+  {
+    "name": "churabudigiri",
+    "cc2": "18",
+    "latitude": 25.47508,
+    "longitude": 90.10281
+  },
+  {
+    "name": "chongphotgiri",
+    "cc2": "18",
+    "latitude": 25.3045,
+    "longitude": 90.19979
+  },
+  {
+    "name": "rimrangpara",
+    "cc2": "18",
+    "latitude": 25.33158,
+    "longitude": 90.28274
+  },
+  {
+    "name": "rongra asimgiri",
+    "cc2": "18",
+    "latitude": 25.3941,
+    "longitude": 90.43092
+  },
+  {
+    "name": "chutmang agimpal",
+    "cc2": "18",
+    "latitude": 25.29785,
+    "longitude": 90.76569
+  },
+  {
+    "name": "nongmen",
+    "cc2": "18",
+    "latitude": 25.34487,
+    "longitude": 90.90255
+  },
+  {
+    "name": "langdiangngan",
+    "cc2": "18",
+    "latitude": 25.28087,
+    "longitude": 90.9919
+  },
+  {
+    "name": "betagithim",
+    "cc2": "18",
+    "latitude": 25.25564,
+    "longitude": 90.48975
+  },
+  {
+    "name": "thibapara",
+    "cc2": "18",
+    "latitude": 25.24481,
+    "longitude": 90.22268
+  },
+  {
+    "name": "mawdem",
+    "cc2": "18",
+    "latitude": 25.2278,
+    "longitude": 91.97361
+  },
+  {
+    "name": "diengsaw",
+    "cc2": "18",
+    "latitude": 25.23854,
+    "longitude": 91.89207
+  },
+  {
+    "name": "shella",
+    "cc2": "18",
+    "latitude": 25.17861,
+    "longitude": 91.63952
+  },
+  {
+    "name": "photspi",
+    "cc2": "18",
+    "latitude": 25.26491,
+    "longitude": 91.52092
+  },
+  {
+    "name": "nongkia",
+    "cc2": "18",
+    "latitude": 25.21774,
+    "longitude": 91.46907
+  },
+  {
+    "name": "mawmarin",
+    "cc2": "18",
+    "latitude": 25.41063,
+    "longitude": 91.09745
+  },
+  {
+    "name": "umjah",
+    "cc2": "18",
+    "latitude": 25.49106,
+    "longitude": 91.11407
+  },
+  {
+    "name": "nonglwai",
+    "cc2": "18",
+    "latitude": 25.45494,
+    "longitude": 91.329
+  },
+  {
+    "name": "kulailangsngun",
+    "cc2": "18",
+    "latitude": 25.39068,
+    "longitude": 91.31106
+  },
+  {
+    "name": "rangmaw",
+    "cc2": "18",
+    "latitude": 25.37274,
+    "longitude": 91.51546
+  },
+  {
+    "name": "lyngkhai",
+    "cc2": "18",
+    "latitude": 25.49638,
+    "longitude": 91.61008
+  },
+  {
+    "name": "pamsanngul",
+    "cc2": "18",
+    "latitude": 25.40531,
+    "longitude": 91.65572
+  },
+  {
+    "name": "mawlat",
+    "cc2": "18",
+    "latitude": 25.35745,
+    "longitude": 91.97081
+  },
+  {
+    "name": "sahryngkham",
+    "cc2": "18",
+    "latitude": 25.54512,
+    "longitude": 91.9635
+  },
+  {
+    "name": "lawmei",
+    "cc2": "18",
+    "latitude": 25.55863,
+    "longitude": 91.80558
+  },
+  {
+    "name": "umsohphie",
+    "cc2": "18",
+    "latitude": 25.64705,
+    "longitude": 91.81371
+  },
+  {
+    "name": "mawphaniaw",
+    "cc2": "18",
+    "latitude": 25.68638,
+    "longitude": 91.61335
+  },
+  {
+    "name": "nongkrong",
+    "cc2": "18",
+    "latitude": 25.5849,
+    "longitude": 91.07801
+  },
+  {
+    "name": "nongianglang",
+    "cc2": "18",
+    "latitude": 25.78742,
+    "longitude": 91.08865
+  },
+  {
+    "name": "nongkrem",
+    "cc2": "18",
+    "latitude": 25.72405,
+    "longitude": 91.46312
+  },
+  {
+    "name": "mawskei",
+    "cc2": "18",
+    "latitude": 25.86232,
+    "longitude": 91.55086
+  },
+  {
+    "name": "sajrang",
+    "cc2": "18",
+    "latitude": 25.79008,
+    "longitude": 91.74807
+  },
+  {
+    "name": "tasku",
+    "cc2": "18",
+    "latitude": 25.95183,
+    "longitude": 91.74629
+  },
+  {
+    "name": "umpli",
+    "cc2": "18",
+    "latitude": 25.87339,
+    "longitude": 91.8819
+  },
+  {
+    "name": "nongjri",
+    "cc2": "18",
+    "latitude": 25.74754,
+    "longitude": 91.91115
+  },
+  {
+    "name": "mawsmai",
+    "cc2": "18",
+    "latitude": 26.09542,
+    "longitude": 91.8757
+  },
+  {
+    "name": "nonghab",
+    "cc2": "18",
+    "latitude": 25.94768,
+    "longitude": 92.02787
+  },
+  {
+    "name": "thayang",
+    "cc2": "18",
+    "latitude": 25.94923,
+    "longitude": 92.11761
+  },
+  {
+    "name": "nongtraw",
+    "cc2": "18",
+    "latitude": 25.68378,
+    "longitude": 92.02144
+  },
+  {
+    "name": "mynska",
+    "cc2": "18",
+    "latitude": 25.45201,
+    "longitude": 92.44355
+  },
+  {
+    "name": "bapung",
+    "cc2": "18",
+    "latitude": 25.40946,
+    "longitude": 92.30927
+  },
+  {
+    "name": "lumshken",
+    "cc2": "18",
+    "latitude": 25.32083,
+    "longitude": 92.25521
+  },
+  {
+    "name": "nongsning",
+    "cc2": "18",
+    "latitude": 25.24549,
+    "longitude": 92.40455
+  },
+  {
+    "name": "muphlang",
+    "cc2": "18",
+    "latitude": 25.40725,
+    "longitude": 92.18253
+  },
+  {
+    "name": "jatah",
+    "cc2": "18",
+    "latitude": 25.40902,
+    "longitude": 92.05446
+  },
+  {
+    "name": "tarangbiang",
+    "cc2": "18",
+    "latitude": 25.20605,
+    "longitude": 92.20779
+  },
+  {
+    "name": "miklipara",
+    "cc2": "18",
+    "latitude": 25.04553,
+    "longitude": 92.42714
+  },
+  {
+    "name": "moshrat",
+    "cc2": "18",
+    "latitude": 25.57699,
+    "longitude": 92.52013
+  },
+  {
+    "name": "mutong",
+    "cc2": "18",
+    "latitude": 25.34101,
+    "longitude": 92.5917
+  },
+  {
+    "name": "kadalkazhikaraparattu",
+    "cc2": "18",
+    "latitude": 8.33527,
+    "longitude": 77.14802
+  },
+  {
+    "name": "laitumkhrah",
+    "cc2": "18",
+    "latitude": 25.57067,
+    "longitude": 91.89771
+  },
+  {
+    "name": "mawkdok",
+    "cc2": "18",
+    "latitude": 25.41835,
+    "longitude": 91.79802
+  },
+  {
+    "name": "dangar dombah",
+    "cc2": "18",
+    "latitude": 25.18675,
+    "longitude": 91.39303
+  },
+  {
+    "name": "mawlangwir",
+    "cc2": "18",
+    "latitude": 25.36411,
+    "longitude": 91.44468
+  },
+  {
+    "name": "siejlieh",
+    "cc2": "18",
+    "latitude": 25.53648,
+    "longitude": 91.24708
+  },
+  {
+    "name": "harli bagan",
+    "cc2": "18",
+    "latitude": 25.98152,
+    "longitude": 91.80916
+  },
+  {
+    "name": "dagal apal",
+    "cc2": "18",
+    "latitude": 25.80483,
+    "longitude": 90.57782
+  },
+  {
+    "name": "mangsang",
+    "cc2": "18",
+    "latitude": 25.6771,
+    "longitude": 90.87329
+  },
+  {
+    "name": "mellim",
+    "cc2": "18",
+    "latitude": 25.49639,
+    "longitude": 90.09025
+  },
+  {
+    "name": "mukhla",
+    "cc2": "18",
+    "latitude": 25.48226,
+    "longitude": 92.22028
+  },
+  {
+    "name": "nongbarehrim",
+    "cc2": "18",
+    "latitude": 25.24354,
+    "longitude": 92.02955
+  },
+  {
+    "name": "rangsapara",
+    "cc2": "18",
+    "latitude": 25.5032,
+    "longitude": 91.1043
+  },
+  {
+    "name": "karukol",
+    "cc2": "18",
+    "latitude": 25.28634,
+    "longitude": 90.68854
+  },
+  {
+    "name": "chokpot",
+    "cc2": "18",
+    "latitude": 25.31866,
+    "longitude": 90.4408
+  },
+  {
+    "name": "nidanpur",
+    "cc2": "18",
+    "latitude": 25.93251,
+    "longitude": 90.11719
+  },
+  {
+    "name": "dalu",
+    "cc2": "18",
+    "latitude": 25.20839,
+    "longitude": 90.23095
+  },
+  {
+    "name": "khamari",
+    "cc2": "18",
+    "latitude": 25.94083,
+    "longitude": 90.669
+  },
+  {
+    "name": "kriet",
+    "cc2": "18",
+    "latitude": 25.57051,
+    "longitude": 91.80227
+  },
+  {
+    "name": "nongumlong",
+    "cc2": "18",
+    "latitude": 25.56436,
+    "longitude": 91.8312
+  },
+  {
+    "name": "mawthrap",
+    "cc2": "18",
+    "latitude": 25.56861,
+    "longitude": 91.61066
+  },
+  {
+    "name": "ukiam",
+    "cc2": "18",
+    "latitude": 25.81635,
+    "longitude": 91.32497
+  },
+  {
+    "name": "resubelpara",
+    "cc2": "18",
+    "latitude": 25.90404,
+    "longitude": 90.60747
+  },
+  {
+    "name": "dawki",
+    "cc2": "18",
+    "latitude": 25.18373,
+    "longitude": 92.0244
+  },
+  {
+    "name": "nartap",
+    "cc2": "18",
+    "latitude": 25.85604,
+    "longitude": 91.90385
+  },
+  {
+    "name": "ampati",
+    "cc2": "18",
+    "latitude": 25.4623,
+    "longitude": 89.93325
+  },
+  {
+    "name": "khliehriat",
+    "cc2": "18",
+    "latitude": 25.35776,
+    "longitude": 92.36643
+  },
+  {
+    "name": "samanda",
+    "cc2": "18",
+    "latitude": 25.57892,
+    "longitude": 90.48524
+  },
+  {
+    "name": "zikzak",
+    "cc2": "18",
+    "latitude": 25.38789,
+    "longitude": 89.90617
+  },
+  {
+    "name": "gambegre",
+    "cc2": "18",
+    "latitude": 25.46451,
+    "longitude": 90.11784
+  },
+  {
+    "name": "betasing",
+    "cc2": "18",
+    "latitude": 25.50309,
+    "longitude": 89.95706
+  },
+  {
+    "name": "laitkynsew",
+    "cc2": "18",
+    "latitude": 25.21988,
+    "longitude": 91.66379
+  },
+  {
+    "name": "demdema",
+    "cc2": "18",
+    "latitude": 25.83614,
+    "longitude": 90.0583
+  },
+  {
+    "name": "selsella",
+    "cc2": "18",
+    "latitude": 25.63918,
+    "longitude": 90.04157
+  },
+  {
+    "name": "dambo rongjeng",
+    "cc2": "18",
+    "latitude": 25.6509,
+    "longitude": 90.79939
+  },
+  {
+    "name": "mawshynrut",
+    "cc2": "18",
+    "latitude": 25.66148,
+    "longitude": 91.0617
+  },
+  {
+    "name": "nolikata",
+    "cc2": "18",
+    "latitude": 25.24379,
+    "longitude": 91.25966
+  },
+  {
+    "name": "mawkyrwat",
+    "cc2": "18",
+    "latitude": 25.36226,
+    "longitude": 91.45839
+  },
+  {
+    "name": "mawthadraishan",
+    "cc2": "18",
+    "latitude": 25.51929,
+    "longitude": 91.45528
+  },
+  {
+    "name": "jirang",
+    "cc2": "18",
+    "latitude": 25.9105,
+    "longitude": 91.57582
+  },
+  {
+    "name": "sohiong",
+    "cc2": "18",
+    "latitude": 25.49676,
+    "longitude": 91.71406
+  },
+  {
+    "name": "mawlai-mawiong",
+    "cc2": "18",
+    "latitude": 25.62322,
+    "longitude": 91.88175
+  },
+  {
+    "name": "mawpat",
+    "cc2": "18",
+    "latitude": 25.59902,
+    "longitude": 91.92501
+  },
+  {
+    "name": "mawkynrew",
+    "cc2": "18",
+    "latitude": 25.43558,
+    "longitude": 91.99663
+  },
+  {
+    "name": "amlarem",
+    "cc2": "18",
+    "latitude": 25.2872,
+    "longitude": 92.11611
+  },
+  {
+    "name": "thadlaskein",
+    "cc2": "18",
+    "latitude": 25.50187,
+    "longitude": 92.17394
+  },
+  {
+    "name": "laskein",
+    "cc2": "18",
+    "latitude": 25.52242,
+    "longitude": 92.41694
+  },
+  {
+    "name": "saipung",
+    "cc2": "18",
+    "latitude": 25.31465,
+    "longitude": 92.66979
+  }
+]

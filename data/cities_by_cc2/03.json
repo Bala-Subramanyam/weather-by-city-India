@@ -1,0 +1,8138 @@
+[
+  {
+    "name": "yimpang",
+    "cc2": "03",
+    "latitude": 26.32101,
+    "longitude": 94.18467
+  },
+  {
+    "name": "uriyamguri",
+    "cc2": "03",
+    "latitude": 27.50875,
+    "longitude": 94.33339
+  },
+  {
+    "name": "urao basti",
+    "cc2": "03",
+    "latitude": 26.87619,
+    "longitude": 93.42726
+  },
+  {
+    "name": "umswai",
+    "cc2": "03",
+    "latitude": 25.94002,
+    "longitude": 92.23865
+  },
+  {
+    "name": "umpanai christian",
+    "cc2": "03",
+    "latitude": 25.93568,
+    "longitude": 92.29262
+  },
+  {
+    "name": "umednagar",
+    "cc2": "03",
+    "latitude": 24.56667,
+    "longitude": 92.61667
+  },
+  {
+    "name": "ulubari",
+    "cc2": "03",
+    "latitude": 27.18648,
+    "longitude": 94.09891
+  },
+  {
+    "name": "ulubari",
+    "cc2": "03",
+    "latitude": 26.73336,
+    "longitude": 92.57364
+  },
+  {
+    "name": "ulubari",
+    "cc2": "03",
+    "latitude": 26.5,
+    "longitude": 90.41667
+  },
+  {
+    "name": "ulubari",
+    "cc2": "03",
+    "latitude": 26.36996,
+    "longitude": 91.27174
+  },
+  {
+    "name": "ulubam",
+    "cc2": "03",
+    "latitude": 26.11758,
+    "longitude": 92.10167
+  },
+  {
+    "name": "udarband",
+    "cc2": "03",
+    "latitude": 24.88196,
+    "longitude": 92.88178
+  },
+  {
+    "name": "udalguri",
+    "cc2": "03",
+    "latitude": 27.55622,
+    "longitude": 95.2623
+  },
+  {
+    "name": "udalguri",
+    "cc2": "03",
+    "latitude": 26.75367,
+    "longitude": 92.10215
+  },
+  {
+    "name": "tumpung",
+    "cc2": "03",
+    "latitude": 26.19843,
+    "longitude": 93.1565
+  },
+  {
+    "name": "tukrajhar",
+    "cc2": "03",
+    "latitude": 26.66385,
+    "longitude": 90.45145
+  },
+  {
+    "name": "titabar",
+    "cc2": "03",
+    "latitude": 26.6014,
+    "longitude": 94.20386
+  },
+  {
+    "name": "tiplai",
+    "cc2": "03",
+    "latitude": 26.05031,
+    "longitude": 90.98085
+  },
+  {
+    "name": "tinsukia",
+    "cc2": "03",
+    "latitude": 27.48905,
+    "longitude": 95.35992
+  },
+  {
+    "name": "tinkhang",
+    "cc2": "03",
+    "latitude": 27.21319,
+    "longitude": 95.17324
+  },
+  {
+    "name": "thingje",
+    "cc2": "03",
+    "latitude": 25.26321,
+    "longitude": 93.37043
+  },
+  {
+    "name": "thaijuari",
+    "cc2": "03",
+    "latitude": 25.56428,
+    "longitude": 92.9705
+  },
+  {
+    "name": "tezpur",
+    "cc2": "03",
+    "latitude": 26.63333,
+    "longitude": 92.8
+  },
+  {
+    "name": "teok",
+    "cc2": "03",
+    "latitude": 26.83197,
+    "longitude": 94.41651
+  },
+  {
+    "name": "tengapania",
+    "cc2": "03",
+    "latitude": 27.18288,
+    "longitude": 94.65097
+  },
+  {
+    "name": "tengakhat",
+    "cc2": "03",
+    "latitude": 27.38039,
+    "longitude": 95.16284
+  },
+  {
+    "name": "tarabari",
+    "cc2": "03",
+    "latitude": 26.23095,
+    "longitude": 91.11521
+  },
+  {
+    "name": "tamulpur",
+    "cc2": "03",
+    "latitude": 26.61673,
+    "longitude": 91.57369
+  },
+  {
+    "name": "tama hat",
+    "cc2": "03",
+    "latitude": 26.3011,
+    "longitude": 89.84994
+  },
+  {
+    "name": "subankhata",
+    "cc2": "03",
+    "latitude": 26.7867,
+    "longitude": 91.417
+  },
+  {
+    "name": "south salmara",
+    "cc2": "03",
+    "latitude": 25.90542,
+    "longitude": 90.01805
+  },
+  {
+    "name": "sorbhog",
+    "cc2": "03",
+    "latitude": 26.48612,
+    "longitude": 90.8859
+  },
+  {
+    "name": "sonari",
+    "cc2": "03",
+    "latitude": 27.02462,
+    "longitude": 95.01629
+  },
+  {
+    "name": "sonapur",
+    "cc2": "03",
+    "latitude": 26.11773,
+    "longitude": 91.97217
+  },
+  {
+    "name": "sonakhira",
+    "cc2": "03",
+    "latitude": 24.57064,
+    "longitude": 92.28842
+  },
+  {
+    "name": "sonaimukh",
+    "cc2": "03",
+    "latitude": 24.72556,
+    "longitude": 92.88118
+  },
+  {
+    "name": "soalkuchi",
+    "cc2": "03",
+    "latitude": 26.16806,
+    "longitude": 91.57111
+  },
+  {
+    "name": "sissiborgaon",
+    "cc2": "03",
+    "latitude": 27.52729,
+    "longitude": 94.67554
+  },
+  {
+    "name": "sirtiso",
+    "cc2": "03",
+    "latitude": 25.83374,
+    "longitude": 92.52414
+  },
+  {
+    "name": "singri",
+    "cc2": "03",
+    "latitude": 26.60885,
+    "longitude": 92.46101
+  },
+  {
+    "name": "singra",
+    "cc2": "03",
+    "latitude": 25.94375,
+    "longitude": 91.1565
+  },
+  {
+    "name": "singmarigaon",
+    "cc2": "03",
+    "latitude": 26.05043,
+    "longitude": 92.60303
+  },
+  {
+    "name": "singlijan",
+    "cc2": "03",
+    "latitude": 26.92533,
+    "longitude": 93.46337
+  },
+  {
+    "name": "simlabari",
+    "cc2": "03",
+    "latitude": 26.1,
+    "longitude": 90.45
+  },
+  {
+    "name": "simanagaon",
+    "cc2": "03",
+    "latitude": 26.42911,
+    "longitude": 92.96534
+  },
+  {
+    "name": "simaluguri",
+    "cc2": "03",
+    "latitude": 26.9185,
+    "longitude": 94.75684
+  },
+  {
+    "name": "silkuri",
+    "cc2": "03",
+    "latitude": 24.73171,
+    "longitude": 92.78812
+  },
+  {
+    "name": "silghat",
+    "cc2": "03",
+    "latitude": 26.60305,
+    "longitude": 92.92644
+  },
+  {
+    "name": "silchar",
+    "cc2": "03",
+    "latitude": 24.82733,
+    "longitude": 92.79787
+  },
+  {
+    "name": "sidli",
+    "cc2": "03",
+    "latitude": 26.53502,
+    "longitude": 90.45275
+  },
+  {
+    "name": "sibsagar",
+    "cc2": "03",
+    "latitude": 26.98427,
+    "longitude": 94.63784
+  },
+  {
+    "name": "siajuli",
+    "cc2": "03",
+    "latitude": 27.37565,
+    "longitude": 94.0954
+  },
+  {
+    "name": "shedhumi",
+    "cc2": "03",
+    "latitude": 25.86814,
+    "longitude": 93.95169
+  },
+  {
+    "name": "sarkher basti",
+    "cc2": "03",
+    "latitude": 25.8873,
+    "longitude": 93.15456
+  },
+  {
+    "name": "sarhed",
+    "cc2": "03",
+    "latitude": 26.44739,
+    "longitude": 93.35692
+  },
+  {
+    "name": "saralpara",
+    "cc2": "03",
+    "latitude": 26.82507,
+    "longitude": 90.2504
+  },
+  {
+    "name": "sapatgram",
+    "cc2": "03",
+    "latitude": 26.33732,
+    "longitude": 90.1236
+  },
+  {
+    "name": "samaguri",
+    "cc2": "03",
+    "latitude": 26.41604,
+    "longitude": 92.84376
+  },
+  {
+    "name": "salkocha",
+    "cc2": "03",
+    "latitude": 26.23556,
+    "longitude": 90.3394
+  },
+  {
+    "name": "salana",
+    "cc2": "03",
+    "latitude": 26.45375,
+    "longitude": 92.97689
+  },
+  {
+    "name": "salaguri",
+    "cc2": "03",
+    "latitude": 27.06463,
+    "longitude": 94.82705
+  },
+  {
+    "name": "sakmuthi",
+    "cc2": "03",
+    "latitude": 26.51667,
+    "longitude": 93.01667
+  },
+  {
+    "name": "saikhoa ghat",
+    "cc2": "03",
+    "latitude": 27.7548,
+    "longitude": 95.59793
+  },
+  {
+    "name": "sadiya",
+    "cc2": "03",
+    "latitude": 27.83103,
+    "longitude": 95.66824
+  },
+  {
+    "name": "rupsi",
+    "cc2": "03",
+    "latitude": 26.12446,
+    "longitude": 89.92717
+  },
+  {
+    "name": "rupaigaon",
+    "cc2": "03",
+    "latitude": 27.44481,
+    "longitude": 94.23225
+  },
+  {
+    "name": "rupahi",
+    "cc2": "03",
+    "latitude": 26.41099,
+    "longitude": 92.74003
+  },
+  {
+    "name": "rowta",
+    "cc2": "03",
+    "latitude": 26.70582,
+    "longitude": 92.22659
+  },
+  {
+    "name": "rihabari",
+    "cc2": "03",
+    "latitude": 26.60195,
+    "longitude": 91.16903
+  },
+  {
+    "name": "rengma pathar",
+    "cc2": "03",
+    "latitude": 26.17849,
+    "longitude": 93.91079
+  },
+  {
+    "name": "ratabari",
+    "cc2": "03",
+    "latitude": 24.59979,
+    "longitude": 92.40194
+  },
+  {
+    "name": "ranikhata",
+    "cc2": "03",
+    "latitude": 26.63356,
+    "longitude": 90.38397
+  },
+  {
+    "name": "ranigodam",
+    "cc2": "03",
+    "latitude": 26.03567,
+    "longitude": 91.58449
+  },
+  {
+    "name": "rangjoli",
+    "cc2": "03",
+    "latitude": 25.96793,
+    "longitude": 90.93591
+  },
+  {
+    "name": "rangia",
+    "cc2": "03",
+    "latitude": 26.44931,
+    "longitude": 91.61356
+  },
+  {
+    "name": "rangazumi",
+    "cc2": "03",
+    "latitude": 25.96393,
+    "longitude": 94.0226
+  },
+  {
+    "name": "rangapara",
+    "cc2": "03",
+    "latitude": 26.83772,
+    "longitude": 92.66876
+  },
+  {
+    "name": "rangapani",
+    "cc2": "03",
+    "latitude": 26.31667,
+    "longitude": 90.78333
+  },
+  {
+    "name": "rangapahar",
+    "cc2": "03",
+    "latitude": 25.85571,
+    "longitude": 93.70516
+  },
+  {
+    "name": "rangamati",
+    "cc2": "03",
+    "latitude": 26.38333,
+    "longitude": 91.96667
+  },
+  {
+    "name": "rangagora",
+    "cc2": "03",
+    "latitude": 27.56958,
+    "longitude": 95.29734
+  },
+  {
+    "name": "rajgurugaon",
+    "cc2": "03",
+    "latitude": 26.77972,
+    "longitude": 94.17116
+  },
+  {
+    "name": "rajbari",
+    "cc2": "03",
+    "latitude": 25.86667,
+    "longitude": 93.73333
+  },
+  {
+    "name": "raja mayang",
+    "cc2": "03",
+    "latitude": 26.23787,
+    "longitude": 92.00874
+  },
+  {
+    "name": "raja bazar",
+    "cc2": "03",
+    "latitude": 24.8879,
+    "longitude": 93.06882
+  },
+  {
+    "name": "raipur",
+    "cc2": "03",
+    "latitude": 26.14094,
+    "longitude": 89.83795
+  },
+  {
+    "name": "raimana",
+    "cc2": "03",
+    "latitude": 26.63435,
+    "longitude": 89.9709
+  },
+  {
+    "name": "raha",
+    "cc2": "03",
+    "latitude": 26.4319,
+    "longitude": 90.87896
+  },
+  {
+    "name": "raha",
+    "cc2": "03",
+    "latitude": 26.23333,
+    "longitude": 92.51667
+  },
+  {
+    "name": "puthimari",
+    "cc2": "03",
+    "latitude": 26.69425,
+    "longitude": 92.21938
+  },
+  {
+    "name": "puranigudam",
+    "cc2": "03",
+    "latitude": 26.37637,
+    "longitude": 92.79602
+  },
+  {
+    "name": "powai",
+    "cc2": "03",
+    "latitude": 27.35252,
+    "longitude": 95.64602
+  },
+  {
+    "name": "pithakhaitigaon",
+    "cc2": "03",
+    "latitude": 26.41667,
+    "longitude": 92.18333
+  },
+  {
+    "name": "phuluni",
+    "cc2": "03",
+    "latitude": 26.20389,
+    "longitude": 93.12857
+  },
+  {
+    "name": "phulaguri",
+    "cc2": "03",
+    "latitude": 26.26667,
+    "longitude": 92.58333
+  },
+  {
+    "name": "phukangaon",
+    "cc2": "03",
+    "latitude": 27.54155,
+    "longitude": 94.60407
+  },
+  {
+    "name": "phangchogaon",
+    "cc2": "03",
+    "latitude": 26.51311,
+    "longitude": 93.42699
+  },
+  {
+    "name": "phaikulum",
+    "cc2": "03",
+    "latitude": 25.4753,
+    "longitude": 93.45207
+  },
+  {
+    "name": "patharughat",
+    "cc2": "03",
+    "latitude": 26.46667,
+    "longitude": 91.86667
+  },
+  {
+    "name": "patharkandi",
+    "cc2": "03",
+    "latitude": 24.60851,
+    "longitude": 92.32137
+  },
+  {
+    "name": "pathalipam",
+    "cc2": "03",
+    "latitude": 27.4255,
+    "longitude": 94.2933
+  },
+  {
+    "name": "patgaon",
+    "cc2": "03",
+    "latitude": 26.56946,
+    "longitude": 90.23099
+  },
+  {
+    "name": "patacharkuchi",
+    "cc2": "03",
+    "latitude": 26.51667,
+    "longitude": 91.26667
+  },
+  {
+    "name": "parghat",
+    "cc2": "03",
+    "latitude": 26.62609,
+    "longitude": 93.73861
+  },
+  {
+    "name": "panitola",
+    "cc2": "03",
+    "latitude": 27.49196,
+    "longitude": 95.25414
+  },
+  {
+    "name": "paniputa",
+    "cc2": "03",
+    "latitude": 26.83577,
+    "longitude": 92.77548
+  },
+  {
+    "name": "paneri",
+    "cc2": "03",
+    "latitude": 26.7269,
+    "longitude": 91.9157
+  },
+  {
+    "name": "pandu",
+    "cc2": "03",
+    "latitude": 26.16906,
+    "longitude": 91.6771
+  },
+  {
+    "name": "palasbari",
+    "cc2": "03",
+    "latitude": 26.12388,
+    "longitude": 91.53974
+  },
+  {
+    "name": "palanghat",
+    "cc2": "03",
+    "latitude": 24.63646,
+    "longitude": 92.85654
+  },
+  {
+    "name": "paklanggaon",
+    "cc2": "03",
+    "latitude": 25.85047,
+    "longitude": 93.26189
+  },
+  {
+    "name": "pakariamukh",
+    "cc2": "03",
+    "latitude": 26.26667,
+    "longitude": 92.05
+  },
+  {
+    "name": "orangajuli",
+    "cc2": "03",
+    "latitude": 26.81667,
+    "longitude": 91.86667
+  },
+  {
+    "name": "orang",
+    "cc2": "03",
+    "latitude": 26.70052,
+    "longitude": 92.32362
+  },
+  {
+    "name": "oaklands",
+    "cc2": "03",
+    "latitude": 27.55,
+    "longitude": 95.06667
+  },
+  {
+    "name": "nunmati",
+    "cc2": "03",
+    "latitude": 26.18333,
+    "longitude": 91.8
+  },
+  {
+    "name": "numaligarh",
+    "cc2": "03",
+    "latitude": 26.62249,
+    "longitude": 93.72225
+  },
+  {
+    "name": "nagaon",
+    "cc2": "03",
+    "latitude": 26.35,
+    "longitude": 92.66667
+  },
+  {
+    "name": "north salmara",
+    "cc2": "03",
+    "latitude": 26.36558,
+    "longitude": 90.63477
+  },
+  {
+    "name": "north lakhimpur",
+    "cc2": "03",
+    "latitude": 27.23517,
+    "longitude": 94.10357
+  },
+  {
+    "name": "north guwahati",
+    "cc2": "03",
+    "latitude": 26.19749,
+    "longitude": 91.7202
+  },
+  {
+    "name": "nilambazar",
+    "cc2": "03",
+    "latitude": 24.74594,
+    "longitude": 92.34992
+  },
+  {
+    "name": "nij laluk",
+    "cc2": "03",
+    "latitude": 27.11878,
+    "longitude": 93.92959
+  },
+  {
+    "name": "neghereting",
+    "cc2": "03",
+    "latitude": 26.73333,
+    "longitude": 94.11667
+  },
+  {
+    "name": "neamati",
+    "cc2": "03",
+    "latitude": 26.83333,
+    "longitude": 94.3
+  },
+  {
+    "name": "nazira",
+    "cc2": "03",
+    "latitude": 26.91649,
+    "longitude": 94.73611
+  },
+  {
+    "name": "narjan",
+    "cc2": "03",
+    "latitude": 26.57596,
+    "longitude": 93.25187
+  },
+  {
+    "name": "narainpur",
+    "cc2": "03",
+    "latitude": 25.1,
+    "longitude": 92.83333
+  },
+  {
+    "name": "naokata",
+    "cc2": "03",
+    "latitude": 26.6478,
+    "longitude": 91.72227
+  },
+  {
+    "name": "naojan",
+    "cc2": "03",
+    "latitude": 26.12617,
+    "longitude": 93.8429
+  },
+  {
+    "name": "namrup",
+    "cc2": "03",
+    "latitude": 27.19395,
+    "longitude": 95.31929
+  },
+  {
+    "name": "namdang",
+    "cc2": "03",
+    "latitude": 26.94992,
+    "longitude": 94.54533
+  },
+  {
+    "name": "nam dabaka",
+    "cc2": "03",
+    "latitude": 26.09875,
+    "longitude": 92.85198
+  },
+  {
+    "name": "nalbari",
+    "cc2": "03",
+    "latitude": 26.6567,
+    "longitude": 91.91161
+  },
+  {
+    "name": "nalbari",
+    "cc2": "03",
+    "latitude": 26.43937,
+    "longitude": 91.44041
+  },
+  {
+    "name": "nakhola",
+    "cc2": "03",
+    "latitude": 26.12198,
+    "longitude": 92.19954
+  },
+  {
+    "name": "nakachari",
+    "cc2": "03",
+    "latitude": 26.70627,
+    "longitude": 94.39518
+  },
+  {
+    "name": "nahorkatiya",
+    "cc2": "03",
+    "latitude": 27.286,
+    "longitude": 95.328
+  },
+  {
+    "name": "nagargaon",
+    "cc2": "03",
+    "latitude": 27.00407,
+    "longitude": 94.15966
+  },
+  {
+    "name": "nagarbera",
+    "cc2": "03",
+    "latitude": 26.11108,
+    "longitude": 90.99019
+  },
+  {
+    "name": "mynser",
+    "cc2": "03",
+    "latitude": 25.9151,
+    "longitude": 92.40857
+  },
+  {
+    "name": "murkong selek",
+    "cc2": "03",
+    "latitude": 27.82541,
+    "longitude": 95.22902
+  },
+  {
+    "name": "mupa",
+    "cc2": "03",
+    "latitude": 25.37263,
+    "longitude": 93.11858
+  },
+  {
+    "name": "mumgaon",
+    "cc2": "03",
+    "latitude": 26.38139,
+    "longitude": 93.48505
+  },
+  {
+    "name": "motital pathar",
+    "cc2": "03",
+    "latitude": 26.77682,
+    "longitude": 94.12932
+  },
+  {
+    "name": "mornai",
+    "cc2": "03",
+    "latitude": 26.10469,
+    "longitude": 90.74775
+  },
+  {
+    "name": "moranha",
+    "cc2": "03",
+    "latitude": 27.18735,
+    "longitude": 94.91557
+  },
+  {
+    "name": "moragang",
+    "cc2": "03",
+    "latitude": 24.63126,
+    "longitude": 92.63468
+  },
+  {
+    "name": "moilang",
+    "cc2": "03",
+    "latitude": 26.06463,
+    "longitude": 94.068
+  },
+  {
+    "name": "mohmaragaon",
+    "cc2": "03",
+    "latitude": 27.62386,
+    "longitude": 95.16656
+  },
+  {
+    "name": "mohanbari",
+    "cc2": "03",
+    "latitude": 27.4628,
+    "longitude": 95.02093
+  },
+  {
+    "name": "misamari",
+    "cc2": "03",
+    "latitude": 26.80614,
+    "longitude": 92.59768
+  },
+  {
+    "name": "misa",
+    "cc2": "03",
+    "latitude": 26.48333,
+    "longitude": 92.93333
+  },
+  {
+    "name": "mikirgaon",
+    "cc2": "03",
+    "latitude": 26.22612,
+    "longitude": 92.75657
+  },
+  {
+    "name": "mijika",
+    "cc2": "03",
+    "latitude": 26.81388,
+    "longitude": 93.147
+  },
+  {
+    "name": "merapani",
+    "cc2": "03",
+    "latitude": 26.31953,
+    "longitude": 94.09266
+  },
+  {
+    "name": "mechangbung",
+    "cc2": "03",
+    "latitude": 25.33215,
+    "longitude": 93.52331
+  },
+  {
+    "name": "maudanga",
+    "cc2": "03",
+    "latitude": 26.10429,
+    "longitude": 93.00112
+  },
+  {
+    "name": "mathurapur",
+    "cc2": "03",
+    "latitude": 26.98576,
+    "longitude": 94.87715
+  },
+  {
+    "name": "maroa",
+    "cc2": "03",
+    "latitude": 26.35114,
+    "longitude": 91.45094
+  },
+  {
+    "name": "mariani",
+    "cc2": "03",
+    "latitude": 26.65725,
+    "longitude": 94.31529
+  },
+  {
+    "name": "margherita",
+    "cc2": "03",
+    "latitude": 27.28482,
+    "longitude": 95.66796
+  },
+  {
+    "name": "margang",
+    "cc2": "03",
+    "latitude": 26.05709,
+    "longitude": 91.99663
+  },
+  {
+    "name": "maranjan",
+    "cc2": "03",
+    "latitude": 27.08333,
+    "longitude": 94.91667
+  },
+  {
+    "name": "marangaon",
+    "cc2": "03",
+    "latitude": 26.83072,
+    "longitude": 93.29624
+  },
+  {
+    "name": "mangaldai",
+    "cc2": "03",
+    "latitude": 26.44212,
+    "longitude": 92.03047
+  },
+  {
+    "name": "manakasha",
+    "cc2": "03",
+    "latitude": 26.52992,
+    "longitude": 90.83398
+  },
+  {
+    "name": "malu khat",
+    "cc2": "03",
+    "latitude": 26.78333,
+    "longitude": 94.11667
+  },
+  {
+    "name": "makum",
+    "cc2": "03",
+    "latitude": 27.48652,
+    "longitude": 95.43646
+  },
+  {
+    "name": "makariagaon",
+    "cc2": "03",
+    "latitude": 26.10621,
+    "longitude": 92.33359
+  },
+  {
+    "name": "majuli",
+    "cc2": "03",
+    "latitude": 26.95,
+    "longitude": 94.16667
+  },
+  {
+    "name": "majbat",
+    "cc2": "03",
+    "latitude": 26.78564,
+    "longitude": 92.28474
+  },
+  {
+    "name": "majar chuk",
+    "cc2": "03",
+    "latitude": 26.72885,
+    "longitude": 92.92097
+  },
+  {
+    "name": "maibong",
+    "cc2": "03",
+    "latitude": 25.30125,
+    "longitude": 93.13811
+  },
+  {
+    "name": "mahur",
+    "cc2": "03",
+    "latitude": 25.18305,
+    "longitude": 93.11342
+  },
+  {
+    "name": "mahakal",
+    "cc2": "03",
+    "latitude": 24.83735,
+    "longitude": 92.49261
+  },
+  {
+    "name": "machkhoa",
+    "cc2": "03",
+    "latitude": 27.33333,
+    "longitude": 94.55
+  },
+  {
+    "name": "lungding",
+    "cc2": "03",
+    "latitude": 25.57931,
+    "longitude": 93.18799
+  },
+  {
+    "name": "longku",
+    "cc2": "03",
+    "latitude": 25.67284,
+    "longitude": 92.78518
+  },
+  {
+    "name": "longkamgaon",
+    "cc2": "03",
+    "latitude": 26.187,
+    "longitude": 93.37482
+  },
+  {
+    "name": "long-e-tilun",
+    "cc2": "03",
+    "latitude": 25.96667,
+    "longitude": 92.36667
+  },
+  {
+    "name": "loharghat",
+    "cc2": "03",
+    "latitude": 25.9774,
+    "longitude": 91.4742
+  },
+  {
+    "name": "loch",
+    "cc2": "03",
+    "latitude": 26.45,
+    "longitude": 91.7
+  },
+  {
+    "name": "letekujan",
+    "cc2": "03",
+    "latitude": 26.58292,
+    "longitude": 93.80505
+  },
+  {
+    "name": "lengteng",
+    "cc2": "03",
+    "latitude": 26.46667,
+    "longitude": 93.06667
+  },
+  {
+    "name": "lengrabhita",
+    "cc2": "03",
+    "latitude": 26.03263,
+    "longitude": 90.12552
+  },
+  {
+    "name": "leike",
+    "cc2": "03",
+    "latitude": 25.29141,
+    "longitude": 93.43127
+  },
+  {
+    "name": "lasanbari",
+    "cc2": "03",
+    "latitude": 26.26772,
+    "longitude": 92.3834
+  },
+  {
+    "name": "laokhoa",
+    "cc2": "03",
+    "latitude": 26.53333,
+    "longitude": 92.8
+  },
+  {
+    "name": "lankapatti",
+    "cc2": "03",
+    "latitude": 25.92179,
+    "longitude": 92.94174
+  },
+  {
+    "name": "langyen",
+    "cc2": "03",
+    "latitude": 25.54076,
+    "longitude": 92.9715
+  },
+  {
+    "name": "langting",
+    "cc2": "03",
+    "latitude": 25.49755,
+    "longitude": 93.11378
+  },
+  {
+    "name": "langlut",
+    "cc2": "03",
+    "latitude": 25.46838,
+    "longitude": 92.81494
+  },
+  {
+    "name": "lalsong",
+    "cc2": "03",
+    "latitude": 25.01667,
+    "longitude": 92.9
+  },
+  {
+    "name": "lalaghat",
+    "cc2": "03",
+    "latitude": 24.55496,
+    "longitude": 92.6358
+  },
+  {
+    "name": "lala",
+    "cc2": "03",
+    "latitude": 24.55418,
+    "longitude": 92.61592
+  },
+  {
+    "name": "lakhuni",
+    "cc2": "03",
+    "latitude": 26.56424,
+    "longitude": 94.43934
+  },
+  {
+    "name": "lakhipur",
+    "cc2": "03",
+    "latitude": 26.03001,
+    "longitude": 90.30611
+  },
+  {
+    "name": "lakhipur",
+    "cc2": "03",
+    "latitude": 24.79281,
+    "longitude": 93.0091
+  },
+  {
+    "name": "laisong",
+    "cc2": "03",
+    "latitude": 25.20693,
+    "longitude": 93.29396
+  },
+  {
+    "name": "laimakuri",
+    "cc2": "03",
+    "latitude": 27.69412,
+    "longitude": 95.03018
+  },
+  {
+    "name": "lahorighat pam",
+    "cc2": "03",
+    "latitude": 26.43333,
+    "longitude": 92.35
+  },
+  {
+    "name": "laher",
+    "cc2": "03",
+    "latitude": 25.70729,
+    "longitude": 92.60567
+  },
+  {
+    "name": "kuthari",
+    "cc2": "03",
+    "latitude": 26.56936,
+    "longitude": 93.24038
+  },
+  {
+    "name": "kurua",
+    "cc2": "03",
+    "latitude": 26.23801,
+    "longitude": 91.82098
+  },
+  {
+    "name": "kundil bazar",
+    "cc2": "03",
+    "latitude": 27.83333,
+    "longitude": 95.66667
+  },
+  {
+    "name": "kunda",
+    "cc2": "03",
+    "latitude": 26.7,
+    "longitude": 90.86667
+  },
+  {
+    "name": "kumrikhata",
+    "cc2": "03",
+    "latitude": 26.73233,
+    "longitude": 91.55522
+  },
+  {
+    "name": "kumguri",
+    "cc2": "03",
+    "latitude": 26.68238,
+    "longitude": 91.10426
+  },
+  {
+    "name": "kumbhir",
+    "cc2": "03",
+    "latitude": 24.94313,
+    "longitude": 92.9591
+  },
+  {
+    "name": "kumargram",
+    "cc2": "03",
+    "latitude": 26.61684,
+    "longitude": 89.82906
+  },
+  {
+    "name": "kukichara",
+    "cc2": "03",
+    "latitude": 24.38653,
+    "longitude": 92.56326
+  },
+  {
+    "name": "kseh kynthang",
+    "cc2": "03",
+    "latitude": 25.83622,
+    "longitude": 92.2767
+  },
+  {
+    "name": "krishnai",
+    "cc2": "03",
+    "latitude": 26.02768,
+    "longitude": 90.68652
+  },
+  {
+    "name": "kokrajhar",
+    "cc2": "03",
+    "latitude": 26.40107,
+    "longitude": 90.27286
+  },
+  {
+    "name": "kokilamukh",
+    "cc2": "03",
+    "latitude": 26.82749,
+    "longitude": 94.08618
+  },
+  {
+    "name": "kochugaon",
+    "cc2": "03",
+    "latitude": 26.55179,
+    "longitude": 90.07618
+  },
+  {
+    "name": "kobo",
+    "cc2": "03",
+    "latitude": 27.78722,
+    "longitude": 95.38659
+  },
+  {
+    "name": "kobirali",
+    "cc2": "03",
+    "latitude": 26.65,
+    "longitude": 92.01667
+  },
+  {
+    "name": "khutabari",
+    "cc2": "03",
+    "latitude": 26.06667,
+    "longitude": 91.08333
+  },
+  {
+    "name": "khowang",
+    "cc2": "03",
+    "latitude": 27.27544,
+    "longitude": 94.8757
+  },
+  {
+    "name": "khoirabari",
+    "cc2": "03",
+    "latitude": 26.86633,
+    "longitude": 91.95234
+  },
+  {
+    "name": "khoirabari",
+    "cc2": "03",
+    "latitude": 26.63845,
+    "longitude": 91.77897
+  },
+  {
+    "name": "khatoalgaon",
+    "cc2": "03",
+    "latitude": 26.66127,
+    "longitude": 94.15198
+  },
+  {
+    "name": "kharupatia",
+    "cc2": "03",
+    "latitude": 26.51839,
+    "longitude": 92.14722
+  },
+  {
+    "name": "kharmauza",
+    "cc2": "03",
+    "latitude": 26.14846,
+    "longitude": 90.48686
+  },
+  {
+    "name": "kharikhanapatti",
+    "cc2": "03",
+    "latitude": 25.88782,
+    "longitude": 92.89874
+  },
+  {
+    "name": "khanapara",
+    "cc2": "03",
+    "latitude": 26.1,
+    "longitude": 91.81667
+  },
+  {
+    "name": "kerimgaon",
+    "cc2": "03",
+    "latitude": 27.92893,
+    "longitude": 95.64982
+  },
+  {
+    "name": "kekuri bebejia",
+    "cc2": "03",
+    "latitude": 27.11755,
+    "longitude": 94.30932
+  },
+  {
+    "name": "kaziranga",
+    "cc2": "03",
+    "latitude": 26.58925,
+    "longitude": 93.40847
+  },
+  {
+    "name": "kaupati",
+    "cc2": "03",
+    "latitude": 26.5805,
+    "longitude": 92.24284
+  },
+  {
+    "name": "katlichara",
+    "cc2": "03",
+    "latitude": 24.44586,
+    "longitude": 92.56508
+  },
+  {
+    "name": "katkali ghat",
+    "cc2": "03",
+    "latitude": 24.58352,
+    "longitude": 92.29632
+  },
+  {
+    "name": "kathiatali",
+    "cc2": "03",
+    "latitude": 26.18276,
+    "longitude": 92.73573
+  },
+  {
+    "name": "kasomarigaon",
+    "cc2": "03",
+    "latitude": 26.26008,
+    "longitude": 94.01943
+  },
+  {
+    "name": "kasikatra",
+    "cc2": "03",
+    "latitude": 26.53667,
+    "longitude": 90.4149
+  },
+  {
+    "name": "kashikhagra",
+    "cc2": "03",
+    "latitude": 25.98053,
+    "longitude": 90.55806
+  },
+  {
+    "name": "karimganj",
+    "cc2": "03",
+    "latitude": 24.86919,
+    "longitude": 92.35543
+  },
+  {
+    "name": "kaolakhat",
+    "cc2": "03",
+    "latitude": 26.6152,
+    "longitude": 93.58329
+  },
+  {
+    "name": "kampur",
+    "cc2": "03",
+    "latitude": 26.18175,
+    "longitude": 92.65128
+  },
+  {
+    "name": "kamakhya",
+    "cc2": "03",
+    "latitude": 26.16732,
+    "longitude": 91.72488
+  },
+  {
+    "name": "kalitagaon",
+    "cc2": "03",
+    "latitude": 26.89903,
+    "longitude": 93.72602
+  },
+  {
+    "name": "kaliani",
+    "cc2": "03",
+    "latitude": 26.47111,
+    "longitude": 93.7692
+  },
+  {
+    "name": "kalain",
+    "cc2": "03",
+    "latitude": 24.96875,
+    "longitude": 92.56913
+  },
+  {
+    "name": "kalaigaon",
+    "cc2": "03",
+    "latitude": 26.5741,
+    "longitude": 91.97605
+  },
+  {
+    "name": "kaki",
+    "cc2": "03",
+    "latitude": 26.01713,
+    "longitude": 93.03014
+  },
+  {
+    "name": "kaharpara",
+    "cc2": "03",
+    "latitude": 26.04382,
+    "longitude": 91.57565
+  },
+  {
+    "name": "jungterang",
+    "cc2": "03",
+    "latitude": 25.9756,
+    "longitude": 93.3536
+  },
+  {
+    "name": "jorhat",
+    "cc2": "03",
+    "latitude": 26.75751,
+    "longitude": 94.20306
+  },
+  {
+    "name": "jogighopa",
+    "cc2": "03",
+    "latitude": 26.22646,
+    "longitude": 90.57247
+  },
+  {
+    "name": "jirighat",
+    "cc2": "03",
+    "latitude": 24.80721,
+    "longitude": 93.10987
+  },
+  {
+    "name": "jhanzi",
+    "cc2": "03",
+    "latitude": 26.86667,
+    "longitude": 94.5
+  },
+  {
+    "name": "jetukiagaon",
+    "cc2": "03",
+    "latitude": 26.74123,
+    "longitude": 94.35025
+  },
+  {
+    "name": "jengpata",
+    "cc2": "03",
+    "latitude": 26.34842,
+    "longitude": 93.67392
+  },
+  {
+    "name": "jenggaon",
+    "cc2": "03",
+    "latitude": 26.4492,
+    "longitude": 93.21235
+  },
+  {
+    "name": "jelkarjhar",
+    "cc2": "03",
+    "latitude": 26.45836,
+    "longitude": 90.52489
+  },
+  {
+    "name": "jeikhan",
+    "cc2": "03",
+    "latitude": 24.49029,
+    "longitude": 93.11101
+  },
+  {
+    "name": "jamunamukh",
+    "cc2": "03",
+    "latitude": 26.10147,
+    "longitude": 92.74264
+  },
+  {
+    "name": "jamuguri",
+    "cc2": "03",
+    "latitude": 26.72171,
+    "longitude": 92.93113
+  },
+  {
+    "name": "jamuguri",
+    "cc2": "03",
+    "latitude": 26.3874,
+    "longitude": 93.96375
+  },
+  {
+    "name": "jamindargaon",
+    "cc2": "03",
+    "latitude": 25.76843,
+    "longitude": 93.3571
+  },
+  {
+    "name": "jamduar",
+    "cc2": "03",
+    "latitude": 26.71667,
+    "longitude": 89.88333
+  },
+  {
+    "name": "jakuradhar",
+    "cc2": "03",
+    "latitude": 24.61094,
+    "longitude": 93.09239
+  },
+  {
+    "name": "jakhalabandha",
+    "cc2": "03",
+    "latitude": 26.58555,
+    "longitude": 92.97004
+  },
+  {
+    "name": "jaipur",
+    "cc2": "03",
+    "latitude": 27.26192,
+    "longitude": 95.39595
+  },
+  {
+    "name": "jaipur",
+    "cc2": "03",
+    "latitude": 24.90321,
+    "longitude": 93.05814
+  },
+  {
+    "name": "jaihing",
+    "cc2": "03",
+    "latitude": 27.30466,
+    "longitude": 94.03132
+  },
+  {
+    "name": "jagdala",
+    "cc2": "03",
+    "latitude": 26.65304,
+    "longitude": 91.23984
+  },
+  {
+    "name": "itakhola",
+    "cc2": "03",
+    "latitude": 26.78874,
+    "longitude": 92.96499
+  },
+  {
+    "name": "huliagaon",
+    "cc2": "03",
+    "latitude": 27.57925,
+    "longitude": 94.51814
+  },
+  {
+    "name": "hudukhata",
+    "cc2": "03",
+    "latitude": 26.61035,
+    "longitude": 91.10313
+  },
+  {
+    "name": "howli",
+    "cc2": "03",
+    "latitude": 26.42237,
+    "longitude": 90.98004
+  },
+  {
+    "name": "howang",
+    "cc2": "03",
+    "latitude": 25.94424,
+    "longitude": 93.40075
+  },
+  {
+    "name": "hojai",
+    "cc2": "03",
+    "latitude": 26.00281,
+    "longitude": 92.85605
+  },
+  {
+    "name": "helem",
+    "cc2": "03",
+    "latitude": 26.84355,
+    "longitude": 93.47599
+  },
+  {
+    "name": "helapakari",
+    "cc2": "03",
+    "latitude": 26.43269,
+    "longitude": 90.96765
+  },
+  {
+    "name": "haulighat",
+    "cc2": "03",
+    "latitude": 26.27145,
+    "longitude": 91.35071
+  },
+  {
+    "name": "hatikhuli",
+    "cc2": "03",
+    "latitude": 26.6,
+    "longitude": 93.35
+  },
+  {
+    "name": "hangrum",
+    "cc2": "03",
+    "latitude": 25.13862,
+    "longitude": 93.30215
+  },
+  {
+    "name": "hang habai",
+    "cc2": "03",
+    "latitude": 25.85584,
+    "longitude": 92.79587
+  },
+  {
+    "name": "haltugaon",
+    "cc2": "03",
+    "latitude": 26.48679,
+    "longitude": 90.28873
+  },
+  {
+    "name": "hajua",
+    "cc2": "03",
+    "latitude": 26.70394,
+    "longitude": 91.19426
+  },
+  {
+    "name": "hajo",
+    "cc2": "03",
+    "latitude": 26.2452,
+    "longitude": 91.52525
+  },
+  {
+    "name": "hailakandi",
+    "cc2": "03",
+    "latitude": 24.68394,
+    "longitude": 92.56097
+  },
+  {
+    "name": "haflong",
+    "cc2": "03",
+    "latitude": 25.16478,
+    "longitude": 93.01744
+  },
+  {
+    "name": "habialgaon",
+    "cc2": "03",
+    "latitude": 26.78333,
+    "longitude": 94.16667
+  },
+  {
+    "name": "habaipur",
+    "cc2": "03",
+    "latitude": 25.94263,
+    "longitude": 92.82425
+  },
+  {
+    "name": "gunjong",
+    "cc2": "03",
+    "latitude": 25.31654,
+    "longitude": 93.01137
+  },
+  {
+    "name": "goshaingaon",
+    "cc2": "03",
+    "latitude": 26.43946,
+    "longitude": 89.96307
+  },
+  {
+    "name": "golakganj",
+    "cc2": "03",
+    "latitude": 26.10216,
+    "longitude": 89.82275
+  },
+  {
+    "name": "golaghat",
+    "cc2": "03",
+    "latitude": 26.51167,
+    "longitude": 93.95951
+  },
+  {
+    "name": "gokulkata",
+    "cc2": "03",
+    "latitude": 26.47744,
+    "longitude": 89.87774
+  },
+  {
+    "name": "goibarigaon",
+    "cc2": "03",
+    "latitude": 26.78543,
+    "longitude": 91.67836
+  },
+  {
+    "name": "gohpur",
+    "cc2": "03",
+    "latitude": 26.88184,
+    "longitude": 93.6156
+  },
+  {
+    "name": "gohaingaon",
+    "cc2": "03",
+    "latitude": 26.84371,
+    "longitude": 94.20013
+  },
+  {
+    "name": "gogamukh tajik",
+    "cc2": "03",
+    "latitude": 27.4,
+    "longitude": 94.33333
+  },
+  {
+    "name": "gogamukh",
+    "cc2": "03",
+    "latitude": 27.40562,
+    "longitude": 94.34715
+  },
+  {
+    "name": "goalpara",
+    "cc2": "03",
+    "latitude": 26.17668,
+    "longitude": 90.62634
+  },
+  {
+    "name": "ginjia",
+    "cc2": "03",
+    "latitude": 26.80707,
+    "longitude": 93.25119
+  },
+  {
+    "name": "geleki",
+    "cc2": "03",
+    "latitude": 26.80394,
+    "longitude": 94.70113
+  },
+  {
+    "name": "gejeragaon",
+    "cc2": "03",
+    "latitude": 27.12305,
+    "longitude": 94.42689
+  },
+  {
+    "name": "gauripur",
+    "cc2": "03",
+    "latitude": 26.08334,
+    "longitude": 89.96118
+  },
+  {
+    "name": "guwahati",
+    "cc2": "03",
+    "latitude": 26.1844,
+    "longitude": 91.7458
+  },
+  {
+    "name": "garubhasa",
+    "cc2": "03",
+    "latitude": 26.56702,
+    "longitude": 90.37318
+  },
+  {
+    "name": "gariagaon",
+    "cc2": "03",
+    "latitude": 26.69456,
+    "longitude": 94.11686
+  },
+  {
+    "name": "garampani",
+    "cc2": "03",
+    "latitude": 26.39287,
+    "longitude": 93.88169
+  },
+  {
+    "name": "gangmohthan",
+    "cc2": "03",
+    "latitude": 26.77084,
+    "longitude": 93.31404
+  },
+  {
+    "name": "gagaldubi",
+    "cc2": "03",
+    "latitude": 27.36218,
+    "longitude": 94.18316
+  },
+  {
+    "name": "gabharu",
+    "cc2": "03",
+    "latitude": 26.68333,
+    "longitude": 92.65
+  },
+  {
+    "name": "furkating",
+    "cc2": "03",
+    "latitude": 26.46923,
+    "longitude": 94.01742
+  },
+  {
+    "name": "fakirganj",
+    "cc2": "03",
+    "latitude": 25.96894,
+    "longitude": 90.0607
+  },
+  {
+    "name": "fakiragram",
+    "cc2": "03",
+    "latitude": 26.36171,
+    "longitude": 90.18243
+  },
+  {
+    "name": "erdangkramsa",
+    "cc2": "03",
+    "latitude": 26.31553,
+    "longitude": 93.24612
+  },
+  {
+    "name": "dwarband",
+    "cc2": "03",
+    "latitude": 24.63224,
+    "longitude": 92.70943
+  },
+  {
+    "name": "dumsa",
+    "cc2": "03",
+    "latitude": 27.51667,
+    "longitude": 95.86667
+  },
+  {
+    "name": "dumnichauki",
+    "cc2": "03",
+    "latitude": 26.35,
+    "longitude": 91.83333
+  },
+  {
+    "name": "dum duma",
+    "cc2": "03",
+    "latitude": 27.56884,
+    "longitude": 95.55664
+  },
+  {
+    "name": "duliajan",
+    "cc2": "03",
+    "latitude": 27.36035,
+    "longitude": 95.31806
+  },
+  {
+    "name": "dulangmukh",
+    "cc2": "03",
+    "latitude": 27.50437,
+    "longitude": 94.26838
+  },
+  {
+    "name": "dulahatgaon",
+    "cc2": "03",
+    "latitude": 27.1618,
+    "longitude": 93.99384
+  },
+  {
+    "name": "dudhnai",
+    "cc2": "03",
+    "latitude": 25.98283,
+    "longitude": 90.78208
+  },
+  {
+    "name": "duarmara",
+    "cc2": "03",
+    "latitude": 27.48537,
+    "longitude": 95.73457
+  },
+  {
+    "name": "dithur",
+    "cc2": "03",
+    "latitude": 25.4941,
+    "longitude": 92.80109
+  },
+  {
+    "name": "dispur",
+    "cc2": "03",
+    "latitude": 26.13564,
+    "longitude": 91.80069
+  },
+  {
+    "name": "disangmukh",
+    "cc2": "03",
+    "latitude": 27.06667,
+    "longitude": 94.55
+  },
+  {
+    "name": "diphu",
+    "cc2": "03",
+    "latitude": 25.84341,
+    "longitude": 93.43116
+  },
+  {
+    "name": "dipa",
+    "cc2": "03",
+    "latitude": 27.72456,
+    "longitude": 94.85454
+  },
+  {
+    "name": "dinjaygaon",
+    "cc2": "03",
+    "latitude": 27.51119,
+    "longitude": 95.18165
+  },
+  {
+    "name": "dingram",
+    "cc2": "03",
+    "latitude": 26.36212,
+    "longitude": 90.15577
+  },
+  {
+    "name": "dingdinga",
+    "cc2": "03",
+    "latitude": 26.35058,
+    "longitude": 89.89333
+  },
+  {
+    "name": "dimruguri",
+    "cc2": "03",
+    "latitude": 26.77945,
+    "longitude": 94.20084
+  },
+  {
+    "name": "dimakuchi",
+    "cc2": "03",
+    "latitude": 26.74103,
+    "longitude": 91.82119
+  },
+  {
+    "name": "dili terang",
+    "cc2": "03",
+    "latitude": 26.21279,
+    "longitude": 93.67797
+  },
+  {
+    "name": "dikrum",
+    "cc2": "03",
+    "latitude": 26.17976,
+    "longitude": 93.5735
+  },
+  {
+    "name": "dikhomukh",
+    "cc2": "03",
+    "latitude": 26.9619,
+    "longitude": 94.41489
+  },
+  {
+    "name": "diju",
+    "cc2": "03",
+    "latitude": 27.28333,
+    "longitude": 94.05
+  },
+  {
+    "name": "dijmur",
+    "cc2": "03",
+    "latitude": 27.66353,
+    "longitude": 94.85232
+  },
+  {
+    "name": "dihingmukh",
+    "cc2": "03",
+    "latitude": 27.26132,
+    "longitude": 94.70268
+  },
+  {
+    "name": "dihajan",
+    "cc2": "03",
+    "latitude": 27.12974,
+    "longitude": 94.76336
+  },
+  {
+    "name": "dighaltarang",
+    "cc2": "03",
+    "latitude": 27.60623,
+    "longitude": 95.42159
+  },
+  {
+    "name": "digboi",
+    "cc2": "03",
+    "latitude": 27.39321,
+    "longitude": 95.61839
+  },
+  {
+    "name": "dibrugarh",
+    "cc2": "03",
+    "latitude": 27.47989,
+    "longitude": 94.90837
+  },
+  {
+    "name": "dhupdhara",
+    "cc2": "03",
+    "latitude": 25.95999,
+    "longitude": 91.05784
+  },
+  {
+    "name": "dhubri",
+    "cc2": "03",
+    "latitude": 26.01856,
+    "longitude": 89.98564
+  },
+  {
+    "name": "dhing",
+    "cc2": "03",
+    "latitude": 26.46793,
+    "longitude": 92.47336
+  },
+  {
+    "name": "dhemaji",
+    "cc2": "03",
+    "latitude": 27.48333,
+    "longitude": 94.58333
+  },
+  {
+    "name": "dhekiajuli",
+    "cc2": "03",
+    "latitude": 26.70367,
+    "longitude": 92.47808
+  },
+  {
+    "name": "dharamtul",
+    "cc2": "03",
+    "latitude": 26.1605,
+    "longitude": 92.35183
+  },
+  {
+    "name": "dhapaliagaon",
+    "cc2": "03",
+    "latitude": 27.28333,
+    "longitude": 94.41667
+  },
+  {
+    "name": "dhansirimukh",
+    "cc2": "03",
+    "latitude": 26.7,
+    "longitude": 93.61667
+  },
+  {
+    "name": "dhamdhama",
+    "cc2": "03",
+    "latitude": 26.55879,
+    "longitude": 91.47881
+  },
+  {
+    "name": "dhalai",
+    "cc2": "03",
+    "latitude": 24.60117,
+    "longitude": 92.84785
+  },
+  {
+    "name": "dhakuakhana",
+    "cc2": "03",
+    "latitude": 27.20114,
+    "longitude": 94.45712
+  },
+  {
+    "name": "dergaon",
+    "cc2": "03",
+    "latitude": 26.7,
+    "longitude": 93.96667
+  },
+  {
+    "name": "derebara",
+    "cc2": "03",
+    "latitude": 25.37082,
+    "longitude": 92.92534
+  },
+  {
+    "name": "deosri",
+    "cc2": "03",
+    "latitude": 26.76618,
+    "longitude": 90.46719
+  },
+  {
+    "name": "dengaon",
+    "cc2": "03",
+    "latitude": 26.23333,
+    "longitude": 92.98333
+  },
+  {
+    "name": "datma",
+    "cc2": "03",
+    "latitude": 26.47696,
+    "longitude": 90.14662
+  },
+  {
+    "name": "darranga",
+    "cc2": "03",
+    "latitude": 26.79193,
+    "longitude": 91.5094
+  },
+  {
+    "name": "daria",
+    "cc2": "03",
+    "latitude": 26.63333,
+    "longitude": 93.93333
+  },
+  {
+    "name": "darangibra",
+    "cc2": "03",
+    "latitude": 25.4287,
+    "longitude": 93.29236
+  },
+  {
+    "name": "dangori",
+    "cc2": "03",
+    "latitude": 27.70882,
+    "longitude": 95.5608
+  },
+  {
+    "name": "dambukso",
+    "cc2": "03",
+    "latitude": 26.1348,
+    "longitude": 93.565
+  },
+  {
+    "name": "dalu",
+    "cc2": "03",
+    "latitude": 24.92323,
+    "longitude": 92.7829
+  },
+  {
+    "name": "dalgoma",
+    "cc2": "03",
+    "latitude": 26.11259,
+    "longitude": 90.79179
+  },
+  {
+    "name": "dalgaon",
+    "cc2": "03",
+    "latitude": 26.55968,
+    "longitude": 92.19826
+  },
+  {
+    "name": "dalaigaon",
+    "cc2": "03",
+    "latitude": 26.51521,
+    "longitude": 91.25603
+  },
+  {
+    "name": "craigpark",
+    "cc2": "03",
+    "latitude": 25,
+    "longitude": 92.53333
+  },
+  {
+    "name": "cinnamara",
+    "cc2": "03",
+    "latitude": 26.71667,
+    "longitude": 94.23333
+  },
+  {
+    "name": "chutiya mirigaon",
+    "cc2": "03",
+    "latitude": 27.56244,
+    "longitude": 94.74291
+  },
+  {
+    "name": "chutia",
+    "cc2": "03",
+    "latitude": 26.73495,
+    "longitude": 93.04711
+  },
+  {
+    "name": "chunari",
+    "cc2": "03",
+    "latitude": 26.11667,
+    "longitude": 90.35
+  },
+  {
+    "name": "choshinyu",
+    "cc2": "03",
+    "latitude": 25.91172,
+    "longitude": 94.04636
+  },
+  {
+    "name": "chhaygaon",
+    "cc2": "03",
+    "latitude": 26.04993,
+    "longitude": 91.39686
+  },
+  {
+    "name": "chetiagaon",
+    "cc2": "03",
+    "latitude": 27.31449,
+    "longitude": 94.41504
+  },
+  {
+    "name": "chauldhoa baligaon",
+    "cc2": "03",
+    "latitude": 27.43402,
+    "longitude": 94.31767
+  },
+  {
+    "name": "chatachara",
+    "cc2": "03",
+    "latitude": 24.28333,
+    "longitude": 92.43333
+  },
+  {
+    "name": "charka hai",
+    "cc2": "03",
+    "latitude": 25.67822,
+    "longitude": 93.23938
+  },
+  {
+    "name": "charduar",
+    "cc2": "03",
+    "latitude": 26.85788,
+    "longitude": 92.76675
+  },
+  {
+    "name": "chaparmukh",
+    "cc2": "03",
+    "latitude": 26.19981,
+    "longitude": 92.51753
+  },
+  {
+    "name": "chapar",
+    "cc2": "03",
+    "latitude": 26.27266,
+    "longitude": 90.44556
+  },
+  {
+    "name": "chapanalla",
+    "cc2": "03",
+    "latitude": 26.33673,
+    "longitude": 92.88067
+  },
+  {
+    "name": "changsari",
+    "cc2": "03",
+    "latitude": 26.26433,
+    "longitude": 91.6839
+  },
+  {
+    "name": "changchang",
+    "cc2": "03",
+    "latitude": 26.58719,
+    "longitude": 94.45361
+  },
+  {
+    "name": "chabua",
+    "cc2": "03",
+    "latitude": 27.48253,
+    "longitude": 95.17451
+  },
+  {
+    "name": "buri khamar",
+    "cc2": "03",
+    "latitude": 26.55211,
+    "longitude": 90.90038
+  },
+  {
+    "name": "burakek",
+    "cc2": "03",
+    "latitude": 26.00309,
+    "longitude": 93.16393
+  },
+  {
+    "name": "borduttighat",
+    "cc2": "03",
+    "latitude": 26.95,
+    "longitude": 93.96667
+  },
+  {
+    "name": "bordoloni",
+    "cc2": "03",
+    "latitude": 27.40289,
+    "longitude": 94.41873
+  },
+  {
+    "name": "bongaigaon",
+    "cc2": "03",
+    "latitude": 26.47703,
+    "longitude": 90.55815
+  },
+  {
+    "name": "bolung",
+    "cc2": "03",
+    "latitude": 28.05347,
+    "longitude": 95.6767
+  },
+  {
+    "name": "boko",
+    "cc2": "03",
+    "latitude": 25.98083,
+    "longitude": 91.2397
+  },
+  {
+    "name": "bokakhat",
+    "cc2": "03",
+    "latitude": 26.64018,
+    "longitude": 93.60052
+  },
+  {
+    "name": "bokajan",
+    "cc2": "03",
+    "latitude": 26.02131,
+    "longitude": 93.77945
+  },
+  {
+    "name": "bishnath",
+    "cc2": "03",
+    "latitude": 26.66684,
+    "longitude": 93.16452
+  },
+  {
+    "name": "binnakandi",
+    "cc2": "03",
+    "latitude": 24.72499,
+    "longitude": 92.97904
+  },
+  {
+    "name": "bindukuri",
+    "cc2": "03",
+    "latitude": 26.71667,
+    "longitude": 92.71667
+  },
+  {
+    "name": "bilkhawtlir",
+    "cc2": "03",
+    "latitude": 24.29197,
+    "longitude": 92.69393
+  },
+  {
+    "name": "bilasipara",
+    "cc2": "03",
+    "latitude": 26.23285,
+    "longitude": 90.2341
+  },
+  {
+    "name": "bijni",
+    "cc2": "03",
+    "latitude": 26.49588,
+    "longitude": 90.70298
+  },
+  {
+    "name": "bihuguri",
+    "cc2": "03",
+    "latitude": 26.67418,
+    "longitude": 92.70256
+  },
+  {
+    "name": "bihpuriagaon",
+    "cc2": "03",
+    "latitude": 27.01718,
+    "longitude": 93.91673
+  },
+  {
+    "name": "bhutiagaon",
+    "cc2": "03",
+    "latitude": 26.76667,
+    "longitude": 94.18333
+  },
+  {
+    "name": "bhawanipur",
+    "cc2": "03",
+    "latitude": 26.45759,
+    "longitude": 91.06577
+  },
+  {
+    "name": "bhauraguri",
+    "cc2": "03",
+    "latitude": 26.42602,
+    "longitude": 90.07349
+  },
+  {
+    "name": "bhanga",
+    "cc2": "03",
+    "latitude": 24.85522,
+    "longitude": 92.48583
+  },
+  {
+    "name": "bhandari",
+    "cc2": "03",
+    "latitude": 26.26709,
+    "longitude": 94.13683
+  },
+  {
+    "name": "bhalukmara",
+    "cc2": "03",
+    "latitude": 26.68333,
+    "longitude": 94.46667
+  },
+  {
+    "name": "berung",
+    "cc2": "03",
+    "latitude": 27.91592,
+    "longitude": 95.41571
+  },
+  {
+    "name": "bengtol",
+    "cc2": "03",
+    "latitude": 26.63846,
+    "longitude": 90.47879
+  },
+  {
+    "name": "behali",
+    "cc2": "03",
+    "latitude": 26.83254,
+    "longitude": 93.34523
+  },
+  {
+    "name": "baut bazar",
+    "cc2": "03",
+    "latitude": 25.73657,
+    "longitude": 92.68956
+  },
+  {
+    "name": "batelegaon",
+    "cc2": "03",
+    "latitude": 27.67313,
+    "longitude": 94.69024
+  },
+  {
+    "name": "batabari",
+    "cc2": "03",
+    "latitude": 26.83371,
+    "longitude": 92.22392
+  },
+  {
+    "name": "basugaon",
+    "cc2": "03",
+    "latitude": 26.46742,
+    "longitude": 90.41951
+  },
+  {
+    "name": "basbari",
+    "cc2": "03",
+    "latitude": 26.2069,
+    "longitude": 89.90226
+  },
+  {
+    "name": "baruagaon",
+    "cc2": "03",
+    "latitude": 26.45,
+    "longitude": 94.08333
+  },
+  {
+    "name": "barpeta",
+    "cc2": "03",
+    "latitude": 26.32293,
+    "longitude": 91.00632
+  },
+  {
+    "name": "barpathar",
+    "cc2": "03",
+    "latitude": 26.28709,
+    "longitude": 93.88844
+  },
+  {
+    "name": "barjhar",
+    "cc2": "03",
+    "latitude": 26.53333,
+    "longitude": 91.36667
+  },
+  {
+    "name": "barhat",
+    "cc2": "03",
+    "latitude": 27.14242,
+    "longitude": 95.28633
+  },
+  {
+    "name": "barhalla",
+    "cc2": "03",
+    "latitude": 26.45,
+    "longitude": 94.15
+  },
+  {
+    "name": "bardubi road",
+    "cc2": "03",
+    "latitude": 27.40152,
+    "longitude": 95.31761
+  },
+  {
+    "name": "barduar",
+    "cc2": "03",
+    "latitude": 25.92191,
+    "longitude": 91.4759
+  },
+  {
+    "name": "bar dhoa",
+    "cc2": "03",
+    "latitude": 26.41332,
+    "longitude": 92.54451
+  },
+  {
+    "name": "bar dambuk",
+    "cc2": "03",
+    "latitude": 26.05002,
+    "longitude": 93.53925
+  },
+  {
+    "name": "barchola",
+    "cc2": "03",
+    "latitude": 26.6,
+    "longitude": 92.38333
+  },
+  {
+    "name": "barbaru",
+    "cc2": "03",
+    "latitude": 27.4,
+    "longitude": 94.86667
+  },
+  {
+    "name": "barama",
+    "cc2": "03",
+    "latitude": 26.52506,
+    "longitude": 91.34944
+  },
+  {
+    "name": "barakhola",
+    "cc2": "03",
+    "latitude": 24.93182,
+    "longitude": 92.74423
+  },
+  {
+    "name": "bara digar",
+    "cc2": "03",
+    "latitude": 25.37408,
+    "longitude": 93.30216
+  },
+  {
+    "name": "banskandi",
+    "cc2": "03",
+    "latitude": 24.80333,
+    "longitude": 92.87358
+  },
+  {
+    "name": "bansbera",
+    "cc2": "03",
+    "latitude": 26.75577,
+    "longitude": 92.58911
+  },
+  {
+    "name": "banmurigaon",
+    "cc2": "03",
+    "latitude": 26.35,
+    "longitude": 92.23333
+  },
+  {
+    "name": "banguk",
+    "cc2": "03",
+    "latitude": 28.0279,
+    "longitude": 95.54024
+  },
+  {
+    "name": "bangaon",
+    "cc2": "03",
+    "latitude": 26.41667,
+    "longitude": 91.33333
+  },
+  {
+    "name": "bangali garigaon",
+    "cc2": "03",
+    "latitude": 26.79055,
+    "longitude": 94.57371
+  },
+  {
+    "name": "bamungaon",
+    "cc2": "03",
+    "latitude": 26.92225,
+    "longitude": 94.16358
+  },
+  {
+    "name": "balipara",
+    "cc2": "03",
+    "latitude": 26.81979,
+    "longitude": 92.68403
+  },
+  {
+    "name": "balijan",
+    "cc2": "03",
+    "latitude": 27.53161,
+    "longitude": 95.17517
+  },
+  {
+    "name": "balijan",
+    "cc2": "03",
+    "latitude": 27.44964,
+    "longitude": 94.27878
+  },
+  {
+    "name": "baligaon",
+    "cc2": "03",
+    "latitude": 27.65159,
+    "longitude": 94.67519
+  },
+  {
+    "name": "balagaon",
+    "cc2": "03",
+    "latitude": 26.13225,
+    "longitude": 91.33092
+  },
+  {
+    "name": "baladhan",
+    "cc2": "03",
+    "latitude": 25.06485,
+    "longitude": 93.21838
+  },
+  {
+    "name": "baitha langso",
+    "cc2": "03",
+    "latitude": 25.97027,
+    "longitude": 92.59434
+  },
+  {
+    "name": "baihata",
+    "cc2": "03",
+    "latitude": 26.35843,
+    "longitude": 91.70458
+  },
+  {
+    "name": "baida",
+    "cc2": "03",
+    "latitude": 26.02851,
+    "longitude": 90.40536
+  },
+  {
+    "name": "baguliaghat",
+    "cc2": "03",
+    "latitude": 26.05703,
+    "longitude": 93.19344
+  },
+  {
+    "name": "bagribari",
+    "cc2": "03",
+    "latitude": 26.19895,
+    "longitude": 90.12923
+  },
+  {
+    "name": "bagbor",
+    "cc2": "03",
+    "latitude": 26.21667,
+    "longitude": 90.85
+  },
+  {
+    "name": "baga",
+    "cc2": "03",
+    "latitude": 25.4114,
+    "longitude": 92.83893
+  },
+  {
+    "name": "badulahati",
+    "cc2": "03",
+    "latitude": 26.95321,
+    "longitude": 93.83945
+  },
+  {
+    "name": "badati",
+    "cc2": "03",
+    "latitude": 26.95075,
+    "longitude": 93.96047
+  },
+  {
+    "name": "badarpur",
+    "cc2": "03",
+    "latitude": 24.86852,
+    "longitude": 92.59606
+  },
+  {
+    "name": "bachagaon",
+    "cc2": "03",
+    "latitude": 27.13529,
+    "longitude": 94.11639
+  },
+  {
+    "name": "auniati sattra",
+    "cc2": "03",
+    "latitude": 26.9,
+    "longitude": 94.08333
+  },
+  {
+    "name": "aujari",
+    "cc2": "03",
+    "latitude": 26.23634,
+    "longitude": 92.29099
+  },
+  {
+    "name": "athkhel",
+    "cc2": "03",
+    "latitude": 26.79616,
+    "longitude": 94.65497
+  },
+  {
+    "name": "atharikhat",
+    "cc2": "03",
+    "latitude": 26.72142,
+    "longitude": 91.74868
+  },
+  {
+    "name": "arunachal",
+    "cc2": "03",
+    "latitude": 24.86667,
+    "longitude": 92.76667
+  },
+  {
+    "name": "anjakpani",
+    "cc2": "03",
+    "latitude": 26.45,
+    "longitude": 93.1
+  },
+  {
+    "name": "amtika",
+    "cc2": "03",
+    "latitude": 26.76137,
+    "longitude": 90.52796
+  },
+  {
+    "name": "amtala",
+    "cc2": "03",
+    "latitude": 26.07786,
+    "longitude": 91.41794
+  },
+  {
+    "name": "amring",
+    "cc2": "03",
+    "latitude": 25.74316,
+    "longitude": 92.81478
+  },
+  {
+    "name": "amlakhi",
+    "cc2": "03",
+    "latitude": 25.94728,
+    "longitude": 93.50971
+  },
+  {
+    "name": "amingaon",
+    "cc2": "03",
+    "latitude": 26.18491,
+    "longitude": 91.6786
+  },
+  {
+    "name": "amguri bazar",
+    "cc2": "03",
+    "latitude": 26.63524,
+    "longitude": 90.56418
+  },
+  {
+    "name": "amguri",
+    "cc2": "03",
+    "latitude": 26.81482,
+    "longitude": 94.52614
+  },
+  {
+    "name": "amguri",
+    "cc2": "03",
+    "latitude": 26.57122,
+    "longitude": 93.05111
+  },
+  {
+    "name": "ahomgaon",
+    "cc2": "03",
+    "latitude": 26.72605,
+    "longitude": 94.12172
+  },
+  {
+    "name": "ahataguri",
+    "cc2": "03",
+    "latitude": 26.83333,
+    "longitude": 93.86667
+  },
+  {
+    "name": "agrong",
+    "cc2": "03",
+    "latitude": 26.59643,
+    "longitude": 90.73176
+  },
+  {
+    "name": "agia",
+    "cc2": "03",
+    "latitude": 26.08954,
+    "longitude": 90.56203
+  },
+  {
+    "name": "agamani",
+    "cc2": "03",
+    "latitude": 26.20166,
+    "longitude": 89.77456
+  },
+  {
+    "name": "abhayapuri",
+    "cc2": "03",
+    "latitude": 26.32255,
+    "longitude": 90.68526
+  },
+  {
+    "name": "abhaipur",
+    "cc2": "03",
+    "latitude": 27.0326,
+    "longitude": 94.3243
+  },
+  {
+    "name": "barpeta road",
+    "cc2": "03",
+    "latitude": 26.50284,
+    "longitude": 90.96937
+  },
+  {
+    "name": "morigaon",
+    "cc2": "03",
+    "latitude": 26.24908,
+    "longitude": 92.34764
+  },
+  {
+    "name": "silapathar",
+    "cc2": "03",
+    "latitude": 27.59441,
+    "longitude": 94.72402
+  },
+  {
+    "name": "sarupathar",
+    "cc2": "03",
+    "latitude": 26.206,
+    "longitude": 96.81
+  },
+  {
+    "name": "lumding railway colony",
+    "cc2": "03",
+    "latitude": 25.74903,
+    "longitude": 93.16998
+  },
+  {
+    "name": "jaraguri",
+    "cc2": "03",
+    "latitude": 26.49605,
+    "longitude": 89.88215
+  },
+  {
+    "name": "bajugaon",
+    "cc2": "03",
+    "latitude": 26.49019,
+    "longitude": 89.88959
+  },
+  {
+    "name": "damriguri",
+    "cc2": "03",
+    "latitude": 26.48082,
+    "longitude": 89.88959
+  },
+  {
+    "name": "nepalipara",
+    "cc2": "03",
+    "latitude": 26.46886,
+    "longitude": 89.88215
+  },
+  {
+    "name": "indrapur",
+    "cc2": "03",
+    "latitude": 26.47093,
+    "longitude": 89.89945
+  },
+  {
+    "name": "dawaguri number one",
+    "cc2": "03",
+    "latitude": 26.46348,
+    "longitude": 89.90127
+  },
+  {
+    "name": "dawaguri number three",
+    "cc2": "03",
+    "latitude": 26.458,
+    "longitude": 89.88844
+  },
+  {
+    "name": "mandalpara",
+    "cc2": "03",
+    "latitude": 26.48933,
+    "longitude": 89.90881
+  },
+  {
+    "name": "katirampara",
+    "cc2": "03",
+    "latitude": 26.49649,
+    "longitude": 89.9265
+  },
+  {
+    "name": "burichatan",
+    "cc2": "03",
+    "latitude": 26.47554,
+    "longitude": 89.92712
+  },
+  {
+    "name": "santhalpara",
+    "cc2": "03",
+    "latitude": 26.45344,
+    "longitude": 89.92875
+  },
+  {
+    "name": "palasguri",
+    "cc2": "03",
+    "latitude": 26.47429,
+    "longitude": 89.93475
+  },
+  {
+    "name": "hachraobari",
+    "cc2": "03",
+    "latitude": 26.48616,
+    "longitude": 89.94754
+  },
+  {
+    "name": "serfanguri",
+    "cc2": "03",
+    "latitude": 26.46314,
+    "longitude": 89.94778
+  },
+  {
+    "name": "matipara",
+    "cc2": "03",
+    "latitude": 26.49798,
+    "longitude": 89.95215
+  },
+  {
+    "name": "malaguri",
+    "cc2": "03",
+    "latitude": 26.47341,
+    "longitude": 89.95804
+  },
+  {
+    "name": "pakriguri",
+    "cc2": "03",
+    "latitude": 26.46425,
+    "longitude": 89.97022
+  },
+  {
+    "name": "panwari",
+    "cc2": "03",
+    "latitude": 26.48659,
+    "longitude": 89.95513
+  },
+  {
+    "name": "barjabil",
+    "cc2": "03",
+    "latitude": 26.49067,
+    "longitude": 89.95893
+  },
+  {
+    "name": "daikarguri",
+    "cc2": "03",
+    "latitude": 26.49264,
+    "longitude": 89.96532
+  },
+  {
+    "name": "oksiguri",
+    "cc2": "03",
+    "latitude": 26.45026,
+    "longitude": 89.97046
+  },
+  {
+    "name": "nepalpara",
+    "cc2": "03",
+    "latitude": 26.45949,
+    "longitude": 89.98021
+  },
+  {
+    "name": "saljuri",
+    "cc2": "03",
+    "latitude": 26.49649,
+    "longitude": 89.98079
+  },
+  {
+    "name": "kendanapara",
+    "cc2": "03",
+    "latitude": 26.49514,
+    "longitude": 89.98992
+  },
+  {
+    "name": "balimari",
+    "cc2": "03",
+    "latitude": 26.48817,
+    "longitude": 89.98468
+  },
+  {
+    "name": "bhaulaguri",
+    "cc2": "03",
+    "latitude": 26.47198,
+    "longitude": 89.98478
+  },
+  {
+    "name": "dhaulaguri",
+    "cc2": "03",
+    "latitude": 26.46843,
+    "longitude": 89.99371
+  },
+  {
+    "name": "kadamguri",
+    "cc2": "03",
+    "latitude": 26.45589,
+    "longitude": 89.99737
+  },
+  {
+    "name": "shilbaji",
+    "cc2": "03",
+    "latitude": 26.47957,
+    "longitude": 89.9915
+  },
+  {
+    "name": "resamguri",
+    "cc2": "03",
+    "latitude": 26.47602,
+    "longitude": 89.98929
+  },
+  {
+    "name": "dolgaon",
+    "cc2": "03",
+    "latitude": 26.44008,
+    "longitude": 89.99645
+  },
+  {
+    "name": "bansbari",
+    "cc2": "03",
+    "latitude": 26.42182,
+    "longitude": 89.99487
+  },
+  {
+    "name": "markhan",
+    "cc2": "03",
+    "latitude": 26.41606,
+    "longitude": 89.99568
+  },
+  {
+    "name": "habrubil",
+    "cc2": "03",
+    "latitude": 26.44527,
+    "longitude": 89.9855
+  },
+  {
+    "name": "bhatupara",
+    "cc2": "03",
+    "latitude": 26.43196,
+    "longitude": 89.9757
+  },
+  {
+    "name": "kamarpara",
+    "cc2": "03",
+    "latitude": 26.42994,
+    "longitude": 89.96561
+  },
+  {
+    "name": "padmabil",
+    "cc2": "03",
+    "latitude": 26.43633,
+    "longitude": 89.96344
+  },
+  {
+    "name": "sahebpara",
+    "cc2": "03",
+    "latitude": 26.44507,
+    "longitude": 89.9719
+  },
+  {
+    "name": "sahajuri",
+    "cc2": "03",
+    "latitude": 26.43417,
+    "longitude": 89.95234
+  },
+  {
+    "name": "harwaphuta",
+    "cc2": "03",
+    "latitude": 26.44493,
+    "longitude": 89.91568
+  },
+  {
+    "name": "hakma",
+    "cc2": "03",
+    "latitude": 26.42768,
+    "longitude": 89.94937
+  },
+  {
+    "name": "alakjhar",
+    "cc2": "03",
+    "latitude": 26.4248,
+    "longitude": 89.94312
+  },
+  {
+    "name": "matiajuri",
+    "cc2": "03",
+    "latitude": 26.44046,
+    "longitude": 89.93476
+  },
+  {
+    "name": "ranguapara",
+    "cc2": "03",
+    "latitude": 26.43119,
+    "longitude": 89.93058
+  },
+  {
+    "name": "chandpur",
+    "cc2": "03",
+    "latitude": 26.42148,
+    "longitude": 89.93019
+  },
+  {
+    "name": "rangangaon",
+    "cc2": "03",
+    "latitude": 26.42499,
+    "longitude": 89.92952
+  },
+  {
+    "name": "sitangtola",
+    "cc2": "03",
+    "latitude": 26.42999,
+    "longitude": 89.91626
+  },
+  {
+    "name": "saharghutu",
+    "cc2": "03",
+    "latitude": 26.4358,
+    "longitude": 89.90449
+  },
+  {
+    "name": "dawaguri number two",
+    "cc2": "03",
+    "latitude": 26.45108,
+    "longitude": 89.90987
+  },
+  {
+    "name": "nayapara",
+    "cc2": "03",
+    "latitude": 26.45113,
+    "longitude": 89.89969
+  },
+  {
+    "name": "damriguri",
+    "cc2": "03",
+    "latitude": 26.42427,
+    "longitude": 89.90641
+  },
+  {
+    "name": "srirampur",
+    "cc2": "03",
+    "latitude": 26.42864,
+    "longitude": 89.89988
+  },
+  {
+    "name": "bhairiguri",
+    "cc2": "03",
+    "latitude": 26.44411,
+    "longitude": 89.91568
+  },
+  {
+    "name": "simaltapu",
+    "cc2": "03",
+    "latitude": 26.43436,
+    "longitude": 89.87379
+  },
+  {
+    "name": "khoiraghutu",
+    "cc2": "03",
+    "latitude": 26.42249,
+    "longitude": 89.87696
+  },
+  {
+    "name": "majer dabri",
+    "cc2": "03",
+    "latitude": 26.41423,
+    "longitude": 89.87196
+  },
+  {
+    "name": "bhomrabil",
+    "cc2": "03",
+    "latitude": 26.46516,
+    "longitude": 89.90406
+  },
+  {
+    "name": "sukan bamnai",
+    "cc2": "03",
+    "latitude": 26.4138,
+    "longitude": 89.93985
+  },
+  {
+    "name": "failaguri",
+    "cc2": "03",
+    "latitude": 26.39621,
+    "longitude": 89.87263
+  },
+  {
+    "name": "noishapur",
+    "cc2": "03",
+    "latitude": 26.3767,
+    "longitude": 89.86572
+  },
+  {
+    "name": "campbellpur",
+    "cc2": "03",
+    "latitude": 26.38636,
+    "longitude": 89.87436
+  },
+  {
+    "name": "tilabani",
+    "cc2": "03",
+    "latitude": 26.39256,
+    "longitude": 89.88431
+  },
+  {
+    "name": "kacharigaon",
+    "cc2": "03",
+    "latitude": 26.36508,
+    "longitude": 89.85063
+  },
+  {
+    "name": "ranchapur",
+    "cc2": "03",
+    "latitude": 26.38886,
+    "longitude": 89.89877
+  },
+  {
+    "name": "shamaguri",
+    "cc2": "03",
+    "latitude": 26.4099,
+    "longitude": 89.90737
+  },
+  {
+    "name": "lalpara",
+    "cc2": "03",
+    "latitude": 26.38588,
+    "longitude": 89.91352
+  },
+  {
+    "name": "lotamari",
+    "cc2": "03",
+    "latitude": 26.39602,
+    "longitude": 89.91083
+  },
+  {
+    "name": "simaldahi",
+    "cc2": "03",
+    "latitude": 26.40539,
+    "longitude": 89.91381
+  },
+  {
+    "name": "rangiaghutu",
+    "cc2": "03",
+    "latitude": 26.3757,
+    "longitude": 89.91314
+  },
+  {
+    "name": "jacobpur",
+    "cc2": "03",
+    "latitude": 26.39957,
+    "longitude": 89.89776
+  },
+  {
+    "name": "machandoba",
+    "cc2": "03",
+    "latitude": 26.38886,
+    "longitude": 89.91934
+  },
+  {
+    "name": "shilghagri",
+    "cc2": "03",
+    "latitude": 26.40259,
+    "longitude": 89.92581
+  },
+  {
+    "name": "hespech",
+    "cc2": "03",
+    "latitude": 26.41027,
+    "longitude": 89.935
+  },
+  {
+    "name": "nilai jhora",
+    "cc2": "03",
+    "latitude": 26.39983,
+    "longitude": 89.94412
+  },
+  {
+    "name": "bamaijhora",
+    "cc2": "03",
+    "latitude": 26.3943,
+    "longitude": 89.99711
+  },
+  {
+    "name": "singimari",
+    "cc2": "03",
+    "latitude": 26.3959,
+    "longitude": 90.20022
+  },
+  {
+    "name": "amihora",
+    "cc2": "03",
+    "latitude": 26.35164,
+    "longitude": 89.99858
+  },
+  {
+    "name": "barabadha",
+    "cc2": "03",
+    "latitude": 26.36087,
+    "longitude": 89.90746
+  },
+  {
+    "name": "garopara",
+    "cc2": "03",
+    "latitude": 26.35784,
+    "longitude": 89.91539
+  },
+  {
+    "name": "mandarkati",
+    "cc2": "03",
+    "latitude": 26.34498,
+    "longitude": 89.89944
+  },
+  {
+    "name": "fadepur",
+    "cc2": "03",
+    "latitude": 26.35752,
+    "longitude": 89.90261
+  },
+  {
+    "name": "kuamahal",
+    "cc2": "03",
+    "latitude": 26.36694,
+    "longitude": 89.90986
+  },
+  {
+    "name": "guma",
+    "cc2": "03",
+    "latitude": 26.33084,
+    "longitude": 89.88486
+  },
+  {
+    "name": "bishanpur",
+    "cc2": "03",
+    "latitude": 26.3493,
+    "longitude": 89.88613
+  },
+  {
+    "name": "karlingpur",
+    "cc2": "03",
+    "latitude": 26.36742,
+    "longitude": 89.89146
+  },
+  {
+    "name": "joipur",
+    "cc2": "03",
+    "latitude": 26.36006,
+    "longitude": 89.88752
+  },
+  {
+    "name": "manikpur",
+    "cc2": "03",
+    "latitude": 26.37246,
+    "longitude": 89.88853
+  },
+  {
+    "name": "mechpara",
+    "cc2": "03",
+    "latitude": 26.332,
+    "longitude": 89.90064
+  },
+  {
+    "name": "grahampur",
+    "cc2": "03",
+    "latitude": 26.35228,
+    "longitude": 89.87071
+  },
+  {
+    "name": "bansipara",
+    "cc2": "03",
+    "latitude": 26.34065,
+    "longitude": 89.85077
+  },
+  {
+    "name": "kairapur",
+    "cc2": "03",
+    "latitude": 26.35934,
+    "longitude": 89.8708
+  },
+  {
+    "name": "palaskandi",
+    "cc2": "03",
+    "latitude": 26.36112,
+    "longitude": 89.86605
+  },
+  {
+    "name": "musalmanpara",
+    "cc2": "03",
+    "latitude": 26.34455,
+    "longitude": 89.86153
+  },
+  {
+    "name": "pokalagi",
+    "cc2": "03",
+    "latitude": 26.35234,
+    "longitude": 89.84484
+  },
+  {
+    "name": "kamandanga",
+    "cc2": "03",
+    "latitude": 26.36645,
+    "longitude": 89.84183
+  },
+  {
+    "name": "garopara",
+    "cc2": "03",
+    "latitude": 26.34373,
+    "longitude": 89.82429
+  },
+  {
+    "name": "sonali dabri",
+    "cc2": "03",
+    "latitude": 26.34877,
+    "longitude": 89.82703
+  },
+  {
+    "name": "jongbandha",
+    "cc2": "03",
+    "latitude": 26.36636,
+    "longitude": 89.82381
+  },
+  {
+    "name": "ramnathpur",
+    "cc2": "03",
+    "latitude": 26.33196,
+    "longitude": 89.84519
+  },
+  {
+    "name": "baghdokra",
+    "cc2": "03",
+    "latitude": 26.35296,
+    "longitude": 89.79902
+  },
+  {
+    "name": "bara laokuti",
+    "cc2": "03",
+    "latitude": 26.33709,
+    "longitude": 89.81232
+  },
+  {
+    "name": "banjaguri",
+    "cc2": "03",
+    "latitude": 26.34972,
+    "longitude": 89.79649
+  },
+  {
+    "name": "kaimati",
+    "cc2": "03",
+    "latitude": 26.31859,
+    "longitude": 89.7843
+  },
+  {
+    "name": "pakriguri",
+    "cc2": "03",
+    "latitude": 26.31448,
+    "longitude": 89.80658
+  },
+  {
+    "name": "belpara",
+    "cc2": "03",
+    "latitude": 26.32341,
+    "longitude": 89.8055
+  },
+  {
+    "name": "kaimari",
+    "cc2": "03",
+    "latitude": 26.29543,
+    "longitude": 89.82778
+  },
+  {
+    "name": "kalachanpara",
+    "cc2": "03",
+    "latitude": 26.31943,
+    "longitude": 89.82783
+  },
+  {
+    "name": "sagunchara",
+    "cc2": "03",
+    "latitude": 26.32196,
+    "longitude": 89.83133
+  },
+  {
+    "name": "taluagaon",
+    "cc2": "03",
+    "latitude": 26.32205,
+    "longitude": 89.83965
+  },
+  {
+    "name": "natabari",
+    "cc2": "03",
+    "latitude": 26.30734,
+    "longitude": 89.85413
+  },
+  {
+    "name": "latabari",
+    "cc2": "03",
+    "latitude": 26.30538,
+    "longitude": 89.85726
+  },
+  {
+    "name": "aksiguri",
+    "cc2": "03",
+    "latitude": 26.32032,
+    "longitude": 89.85637
+  },
+  {
+    "name": "dhutramari",
+    "cc2": "03",
+    "latitude": 26.3306,
+    "longitude": 89.86099
+  },
+  {
+    "name": "sarpamari",
+    "cc2": "03",
+    "latitude": 26.30729,
+    "longitude": 89.86664
+  },
+  {
+    "name": "haripur",
+    "cc2": "03",
+    "latitude": 26.32289,
+    "longitude": 89.87398
+  },
+  {
+    "name": "khasua",
+    "cc2": "03",
+    "latitude": 26.32065,
+    "longitude": 89.87253
+  },
+  {
+    "name": "bherbherigaon",
+    "cc2": "03",
+    "latitude": 26.30813,
+    "longitude": 89.87678
+  },
+  {
+    "name": "lalmati",
+    "cc2": "03",
+    "latitude": 26.30523,
+    "longitude": 89.8857
+  },
+  {
+    "name": "barajangaon",
+    "cc2": "03",
+    "latitude": 26.3294,
+    "longitude": 89.88674
+  },
+  {
+    "name": "duibohin alma",
+    "cc2": "03",
+    "latitude": 26.28381,
+    "longitude": 89.99279
+  },
+  {
+    "name": "barjhora",
+    "cc2": "03",
+    "latitude": 26.27653,
+    "longitude": 89.97155
+  },
+  {
+    "name": "harjhora",
+    "cc2": "03",
+    "latitude": 26.25985,
+    "longitude": 89.98523
+  },
+  {
+    "name": "bhaorajhora",
+    "cc2": "03",
+    "latitude": 26.25896,
+    "longitude": 89.97593
+  },
+  {
+    "name": "hauriajhora",
+    "cc2": "03",
+    "latitude": 26.25121,
+    "longitude": 89.96939
+  },
+  {
+    "name": "sechapani",
+    "cc2": "03",
+    "latitude": 26.28781,
+    "longitude": 89.89451
+  },
+  {
+    "name": "santhalpara",
+    "cc2": "03",
+    "latitude": 26.27881,
+    "longitude": 89.90335
+  },
+  {
+    "name": "daldali",
+    "cc2": "03",
+    "latitude": 26.26952,
+    "longitude": 89.89924
+  },
+  {
+    "name": "rabhapara",
+    "cc2": "03",
+    "latitude": 26.25532,
+    "longitude": 89.88569
+  },
+  {
+    "name": "malanduba",
+    "cc2": "03",
+    "latitude": 26.2527,
+    "longitude": 89.87775
+  },
+  {
+    "name": "kursakati",
+    "cc2": "03",
+    "latitude": 26.2675,
+    "longitude": 89.87863
+  },
+  {
+    "name": "masujhora",
+    "cc2": "03",
+    "latitude": 26.27349,
+    "longitude": 89.88013
+  },
+  {
+    "name": "alakjhari",
+    "cc2": "03",
+    "latitude": 26.257,
+    "longitude": 89.87341
+  },
+  {
+    "name": "petla bhati",
+    "cc2": "03",
+    "latitude": 26.25691,
+    "longitude": 89.85655
+  },
+  {
+    "name": "kumarganj",
+    "cc2": "03",
+    "latitude": 26.27185,
+    "longitude": 89.8692
+  },
+  {
+    "name": "petla maidhya",
+    "cc2": "03",
+    "latitude": 26.27326,
+    "longitude": 89.85683
+  },
+  {
+    "name": "petla",
+    "cc2": "03",
+    "latitude": 26.25149,
+    "longitude": 89.85094
+  },
+  {
+    "name": "petla ujan",
+    "cc2": "03",
+    "latitude": 26.29269,
+    "longitude": 89.8728
+  },
+  {
+    "name": "lohajani",
+    "cc2": "03",
+    "latitude": 26.25892,
+    "longitude": 89.82461
+  },
+  {
+    "name": "bater",
+    "cc2": "03",
+    "latitude": 26.27518,
+    "longitude": 89.81331
+  },
+  {
+    "name": "atgharitari",
+    "cc2": "03",
+    "latitude": 26.25294,
+    "longitude": 89.80233
+  },
+  {
+    "name": "tengnarpat",
+    "cc2": "03",
+    "latitude": 26.28872,
+    "longitude": 89.80116
+  },
+  {
+    "name": "bidyardabri",
+    "cc2": "03",
+    "latitude": 26.26489,
+    "longitude": 89.78656
+  },
+  {
+    "name": "dighaltari",
+    "cc2": "03",
+    "latitude": 26.25565,
+    "longitude": 89.78636
+  },
+  {
+    "name": "mohamai",
+    "cc2": "03",
+    "latitude": 26.25257,
+    "longitude": 89.77501
+  },
+  {
+    "name": "pokalagi",
+    "cc2": "03",
+    "latitude": 26.26822,
+    "longitude": 89.7609
+  },
+  {
+    "name": "jinkata",
+    "cc2": "03",
+    "latitude": 26.24874,
+    "longitude": 89.75997
+  },
+  {
+    "name": "chhaguli",
+    "cc2": "03",
+    "latitude": 26.2841,
+    "longitude": 89.75679
+  },
+  {
+    "name": "tama",
+    "cc2": "03",
+    "latitude": 26.31145,
+    "longitude": 89.84063
+  },
+  {
+    "name": "amguri",
+    "cc2": "03",
+    "latitude": 26.62217,
+    "longitude": 90.23226
+  },
+  {
+    "name": "pathakata",
+    "cc2": "03",
+    "latitude": 26.50652,
+    "longitude": 90.09676
+  },
+  {
+    "name": "malandubi",
+    "cc2": "03",
+    "latitude": 26.71062,
+    "longitude": 90.47587
+  },
+  {
+    "name": "chhatibargaon",
+    "cc2": "03",
+    "latitude": 26.54421,
+    "longitude": 90.51766
+  },
+  {
+    "name": "ahompathar",
+    "cc2": "03",
+    "latitude": 26.50862,
+    "longitude": 90.88369
+  },
+  {
+    "name": "bhatipara",
+    "cc2": "03",
+    "latitude": 26.45347,
+    "longitude": 90.81633
+  },
+  {
+    "name": "pakhriguri",
+    "cc2": "03",
+    "latitude": 26.38906,
+    "longitude": 90.70965
+  },
+  {
+    "name": "tipkai",
+    "cc2": "03",
+    "latitude": 26.28974,
+    "longitude": 90.03253
+  },
+  {
+    "name": "duligaon",
+    "cc2": "03",
+    "latitude": 26.25825,
+    "longitude": 90.07661
+  },
+  {
+    "name": "duaapara",
+    "cc2": "03",
+    "latitude": 26.1217,
+    "longitude": 90.65324
+  },
+  {
+    "name": "tilapara",
+    "cc2": "03",
+    "latitude": 25.97471,
+    "longitude": 90.90085
+  },
+  {
+    "name": "agrophathal",
+    "cc2": "03",
+    "latitude": 25.75582,
+    "longitude": 90.90276
+  },
+  {
+    "name": "rangberam",
+    "cc2": "03",
+    "latitude": 25.72204,
+    "longitude": 90.82203
+  },
+  {
+    "name": "jalwagiri",
+    "cc2": "03",
+    "latitude": 25.71708,
+    "longitude": 90.72089
+  },
+  {
+    "name": "arimara",
+    "cc2": "03",
+    "latitude": 26.04437,
+    "longitude": 90.65753
+  },
+  {
+    "name": "hodakona",
+    "cc2": "03",
+    "latitude": 25.94723,
+    "longitude": 90.5602
+  },
+  {
+    "name": "daram",
+    "cc2": "03",
+    "latitude": 25.86135,
+    "longitude": 90.59646
+  },
+  {
+    "name": "garobhatkhoa",
+    "cc2": "03",
+    "latitude": 26.07891,
+    "longitude": 90.38406
+  },
+  {
+    "name": "banskata",
+    "cc2": "03",
+    "latitude": 25.95696,
+    "longitude": 90.04761
+  },
+  {
+    "name": "bogadol",
+    "cc2": "03",
+    "latitude": 25.9436,
+    "longitude": 90.17012
+  },
+  {
+    "name": "boldakgiri",
+    "cc2": "03",
+    "latitude": 25.82681,
+    "longitude": 90.13138
+  },
+  {
+    "name": "wathegiri",
+    "cc2": "03",
+    "latitude": 25.8686,
+    "longitude": 90.29837
+  },
+  {
+    "name": "chisimgiri",
+    "cc2": "03",
+    "latitude": 25.88215,
+    "longitude": 90.44112
+  },
+  {
+    "name": "khangrapara",
+    "cc2": "03",
+    "latitude": 25.99341,
+    "longitude": 90.44761
+  },
+  {
+    "name": "nongiapam",
+    "cc2": "03",
+    "latitude": 25.78742,
+    "longitude": 91.19412
+  },
+  {
+    "name": "nalapara",
+    "cc2": "03",
+    "latitude": 25.89024,
+    "longitude": 91.18393
+  },
+  {
+    "name": "bandapara",
+    "cc2": "03",
+    "latitude": 25.94607,
+    "longitude": 91.10549
+  },
+  {
+    "name": "damali",
+    "cc2": "03",
+    "latitude": 25.91372,
+    "longitude": 91.32618
+  },
+  {
+    "name": "halbari",
+    "cc2": "03",
+    "latitude": 25.96025,
+    "longitude": 91.49148
+  },
+  {
+    "name": "larmare",
+    "cc2": "03",
+    "latitude": 25.94075,
+    "longitude": 91.62974
+  },
+  {
+    "name": "dosatan",
+    "cc2": "03",
+    "latitude": 26.32497,
+    "longitude": 91.90805
+  },
+  {
+    "name": "muktapur",
+    "cc2": "03",
+    "latitude": 26.42114,
+    "longitude": 91.73743
+  },
+  {
+    "name": "satgaon",
+    "cc2": "03",
+    "latitude": 26.15347,
+    "longitude": 91.84512
+  },
+  {
+    "name": "amranga",
+    "cc2": "03",
+    "latitude": 26.03648,
+    "longitude": 91.52649
+  },
+  {
+    "name": "kulhati",
+    "cc2": "03",
+    "latitude": 26.24565,
+    "longitude": 91.57346
+  },
+  {
+    "name": "dekapara",
+    "cc2": "03",
+    "latitude": 26.40962,
+    "longitude": 91.35233
+  },
+  {
+    "name": "birpara",
+    "cc2": "03",
+    "latitude": 26.02141,
+    "longitude": 91.26237
+  },
+  {
+    "name": "dualasal",
+    "cc2": "03",
+    "latitude": 26.26825,
+    "longitude": 91.22913
+  },
+  {
+    "name": "rajapukhuri",
+    "cc2": "03",
+    "latitude": 26.09586,
+    "longitude": 91.48483
+  },
+  {
+    "name": "alikakh",
+    "cc2": "03",
+    "latitude": 26.10783,
+    "longitude": 91.27079
+  },
+  {
+    "name": "amrikhoa",
+    "cc2": "03",
+    "latitude": 26.3489,
+    "longitude": 91.25084
+  },
+  {
+    "name": "simila",
+    "cc2": "03",
+    "latitude": 26.01698,
+    "longitude": 91.15867
+  },
+  {
+    "name": "bartala",
+    "cc2": "03",
+    "latitude": 26.26825,
+    "longitude": 91.31732
+  },
+  {
+    "name": "telipara",
+    "cc2": "03",
+    "latitude": 26.02966,
+    "longitude": 91.07973
+  },
+  {
+    "name": "durgapur",
+    "cc2": "03",
+    "latitude": 26.3011,
+    "longitude": 91.07928
+  },
+  {
+    "name": "boriagaon",
+    "cc2": "03",
+    "latitude": 26.69906,
+    "longitude": 91.27782
+  },
+  {
+    "name": "bijni",
+    "cc2": "03",
+    "latitude": 26.55725,
+    "longitude": 91.06732
+  },
+  {
+    "name": "kharua",
+    "cc2": "03",
+    "latitude": 26.55503,
+    "longitude": 91.34828
+  },
+  {
+    "name": "ghoramara",
+    "cc2": "03",
+    "latitude": 26.5927,
+    "longitude": 91.49497
+  },
+  {
+    "name": "shonkaria",
+    "cc2": "03",
+    "latitude": 26.45709,
+    "longitude": 91.46528
+  },
+  {
+    "name": "gagnikhat",
+    "cc2": "03",
+    "latitude": 26.53775,
+    "longitude": 91.50871
+  },
+  {
+    "name": "baraigaon",
+    "cc2": "03",
+    "latitude": 26.60998,
+    "longitude": 91.57739
+  },
+  {
+    "name": "goteswar",
+    "cc2": "03",
+    "latitude": 26.5311,
+    "longitude": 91.72674
+  },
+  {
+    "name": "dagiapara",
+    "cc2": "03",
+    "latitude": 26.47615,
+    "longitude": 91.84905
+  },
+  {
+    "name": "panari",
+    "cc2": "03",
+    "latitude": 26.54838,
+    "longitude": 91.83664
+  },
+  {
+    "name": "benghari",
+    "cc2": "03",
+    "latitude": 26.74027,
+    "longitude": 91.9687
+  },
+  {
+    "name": "kundarbilgaon",
+    "cc2": "03",
+    "latitude": 26.84131,
+    "longitude": 92.00371
+  },
+  {
+    "name": "barigaon dighalipara",
+    "cc2": "03",
+    "latitude": 26.63591,
+    "longitude": 92.35337
+  },
+  {
+    "name": "gandhapukhuri",
+    "cc2": "03",
+    "latitude": 26.63901,
+    "longitude": 92.18497
+  },
+  {
+    "name": "hapagaon",
+    "cc2": "03",
+    "latitude": 26.73606,
+    "longitude": 92.14641
+  },
+  {
+    "name": "baralimarigaon",
+    "cc2": "03",
+    "latitude": 26.3514,
+    "longitude": 92.15882
+  },
+  {
+    "name": "goramari",
+    "cc2": "03",
+    "latitude": 26.34741,
+    "longitude": 92.29265
+  },
+  {
+    "name": "nij charaibahi",
+    "cc2": "03",
+    "latitude": 26.29201,
+    "longitude": 92.45485
+  },
+  {
+    "name": "balikuchi",
+    "cc2": "03",
+    "latitude": 26.15419,
+    "longitude": 92.481
+  },
+  {
+    "name": "maji",
+    "cc2": "03",
+    "latitude": 25.90137,
+    "longitude": 92.34716
+  },
+  {
+    "name": "longpai",
+    "cc2": "03",
+    "latitude": 25.80387,
+    "longitude": 92.49163
+  },
+  {
+    "name": "mawshaladiang",
+    "cc2": "03",
+    "latitude": 25.78349,
+    "longitude": 92.18364
+  },
+  {
+    "name": "bahadurpur",
+    "cc2": "03",
+    "latitude": 24.75598,
+    "longitude": 92.37376
+  },
+  {
+    "name": "sherpur",
+    "cc2": "03",
+    "latitude": 24.66819,
+    "longitude": 92.34933
+  },
+  {
+    "name": "baghadahar",
+    "cc2": "03",
+    "latitude": 24.60903,
+    "longitude": 92.33101
+  },
+  {
+    "name": "dalgram",
+    "cc2": "03",
+    "latitude": 24.56972,
+    "longitude": 92.41193
+  },
+  {
+    "name": "singura",
+    "cc2": "03",
+    "latitude": 24.70941,
+    "longitude": 92.47261
+  },
+  {
+    "name": "sidhung",
+    "cc2": "03",
+    "latitude": 24.51361,
+    "longitude": 92.34552
+  },
+  {
+    "name": "bara bazari",
+    "cc2": "03",
+    "latitude": 24.43804,
+    "longitude": 92.32223
+  },
+  {
+    "name": "pathakhuri",
+    "cc2": "03",
+    "latitude": 24.37926,
+    "longitude": 92.40048
+  },
+  {
+    "name": "belsiri",
+    "cc2": "03",
+    "latitude": 26.79035,
+    "longitude": 92.53329
+  },
+  {
+    "name": "thowbanga",
+    "cc2": "03",
+    "latitude": 26.81339,
+    "longitude": 92.89579
+  },
+  {
+    "name": "deka chuk",
+    "cc2": "03",
+    "latitude": 26.72343,
+    "longitude": 92.90333
+  },
+  {
+    "name": "jangar choburi",
+    "cc2": "03",
+    "latitude": 26.68177,
+    "longitude": 92.68396
+  },
+  {
+    "name": "nagaon",
+    "cc2": "03",
+    "latitude": 26.7057,
+    "longitude": 92.5878
+  },
+  {
+    "name": "sonarihola",
+    "cc2": "03",
+    "latitude": 26.54838,
+    "longitude": 92.88073
+  },
+  {
+    "name": "sakmuthigoan",
+    "cc2": "03",
+    "latitude": 26.56921,
+    "longitude": 92.97955
+  },
+  {
+    "name": "panigaon",
+    "cc2": "03",
+    "latitude": 26.38345,
+    "longitude": 92.79448
+  },
+  {
+    "name": "kakaman",
+    "cc2": "03",
+    "latitude": 26.2901,
+    "longitude": 92.57199
+  },
+  {
+    "name": "mikirgaon",
+    "cc2": "03",
+    "latitude": 26.14073,
+    "longitude": 92.69335
+  },
+  {
+    "name": "abongkethe",
+    "cc2": "03",
+    "latitude": 26.19674,
+    "longitude": 92.96147
+  },
+  {
+    "name": "borboha",
+    "cc2": "03",
+    "latitude": 26.01523,
+    "longitude": 92.92517
+  },
+  {
+    "name": "bagarigaon",
+    "cc2": "03",
+    "latitude": 25.96803,
+    "longitude": 92.60518
+  },
+  {
+    "name": "geredonga",
+    "cc2": "03",
+    "latitude": 25.90683,
+    "longitude": 92.93191
+  },
+  {
+    "name": "doiangmukh",
+    "cc2": "03",
+    "latitude": 25.80363,
+    "longitude": 92.94073
+  },
+  {
+    "name": "thangmo",
+    "cc2": "03",
+    "latitude": 25.65115,
+    "longitude": 92.65134
+  },
+  {
+    "name": "langklam",
+    "cc2": "03",
+    "latitude": 25.45407,
+    "longitude": 92.73795
+  },
+  {
+    "name": "lama disa",
+    "cc2": "03",
+    "latitude": 25.3462,
+    "longitude": 92.98741
+  },
+  {
+    "name": "malangpa",
+    "cc2": "03",
+    "latitude": 25.21799,
+    "longitude": 92.82782
+  },
+  {
+    "name": "chaikambao",
+    "cc2": "03",
+    "latitude": 25.20554,
+    "longitude": 92.98392
+  },
+  {
+    "name": "tingaon",
+    "cc2": "03",
+    "latitude": 25.0541,
+    "longitude": 92.57317
+  },
+  {
+    "name": "damchara",
+    "cc2": "03",
+    "latitude": 25.01209,
+    "longitude": 92.72616
+  },
+  {
+    "name": "bikrampur",
+    "cc2": "03",
+    "latitude": 24.92393,
+    "longitude": 92.65667
+  },
+  {
+    "name": "tikalpur",
+    "cc2": "03",
+    "latitude": 24.94947,
+    "longitude": 92.96292
+  },
+  {
+    "name": "karaikandi",
+    "cc2": "03",
+    "latitude": 24.86545,
+    "longitude": 92.86749
+  },
+  {
+    "name": "ganju basti",
+    "cc2": "03",
+    "latitude": 26.91206,
+    "longitude": 93.42206
+  },
+  {
+    "name": "manipur",
+    "cc2": "03",
+    "latitude": 24.81722,
+    "longitude": 92.95462
+  },
+  {
+    "name": "ramnagar",
+    "cc2": "03",
+    "latitude": 24.82552,
+    "longitude": 92.74665
+  },
+  {
+    "name": "hasanpur",
+    "cc2": "03",
+    "latitude": 24.84574,
+    "longitude": 92.5086
+  },
+  {
+    "name": "ramnagar",
+    "cc2": "03",
+    "latitude": 24.71298,
+    "longitude": 92.96707
+  },
+  {
+    "name": "sonbaraghat",
+    "cc2": "03",
+    "latitude": 24.75395,
+    "longitude": 92.84
+  },
+  {
+    "name": "boalipar",
+    "cc2": "03",
+    "latitude": 24.71868,
+    "longitude": 92.57913
+  },
+  {
+    "name": "rosekandi",
+    "cc2": "03",
+    "latitude": 24.69534,
+    "longitude": 92.71501
+  },
+  {
+    "name": "nagdirgram",
+    "cc2": "03",
+    "latitude": 24.66422,
+    "longitude": 92.86593
+  },
+  {
+    "name": "bagha bazar",
+    "cc2": "03",
+    "latitude": 24.53872,
+    "longitude": 92.83741
+  },
+  {
+    "name": "ganganagar",
+    "cc2": "03",
+    "latitude": 24.60769,
+    "longitude": 92.96395
+  },
+  {
+    "name": "rengte",
+    "cc2": "03",
+    "latitude": 24.48115,
+    "longitude": 92.75858
+  },
+  {
+    "name": "ganjakhauri",
+    "cc2": "03",
+    "latitude": 24.47337,
+    "longitude": 92.56461
+  },
+  {
+    "name": "vawklian",
+    "cc2": "03",
+    "latitude": 24.45366,
+    "longitude": 92.99507
+  },
+  {
+    "name": "mauchar",
+    "cc2": "03",
+    "latitude": 24.32349,
+    "longitude": 92.89809
+  },
+  {
+    "name": "darighat",
+    "cc2": "03",
+    "latitude": 24.3572,
+    "longitude": 92.55009
+  },
+  {
+    "name": "killarbogh",
+    "cc2": "03",
+    "latitude": 24.29652,
+    "longitude": 92.53142
+  },
+  {
+    "name": "bhairabi",
+    "cc2": "03",
+    "latitude": 24.19539,
+    "longitude": 92.54542
+  },
+  {
+    "name": "thindawl",
+    "cc2": "03",
+    "latitude": 24.17827,
+    "longitude": 92.70049
+  },
+  {
+    "name": "phatika",
+    "cc2": "03",
+    "latitude": 26.74068,
+    "longitude": 93.20476
+  },
+  {
+    "name": "mathani",
+    "cc2": "03",
+    "latitude": 26.61992,
+    "longitude": 93.51403
+  },
+  {
+    "name": "bachagaon",
+    "cc2": "03",
+    "latitude": 26.59303,
+    "longitude": 93.4506
+  },
+  {
+    "name": "sildubi",
+    "cc2": "03",
+    "latitude": 26.5844,
+    "longitude": 93.31005
+  },
+  {
+    "name": "bi ingli",
+    "cc2": "03",
+    "latitude": 26.46973,
+    "longitude": 93.43081
+  },
+  {
+    "name": "dijugaon",
+    "cc2": "03",
+    "latitude": 26.52148,
+    "longitude": 93.38362
+  },
+  {
+    "name": "habe",
+    "cc2": "03",
+    "latitude": 26.42863,
+    "longitude": 93.08171
+  },
+  {
+    "name": "mikirgaon",
+    "cc2": "03",
+    "latitude": 26.36215,
+    "longitude": 93.25017
+  },
+  {
+    "name": "sonarijangaon",
+    "cc2": "03",
+    "latitude": 26.22391,
+    "longitude": 93.13684
+  },
+  {
+    "name": "kangjonggaon",
+    "cc2": "03",
+    "latitude": 26.23847,
+    "longitude": 93.27984
+  },
+  {
+    "name": "himaigaon",
+    "cc2": "03",
+    "latitude": 26.09495,
+    "longitude": 93.19248
+  },
+  {
+    "name": "inglinggaon",
+    "cc2": "03",
+    "latitude": 26.19154,
+    "longitude": 93.34198
+  },
+  {
+    "name": "bihar khun",
+    "cc2": "03",
+    "latitude": 25.95133,
+    "longitude": 93.19726
+  },
+  {
+    "name": "barlum",
+    "cc2": "03",
+    "latitude": 25.87161,
+    "longitude": 93.4774
+  },
+  {
+    "name": "burabe",
+    "cc2": "03",
+    "latitude": 25.71379,
+    "longitude": 93.33232
+  },
+  {
+    "name": "masabdisa",
+    "cc2": "03",
+    "latitude": 25.66491,
+    "longitude": 93.16852
+  },
+  {
+    "name": "khelma",
+    "cc2": "03",
+    "latitude": 25.52867,
+    "longitude": 93.31308
+  },
+  {
+    "name": "lalkek",
+    "cc2": "03",
+    "latitude": 25.43234,
+    "longitude": 93.2772
+  },
+  {
+    "name": "bara bongiedisa",
+    "cc2": "03",
+    "latitude": 25.36526,
+    "longitude": 93.2044
+  },
+  {
+    "name": "kerhlam",
+    "cc2": "03",
+    "latitude": 25.01611,
+    "longitude": 93.18219
+  },
+  {
+    "name": "gopikot",
+    "cc2": "03",
+    "latitude": 25.08096,
+    "longitude": 93.15575
+  },
+  {
+    "name": "molong",
+    "cc2": "03",
+    "latitude": 24.97263,
+    "longitude": 93.14786
+  },
+  {
+    "name": "lalpani",
+    "cc2": "03",
+    "latitude": 24.81036,
+    "longitude": 93.08076
+  },
+  {
+    "name": "khuiarpom",
+    "cc2": "03",
+    "latitude": 27.19409,
+    "longitude": 94.00529
+  },
+  {
+    "name": "chesa",
+    "cc2": "03",
+    "latitude": 27.00813,
+    "longitude": 93.71127
+  },
+  {
+    "name": "nepaligaon",
+    "cc2": "03",
+    "latitude": 26.96892,
+    "longitude": 93.97613
+  },
+  {
+    "name": "dubia barigaon",
+    "cc2": "03",
+    "latitude": 26.90811,
+    "longitude": 93.70875
+  },
+  {
+    "name": "ghahigaon",
+    "cc2": "03",
+    "latitude": 26.8292,
+    "longitude": 93.51978
+  },
+  {
+    "name": "akogaon",
+    "cc2": "03",
+    "latitude": 26.57037,
+    "longitude": 93.92085
+  },
+  {
+    "name": "perhen",
+    "cc2": "03",
+    "latitude": 26.51609,
+    "longitude": 93.64995
+  },
+  {
+    "name": "bathegaon",
+    "cc2": "03",
+    "latitude": 26.46281,
+    "longitude": 93.72635
+  },
+  {
+    "name": "phangchagaon",
+    "cc2": "03",
+    "latitude": 26.42663,
+    "longitude": 93.82134
+  },
+  {
+    "name": "helaigaon",
+    "cc2": "03",
+    "latitude": 26.30249,
+    "longitude": 93.66151
+  },
+  {
+    "name": "langra basti",
+    "cc2": "03",
+    "latitude": 26.25089,
+    "longitude": 93.96347
+  },
+  {
+    "name": "hapheka bepari",
+    "cc2": "03",
+    "latitude": 26.18982,
+    "longitude": 93.5491
+  },
+  {
+    "name": "bura timung",
+    "cc2": "03",
+    "latitude": 26.17457,
+    "longitude": 93.65586
+  },
+  {
+    "name": "dhansiri",
+    "cc2": "03",
+    "latitude": 25.81536,
+    "longitude": 93.62085
+  },
+  {
+    "name": "garehaga chuk",
+    "cc2": "03",
+    "latitude": 27.18855,
+    "longitude": 94.15818
+  },
+  {
+    "name": "pahumaragaon",
+    "cc2": "03",
+    "latitude": 27.12377,
+    "longitude": 94.10988
+  },
+  {
+    "name": "perabharigaon",
+    "cc2": "03",
+    "latitude": 27.19459,
+    "longitude": 94.39643
+  },
+  {
+    "name": "chaorokiagaon",
+    "cc2": "03",
+    "latitude": 27.10401,
+    "longitude": 94.43541
+  },
+  {
+    "name": "koliagaon",
+    "cc2": "03",
+    "latitude": 27.03594,
+    "longitude": 94.23614
+  },
+  {
+    "name": "gayangaon",
+    "cc2": "03",
+    "latitude": 26.98873,
+    "longitude": 94.31354
+  },
+  {
+    "name": "abhaipuriagaon",
+    "cc2": "03",
+    "latitude": 26.71919,
+    "longitude": 94.42059
+  },
+  {
+    "name": "dhatakharia",
+    "cc2": "03",
+    "latitude": 26.66265,
+    "longitude": 94.14007
+  },
+  {
+    "name": "naolsalia",
+    "cc2": "03",
+    "latitude": 26.58909,
+    "longitude": 94.02973
+  },
+  {
+    "name": "lalunggaon",
+    "cc2": "03",
+    "latitude": 27.46062,
+    "longitude": 94.55245
+  },
+  {
+    "name": "bhebelingaon",
+    "cc2": "03",
+    "latitude": 27.54478,
+    "longitude": 94.63961
+  },
+  {
+    "name": "turibari",
+    "cc2": "03",
+    "latitude": 27.36144,
+    "longitude": 94.62959
+  },
+  {
+    "name": "burhi khow",
+    "cc2": "03",
+    "latitude": 27.2898,
+    "longitude": 94.92515
+  },
+  {
+    "name": "bogaigaon",
+    "cc2": "03",
+    "latitude": 27.22819,
+    "longitude": 94.7964
+  },
+  {
+    "name": "chakialgaon",
+    "cc2": "03",
+    "latitude": 27.15655,
+    "longitude": 94.72928
+  },
+  {
+    "name": "chakalia",
+    "cc2": "03",
+    "latitude": 27.13501,
+    "longitude": 94.82346
+  },
+  {
+    "name": "bhadra",
+    "cc2": "03",
+    "latitude": 27.03733,
+    "longitude": 94.82846
+  },
+  {
+    "name": "domgaon",
+    "cc2": "03",
+    "latitude": 27.07189,
+    "longitude": 94.56447
+  },
+  {
+    "name": "duliagaon",
+    "cc2": "03",
+    "latitude": 26.89306,
+    "longitude": 94.55145
+  },
+  {
+    "name": "rajabari",
+    "cc2": "03",
+    "latitude": 26.93714,
+    "longitude": 94.85451
+  },
+  {
+    "name": "betanigaon",
+    "cc2": "03",
+    "latitude": 27.27938,
+    "longitude": 95.02836
+  },
+  {
+    "name": "tipamia",
+    "cc2": "03",
+    "latitude": 27.26374,
+    "longitude": 95.17669
+  },
+  {
+    "name": "dipling",
+    "cc2": "03",
+    "latitude": 27.10481,
+    "longitude": 95.03693
+  },
+  {
+    "name": "biswanath chariali",
+    "cc2": "03",
+    "latitude": 26.72577,
+    "longitude": 93.14659
+  },
+  {
+    "name": "dhalpur",
+    "cc2": "03",
+    "latitude": 26.91943,
+    "longitude": 93.79663
+  },
+  {
+    "name": "jagiroad",
+    "cc2": "03",
+    "latitude": 26.20782,
+    "longitude": 92.40601
+  },
+  {
+    "name": "bordubi",
+    "cc2": "03",
+    "latitude": 27.39947,
+    "longitude": 95.31249
+  },
+  {
+    "name": "matia",
+    "cc2": "03",
+    "latitude": 26.09937,
+    "longitude": 90.7996
+  },
+  {
+    "name": "sonabil",
+    "cc2": "03",
+    "latitude": 26.81872,
+    "longitude": 92.64108
+  },
+  {
+    "name": "sarusajai",
+    "cc2": "03",
+    "latitude": 26.11033,
+    "longitude": 91.76141
+  },
+  {
+    "name": "chandrapur",
+    "cc2": "03",
+    "latitude": 26.22956,
+    "longitude": 91.91906
+  },
+  {
+    "name": "kahilipara",
+    "cc2": "03",
+    "latitude": 26.14473,
+    "longitude": 91.76837
+  },
+  {
+    "name": "panchgram",
+    "cc2": "03",
+    "latitude": 24.86144,
+    "longitude": 92.59631
+  },
+  {
+    "name": "pailapool",
+    "cc2": "03",
+    "latitude": 24.83035,
+    "longitude": 93.02479
+  },
+  {
+    "name": "barnagar banekuchi",
+    "cc2": "03",
+    "latitude": 26.47529,
+    "longitude": 91.38318
+  },
+  {
+    "name": "salakati",
+    "cc2": "03",
+    "latitude": 26.44419,
+    "longitude": 90.36405
+  },
+  {
+    "name": "narengi tinali",
+    "cc2": "03",
+    "latitude": 26.18202,
+    "longitude": 91.83209
+  },
+  {
+    "name": "harchura",
+    "cc2": "03",
+    "latitude": 26.77889,
+    "longitude": 92.77809
+  },
+  {
+    "name": "boginadi",
+    "cc2": "03",
+    "latitude": 27.41535,
+    "longitude": 94.68402
+  },
+  {
+    "name": "thelamara",
+    "cc2": "03",
+    "latitude": 26.69639,
+    "longitude": 92.55826
+  },
+  {
+    "name": "daflagarh",
+    "cc2": "03",
+    "latitude": 26.85353,
+    "longitude": 93.47975
+  },
+  {
+    "name": "naoboicha",
+    "cc2": "03",
+    "latitude": 27.41535,
+    "longitude": 94.68402
+  },
+  {
+    "name": "bhaga bazar",
+    "cc2": "03",
+    "latitude": 24.6853,
+    "longitude": 92.76105
+  },
+  {
+    "name": "bihiating gaon",
+    "cc2": "03",
+    "latitude": 27.54797,
+    "longitude": 95.42949
+  },
+  {
+    "name": "lamajuar",
+    "cc2": "03",
+    "latitude": 24.83946,
+    "longitude": 92.42248
+  },
+  {
+    "name": "chirukandi",
+    "cc2": "03",
+    "latitude": 25.01648,
+    "longitude": 92.54895
+  },
+  {
+    "name": "bhadoi pachali",
+    "cc2": "03",
+    "latitude": 27.30115,
+    "longitude": 95.34392
+  },
+  {
+    "name": "pukhuri",
+    "cc2": "03",
+    "latitude": 27.47071,
+    "longitude": 95.33671
+  },
+  {
+    "name": "pengri",
+    "cc2": "03",
+    "latitude": 27.42285,
+    "longitude": 95.7652
+  },
+  {
+    "name": "adabari",
+    "cc2": "03",
+    "latitude": 26.29274,
+    "longitude": 91.43259
+  },
+  {
+    "name": "deoduar",
+    "cc2": "03",
+    "latitude": 26.34618,
+    "longitude": 91.67728
+  },
+  {
+    "name": "dharapur",
+    "cc2": "03",
+    "latitude": 26.14953,
+    "longitude": 91.64202
+  },
+  {
+    "name": "hekra",
+    "cc2": "03",
+    "latitude": 26.51465,
+    "longitude": 91.50775
+  },
+  {
+    "name": "balajan",
+    "cc2": "03",
+    "latitude": 26.15365,
+    "longitude": 89.96485
+  },
+  {
+    "name": "kamalpur",
+    "cc2": "03",
+    "latitude": 26.34595,
+    "longitude": 91.67696
+  },
+  {
+    "name": "rangsapara",
+    "cc2": "03",
+    "latitude": 26.81291,
+    "longitude": 92.69317
+  },
+  {
+    "name": "rangsapara",
+    "cc2": "03",
+    "latitude": 25.84224,
+    "longitude": 91.17873
+  },
+  {
+    "name": "silobari",
+    "cc2": "03",
+    "latitude": 26.00443,
+    "longitude": 91.1377
+  },
+  {
+    "name": "malibaripathar",
+    "cc2": "03",
+    "latitude": 26.09894,
+    "longitude": 91.1425
+  },
+  {
+    "name": "tiniali",
+    "cc2": "03",
+    "latitude": 26.56566,
+    "longitude": 93.99422
+  },
+  {
+    "name": "kahikuchi",
+    "cc2": "03",
+    "latitude": 26.35886,
+    "longitude": 91.1329
+  },
+  {
+    "name": "nasbor",
+    "cc2": "03",
+    "latitude": 26.85912,
+    "longitude": 93.4019
+  },
+  {
+    "name": "baghjap",
+    "cc2": "03",
+    "latitude": 26.17,
+    "longitude": 92.21902
+  },
+  {
+    "name": "digjani",
+    "cc2": "03",
+    "latitude": 26.32815,
+    "longitude": 90.88182
+  },
+  {
+    "name": "kalgachia",
+    "cc2": "03",
+    "latitude": 26.35921,
+    "longitude": 90.87109
+  },
+  {
+    "name": "niz saldah",
+    "cc2": "03",
+    "latitude": 26.45285,
+    "longitude": 91.18571
+  },
+  {
+    "name": "bhergaon",
+    "cc2": "03",
+    "latitude": 26.70942,
+    "longitude": 92.36409
+  },
+  {
+    "name": "borigaon",
+    "cc2": "03",
+    "latitude": 26.36602,
+    "longitude": 92.453
+  },
+  {
+    "name": "amraghat",
+    "cc2": "03",
+    "latitude": 24.60375,
+    "longitude": 92.95631
+  },
+  {
+    "name": "masughat",
+    "cc2": "03",
+    "latitude": 24.86974,
+    "longitude": 92.77051
+  },
+  {
+    "name": "srikona",
+    "cc2": "03",
+    "latitude": 24.83516,
+    "longitude": 92.71579
+  },
+  {
+    "name": "badlapathar",
+    "cc2": "03",
+    "latitude": 26.25015,
+    "longitude": 90.97132
+  },
+  {
+    "name": "rani",
+    "cc2": "03",
+    "latitude": 25.80831,
+    "longitude": 91.29693
+  },
+  {
+    "name": "mandirapathar",
+    "cc2": "03",
+    "latitude": 26.04312,
+    "longitude": 91.10173
+  },
+  {
+    "name": "majirgaon",
+    "cc2": "03",
+    "latitude": 26.13485,
+    "longitude": 91.5681
+  },
+  {
+    "name": "kalitakuchi",
+    "cc2": "03",
+    "latitude": 26.15371,
+    "longitude": 91.84646
+  },
+  {
+    "name": "chariali",
+    "cc2": "03",
+    "latitude": 26.67262,
+    "longitude": 94.01081
+  },
+  {
+    "name": "jayrampur",
+    "cc2": "03",
+    "latitude": 27.35125,
+    "longitude": 96.01632
+  },
+  {
+    "name": "balipukhuri",
+    "cc2": "03",
+    "latitude": 27.01016,
+    "longitude": 93.7651
+  },
+  {
+    "name": "ratuwa",
+    "cc2": "03",
+    "latitude": 27.39183,
+    "longitude": 94.46324
+  },
+  {
+    "name": "paglahat",
+    "cc2": "03",
+    "latitude": 26.21046,
+    "longitude": 89.86396
+  },
+  {
+    "name": "rowmari",
+    "cc2": "03",
+    "latitude": 26.44279,
+    "longitude": 91.94202
+  },
+  {
+    "name": "amlighat",
+    "cc2": "03",
+    "latitude": 26.11735,
+    "longitude": 92.27474
+  },
+  {
+    "name": "patiladoha",
+    "cc2": "03",
+    "latitude": 26.50267,
+    "longitude": 90.80798
+  },
+  {
+    "name": "kheroni",
+    "cc2": "03",
+    "latitude": 25.85327,
+    "longitude": 92.88265
+  },
+  {
+    "name": "lamsakhang",
+    "cc2": "03",
+    "latitude": 25.79615,
+    "longitude": 93.04652
+  },
+  {
+    "name": "doboka",
+    "cc2": "03",
+    "latitude": 26.11647,
+    "longitude": 92.86374
+  },
+  {
+    "name": "mubarakbasti",
+    "cc2": "03",
+    "latitude": 26.09706,
+    "longitude": 92.87642
+  },
+  {
+    "name": "raikata islampur",
+    "cc2": "03",
+    "latitude": 25.94713,
+    "longitude": 92.76554
+  },
+  {
+    "name": "madhatari",
+    "cc2": "03",
+    "latitude": 26.58638,
+    "longitude": 92.96006
+  },
+  {
+    "name": "dumergur",
+    "cc2": "03",
+    "latitude": 26.32578,
+    "longitude": 90.74393
+  },
+  {
+    "name": "gerukabari",
+    "cc2": "03",
+    "latitude": 26.48557,
+    "longitude": 90.69391
+  },
+  {
+    "name": "bihpuria",
+    "cc2": "03",
+    "latitude": 27.01693,
+    "longitude": 93.91502
+  },
+  {
+    "name": "narikuchi",
+    "cc2": "03",
+    "latitude": 26.46095,
+    "longitude": 91.57173
+  },
+  {
+    "name": "banikuchi",
+    "cc2": "03",
+    "latitude": 26.50869,
+    "longitude": 91.89161
+  },
+  {
+    "name": "baneikuchi",
+    "cc2": "03",
+    "latitude": 26.50869,
+    "longitude": 91.89161
+  },
+  {
+    "name": "jalkhana",
+    "cc2": "03",
+    "latitude": 26.44626,
+    "longitude": 91.26744
+  },
+  {
+    "name": "nathkuchi",
+    "cc2": "03",
+    "latitude": 26.61509,
+    "longitude": 91.28477
+  },
+  {
+    "name": "dolagaon",
+    "cc2": "03",
+    "latitude": 26.31403,
+    "longitude": 90.76992
+  },
+  {
+    "name": "bhurkuchi",
+    "cc2": "03",
+    "latitude": 26.54042,
+    "longitude": 91.29151
+  },
+  {
+    "name": "sandheli",
+    "cc2": "03",
+    "latitude": 26.43886,
+    "longitude": 91.42656
+  },
+  {
+    "name": "helesa",
+    "cc2": "03",
+    "latitude": 26.33501,
+    "longitude": 91.62144
+  },
+  {
+    "name": "binoigutia",
+    "cc2": "03",
+    "latitude": 27.46607,
+    "longitude": 95.07809
+  },
+  {
+    "name": "betoni",
+    "cc2": "03",
+    "latitude": 26.91104,
+    "longitude": 93.84664
+  },
+  {
+    "name": "kharikatia",
+    "cc2": "03",
+    "latitude": 26.61699,
+    "longitude": 94.25513
+  },
+  {
+    "name": "gajpuria",
+    "cc2": "03",
+    "latitude": 26.8991,
+    "longitude": 94.54568
+  },
+  {
+    "name": "nowboisa",
+    "cc2": "03",
+    "latitude": 26.91301,
+    "longitude": 94.43107
+  },
+  {
+    "name": "chenijan",
+    "cc2": "03",
+    "latitude": 26.78223,
+    "longitude": 94.28719
+  },
+  {
+    "name": "jogibheta",
+    "cc2": "03",
+    "latitude": 26.75831,
+    "longitude": 94.28136
+  },
+  {
+    "name": "pengree",
+    "cc2": "03",
+    "latitude": 27.44329,
+    "longitude": 95.77374
+  },
+  {
+    "name": "philobari",
+    "cc2": "03",
+    "latitude": 27.55646,
+    "longitude": 95.69314
+  },
+  {
+    "name": "itakhola",
+    "cc2": "03",
+    "latitude": 25.97384,
+    "longitude": 92.91011
+  },
+  {
+    "name": "algpur",
+    "cc2": "03",
+    "latitude": 24.86681,
+    "longitude": 92.68721
+  },
+  {
+    "name": "sribar lakhipur",
+    "cc2": "03",
+    "latitude": 24.81928,
+    "longitude": 93.00097
+  },
+  {
+    "name": "gunjung",
+    "cc2": "03",
+    "latitude": 25.31935,
+    "longitude": 93.01187
+  },
+  {
+    "name": "mandia gaon",
+    "cc2": "03",
+    "latitude": 26.28321,
+    "longitude": 90.98446
+  },
+  {
+    "name": "nadiapara",
+    "cc2": "03",
+    "latitude": 26.01369,
+    "longitude": 91.26864
+  },
+  {
+    "name": "kumarikata",
+    "cc2": "03",
+    "latitude": 26.73059,
+    "longitude": 91.55641
+  },
+  {
+    "name": "halakura",
+    "cc2": "03",
+    "latitude": 26.25244,
+    "longitude": 89.77671
+  },
+  {
+    "name": "mayerchar",
+    "cc2": "03",
+    "latitude": 26.1661,
+    "longitude": 90.19106
+  },
+  {
+    "name": "chinatoli",
+    "cc2": "03",
+    "latitude": 27.03705,
+    "longitude": 93.96361
+  },
+  {
+    "name": "borghoria",
+    "cc2": "03",
+    "latitude": 26.60195,
+    "longitude": 93.79686
+  },
+  {
+    "name": "sapkata",
+    "cc2": "03",
+    "latitude": 26.28579,
+    "longitude": 91.38793
+  },
+  {
+    "name": "banglabari bagicha",
+    "cc2": "03",
+    "latitude": 26.4266,
+    "longitude": 90.21626
+  },
+  {
+    "name": "borkanda sapatgram",
+    "cc2": "03",
+    "latitude": 26.23087,
+    "longitude": 90.15295
+  },
+  {
+    "name": "chithilagram",
+    "cc2": "03",
+    "latitude": 26.40159,
+    "longitude": 90.16354
+  },
+  {
+    "name": "naharani",
+    "cc2": "03",
+    "latitude": 26.9008,
+    "longitude": 93.67627
+  },
+  {
+    "name": "dumunichowki",
+    "cc2": "03",
+    "latitude": 26.35015,
+    "longitude": 91.82362
+  },
+  {
+    "name": "bor ali",
+    "cc2": "03",
+    "latitude": 26.99318,
+    "longitude": 94.63341
+  },
+  {
+    "name": "dullavcherra",
+    "cc2": "03",
+    "latitude": 24.48581,
+    "longitude": 92.43415
+  },
+  {
+    "name": "algapur",
+    "cc2": "03",
+    "latitude": 24.86681,
+    "longitude": 92.68721
+  },
+  {
+    "name": "barmara",
+    "cc2": "03",
+    "latitude": 26.34058,
+    "longitude": 91.20017
+  },
+  {
+    "name": "kismat kuriha",
+    "cc2": "03",
+    "latitude": 26.32595,
+    "longitude": 91.50392
+  },
+  {
+    "name": "niz chenga",
+    "cc2": "03",
+    "latitude": 26.30543,
+    "longitude": 91.1713
+  },
+  {
+    "name": "bampara",
+    "cc2": "03",
+    "latitude": 26.29526,
+    "longitude": 91.1509
+  },
+  {
+    "name": "balarbitha",
+    "cc2": "03",
+    "latitude": 26.39068,
+    "longitude": 91.02152
+  },
+  {
+    "name": "budrutop",
+    "cc2": "03",
+    "latitude": 26.3167,
+    "longitude": 91
+  },
+  {
+    "name": "keotkuchi",
+    "cc2": "03",
+    "latitude": 26.30718,
+    "longitude": 91.05295
+  },
+  {
+    "name": "bilpar",
+    "cc2": "03",
+    "latitude": 26.56289,
+    "longitude": 91.2518
+  },
+  {
+    "name": "rampur",
+    "cc2": "03",
+    "latitude": 26.27644,
+    "longitude": 91.25995
+  },
+  {
+    "name": "kharadhara",
+    "cc2": "03",
+    "latitude": 26.36339,
+    "longitude": 91.11971
+  },
+  {
+    "name": "nagaon",
+    "cc2": "03",
+    "latitude": 26.30444,
+    "longitude": 91.11012
+  },
+  {
+    "name": "nasatra",
+    "cc2": "03",
+    "latitude": 26.32252,
+    "longitude": 91.05981
+  },
+  {
+    "name": "balapara",
+    "cc2": "03",
+    "latitude": 26.25854,
+    "longitude": 91.12811
+  },
+  {
+    "name": "niz barala",
+    "cc2": "03",
+    "latitude": 26.45309,
+    "longitude": 91.1569
+  },
+  {
+    "name": "chagalchari",
+    "cc2": "03",
+    "latitude": 26.45883,
+    "longitude": 91.1761
+  },
+  {
+    "name": "balajan",
+    "cc2": "03",
+    "latitude": 26.24848,
+    "longitude": 90.87466
+  },
+  {
+    "name": "badagaon",
+    "cc2": "03",
+    "latitude": 26.82231,
+    "longitude": 92.1792
+  },
+  {
+    "name": "satrakanara",
+    "cc2": "03",
+    "latitude": 26.25706,
+    "longitude": 90.91998
+  },
+  {
+    "name": "kadamtola",
+    "cc2": "03",
+    "latitude": 26.40833,
+    "longitude": 90.64909
+  },
+  {
+    "name": "kadamtola",
+    "cc2": "03",
+    "latitude": 26.64047,
+    "longitude": 91.46401
+  },
+  {
+    "name": "bhella",
+    "cc2": "03",
+    "latitude": 26.29886,
+    "longitude": 91.076
+  },
+  {
+    "name": "borbila",
+    "cc2": "03",
+    "latitude": 26.47283,
+    "longitude": 90.80828
+  },
+  {
+    "name": "kumargaon",
+    "cc2": "03",
+    "latitude": 26.45583,
+    "longitude": 90.7414
+  },
+  {
+    "name": "kahitama",
+    "cc2": "03",
+    "latitude": 26.61863,
+    "longitude": 90.89493
+  },
+  {
+    "name": "kharia",
+    "cc2": "03",
+    "latitude": 26.41135,
+    "longitude": 91.20973
+  },
+  {
+    "name": "bharegaon",
+    "cc2": "03",
+    "latitude": 26.29997,
+    "longitude": 91.6848
+  },
+  {
+    "name": "bharegaon",
+    "cc2": "03",
+    "latitude": 26.46946,
+    "longitude": 91.1389
+  },
+  {
+    "name": "khandakarpara",
+    "cc2": "03",
+    "latitude": 26.40193,
+    "longitude": 90.96043
+  },
+  {
+    "name": "piradhara",
+    "cc2": "03",
+    "latitude": 26.29819,
+    "longitude": 90.69273
+  },
+  {
+    "name": "naysatra",
+    "cc2": "03",
+    "latitude": 26.30796,
+    "longitude": 90.69334
+  },
+  {
+    "name": "kawadi",
+    "cc2": "03",
+    "latitude": 26.51026,
+    "longitude": 90.76873
+  },
+  {
+    "name": "solmara",
+    "cc2": "03",
+    "latitude": 26.37963,
+    "longitude": 91.29512
+  },
+  {
+    "name": "bosagaon",
+    "cc2": "03",
+    "latitude": 26.46306,
+    "longitude": 94.113
+  },
+  {
+    "name": "jamguri",
+    "cc2": "03",
+    "latitude": 26.38742,
+    "longitude": 93.96015
+  },
+  {
+    "name": "dhontola",
+    "cc2": "03",
+    "latitude": 26.16962,
+    "longitude": 93.93877
+  },
+  {
+    "name": "jugalati",
+    "cc2": "03",
+    "latitude": 26.67016,
+    "longitude": 93.66486
+  },
+  {
+    "name": "borpak",
+    "cc2": "03",
+    "latitude": 26.68584,
+    "longitude": 93.74097
+  },
+  {
+    "name": "gomariguri",
+    "cc2": "03",
+    "latitude": 26.32886,
+    "longitude": 94.08149
+  },
+  {
+    "name": "huramara",
+    "cc2": "03",
+    "latitude": 26.43249,
+    "longitude": 90.68917
+  },
+  {
+    "name": "moran gaon",
+    "cc2": "03",
+    "latitude": 26.69007,
+    "longitude": 94.41564
+  },
+  {
+    "name": "bogar gaon",
+    "cc2": "03",
+    "latitude": 26.58613,
+    "longitude": 94.15394
+  },
+  {
+    "name": "bhasanigaon",
+    "cc2": "03",
+    "latitude": 26.30722,
+    "longitude": 90.2276
+  },
+  {
+    "name": "tarangmukh",
+    "cc2": "03",
+    "latitude": 26.32326,
+    "longitude": 90.2444
+  },
+  {
+    "name": "sunduba",
+    "cc2": "03",
+    "latitude": 26.3594,
+    "longitude": 92.2249
+  },
+  {
+    "name": "pasuarkhal",
+    "cc2": "03",
+    "latitude": 26.23773,
+    "longitude": 90.18579
+  },
+  {
+    "name": "hakanamara",
+    "cc2": "03",
+    "latitude": 26.22046,
+    "longitude": 92.33449
+  },
+  {
+    "name": "dighalia gaon",
+    "cc2": "03",
+    "latitude": 27.28513,
+    "longitude": 95.21884
+  },
+  {
+    "name": "tulsimukh",
+    "cc2": "03",
+    "latitude": 26.24729,
+    "longitude": 92.68006
+  },
+  {
+    "name": "hatipara",
+    "cc2": "03",
+    "latitude": 26.31912,
+    "longitude": 92.68472
+  },
+  {
+    "name": "goroimari",
+    "cc2": "03",
+    "latitude": 26.03644,
+    "longitude": 92.72704
+  },
+  {
+    "name": "keseruguri",
+    "cc2": "03",
+    "latitude": 27.63894,
+    "longitude": 95.45943
+  },
+  {
+    "name": "adabari",
+    "cc2": "03",
+    "latitude": 26.16461,
+    "longitude": 91.6785
+  },
+  {
+    "name": "ghoga",
+    "cc2": "03",
+    "latitude": 26.30308,
+    "longitude": 91.43139
+  },
+  {
+    "name": "badaniakhia",
+    "cc2": "03",
+    "latitude": 26.30259,
+    "longitude": 91.42652
+  },
+  {
+    "name": "na sripuria",
+    "cc2": "03",
+    "latitude": 27.23658,
+    "longitude": 95.21802
+  },
+  {
+    "name": "kandhbari",
+    "cc2": "03",
+    "latitude": 26.30044,
+    "longitude": 91.40009
+  },
+  {
+    "name": "meruattari",
+    "cc2": "03",
+    "latitude": 26.30359,
+    "longitude": 91.37832
+  },
+  {
+    "name": "mukalmua",
+    "cc2": "03",
+    "latitude": 26.27431,
+    "longitude": 91.35416
+  },
+  {
+    "name": "kaplabori smy",
+    "cc2": "03",
+    "latitude": 26.2751,
+    "longitude": 91.29851
+  },
+  {
+    "name": "no.1.larkuchi",
+    "cc2": "03",
+    "latitude": 26.26299,
+    "longitude": 91.30114
+  },
+  {
+    "name": "dehingia gaon",
+    "cc2": "03",
+    "latitude": 27.14269,
+    "longitude": 94.8145
+  },
+  {
+    "name": "changmai gaon",
+    "cc2": "03",
+    "latitude": 27.01565,
+    "longitude": 94.66441
+  },
+  {
+    "name": "changmai gaon",
+    "cc2": "03",
+    "latitude": 26.74454,
+    "longitude": 94.34471
+  },
+  {
+    "name": "bamunbari",
+    "cc2": "03",
+    "latitude": 26.52574,
+    "longitude": 91.2843
+  },
+  {
+    "name": "doulashal",
+    "cc2": "03",
+    "latitude": 26.26792,
+    "longitude": 91.2278
+  },
+  {
+    "name": "santipur",
+    "cc2": "03",
+    "latitude": 26.58067,
+    "longitude": 91.45828
+  },
+  {
+    "name": "garai mari",
+    "cc2": "03",
+    "latitude": 26.30049,
+    "longitude": 91.23256
+  },
+  {
+    "name": "mazdia",
+    "cc2": "03",
+    "latitude": 26.30002,
+    "longitude": 91.22974
+  },
+  {
+    "name": "kukar par",
+    "cc2": "03",
+    "latitude": 26.30384,
+    "longitude": 91.21383
+  },
+  {
+    "name": "khongra",
+    "cc2": "03",
+    "latitude": 26.26988,
+    "longitude": 91.18571
+  },
+  {
+    "name": "senga",
+    "cc2": "03",
+    "latitude": 26.27901,
+    "longitude": 91.15653
+  },
+  {
+    "name": "bamunkuchi",
+    "cc2": "03",
+    "latitude": 26.50562,
+    "longitude": 91.22415
+  },
+  {
+    "name": "borbil",
+    "cc2": "03",
+    "latitude": 26.98932,
+    "longitude": 94.74975
+  },
+  {
+    "name": "durgapur",
+    "cc2": "03",
+    "latitude": 26.77543,
+    "longitude": 91.37345
+  },
+  {
+    "name": "bishnupur",
+    "cc2": "03",
+    "latitude": 26.16548,
+    "longitude": 91.73807
+  },
+  {
+    "name": "bamun baradi",
+    "cc2": "03",
+    "latitude": 26.32979,
+    "longitude": 91.06577
+  },
+  {
+    "name": "satra baradi",
+    "cc2": "03",
+    "latitude": 26.3285,
+    "longitude": 91.05023
+  },
+  {
+    "name": "loharkhatha",
+    "cc2": "03",
+    "latitude": 26.29708,
+    "longitude": 91.44105
+  },
+  {
+    "name": "batikuriha",
+    "cc2": "03",
+    "latitude": 26.29418,
+    "longitude": 91.09934
+  },
+  {
+    "name": "karemura",
+    "cc2": "03",
+    "latitude": 26.57707,
+    "longitude": 91.31439
+  },
+  {
+    "name": "nikashi",
+    "cc2": "03",
+    "latitude": 26.72943,
+    "longitude": 91.36288
+  },
+  {
+    "name": "kharija dolaigaon",
+    "cc2": "03",
+    "latitude": 26.49789,
+    "longitude": 90.57544
+  },
+  {
+    "name": "amguri nepali",
+    "cc2": "03",
+    "latitude": 27.33103,
+    "longitude": 95.24494
+  },
+  {
+    "name": "khursamari",
+    "cc2": "03",
+    "latitude": 26.34343,
+    "longitude": 90.44906
+  },
+  {
+    "name": "nachankuti",
+    "cc2": "03",
+    "latitude": 26.41232,
+    "longitude": 90.44096
+  },
+  {
+    "name": "panitola gaon",
+    "cc2": "03",
+    "latitude": 27.49313,
+    "longitude": 95.25669
+  },
+  {
+    "name": "khatua gaon",
+    "cc2": "03",
+    "latitude": 27.29509,
+    "longitude": 95.26583
+  },
+  {
+    "name": "tingrai gaon",
+    "cc2": "03",
+    "latitude": 27.46793,
+    "longitude": 95.56698
+  },
+  {
+    "name": "uriamguri",
+    "cc2": "03",
+    "latitude": 27.33259,
+    "longitude": 95.20318
+  },
+  {
+    "name": "takuamar",
+    "cc2": "03",
+    "latitude": 26.42177,
+    "longitude": 90.43619
+  },
+  {
+    "name": "merbil grant",
+    "cc2": "03",
+    "latitude": 27.30676,
+    "longitude": 95.22797
+  },
+  {
+    "name": "tarani pather gaon",
+    "cc2": "03",
+    "latitude": 27.28742,
+    "longitude": 95.27497
+  },
+  {
+    "name": "hudupara gaon",
+    "cc2": "03",
+    "latitude": 27.29431,
+    "longitude": 95.28673
+  },
+  {
+    "name": "dissang",
+    "cc2": "03",
+    "latitude": 27.28234,
+    "longitude": 95.13539
+  },
+  {
+    "name": "lakwa",
+    "cc2": "03",
+    "latitude": 27.01356,
+    "longitude": 94.85725
+  },
+  {
+    "name": "nakhatia",
+    "cc2": "03",
+    "latitude": 27.2833,
+    "longitude": 95.3333
+  },
+  {
+    "name": "chakali pathar",
+    "cc2": "03",
+    "latitude": 26.27893,
+    "longitude": 93.92283
+  },
+  {
+    "name": "tikirabali",
+    "cc2": "03",
+    "latitude": 27.34095,
+    "longitude": 95.13539
+  },
+  {
+    "name": "niz tengakhat",
+    "cc2": "03",
+    "latitude": 27.38063,
+    "longitude": 95.17188
+  },
+  {
+    "name": "nakhangia bongali",
+    "cc2": "03",
+    "latitude": 27.35191,
+    "longitude": 95.15624
+  },
+  {
+    "name": "dharia",
+    "cc2": "03",
+    "latitude": 27.36535,
+    "longitude": 95.10934
+  },
+  {
+    "name": "borhula",
+    "cc2": "03",
+    "latitude": 26.0306,
+    "longitude": 93.87661
+  },
+  {
+    "name": "east bhadragaon iii",
+    "cc2": "03",
+    "latitude": 26.4667,
+    "longitude": 90.5667
+  },
+  {
+    "name": "bokuloni",
+    "cc2": "03",
+    "latitude": 27.35814,
+    "longitude": 95.39024
+  },
+  {
+    "name": "kerekoni",
+    "cc2": "03",
+    "latitude": 27.19014,
+    "longitude": 94.78324
+  },
+  {
+    "name": "lonpuria",
+    "cc2": "03",
+    "latitude": 26.94254,
+    "longitude": 94.78728
+  },
+  {
+    "name": "teporchali",
+    "cc2": "03",
+    "latitude": 27.18909,
+    "longitude": 94.83003
+  },
+  {
+    "name": "chnagmai",
+    "cc2": "03",
+    "latitude": 26.86904,
+    "longitude": 94.83262
+  },
+  {
+    "name": "silapathar",
+    "cc2": "03",
+    "latitude": 27.59529,
+    "longitude": 94.724
+  },
+  {
+    "name": "romai",
+    "cc2": "03",
+    "latitude": 27.37877,
+    "longitude": 95.06247
+  },
+  {
+    "name": "silsili demow kinar",
+    "cc2": "03",
+    "latitude": 27.19979,
+    "longitude": 94.80379
+  },
+  {
+    "name": "ekoratoli",
+    "cc2": "03",
+    "latitude": 27.03324,
+    "longitude": 94.70965
+  },
+  {
+    "name": "tingrai borhula",
+    "cc2": "03",
+    "latitude": 27.40173,
+    "longitude": 95.2345
+  },
+  {
+    "name": "kabula",
+    "cc2": "03",
+    "latitude": 27.27698,
+    "longitude": 95.69182
+  },
+  {
+    "name": "sisumuria",
+    "cc2": "03",
+    "latitude": 27.20267,
+    "longitude": 95.22928
+  },
+  {
+    "name": "borka",
+    "cc2": "03",
+    "latitude": 26.28985,
+    "longitude": 91.67245
+  },
+  {
+    "name": "behiating",
+    "cc2": "03",
+    "latitude": 27.39547,
+    "longitude": 94.89737
+  },
+  {
+    "name": "khara dhara",
+    "cc2": "03",
+    "latitude": 26.58034,
+    "longitude": 91.27827
+  },
+  {
+    "name": "dambra bawa",
+    "cc2": "03",
+    "latitude": 26.31611,
+    "longitude": 91.12691
+  },
+  {
+    "name": "ganak kuchi gaon",
+    "cc2": "03",
+    "latitude": 26.31826,
+    "longitude": 91.03707
+  },
+  {
+    "name": "debara",
+    "cc2": "03",
+    "latitude": 26.47637,
+    "longitude": 91.19531
+  },
+  {
+    "name": "maripur",
+    "cc2": "03",
+    "latitude": 26.42757,
+    "longitude": 91.21093
+  },
+  {
+    "name": "niz namati",
+    "cc2": "03",
+    "latitude": 26.52849,
+    "longitude": 91.30596
+  },
+  {
+    "name": "dihira",
+    "cc2": "03",
+    "latitude": 26.79579,
+    "longitude": 91.4
+  },
+  {
+    "name": "kharija dolaigain pt-i",
+    "cc2": "03",
+    "latitude": 26.50383,
+    "longitude": 90.56597
+  },
+  {
+    "name": "kursamari",
+    "cc2": "03",
+    "latitude": 26.52034,
+    "longitude": 90.81274
+  },
+  {
+    "name": "natanpur grant",
+    "cc2": "03",
+    "latitude": 25.01058,
+    "longitude": 92.42705
+  },
+  {
+    "name": "karaballe grant",
+    "cc2": "03",
+    "latitude": 25.00449,
+    "longitude": 92.43693
+  },
+  {
+    "name": "bag-o-bahar pt v",
+    "cc2": "03",
+    "latitude": 24.58654,
+    "longitude": 92.68596
+  },
+  {
+    "name": "bag-o-bahar pt iii",
+    "cc2": "03",
+    "latitude": 24.58774,
+    "longitude": 92.70212
+  },
+  {
+    "name": "dudpatil i",
+    "cc2": "03",
+    "latitude": 24.91088,
+    "longitude": 92.79043
+  },
+  {
+    "name": "dudpatil viii",
+    "cc2": "03",
+    "latitude": 24.88524,
+    "longitude": 92.81409
+  },
+  {
+    "name": "birinchiguri",
+    "cc2": "03",
+    "latitude": 26.71653,
+    "longitude": 90.44788
+  },
+  {
+    "name": "kumgari",
+    "cc2": "03",
+    "latitude": 26.54026,
+    "longitude": 90.15652
+  },
+  {
+    "name": "jhargaon",
+    "cc2": "03",
+    "latitude": 26.67936,
+    "longitude": 92.01997
+  },
+  {
+    "name": "choto athiabari",
+    "cc2": "03",
+    "latitude": 26.44389,
+    "longitude": 91.99549
+  },
+  {
+    "name": "duni",
+    "cc2": "03",
+    "latitude": 26.4695,
+    "longitude": 91.84403
+  },
+  {
+    "name": "samala khat",
+    "cc2": "03",
+    "latitude": 26.51559,
+    "longitude": 91.92703
+  },
+  {
+    "name": "naptipara",
+    "cc2": "03",
+    "latitude": 26.35086,
+    "longitude": 91.37345
+  },
+  {
+    "name": "phukanbari te",
+    "cc2": "03",
+    "latitude": 27.36594,
+    "longitude": 95.21231
+  },
+  {
+    "name": "matie khana gaon",
+    "cc2": "03",
+    "latitude": 27.42541,
+    "longitude": 95.23713
+  },
+  {
+    "name": "joypur town",
+    "cc2": "03",
+    "latitude": 27.26759,
+    "longitude": 95.39199
+  },
+  {
+    "name": "mali pather gaon",
+    "cc2": "03",
+    "latitude": 27.25476,
+    "longitude": 95.40181
+  },
+  {
+    "name": "chengelijan habi no. 1",
+    "cc2": "03",
+    "latitude": 27.276,
+    "longitude": 95.26714
+  },
+  {
+    "name": "balimora",
+    "cc2": "03",
+    "latitude": 27.37795,
+    "longitude": 95.28281
+  },
+  {
+    "name": "niz chirakhowa",
+    "cc2": "03",
+    "latitude": 25.59472,
+    "longitude": 89.90897
+  },
+  {
+    "name": "salmara",
+    "cc2": "03",
+    "latitude": 26.26136,
+    "longitude": 90.17408
+  },
+  {
+    "name": "baligaon",
+    "cc2": "03",
+    "latitude": 27.54671,
+    "longitude": 94.72064
+  },
+  {
+    "name": "tingiri nc",
+    "cc2": "03",
+    "latitude": 27.37265,
+    "longitude": 94.27949
+  },
+  {
+    "name": "uriamguri baligaon",
+    "cc2": "03",
+    "latitude": 27.38918,
+    "longitude": 94.29793
+  },
+  {
+    "name": "khamar",
+    "cc2": "03",
+    "latitude": 26.21932,
+    "longitude": 90.13604
+  },
+  {
+    "name": "arearjhar pt i",
+    "cc2": "03",
+    "latitude": 26.26825,
+    "longitude": 90.41487
+  },
+  {
+    "name": "dhanpur",
+    "cc2": "03",
+    "latitude": 26.3278,
+    "longitude": 90.16589
+  },
+  {
+    "name": "barkuti",
+    "cc2": "03",
+    "latitude": 26.32043,
+    "longitude": 90.15301
+  },
+  {
+    "name": "kursakati",
+    "cc2": "03",
+    "latitude": 26.04842,
+    "longitude": 90.32191
+  },
+  {
+    "name": "salmara",
+    "cc2": "03",
+    "latitude": 26.1341,
+    "longitude": 90.32426
+  },
+  {
+    "name": "gosaibori",
+    "cc2": "03",
+    "latitude": 26.08347,
+    "longitude": 90.80798
+  },
+  {
+    "name": "tengabari",
+    "cc2": "03",
+    "latitude": 26.0678,
+    "longitude": 90.6951
+  },
+  {
+    "name": "harimura",
+    "cc2": "03",
+    "latitude": 26.09302,
+    "longitude": 90.67256
+  },
+  {
+    "name": "khara bagaribari",
+    "cc2": "03",
+    "latitude": 25.94738,
+    "longitude": 90.83178
+  },
+  {
+    "name": "rakhapara",
+    "cc2": "03",
+    "latitude": 26.09068,
+    "longitude": 90.52342
+  },
+  {
+    "name": "debattar bapupara pt-i",
+    "cc2": "03",
+    "latitude": 26.08025,
+    "longitude": 90.54824
+  },
+  {
+    "name": "adarsha no.1",
+    "cc2": "03",
+    "latitude": 26.31064,
+    "longitude": 94.08872
+  },
+  {
+    "name": "titabor tangia",
+    "cc2": "03",
+    "latitude": 26.31554,
+    "longitude": 94.06386
+  },
+  {
+    "name": "samukjan",
+    "cc2": "03",
+    "latitude": 26.43578,
+    "longitude": 93.80304
+  },
+  {
+    "name": "beloguri",
+    "cc2": "03",
+    "latitude": 26.67772,
+    "longitude": 93.59899
+  },
+  {
+    "name": "ukium no. 1",
+    "cc2": "03",
+    "latitude": 25.84452,
+    "longitude": 91.34331
+  },
+  {
+    "name": "ukium no. 2",
+    "cc2": "03",
+    "latitude": 25.85348,
+    "longitude": 91.33367
+  },
+  {
+    "name": "alengi gaon",
+    "cc2": "03",
+    "latitude": 26.57616,
+    "longitude": 94.14242
+  },
+  {
+    "name": "tairakuri",
+    "cc2": "03",
+    "latitude": 26.47282,
+    "longitude": 94.15266
+  },
+  {
+    "name": "kheroni maj basti",
+    "cc2": "03",
+    "latitude": 25.81533,
+    "longitude": 92.94179
+  },
+  {
+    "name": "dilai gate",
+    "cc2": "03",
+    "latitude": 25.99744,
+    "longitude": 93.38768
+  },
+  {
+    "name": "baniargool",
+    "cc2": "03",
+    "latitude": 24.78029,
+    "longitude": 92.45794
+  },
+  {
+    "name": "mugrapur",
+    "cc2": "03",
+    "latitude": 24.78707,
+    "longitude": 92.49628
+  },
+  {
+    "name": "nayagram",
+    "cc2": "03",
+    "latitude": 24.56874,
+    "longitude": 92.42211
+  },
+  {
+    "name": "madanpur",
+    "cc2": "03",
+    "latitude": 24.56277,
+    "longitude": 92.42458
+  },
+  {
+    "name": "khudra purahuria",
+    "cc2": "03",
+    "latitude": 24.85046,
+    "longitude": 92.28524
+  },
+  {
+    "name": "lamabahadurpur p",
+    "cc2": "03",
+    "latitude": 24.79421,
+    "longitude": 92.34009
+  },
+  {
+    "name": "duhalia pt 1",
+    "cc2": "03",
+    "latitude": 24.62768,
+    "longitude": 92.35422
+  },
+  {
+    "name": "barapunjee pt i",
+    "cc2": "03",
+    "latitude": 24.79334,
+    "longitude": 92.2889
+  },
+  {
+    "name": "dasgram",
+    "cc2": "03",
+    "latitude": 24.84863,
+    "longitude": 92.27908
+  },
+  {
+    "name": "maizgram",
+    "cc2": "03",
+    "latitude": 24.85126,
+    "longitude": 92.31478
+  },
+  {
+    "name": "bhowraguri satbil ii",
+    "cc2": "03",
+    "latitude": 26.42675,
+    "longitude": 90.06884
+  },
+  {
+    "name": "borobinnyakhata- ii",
+    "cc2": "03",
+    "latitude": 26.45921,
+    "longitude": 90.06183
+  },
+  {
+    "name": "chedamari",
+    "cc2": "03",
+    "latitude": 26.52296,
+    "longitude": 90.35349
+  },
+  {
+    "name": "rimijhimighat i",
+    "cc2": "03",
+    "latitude": 26.3913,
+    "longitude": 90.12259
+  },
+  {
+    "name": "dhenukhana pathar",
+    "cc2": "03",
+    "latitude": 27.30974,
+    "longitude": 94.46324
+  },
+  {
+    "name": "lecham batamari",
+    "cc2": "03",
+    "latitude": 27.29834,
+    "longitude": 94.45294
+  },
+  {
+    "name": "salikipara nc",
+    "cc2": "03",
+    "latitude": 27.29429,
+    "longitude": 94.20387
+  },
+  {
+    "name": "damal",
+    "cc2": "03",
+    "latitude": 26.19693,
+    "longitude": 92.32956
+  },
+  {
+    "name": "ahaturi natua gaon",
+    "cc2": "03",
+    "latitude": 26.26194,
+    "longitude": 92.32463
+  },
+  {
+    "name": "sidhabari",
+    "cc2": "03",
+    "latitude": 26.2676,
+    "longitude": 92.33942
+  },
+  {
+    "name": "parasu tangani",
+    "cc2": "03",
+    "latitude": 26.34815,
+    "longitude": 92.46289
+  },
+  {
+    "name": "kachari gaon",
+    "cc2": "03",
+    "latitude": 26.21716,
+    "longitude": 92.16713
+  },
+  {
+    "name": "bhangamur",
+    "cc2": "03",
+    "latitude": 26.28138,
+    "longitude": 92.30861
+  },
+  {
+    "name": "udari",
+    "cc2": "03",
+    "latitude": 26.28602,
+    "longitude": 92.29506
+  },
+  {
+    "name": "tulshimukh",
+    "cc2": "03",
+    "latitude": 26.20473,
+    "longitude": 93.20526
+  },
+  {
+    "name": "paikan bonmaza",
+    "cc2": "03",
+    "latitude": 26.37028,
+    "longitude": 91.34813
+  },
+  {
+    "name": "dirua",
+    "cc2": "03",
+    "latitude": 26.35709,
+    "longitude": 91.33969
+  },
+  {
+    "name": "no.1.doulasai",
+    "cc2": "03",
+    "latitude": 26.29326,
+    "longitude": 91.26066
+  },
+  {
+    "name": "kharsitha",
+    "cc2": "03",
+    "latitude": 26.45255,
+    "longitude": 91.38431
+  },
+  {
+    "name": "madhupur",
+    "cc2": "03",
+    "latitude": 26.44967,
+    "longitude": 91.37707
+  },
+  {
+    "name": "niz banekuchi",
+    "cc2": "03",
+    "latitude": 26.47308,
+    "longitude": 91.39638
+  },
+  {
+    "name": "baishya para",
+    "cc2": "03",
+    "latitude": 26.46265,
+    "longitude": 91.40724
+  },
+  {
+    "name": "bekattari",
+    "cc2": "03",
+    "latitude": 26.28296,
+    "longitude": 91.29573
+  },
+  {
+    "name": "dagapara",
+    "cc2": "03",
+    "latitude": 26.32093,
+    "longitude": 91.4169
+  },
+  {
+    "name": "darangi para",
+    "cc2": "03",
+    "latitude": 26.32103,
+    "longitude": 91.40724
+  },
+  {
+    "name": "bhuyarkuchi",
+    "cc2": "03",
+    "latitude": 26.47546,
+    "longitude": 91.45434
+  },
+  {
+    "name": "nankar bhaira",
+    "cc2": "03",
+    "latitude": 26.48675,
+    "longitude": 91.50271
+  },
+  {
+    "name": "kakotibari",
+    "cc2": "03",
+    "latitude": 27.08992,
+    "longitude": 95.02345
+  },
+  {
+    "name": "japidhora gaon",
+    "cc2": "03",
+    "latitude": 27.08195,
+    "longitude": 95.00005
+  },
+  {
+    "name": "dulia puranimelia",
+    "cc2": "03",
+    "latitude": 26.87466,
+    "longitude": 94.52893
+  },
+  {
+    "name": "latum chuk",
+    "cc2": "03",
+    "latitude": 27.0589,
+    "longitude": 94.46195
+  },
+  {
+    "name": "sukan pukhuri",
+    "cc2": "03",
+    "latitude": 27.1217,
+    "longitude": 94.87022
+  },
+  {
+    "name": "jhalam",
+    "cc2": "03",
+    "latitude": 27.12935,
+    "longitude": 94.86114
+  },
+  {
+    "name": "laow dalani",
+    "cc2": "03",
+    "latitude": 26.79763,
+    "longitude": 93.19931
+  },
+  {
+    "name": "no. 1 disiri pathar",
+    "cc2": "03",
+    "latitude": 26.7873,
+    "longitude": 93.20056
+  },
+  {
+    "name": "bapujar",
+    "cc2": "03",
+    "latitude": 26.81648,
+    "longitude": 93.17859
+  },
+  {
+    "name": "gereki",
+    "cc2": "03",
+    "latitude": 26.81151,
+    "longitude": 93.17043
+  },
+  {
+    "name": "no. 2 ulubari",
+    "cc2": "03",
+    "latitude": 26.7582,
+    "longitude": 92.60652
+  },
+  {
+    "name": "kalakuchi gaon",
+    "cc2": "03",
+    "latitude": 26.77107,
+    "longitude": 92.62761
+  },
+  {
+    "name": "no 2 surjyapur",
+    "cc2": "03",
+    "latitude": 26.73123,
+    "longitude": 92.46783
+  },
+  {
+    "name": "dumduma gaon",
+    "cc2": "03",
+    "latitude": 26.67358,
+    "longitude": 92.3937
+  },
+  {
+    "name": "goroimari ahom",
+    "cc2": "03",
+    "latitude": 26.72007,
+    "longitude": 92.75558
+  },
+  {
+    "name": "sadharu guri",
+    "cc2": "03",
+    "latitude": 26.75354,
+    "longitude": 93.13029
+  },
+  {
+    "name": "betjan gaon",
+    "cc2": "03",
+    "latitude": 27.49913,
+    "longitude": 95.44371
+  },
+  {
+    "name": "raidang goan",
+    "cc2": "03",
+    "latitude": 27.50106,
+    "longitude": 95.54335
+  },
+  {
+    "name": "palasbasti no.2",
+    "cc2": "03",
+    "latitude": 26.70037,
+    "longitude": 92.46412
+  },
+  {
+    "name": "budura gaon",
+    "cc2": "03",
+    "latitude": 26.67213,
+    "longitude": 91.78919
+  },
+  {
+    "name": "maholiapara",
+    "cc2": "03",
+    "latitude": 26.64676,
+    "longitude": 91.81477
+  },
+  {
+    "name": "kadamguri",
+    "cc2": "03",
+    "latitude": 26.66023,
+    "longitude": 92.01875
+  },
+  {
+    "name": "dakhin kuyabil",
+    "cc2": "03",
+    "latitude": 26.6621,
+    "longitude": 91.9906
+  },
+  {
+    "name": "borgaon",
+    "cc2": "03",
+    "latitude": 26.59707,
+    "longitude": 90.80322
+  },
+  {
+    "name": "durgapur",
+    "cc2": "03",
+    "latitude": 26.62757,
+    "longitude": 90.59437
+  },
+  {
+    "name": "bengtol no. i",
+    "cc2": "03",
+    "latitude": 26.62504,
+    "longitude": 90.48327
+  },
+  {
+    "name": "serfanguri",
+    "cc2": "03",
+    "latitude": 26.63542,
+    "longitude": 90.46321
+  },
+  {
+    "name": "madhyam dakumgaon",
+    "cc2": "03",
+    "latitude": 26.64001,
+    "longitude": 90.41016
+  },
+  {
+    "name": "chengelijan gaon, assam, india",
+    "cc2": "03",
+    "latitude": 27.5451,
+    "longitude": 95.50269
+  },
+  {
+    "name": "dilibari tiniali",
+    "cc2": "03",
+    "latitude": 26.56566,
+    "longitude": 93.99422
+  },
+  {
+    "name": "hatibandha gaon",
+    "cc2": "03",
+    "latitude": 26.8338,
+    "longitude": 92.21241
+  },
+  {
+    "name": "keseruguri gaon",
+    "cc2": "03",
+    "latitude": 27.64223,
+    "longitude": 95.46183
+  },
+  {
+    "name": "kanhmun",
+    "cc2": "03",
+    "latitude": 24.23794,
+    "longitude": 92.29622
+  },
+  {
+    "name": "digarkhal",
+    "cc2": "03",
+    "latitude": 25.02549,
+    "longitude": 92.49283
+  },
+  {
+    "name": "sonitpur",
+    "cc2": "03",
+    "latitude": 26.78196,
+    "longitude": 92.44907
+  },
+  {
+    "name": "mushalpur",
+    "cc2": "03",
+    "latitude": 26.5792,
+    "longitude": 91.4261
+  },
+  {
+    "name": "bhurakata",
+    "cc2": "03",
+    "latitude": 25.62688,
+    "longitude": 89.91175
+  },
+  {
+    "name": "udiana",
+    "cc2": "03",
+    "latitude": 26.46089,
+    "longitude": 91.60598
+  },
+  {
+    "name": "tupamari",
+    "cc2": "03",
+    "latitude": 26.13541,
+    "longitude": 91.09031
+  },
+  {
+    "name": "tukrapara",
+    "cc2": "03",
+    "latitude": 26.09641,
+    "longitude": 91.22425
+  },
+  {
+    "name": "tokradia",
+    "cc2": "03",
+    "latitude": 26.24262,
+    "longitude": 91.55268
+  },
+  {
+    "name": "titkuri",
+    "cc2": "03",
+    "latitude": 26.45263,
+    "longitude": 91.71245
+  },
+  {
+    "name": "tihu",
+    "cc2": "03",
+    "latitude": 26.47584,
+    "longitude": 91.26686
+  },
+  {
+    "name": "tangla",
+    "cc2": "03",
+    "latitude": 26.65693,
+    "longitude": 91.91381
+  },
+  {
+    "name": "suagpur",
+    "cc2": "03",
+    "latitude": 26.685,
+    "longitude": 91.70614
+  },
+  {
+    "name": "soneswar",
+    "cc2": "03",
+    "latitude": 26.34384,
+    "longitude": 91.64233
+  },
+  {
+    "name": "sikarhati",
+    "cc2": "03",
+    "latitude": 26.03087,
+    "longitude": 91.48466
+  },
+  {
+    "name": "satpakhali",
+    "cc2": "03",
+    "latitude": 26.06356,
+    "longitude": 91.44951
+  },
+  {
+    "name": "sarthebari",
+    "cc2": "03",
+    "latitude": 26.36293,
+    "longitude": 91.22309
+  },
+  {
+    "name": "saledal",
+    "cc2": "03",
+    "latitude": 26.42869,
+    "longitude": 91.78124
+  },
+  {
+    "name": "ramdia",
+    "cc2": "03",
+    "latitude": 26.23149,
+    "longitude": 91.4859
+  },
+  {
+    "name": "pingaleswar",
+    "cc2": "03",
+    "latitude": 26.3876,
+    "longitude": 91.77408
+  },
+  {
+    "name": "pathsala",
+    "cc2": "03",
+    "latitude": 26.51143,
+    "longitude": 91.18017
+  },
+  {
+    "name": "panikhaiti",
+    "cc2": "03",
+    "latitude": 26.20042,
+    "longitude": 91.87622
+  },
+  {
+    "name": "paneri",
+    "cc2": "03",
+    "latitude": 26.05061,
+    "longitude": 91.28201
+  },
+  {
+    "name": "new bongaigaon",
+    "cc2": "03",
+    "latitude": 26.46377,
+    "longitude": 90.56386
+  },
+  {
+    "name": "dhaligaon",
+    "cc2": "03",
+    "latitude": 26.4973,
+    "longitude": 90.52159
+  },
+  {
+    "name": "donkamokam",
+    "cc2": "03",
+    "latitude": 25.93338,
+    "longitude": 92.70736
+  },
+  {
+    "name": "dimaruguri",
+    "cc2": "03",
+    "latitude": 26.34515,
+    "longitude": 92.71487
+  },
+  {
+    "name": "hatipara",
+    "cc2": "03",
+    "latitude": 26.09733,
+    "longitude": 91.28703
+  },
+  {
+    "name": "hatsingimari",
+    "cc2": "03",
+    "latitude": 25.70986,
+    "longitude": 89.90078
+  },
+  {
+    "name": "uzankuri",
+    "cc2": "03",
+    "latitude": 26.10407,
+    "longitude": 91.60109
+  },
+  {
+    "name": "tarani",
+    "cc2": "03",
+    "latitude": 26.48543,
+    "longitude": 91.59971
+  },
+  {
+    "name": "srihati",
+    "cc2": "03",
+    "latitude": 26.19585,
+    "longitude": 91.55079
+  },
+  {
+    "name": "bijoynagar",
+    "cc2": "03",
+    "latitude": 26.10268,
+    "longitude": 91.50684
+  },
+  {
+    "name": "harisinga",
+    "cc2": "03",
+    "latitude": 26.71975,
+    "longitude": 91.99024
+  },
+  {
+    "name": "howraghat",
+    "cc2": "03",
+    "latitude": 26.09168,
+    "longitude": 93.1396
+  },
+  {
+    "name": "nahira",
+    "cc2": "03",
+    "latitude": 26.10931,
+    "longitude": 91.47045
+  },
+  {
+    "name": "naitar",
+    "cc2": "03",
+    "latitude": 26.06957,
+    "longitude": 90.99851
+  },
+  {
+    "name": "dimow",
+    "cc2": "03",
+    "latitude": 27.68239,
+    "longitude": 94.81201
+  },
+  {
+    "name": "garamur",
+    "cc2": "03",
+    "latitude": 26.94891,
+    "longitude": 94.17205
+  },
+  {
+    "name": "hamren",
+    "cc2": "03",
+    "latitude": 25.93354,
+    "longitude": 92.61656
+  },
+  {
+    "name": "sonari",
+    "cc2": "03",
+    "latitude": 27.07344,
+    "longitude": 95.02753
+  },
+  {
+    "name": "barangabari",
+    "cc2": "03",
+    "latitude": 26.45401,
+    "longitude": 91.91884
+  },
+  {
+    "name": "rongkhelan",
+    "cc2": "03",
+    "latitude": 25.85635,
+    "longitude": 93.44181
+  },
+  {
+    "name": "ronghang arong",
+    "cc2": "03",
+    "latitude": 25.86352,
+    "longitude": 93.45305
+  },
+  {
+    "name": "jirsong asong",
+    "cc2": "03",
+    "latitude": 25.85982,
+    "longitude": 93.43801
+  },
+  {
+    "name": "beltola",
+    "cc2": "03",
+    "latitude": 25.85908,
+    "longitude": 93.44586
+  },
+  {
+    "name": "vally view",
+    "cc2": "03",
+    "latitude": 25.86252,
+    "longitude": 93.44169
+  },
+  {
+    "name": "kamar pota",
+    "cc2": "03",
+    "latitude": 26.07666,
+    "longitude": 90.92211
+  },
+  {
+    "name": "kaliabor",
+    "cc2": "03",
+    "latitude": 26.53808,
+    "longitude": 92.92811
+  },
+  {
+    "name": "jonai",
+    "cc2": "03",
+    "latitude": 27.83282,
+    "longitude": 95.22067
+  },
+  {
+    "name": "new seren",
+    "cc2": "03",
+    "latitude": 27.7379,
+    "longitude": 94.88427
+  },
+  {
+    "name": "likabali",
+    "cc2": "03",
+    "latitude": 27.66063,
+    "longitude": 94.69262
+  },
+  {
+    "name": "bilasipara pt",
+    "cc2": "03",
+    "latitude": 26.33505,
+    "longitude": 89.8434
+  },
+  {
+    "name": "srijangram",
+    "cc2": "03",
+    "latitude": 26.38243,
+    "longitude": 90.73309
+  },
+  {
+    "name": "boitamari",
+    "cc2": "03",
+    "latitude": 26.35113,
+    "longitude": 90.51099
+  },
+  {
+    "name": "dangtal revenue circle",
+    "cc2": "03",
+    "latitude": 26.37359,
+    "longitude": 90.46532
+  },
+  {
+    "name": "kharkutta",
+    "cc2": "03",
+    "latitude": 25.93782,
+    "longitude": 90.90108
+  },
+  {
+    "name": "jalah",
+    "cc2": "03",
+    "latitude": 26.65653,
+    "longitude": 91.21622
+  },
+  {
+    "name": "sarupeta",
+    "cc2": "03",
+    "latitude": 26.50194,
+    "longitude": 91.07674
+  },
+  {
+    "name": "pipalibari",
+    "cc2": "03",
+    "latitude": 26.37651,
+    "longitude": 91.33574
+  },
+  {
+    "name": "ghograpar",
+    "cc2": "03",
+    "latitude": 26.4528,
+    "longitude": 91.50974
+  },
+  {
+    "name": "chamaria",
+    "cc2": "03",
+    "latitude": 26.06825,
+    "longitude": 91.15046
+  },
+  {
+    "name": "goroimari",
+    "cc2": "03",
+    "latitude": 26.11346,
+    "longitude": 91.23636
+  },
+  {
+    "name": "kamarkuchi",
+    "cc2": "03",
+    "latitude": 26.34911,
+    "longitude": 91.48002
+  },
+  {
+    "name": "mushalpur",
+    "cc2": "03",
+    "latitude": 26.6587,
+    "longitude": 91.34055
+  },
+  {
+    "name": "azara",
+    "cc2": "03",
+    "latitude": 26.12408,
+    "longitude": 91.61161
+  },
+  {
+    "name": "hamren",
+    "cc2": "03",
+    "latitude": 25.84696,
+    "longitude": 92.57409
+  },
+  {
+    "name": "kaya",
+    "cc2": "03",
+    "latitude": 26.37627,
+    "longitude": 91.55049
+  },
+  {
+    "name": "sipajhar",
+    "cc2": "03",
+    "latitude": 26.40128,
+    "longitude": 91.89513
+  },
+  {
+    "name": "mayang",
+    "cc2": "03",
+    "latitude": 26.25818,
+    "longitude": 92.04083
+  },
+  {
+    "name": "bhuragaon",
+    "cc2": "03",
+    "latitude": 26.39874,
+    "longitude": 92.25071
+  },
+  {
+    "name": "laharighat",
+    "cc2": "03",
+    "latitude": 26.41871,
+    "longitude": 92.34348
+  },
+  {
+    "name": "mikirbheta",
+    "cc2": "03",
+    "latitude": 26.32137,
+    "longitude": 92.46125
+  },
+  {
+    "name": "katigora",
+    "cc2": "03",
+    "latitude": 24.89041,
+    "longitude": 92.58491
+  },
+  {
+    "name": "algapur",
+    "cc2": "03",
+    "latitude": 24.74612,
+    "longitude": 92.60476
+  },
+  {
+    "name": "sonai",
+    "cc2": "03",
+    "latitude": 24.7322,
+    "longitude": 92.88969
+  },
+  {
+    "name": "krishnanagar",
+    "cc2": "03",
+    "latitude": 24.50344,
+    "longitude": 92.44162
+  },
+  {
+    "name": "sarupathar",
+    "cc2": "03",
+    "latitude": 26.19264,
+    "longitude": 93.86413
+  },
+  {
+    "name": "lanka",
+    "cc2": "03",
+    "latitude": 25.92907,
+    "longitude": 92.94856
+  },
+  {
+    "name": "silonijan",
+    "cc2": "03",
+    "latitude": 26.3281,
+    "longitude": 93.86902
+  },
+  {
+    "name": "dimow",
+    "cc2": "03",
+    "latitude": 27.12739,
+    "longitude": 94.74156
+  },
+  {
+    "name": "bilmukh",
+    "cc2": "03",
+    "latitude": 27.30045,
+    "longitude": 94.33026
+  },
+  {
+    "name": "kadam",
+    "cc2": "03",
+    "latitude": 27.31589,
+    "longitude": 94.14915
+  },
+  {
+    "name": "morangi",
+    "cc2": "03",
+    "latitude": 26.57974,
+    "longitude": 93.81706
+  },
+  {
+    "name": "khumtai",
+    "cc2": "03",
+    "latitude": 26.60885,
+    "longitude": 93.83419
+  },
+  {
+    "name": "naryanpur",
+    "cc2": "03",
+    "latitude": 26.9501,
+    "longitude": 93.85766
+  },
+  {
+    "name": "naobaicha",
+    "cc2": "03",
+    "latitude": 27.16977,
+    "longitude": 94.0104
+  },
+  {
+    "name": "kimin",
+    "cc2": "03",
+    "latitude": 27.30209,
+    "longitude": 93.97124
+  },
+  {
+    "name": "bhanjang basti, haflong",
+    "cc2": "03",
+    "latitude": 25.15751,
+    "longitude": 93.02121
+  },
+  {
+    "name": "anand nagar",
+    "cc2": "03",
+    "latitude": 26.22405,
+    "longitude": 90.22655
+  },
+  {
+    "name": "numaligarh refinery township",
+    "cc2": "03",
+    "latitude": 26.58852,
+    "longitude": 93.74426
+  },
+  {
+    "name": "laharijan natun bosti",
+    "cc2": "03",
+    "latitude": 25.91219,
+    "longitude": 93.69128
+  },
+  {
+    "name": "hindustan paper corporation ltd. township",
+    "cc2": "03",
+    "latitude": 24.86054,
+    "longitude": 92.60081
+  },
+  {
+    "name": "barbari (amc area)",
+    "cc2": "03",
+    "latitude": 27.4914,
+    "longitude": 94.93253
+  },
+  {
+    "name": "digaru gaon",
+    "cc2": "03",
+    "latitude": 26.15567,
+    "longitude": 91.98704
+  },
+  {
+    "name": "kachujan gaon",
+    "cc2": "03",
+    "latitude": 27.49783,
+    "longitude": 95.36386
+  },
+  {
+    "name": "nakhula grant",
+    "cc2": "03",
+    "latitude": 26.12153,
+    "longitude": 92.2105
+  },
+  {
+    "name": "sepon",
+    "cc2": "03",
+    "latitude": 27.11068,
+    "longitude": 94.84947
+  },
+  {
+    "name": "nowsolia gaon",
+    "cc2": "03",
+    "latitude": 26.73084,
+    "longitude": 94.18601
+  },
+  {
+    "name": "thekashu pt-i",
+    "cc2": "03",
+    "latitude": 25.98355,
+    "longitude": 90.77896
+  },
+  {
+    "name": "garal",
+    "cc2": "03",
+    "latitude": 26.13865,
+    "longitude": 91.60687
+  },
+  {
+    "name": "jonai bazar",
+    "cc2": "03",
+    "latitude": 27.82902,
+    "longitude": 95.21941
+  },
+  {
+    "name": "sanpara",
+    "cc2": "03",
+    "latitude": 26.03902,
+    "longitude": 91.51274
+  },
+  {
+    "name": "tupkhana pt i",
+    "cc2": "03",
+    "latitude": 24.85584,
+    "longitude": 92.76123
+  },
+  {
+    "name": "dhekorgorha",
+    "cc2": "03",
+    "latitude": 26.78785,
+    "longitude": 94.16605
+  },
+  {
+    "name": "majarkuri",
+    "cc2": "03",
+    "latitude": 26.27275,
+    "longitude": 91.49581
+  },
+  {
+    "name": "damara patpara",
+    "cc2": "03",
+    "latitude": 25.93876,
+    "longitude": 90.78656
+  },
+  {
+    "name": "rupiabathan",
+    "cc2": "03",
+    "latitude": 26.40538,
+    "longitude": 91.34316
+  },
+  {
+    "name": "naubaisa goan",
+    "cc2": "03",
+    "latitude": 26.79552,
+    "longitude": 94.21591
+  },
+  {
+    "name": "mosli pt i",
+    "cc2": "03",
+    "latitude": 24.85954,
+    "longitude": 92.47748
+  },
+  {
+    "name": "lido tikok",
+    "cc2": "03",
+    "latitude": 27.288,
+    "longitude": 95.73579
+  },
+  {
+    "name": "charingia gaon",
+    "cc2": "03",
+    "latitude": 26.73342,
+    "longitude": 94.14595
+  },
+  {
+    "name": "chandrapur baghicha",
+    "cc2": "03",
+    "latitude": 26.23772,
+    "longitude": 91.92913
+  },
+  {
+    "name": "niz-bahjani",
+    "cc2": "03",
+    "latitude": 26.38059,
+    "longitude": 91.41588
+  },
+  {
+    "name": "uttar krishnapur pt iii",
+    "cc2": "03",
+    "latitude": 24.77592,
+    "longitude": 92.79242
+  },
+  {
+    "name": "borgolai grant no.11",
+    "cc2": "03",
+    "latitude": 27.28698,
+    "longitude": 95.71546
+  },
+  {
+    "name": "digheli",
+    "cc2": "03",
+    "latitude": 26.44009,
+    "longitude": 91.45627
+  },
+  {
+    "name": "lakhi nepali",
+    "cc2": "03",
+    "latitude": 27.83299,
+    "longitude": 95.22391
+  },
+  {
+    "name": "howraghat",
+    "cc2": "03",
+    "latitude": 26.10908,
+    "longitude": 93.03332
+  },
+  {
+    "name": "barua bari gaon",
+    "cc2": "03",
+    "latitude": 26.11799,
+    "longitude": 91.96564
+  },
+  {
+    "name": "dokmoka",
+    "cc2": "03",
+    "latitude": 26.21026,
+    "longitude": 93.05174
+  },
+  {
+    "name": "kharijapikon",
+    "cc2": "03",
+    "latitude": 26.03285,
+    "longitude": 90.66708
+  },
+  {
+    "name": "kakaya",
+    "cc2": "03",
+    "latitude": 26.36443,
+    "longitude": 91.34331
+  },
+  {
+    "name": "tegheria",
+    "cc2": "03",
+    "latitude": 26.12863,
+    "longitude": 92.21943
+  },
+  {
+    "name": "thekashu pt.-ii",
+    "cc2": "03",
+    "latitude": 25.98174,
+    "longitude": 90.78758
+  },
+  {
+    "name": "no.2 goreswar",
+    "cc2": "03",
+    "latitude": 26.53062,
+    "longitude": 91.7251
+  },
+  {
+    "name": "mohmaiki",
+    "cc2": "03",
+    "latitude": 26.63574,
+    "longitude": 93.62938
+  },
+  {
+    "name": "niz katigorah pt iii",
+    "cc2": "03",
+    "latitude": 24.87733,
+    "longitude": 92.57003
+  },
+  {
+    "name": "chalantapara pt iv",
+    "cc2": "03",
+    "latitude": 26.26176,
+    "longitude": 90.5849
+  },
+  {
+    "name": "parlli part",
+    "cc2": "03",
+    "latitude": 26.09949,
+    "longitude": 91.54026
+  },
+  {
+    "name": "niz - mankata",
+    "cc2": "03",
+    "latitude": 27.46417,
+    "longitude": 94.9213
+  },
+  {
+    "name": "uttar athiabari",
+    "cc2": "03",
+    "latitude": 26.52327,
+    "longitude": 90.96194
+  },
+  {
+    "name": "forest village lakhipathar",
+    "cc2": "03",
+    "latitude": 27.45334,
+    "longitude": 95.58126
+  },
+  {
+    "name": "katirail t.e.",
+    "cc2": "03",
+    "latitude": 24.9087,
+    "longitude": 92.58028
+  },
+  {
+    "name": "kanakpur i",
+    "cc2": "03",
+    "latitude": 24.79504,
+    "longitude": 92.80613
+  },
+  {
+    "name": "pub - dhaniram pather",
+    "cc2": "03",
+    "latitude": 26.01377,
+    "longitude": 92.87166
+  },
+  {
+    "name": "silchar part-x",
+    "cc2": "03",
+    "latitude": 24.81725,
+    "longitude": 92.81355
+  },
+  {
+    "name": "chota haibor",
+    "cc2": "03",
+    "latitude": 26.33136,
+    "longitude": 92.69432
+  },
+  {
+    "name": "bali koria",
+    "cc2": "03",
+    "latitude": 26.4393,
+    "longitude": 91.42247
+  },
+  {
+    "name": "jalah",
+    "cc2": "03",
+    "latitude": 26.23794,
+    "longitude": 91.71982
+  },
+  {
+    "name": "sarpara",
+    "cc2": "03",
+    "latitude": 26.09549,
+    "longitude": 91.51844
+  },
+  {
+    "name": "takhlibilar pathar",
+    "cc2": "03",
+    "latitude": 26.50036,
+    "longitude": 90.93524
+  },
+  {
+    "name": "bahbari gaon",
+    "cc2": "03",
+    "latitude": 27.48055,
+    "longitude": 95.32627
+  },
+  {
+    "name": "uttar krishnapur part-i",
+    "cc2": "03",
+    "latitude": 24.79064,
+    "longitude": 92.7934
+  },
+  {
+    "name": "tarapur vii",
+    "cc2": "03",
+    "latitude": 24.81308,
+    "longitude": 92.78224
+  },
+  {
+    "name": "batarashi",
+    "cc2": "03",
+    "latitude": 24.86936,
+    "longitude": 92.33494
+  },
+  {
+    "name": "upar hali",
+    "cc2": "03",
+    "latitude": 26.10311,
+    "longitude": 91.50884
+  },
+  {
+    "name": "mairabari town",
+    "cc2": "03",
+    "latitude": 26.45357,
+    "longitude": 92.42272
+  },
+  {
+    "name": "asudubi",
+    "cc2": "03",
+    "latitude": 26.02316,
+    "longitude": 90.66583
+  },
+  {
+    "name": "kanisail pt i",
+    "cc2": "03",
+    "latitude": 24.85509,
+    "longitude": 92.37002
+  },
+  {
+    "name": "kochpara",
+    "cc2": "03",
+    "latitude": 26.08902,
+    "longitude": 91.5318
+  },
+  {
+    "name": "bamun sualkuchi",
+    "cc2": "03",
+    "latitude": 26.16826,
+    "longitude": 91.58172
+  },
+  {
+    "name": "irongmara",
+    "cc2": "03",
+    "latitude": 24.689,
+    "longitude": 92.74221
+  },
+  {
+    "name": "barika chuburi",
+    "cc2": "03",
+    "latitude": 26.63632,
+    "longitude": 92.80854
+  },
+  {
+    "name": "nidanpur pt-ii",
+    "cc2": "03",
+    "latitude": 26.02331,
+    "longitude": 90.30375
+  },
+  {
+    "name": "ambicapur pt vi",
+    "cc2": "03",
+    "latitude": 24.78262,
+    "longitude": 92.78919
+  },
+  {
+    "name": "rupahi town",
+    "cc2": "03",
+    "latitude": 26.41971,
+    "longitude": 92.74563
+  },
+  {
+    "name": "kumar kaibarta gaon",
+    "cc2": "03",
+    "latitude": 26.75091,
+    "longitude": 94.23648
+  },
+  {
+    "name": "sarbhog",
+    "cc2": "03",
+    "latitude": 26.48932,
+    "longitude": 90.88426
+  },
+  {
+    "name": "majgaon",
+    "cc2": "03",
+    "latitude": 26.65246,
+    "longitude": 92.79105
+  },
+  {
+    "name": "chatibor gaon",
+    "cc2": "03",
+    "latitude": 26.51812,
+    "longitude": 90.52288
+  },
+  {
+    "name": "bohari",
+    "cc2": "03",
+    "latitude": 26.25436,
+    "longitude": 91.13914
+  },
+  {
+    "name": "borpukhuri",
+    "cc2": "03",
+    "latitude": 26.01553,
+    "longitude": 92.84525
+  },
+  {
+    "name": "dahali",
+    "cc2": "03",
+    "latitude": 26.09694,
+    "longitude": 91.49835
+  },
+  {
+    "name": "moran town",
+    "cc2": "03",
+    "latitude": 27.18738,
+    "longitude": 94.91469
+  },
+  {
+    "name": "belsor",
+    "cc2": "03",
+    "latitude": 26.38182,
+    "longitude": 91.35158
+  },
+  {
+    "name": "sarupathar bengali",
+    "cc2": "03",
+    "latitude": 27.34064,
+    "longitude": 95.3135
+  },
+  {
+    "name": "tarapur pt vi",
+    "cc2": "03",
+    "latitude": 24.85159,
+    "longitude": 92.76668
+  },
+  {
+    "name": "jhagra pt.iii",
+    "cc2": "03",
+    "latitude": 26.0399,
+    "longitude": 89.95918
+  },
+  {
+    "name": "badarpur railway town",
+    "cc2": "03",
+    "latitude": 24.87106,
+    "longitude": 92.57042
+  },
+  {
+    "name": "chekonidhara",
+    "cc2": "03",
+    "latitude": 26.735,
+    "longitude": 94.21134
+  },
+  {
+    "name": "durga nagar part-v",
+    "cc2": "03",
+    "latitude": 24.88149,
+    "longitude": 92.88213
+  },
+  {
+    "name": "kanakpur part-ii",
+    "cc2": "03",
+    "latitude": 24.80029,
+    "longitude": 92.8036
+  },
+  {
+    "name": "bhalukdubi",
+    "cc2": "03",
+    "latitude": 26.15746,
+    "longitude": 90.61313
+  },
+  {
+    "name": "golaghatia basti",
+    "cc2": "03",
+    "latitude": 25.9925,
+    "longitude": 92.86396
+  },
+  {
+    "name": "bhuragaon rev. town",
+    "cc2": "03",
+    "latitude": 26.40378,
+    "longitude": 92.23902
+  },
+  {
+    "name": "kahi kuchi",
+    "cc2": "03",
+    "latitude": 26.10122,
+    "longitude": 91.59902
+  },
+  {
+    "name": "kamalabaria n.c.",
+    "cc2": "03",
+    "latitude": 26.7685,
+    "longitude": 94.19297
+  },
+  {
+    "name": "khaira bari",
+    "cc2": "03",
+    "latitude": 26.51081,
+    "longitude": 90.96887
+  },
+  {
+    "name": "chapakhowa town",
+    "cc2": "03",
+    "latitude": 27.91525,
+    "longitude": 95.76641
+  },
+  {
+    "name": "morongial",
+    "cc2": "03",
+    "latitude": 26.33264,
+    "longitude": 92.68352
+  },
+  {
+    "name": "kampur town",
+    "cc2": "03",
+    "latitude": 26.15955,
+    "longitude": 92.65857
+  },
+  {
+    "name": "umrangso",
+    "cc2": "03",
+    "latitude": 25.51195,
+    "longitude": 92.73759
+  },
+  {
+    "name": "gutlong gaon",
+    "cc2": "03",
+    "latitude": 26.6534,
+    "longitude": 92.81613
+  },
+  {
+    "name": "gerimari chapori",
+    "cc2": "03",
+    "latitude": 26.42783,
+    "longitude": 92.02511
+  },
+  {
+    "name": "chapra",
+    "cc2": "03",
+    "latitude": 24.87042,
+    "longitude": 92.55788
+  },
+  {
+    "name": "ambicapur pt viii",
+    "cc2": "03",
+    "latitude": 24.82088,
+    "longitude": 92.77543
+  },
+  {
+    "name": "salpara molandubi pt.-i",
+    "cc2": "03",
+    "latitude": 26.02833,
+    "longitude": 90.67346
+  },
+  {
+    "name": "lido town",
+    "cc2": "03",
+    "latitude": 27.29402,
+    "longitude": 95.74175
+  },
+  {
+    "name": "gobindapur",
+    "cc2": "03",
+    "latitude": 26.16325,
+    "longitude": 90.59271
+  },
+  {
+    "name": "digboi oil town",
+    "cc2": "03",
+    "latitude": 27.3885,
+    "longitude": 95.61886
+  },
+  {
+    "name": "ambikapur part-x",
+    "cc2": "03",
+    "latitude": 24.79925,
+    "longitude": 92.79196
+  },
+  {
+    "name": "new bongaigaon railway colony",
+    "cc2": "03",
+    "latitude": 26.47716,
+    "longitude": 90.53598
+  },
+  {
+    "name": "niz-hajo",
+    "cc2": "03",
+    "latitude": 26.24942,
+    "longitude": 91.5243
+  },
+  {
+    "name": "jagiroad",
+    "cc2": "03",
+    "latitude": 26.12017,
+    "longitude": 92.19772
+  },
+  {
+    "name": "titabor town",
+    "cc2": "03",
+    "latitude": 26.59185,
+    "longitude": 94.19445
+  },
+  {
+    "name": "duliajan oil town",
+    "cc2": "03",
+    "latitude": 27.3578,
+    "longitude": 95.31407
+  },
+  {
+    "name": "binnakandi",
+    "cc2": "03",
+    "latitude": 24.7834,
+    "longitude": 93.02431
+  }
+]

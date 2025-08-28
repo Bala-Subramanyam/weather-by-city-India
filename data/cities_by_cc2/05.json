@@ -1,0 +1,290 @@
+[
+  {
+    "name": "chandigarh",
+    "cc2": "05",
+    "latitude": 30.73629,
+    "longitude": 76.7884
+  },
+  {
+    "name": "bijwari bakhta",
+    "cc2": "05",
+    "latitude": 30.74066,
+    "longitude": 76.75042
+  },
+  {
+    "name": "bajwara",
+    "cc2": "05",
+    "latitude": 30.73276,
+    "longitude": 76.76264
+  },
+  {
+    "name": "atawa",
+    "cc2": "05",
+    "latitude": 30.72748,
+    "longitude": 76.75107
+  },
+  {
+    "name": "fatehgarh",
+    "cc2": "05",
+    "latitude": 30.71974,
+    "longitude": 76.76616
+  },
+  {
+    "name": "atawa choa",
+    "cc2": "05",
+    "latitude": 30.74247,
+    "longitude": 76.76531
+  },
+  {
+    "name": "gurudwara",
+    "cc2": "05",
+    "latitude": 30.7307,
+    "longitude": 76.7894
+  },
+  {
+    "name": "burail",
+    "cc2": "05",
+    "latitude": 30.70796,
+    "longitude": 76.76205
+  },
+  {
+    "name": "mariwala town",
+    "cc2": "05",
+    "latitude": 30.71824,
+    "longitude": 76.83089
+  },
+  {
+    "name": "dariya",
+    "cc2": "05",
+    "latitude": 30.69864,
+    "longitude": 76.81759
+  },
+  {
+    "name": "bahlana",
+    "cc2": "05",
+    "latitude": 30.67748,
+    "longitude": 76.80033
+  },
+  {
+    "name": "hala majra",
+    "cc2": "05",
+    "latitude": 30.68985,
+    "longitude": 76.80147
+  },
+  {
+    "name": "kursan",
+    "cc2": "05",
+    "latitude": 30.69084,
+    "longitude": 76.78532
+  },
+  {
+    "name": "kanthara",
+    "cc2": "05",
+    "latitude": 30.70476,
+    "longitude": 76.78842
+  },
+  {
+    "name": "burail",
+    "cc2": "05",
+    "latitude": 30.69143,
+    "longitude": 76.77069
+  },
+  {
+    "name": "raj bhavan haryana",
+    "cc2": "05",
+    "latitude": 30.74253,
+    "longitude": 76.81141
+  },
+  {
+    "name": "raj bhavan punjab",
+    "cc2": "05",
+    "latitude": 30.73893,
+    "longitude": 76.81177
+  },
+  {
+    "name": "shahpur cholian",
+    "cc2": "05",
+    "latitude": 30.7427,
+    "longitude": 76.751
+  },
+  {
+    "name": "sadoriaja goth",
+    "cc2": "05",
+    "latitude": 24.23452,
+    "longitude": 69.18685
+  },
+  {
+    "name": "purnapani",
+    "cc2": "05",
+    "latitude": 19.86728,
+    "longitude": 82.63079
+  },
+  {
+    "name": "jhampur",
+    "cc2": "05",
+    "latitude": 30.76649,
+    "longitude": 76.70711
+  },
+  {
+    "name": "bahlolpur",
+    "cc2": "05",
+    "latitude": 30.75897,
+    "longitude": 76.70342
+  },
+  {
+    "name": "moloia",
+    "cc2": "05",
+    "latitude": 30.75425,
+    "longitude": 76.71784
+  },
+  {
+    "name": "dadu majra",
+    "cc2": "05",
+    "latitude": 30.75705,
+    "longitude": 76.73312
+  },
+  {
+    "name": "dhanauran",
+    "cc2": "05",
+    "latitude": 30.78338,
+    "longitude": 76.73595
+  },
+  {
+    "name": "mastgarh",
+    "cc2": "05",
+    "latitude": 30.78523,
+    "longitude": 76.74522
+  },
+  {
+    "name": "togan",
+    "cc2": "05",
+    "latitude": 30.76988,
+    "longitude": 76.73365
+  },
+  {
+    "name": "raipur",
+    "cc2": "05",
+    "latitude": 30.74873,
+    "longitude": 76.69582
+  },
+  {
+    "name": "buterla",
+    "cc2": "05",
+    "latitude": 30.73342,
+    "longitude": 76.73895
+  },
+  {
+    "name": "badheri",
+    "cc2": "05",
+    "latitude": 30.7325,
+    "longitude": 76.73415
+  },
+  {
+    "name": "palsaura",
+    "cc2": "05",
+    "latitude": 30.73231,
+    "longitude": 76.72634
+  },
+  {
+    "name": "madanpur",
+    "cc2": "05",
+    "latitude": 30.72036,
+    "longitude": 76.72436
+  },
+  {
+    "name": "kujheri",
+    "cc2": "05",
+    "latitude": 30.71549,
+    "longitude": 76.73633
+  },
+  {
+    "name": "khoda jassu",
+    "cc2": "05",
+    "latitude": 30.77527,
+    "longitude": 76.77482
+  },
+  {
+    "name": "sangariwala",
+    "cc2": "05",
+    "latitude": 30.79374,
+    "longitude": 76.76164
+  },
+  {
+    "name": "malak",
+    "cc2": "05",
+    "latitude": 30.78515,
+    "longitude": 76.75164
+  },
+  {
+    "name": "sarangpur",
+    "cc2": "05",
+    "latitude": 30.78124,
+    "longitude": 76.75859
+  },
+  {
+    "name": "dhanas",
+    "cc2": "05",
+    "latitude": 30.76951,
+    "longitude": 76.75666
+  },
+  {
+    "name": "saini majra",
+    "cc2": "05",
+    "latitude": 30.75498,
+    "longitude": 76.7569
+  },
+  {
+    "name": "kanji maira",
+    "cc2": "05",
+    "latitude": 30.75937,
+    "longitude": 76.76475
+  },
+  {
+    "name": "shahzadpur",
+    "cc2": "05",
+    "latitude": 30.76133,
+    "longitude": 76.78052
+  },
+  {
+    "name": "mahla majra",
+    "cc2": "05",
+    "latitude": 30.76173,
+    "longitude": 76.79717
+  },
+  {
+    "name": "kansil",
+    "cc2": "05",
+    "latitude": 30.76549,
+    "longitude": 76.81095
+  },
+  {
+    "name": "kaimbwala",
+    "cc2": "05",
+    "latitude": 30.7586,
+    "longitude": 76.82571
+  },
+  {
+    "name": "khuda alisher",
+    "cc2": "05",
+    "latitude": 30.77474,
+    "longitude": 76.81176
+  },
+  {
+    "name": "behlana",
+    "cc2": "05",
+    "latitude": 30.67813,
+    "longitude": 76.8006
+  },
+  {
+    "name": "mauli jagran",
+    "cc2": "05",
+    "latitude": 30.69195,
+    "longitude": 76.82592
+  },
+  {
+    "name": "shahpur",
+    "cc2": "05",
+    "latitude": 30.74367,
+    "longitude": 76.74689
+  }
+]

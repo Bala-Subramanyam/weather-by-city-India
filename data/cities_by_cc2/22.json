@@ -1,0 +1,1322 @@
+[
+  {
+    "name": "virampatnam",
+    "cc2": "22",
+    "latitude": 11.89323,
+    "longitude": 79.82542
+  },
+  {
+    "name": "villianur",
+    "cc2": "22",
+    "latitude": 11.91393,
+    "longitude": 79.75568
+  },
+  {
+    "name": "valudavur",
+    "cc2": "22",
+    "latitude": 11.97967,
+    "longitude": 79.69817
+  },
+  {
+    "name": "tirunallar",
+    "cc2": "22",
+    "latitude": 10.92614,
+    "longitude": 79.79202
+  },
+  {
+    "name": "talatteruvu",
+    "cc2": "22",
+    "latitude": 10.94478,
+    "longitude": 79.82902
+  },
+  {
+    "name": "takkalur",
+    "cc2": "22",
+    "latitude": 10.92542,
+    "longitude": 79.8103
+  },
+  {
+    "name": "rayampalaiyam",
+    "cc2": "22",
+    "latitude": 10.96527,
+    "longitude": 79.82533
+  },
+  {
+    "name": "purnankuppam",
+    "cc2": "22",
+    "latitude": 11.86832,
+    "longitude": 79.80642
+  },
+  {
+    "name": "pudutturai",
+    "cc2": "22",
+    "latitude": 10.91393,
+    "longitude": 79.81711
+  },
+  {
+    "name": "puducherry",
+    "cc2": "22",
+    "latitude": 11.93381,
+    "longitude": 79.82979
+  },
+  {
+    "name": "pillaittiruvasal",
+    "cc2": "22",
+    "latitude": 10.93728,
+    "longitude": 79.81222
+  },
+  {
+    "name": "pattanachcheri",
+    "cc2": "22",
+    "latitude": 10.88216,
+    "longitude": 79.84885
+  },
+  {
+    "name": "nedungadu",
+    "cc2": "22",
+    "latitude": 10.97089,
+    "longitude": 79.77169
+  },
+  {
+    "name": "muppattankudi",
+    "cc2": "22",
+    "latitude": 10.92247,
+    "longitude": 79.75458
+  },
+  {
+    "name": "mattul",
+    "cc2": "22",
+    "latitude": 11.98277,
+    "longitude": 75.27605
+  },
+  {
+    "name": "kottuchcheri",
+    "cc2": "22",
+    "latitude": 10.95842,
+    "longitude": 79.82478
+  },
+  {
+    "name": "mel kasakkudi",
+    "cc2": "22",
+    "latitude": 10.9545,
+    "longitude": 79.79332
+  },
+  {
+    "name": "karkkangudi",
+    "cc2": "22",
+    "latitude": 10.94582,
+    "longitude": 79.76851
+  },
+  {
+    "name": "karaikal",
+    "cc2": "22",
+    "latitude": 10.91667,
+    "longitude": 79.83333
+  },
+  {
+    "name": "kakkamuli",
+    "cc2": "22",
+    "latitude": 10.89303,
+    "longitude": 79.79698
+  },
+  {
+    "name": "dharmapuram",
+    "cc2": "22",
+    "latitude": 10.91811,
+    "longitude": 79.81831
+  },
+  {
+    "name": "ambagarattur",
+    "cc2": "22",
+    "latitude": 10.95727,
+    "longitude": 79.72674
+  },
+  {
+    "name": "alayangudi",
+    "cc2": "22",
+    "latitude": 10.94137,
+    "longitude": 79.7628
+  },
+  {
+    "name": "akkaraivadi",
+    "cc2": "22",
+    "latitude": 10.89755,
+    "longitude": 79.83851
+  },
+  {
+    "name": "palakkod",
+    "cc2": "22",
+    "latitude": 12.03094,
+    "longitude": 75.22664
+  },
+  {
+    "name": "chempalli kundu",
+    "cc2": "22",
+    "latitude": 12.04962,
+    "longitude": 75.22805
+  },
+  {
+    "name": "chempalli",
+    "cc2": "22",
+    "latitude": 12.09155,
+    "longitude": 75.22987
+  },
+  {
+    "name": "edanad",
+    "cc2": "22",
+    "latitude": 12.10446,
+    "longitude": 75.2288
+  },
+  {
+    "name": "puthiyangadi",
+    "cc2": "22",
+    "latitude": 12.01817,
+    "longitude": 75.24681
+  },
+  {
+    "name": "madayi",
+    "cc2": "22",
+    "latitude": 12.03427,
+    "longitude": 75.23779
+  },
+  {
+    "name": "vengara",
+    "cc2": "22",
+    "latitude": 12.04025,
+    "longitude": 75.24473
+  },
+  {
+    "name": "kunnimangalam",
+    "cc2": "22",
+    "latitude": 12.07354,
+    "longitude": 75.2412
+  },
+  {
+    "name": "kokkott vayal",
+    "cc2": "22",
+    "latitude": 12.10522,
+    "longitude": 75.28553
+  },
+  {
+    "name": "poracheri vayal",
+    "cc2": "22",
+    "latitude": 12.09986,
+    "longitude": 75.25716
+  },
+  {
+    "name": "aratil vayal",
+    "cc2": "22",
+    "latitude": 12.10025,
+    "longitude": 75.26275
+  },
+  {
+    "name": "karat vayal",
+    "cc2": "22",
+    "latitude": 12.08283,
+    "longitude": 75.25433
+  },
+  {
+    "name": "chittanur",
+    "cc2": "22",
+    "latitude": 12.079,
+    "longitude": 75.28042
+  },
+  {
+    "name": "varanakod ambala",
+    "cc2": "22",
+    "latitude": 12.06164,
+    "longitude": 75.26067
+  },
+  {
+    "name": "ichulli kunnu",
+    "cc2": "22",
+    "latitude": 12.04851,
+    "longitude": 75.25974
+  },
+  {
+    "name": "kolaparat vayal",
+    "cc2": "22",
+    "latitude": 12.05295,
+    "longitude": 75.27509
+  },
+  {
+    "name": "ramapura ambala",
+    "cc2": "22",
+    "latitude": 12.0474,
+    "longitude": 75.26537
+  },
+  {
+    "name": "adittala",
+    "cc2": "22",
+    "latitude": 12.04118,
+    "longitude": 75.27096
+  },
+  {
+    "name": "atiyadam",
+    "cc2": "22",
+    "latitude": 12.04139,
+    "longitude": 75.28246
+  },
+  {
+    "name": "karakundu",
+    "cc2": "22",
+    "latitude": 12.10848,
+    "longitude": 75.33493
+  },
+  {
+    "name": "manalippattu",
+    "cc2": "22",
+    "latitude": 12.02737,
+    "longitude": 79.62931
+  },
+  {
+    "name": "kunichampattu",
+    "cc2": "22",
+    "latitude": 12.00462,
+    "longitude": 79.63169
+  },
+  {
+    "name": "settippattu",
+    "cc2": "22",
+    "latitude": 12.01034,
+    "longitude": 79.64494
+  },
+  {
+    "name": "kakkalippattu",
+    "cc2": "22",
+    "latitude": 12.00598,
+    "longitude": 79.67025
+  },
+  {
+    "name": "pudukkuppam",
+    "cc2": "22",
+    "latitude": 12.02223,
+    "longitude": 79.68968
+  },
+  {
+    "name": "singareddippalaiyam",
+    "cc2": "22",
+    "latitude": 12.0183,
+    "longitude": 79.70049
+  },
+  {
+    "name": "konnakkovil",
+    "cc2": "22",
+    "latitude": 10.99561,
+    "longitude": 79.8078
+  },
+  {
+    "name": "kurumbalam",
+    "cc2": "22",
+    "latitude": 10.98237,
+    "longitude": 79.76734
+  },
+  {
+    "name": "puttakudi",
+    "cc2": "22",
+    "latitude": 10.97383,
+    "longitude": 79.80252
+  },
+  {
+    "name": "vadamattam",
+    "cc2": "22",
+    "latitude": 10.96698,
+    "longitude": 79.79785
+  },
+  {
+    "name": "paruttikkudi",
+    "cc2": "22",
+    "latitude": 10.95483,
+    "longitude": 79.76422
+  },
+  {
+    "name": "valandamangalam",
+    "cc2": "22",
+    "latitude": 10.94716,
+    "longitude": 79.75591
+  },
+  {
+    "name": "suragudi",
+    "cc2": "22",
+    "latitude": 10.94047,
+    "longitude": 79.77955
+  },
+  {
+    "name": "subbarayapuram",
+    "cc2": "22",
+    "latitude": 10.9376,
+    "longitude": 79.79266
+  },
+  {
+    "name": "sellayur",
+    "cc2": "22",
+    "latitude": 10.92723,
+    "longitude": 79.76489
+  },
+  {
+    "name": "tamra",
+    "cc2": "22",
+    "latitude": 10.92925,
+    "longitude": 79.73253
+  },
+  {
+    "name": "pandaravadai",
+    "cc2": "22",
+    "latitude": 10.93201,
+    "longitude": 79.74346
+  },
+  {
+    "name": "kottappadi",
+    "cc2": "22",
+    "latitude": 10.91886,
+    "longitude": 79.73925
+  },
+  {
+    "name": "agarachchettur",
+    "cc2": "22",
+    "latitude": 10.93783,
+    "longitude": 79.74346
+  },
+  {
+    "name": "nelambal",
+    "cc2": "22",
+    "latitude": 10.94522,
+    "longitude": 79.74241
+  },
+  {
+    "name": "nellalandur",
+    "cc2": "22",
+    "latitude": 10.94889,
+    "longitude": 79.74161
+  },
+  {
+    "name": "kumarakkudi",
+    "cc2": "22",
+    "latitude": 10.94737,
+    "longitude": 79.73073
+  },
+  {
+    "name": "attippadi",
+    "cc2": "22",
+    "latitude": 10.90382,
+    "longitude": 79.80018
+  },
+  {
+    "name": "alangudi",
+    "cc2": "22",
+    "latitude": 10.90783,
+    "longitude": 79.79278
+  },
+  {
+    "name": "odantorai",
+    "cc2": "22",
+    "latitude": 10.9048,
+    "longitude": 79.80868
+  },
+  {
+    "name": "niravi",
+    "cc2": "22",
+    "latitude": 10.89195,
+    "longitude": 79.81596
+  },
+  {
+    "name": "arumulittevan",
+    "cc2": "22",
+    "latitude": 10.90438,
+    "longitude": 79.79099
+  },
+  {
+    "name": "pettai",
+    "cc2": "22",
+    "latitude": 10.91243,
+    "longitude": 79.78029
+  },
+  {
+    "name": "akalanganni",
+    "cc2": "22",
+    "latitude": 10.9135,
+    "longitude": 79.76722
+  },
+  {
+    "name": "varuppur",
+    "cc2": "22",
+    "latitude": 10.90813,
+    "longitude": 79.76581
+  },
+  {
+    "name": "paramanallur",
+    "cc2": "22",
+    "latitude": 10.91247,
+    "longitude": 79.75378
+  },
+  {
+    "name": "polavam",
+    "cc2": "22",
+    "latitude": 10.85905,
+    "longitude": 79.83174
+  },
+  {
+    "name": "mel vanjiyur",
+    "cc2": "22",
+    "latitude": 10.83719,
+    "longitude": 79.83956
+  },
+  {
+    "name": "kil vanjiyur",
+    "cc2": "22",
+    "latitude": 10.85186,
+    "longitude": 79.84818
+  },
+  {
+    "name": "tirumalarajanpatnam",
+    "cc2": "22",
+    "latitude": 10.87206,
+    "longitude": 79.83019
+  },
+  {
+    "name": "kovilpattu",
+    "cc2": "22",
+    "latitude": 10.93353,
+    "longitude": 79.83136
+  },
+  {
+    "name": "tiruvattangudi",
+    "cc2": "22",
+    "latitude": 10.98371,
+    "longitude": 79.82659
+  },
+  {
+    "name": "varachchakudi",
+    "cc2": "22",
+    "latitude": 10.99302,
+    "longitude": 79.82966
+  },
+  {
+    "name": "pidarippattu",
+    "cc2": "22",
+    "latitude": 11.98844,
+    "longitude": 79.6495
+  },
+  {
+    "name": "tirumangalam",
+    "cc2": "22",
+    "latitude": 11.97687,
+    "longitude": 79.64626
+  },
+  {
+    "name": "muttarambattu",
+    "cc2": "22",
+    "latitude": 11.99087,
+    "longitude": 79.66572
+  },
+  {
+    "name": "kodattur",
+    "cc2": "22",
+    "latitude": 11.99253,
+    "longitude": 79.66583
+  },
+  {
+    "name": "tettambakkam",
+    "cc2": "22",
+    "latitude": 11.99488,
+    "longitude": 79.67806
+  },
+  {
+    "name": "kumarapalaiyam",
+    "cc2": "22",
+    "latitude": 11.98844,
+    "longitude": 79.6823
+  },
+  {
+    "name": "kalingamalai",
+    "cc2": "22",
+    "latitude": 11.98212,
+    "longitude": 79.69602
+  },
+  {
+    "name": "karasur",
+    "cc2": "22",
+    "latitude": 11.98338,
+    "longitude": 79.73835
+  },
+  {
+    "name": "kondimedu",
+    "cc2": "22",
+    "latitude": 11.97987,
+    "longitude": 79.74539
+  },
+  {
+    "name": "kadapperikuppam",
+    "cc2": "22",
+    "latitude": 11.97687,
+    "longitude": 79.73355
+  },
+  {
+    "name": "mettuveli",
+    "cc2": "22",
+    "latitude": 11.96724,
+    "longitude": 79.70636
+  },
+  {
+    "name": "pillaiyarkuppam",
+    "cc2": "22",
+    "latitude": 11.9576,
+    "longitude": 79.70597
+  },
+  {
+    "name": "pettai",
+    "cc2": "22",
+    "latitude": 11.95347,
+    "longitude": 79.71818
+  },
+  {
+    "name": "nerkunam",
+    "cc2": "22",
+    "latitude": 11.97599,
+    "longitude": 79.67104
+  },
+  {
+    "name": "navamal marudur",
+    "cc2": "22",
+    "latitude": 11.90293,
+    "longitude": 79.68603
+  },
+  {
+    "name": "ramareddikulam",
+    "cc2": "22",
+    "latitude": 11.87013,
+    "longitude": 79.66358
+  },
+  {
+    "name": "tukkanambakkam",
+    "cc2": "22",
+    "latitude": 11.84111,
+    "longitude": 79.70435
+  },
+  {
+    "name": "vadasikarambattu",
+    "cc2": "22",
+    "latitude": 11.83717,
+    "longitude": 79.7325
+  },
+  {
+    "name": "kolakkaranchavadi",
+    "cc2": "22",
+    "latitude": 11.84447,
+    "longitude": 79.73486
+  },
+  {
+    "name": "kumarappareddichavadi",
+    "cc2": "22",
+    "latitude": 11.8468,
+    "longitude": 79.73492
+  },
+  {
+    "name": "karanappattu",
+    "cc2": "22",
+    "latitude": 11.85123,
+    "longitude": 79.72323
+  },
+  {
+    "name": "tennambakkam",
+    "cc2": "22",
+    "latitude": 11.85243,
+    "longitude": 79.71542
+  },
+  {
+    "name": "mukkuttikuppam",
+    "cc2": "22",
+    "latitude": 11.85711,
+    "longitude": 79.71458
+  },
+  {
+    "name": "narayanapuram",
+    "cc2": "22",
+    "latitude": 11.85734,
+    "longitude": 79.70196
+  },
+  {
+    "name": "vaniyanattam",
+    "cc2": "22",
+    "latitude": 11.86572,
+    "longitude": 79.69553
+  },
+  {
+    "name": "manakkuppam",
+    "cc2": "22",
+    "latitude": 11.8654,
+    "longitude": 79.69767
+  },
+  {
+    "name": "manaveli",
+    "cc2": "22",
+    "latitude": 11.86585,
+    "longitude": 79.71057
+  },
+  {
+    "name": "rajapalaiyam",
+    "cc2": "22",
+    "latitude": 11.85848,
+    "longitude": 79.70988
+  },
+  {
+    "name": "kil kuppam",
+    "cc2": "22",
+    "latitude": 11.86717,
+    "longitude": 79.70952
+  },
+  {
+    "name": "nattamedu",
+    "cc2": "22",
+    "latitude": 11.86308,
+    "longitude": 79.7193
+  },
+  {
+    "name": "tanikkuppam",
+    "cc2": "22",
+    "latitude": 11.86614,
+    "longitude": 79.72982
+  },
+  {
+    "name": "chellancheri",
+    "cc2": "22",
+    "latitude": 11.85906,
+    "longitude": 79.73198
+  },
+  {
+    "name": "arasappanchavadi",
+    "cc2": "22",
+    "latitude": 11.86538,
+    "longitude": 79.73252
+  },
+  {
+    "name": "korkkadu",
+    "cc2": "22",
+    "latitude": 11.87962,
+    "longitude": 79.74192
+  },
+  {
+    "name": "pudukkuppam",
+    "cc2": "22",
+    "latitude": 11.87719,
+    "longitude": 79.72299
+  },
+  {
+    "name": "embalam",
+    "cc2": "22",
+    "latitude": 11.87139,
+    "longitude": 79.71269
+  },
+  {
+    "name": "nallattur",
+    "cc2": "22",
+    "latitude": 11.87214,
+    "longitude": 79.70293
+  },
+  {
+    "name": "sattamangalam",
+    "cc2": "22",
+    "latitude": 11.88588,
+    "longitude": 79.71712
+  },
+  {
+    "name": "sembipalaiyam",
+    "cc2": "22",
+    "latitude": 11.88313,
+    "longitude": 79.73144
+  },
+  {
+    "name": "kil sattamangalam",
+    "cc2": "22",
+    "latitude": 11.88523,
+    "longitude": 79.72686
+  },
+  {
+    "name": "mangalam",
+    "cc2": "22",
+    "latitude": 11.89329,
+    "longitude": 79.7353
+  },
+  {
+    "name": "vadamangalam",
+    "cc2": "22",
+    "latitude": 11.90222,
+    "longitude": 79.73729
+  },
+  {
+    "name": "pallittennal",
+    "cc2": "22",
+    "latitude": 11.89982,
+    "longitude": 79.72373
+  },
+  {
+    "name": "mumalinayakkankuppam",
+    "cc2": "22",
+    "latitude": 11.90215,
+    "longitude": 79.7174
+  },
+  {
+    "name": "punjolaikuppam",
+    "cc2": "22",
+    "latitude": 11.90348,
+    "longitude": 79.7338
+  },
+  {
+    "name": "ariyasaippetta",
+    "cc2": "22",
+    "latitude": 11.90785,
+    "longitude": 79.74254
+  },
+  {
+    "name": "sadaiyandikkuppam",
+    "cc2": "22",
+    "latitude": 11.9152,
+    "longitude": 79.72249
+  },
+  {
+    "name": "anandapuram",
+    "cc2": "22",
+    "latitude": 11.9182,
+    "longitude": 79.71601
+  },
+  {
+    "name": "tandavamurtikuppam",
+    "cc2": "22",
+    "latitude": 11.9194,
+    "longitude": 79.71429
+  },
+  {
+    "name": "narayanapuram",
+    "cc2": "22",
+    "latitude": 11.91973,
+    "longitude": 79.71878
+  },
+  {
+    "name": "konerikuppam",
+    "cc2": "22",
+    "latitude": 11.93046,
+    "longitude": 79.73046
+  },
+  {
+    "name": "kandiyankuppam",
+    "cc2": "22",
+    "latitude": 11.92783,
+    "longitude": 79.71119
+  },
+  {
+    "name": "chinnababusamudram",
+    "cc2": "22",
+    "latitude": 11.92798,
+    "longitude": 79.69355
+  },
+  {
+    "name": "periyababusamudram",
+    "cc2": "22",
+    "latitude": 11.94129,
+    "longitude": 79.68389
+  },
+  {
+    "name": "rajaputrapalaiyam",
+    "cc2": "22",
+    "latitude": 11.93231,
+    "longitude": 79.68771
+  },
+  {
+    "name": "andikkuppam",
+    "cc2": "22",
+    "latitude": 11.93012,
+    "longitude": 79.69203
+  },
+  {
+    "name": "ammanankuppam",
+    "cc2": "22",
+    "latitude": 11.94354,
+    "longitude": 79.71335
+  },
+  {
+    "name": "gudappakkam",
+    "cc2": "22",
+    "latitude": 11.93619,
+    "longitude": 79.72855
+  },
+  {
+    "name": "kambilikkarankuppam",
+    "cc2": "22",
+    "latitude": 11.85457,
+    "longitude": 79.71967
+  },
+  {
+    "name": "tulukkanattam",
+    "cc2": "22",
+    "latitude": 11.85707,
+    "longitude": 79.73228
+  },
+  {
+    "name": "karkilambakkam",
+    "cc2": "22",
+    "latitude": 11.86322,
+    "longitude": 79.7494
+  },
+  {
+    "name": "mattukkaranchavadi",
+    "cc2": "22",
+    "latitude": 11.96101,
+    "longitude": 79.79921
+  },
+  {
+    "name": "ayyankuttipalaiyam",
+    "cc2": "22",
+    "latitude": 11.94184,
+    "longitude": 79.77177
+  },
+  {
+    "name": "dharmapuri",
+    "cc2": "22",
+    "latitude": 11.93987,
+    "longitude": 79.7754
+  },
+  {
+    "name": "mudrapalaiyam",
+    "cc2": "22",
+    "latitude": 11.94093,
+    "longitude": 79.78247
+  },
+  {
+    "name": "kadirkamam",
+    "cc2": "22",
+    "latitude": 11.9434,
+    "longitude": 79.79471
+  },
+  {
+    "name": "tattanchavadi",
+    "cc2": "22",
+    "latitude": 11.9451,
+    "longitude": 79.80264
+  },
+  {
+    "name": "pillaitottam",
+    "cc2": "22",
+    "latitude": 11.93806,
+    "longitude": 79.81992
+  },
+  {
+    "name": "konsala",
+    "cc2": "22",
+    "latitude": 11.93584,
+    "longitude": 79.82005
+  },
+  {
+    "name": "puduppalaiyam",
+    "cc2": "22",
+    "latitude": 11.93344,
+    "longitude": 79.8142
+  },
+  {
+    "name": "tiruvallikkeni",
+    "cc2": "22",
+    "latitude": 11.94029,
+    "longitude": 79.80952
+  },
+  {
+    "name": "kusappalaiyam",
+    "cc2": "22",
+    "latitude": 11.93675,
+    "longitude": 79.81343
+  },
+  {
+    "name": "gundupalaiyam",
+    "cc2": "22",
+    "latitude": 11.94096,
+    "longitude": 79.80294
+  },
+  {
+    "name": "ellupillaichavadi",
+    "cc2": "22",
+    "latitude": 11.93168,
+    "longitude": 79.80149
+  },
+  {
+    "name": "oulgaret",
+    "cc2": "22",
+    "latitude": 11.93569,
+    "longitude": 79.78411
+  },
+  {
+    "name": "reddiyarpalaiyam",
+    "cc2": "22",
+    "latitude": 11.92973,
+    "longitude": 79.80016
+  },
+  {
+    "name": "nellittoppu",
+    "cc2": "22",
+    "latitude": 11.93032,
+    "longitude": 79.81258
+  },
+  {
+    "name": "muttupillaipalaiyam",
+    "cc2": "22",
+    "latitude": 11.92758,
+    "longitude": 79.76952
+  },
+  {
+    "name": "arumattapuram",
+    "cc2": "22",
+    "latitude": 11.92278,
+    "longitude": 79.77542
+  },
+  {
+    "name": "sultanpettai",
+    "cc2": "22",
+    "latitude": 11.92177,
+    "longitude": 79.76254
+  },
+  {
+    "name": "arasur",
+    "cc2": "22",
+    "latitude": 11.92524,
+    "longitude": 79.76093
+  },
+  {
+    "name": "perambai",
+    "cc2": "22",
+    "latitude": 11.92891,
+    "longitude": 79.75598
+  },
+  {
+    "name": "tattanchavadi",
+    "cc2": "22",
+    "latitude": 11.91764,
+    "longitude": 79.76628
+  },
+  {
+    "name": "manaveli",
+    "cc2": "22",
+    "latitude": 11.91693,
+    "longitude": 79.77256
+  },
+  {
+    "name": "odiyambattu",
+    "cc2": "22",
+    "latitude": 11.90706,
+    "longitude": 79.77889
+  },
+  {
+    "name": "kommapakkam",
+    "cc2": "22",
+    "latitude": 11.90693,
+    "longitude": 79.79007
+  },
+  {
+    "name": "nayinarmantapam",
+    "cc2": "22",
+    "latitude": 11.90981,
+    "longitude": 79.80891
+  },
+  {
+    "name": "mudaliyarpettai",
+    "cc2": "22",
+    "latitude": 11.91974,
+    "longitude": 79.81243
+  },
+  {
+    "name": "kallaraicheri",
+    "cc2": "22",
+    "latitude": 11.92028,
+    "longitude": 79.82009
+  },
+  {
+    "name": "tengattittu",
+    "cc2": "22",
+    "latitude": 11.91084,
+    "longitude": 79.81831
+  },
+  {
+    "name": "murungappakkam",
+    "cc2": "22",
+    "latitude": 11.9067,
+    "longitude": 79.8067
+  },
+  {
+    "name": "ariyankuppam",
+    "cc2": "22",
+    "latitude": 11.89532,
+    "longitude": 79.80709
+  },
+  {
+    "name": "kakkayantoppu",
+    "cc2": "22",
+    "latitude": 11.89524,
+    "longitude": 79.81792
+  },
+  {
+    "name": "manaveli",
+    "cc2": "22",
+    "latitude": 11.89091,
+    "longitude": 79.81037
+  },
+  {
+    "name": "odaveli",
+    "cc2": "22",
+    "latitude": 11.88705,
+    "longitude": 79.81318
+  },
+  {
+    "name": "chinnavirampatnam",
+    "cc2": "22",
+    "latitude": 11.88348,
+    "longitude": 79.82125
+  },
+  {
+    "name": "nonanguppam",
+    "cc2": "22",
+    "latitude": 11.88469,
+    "longitude": 79.79668
+  },
+  {
+    "name": "irisampalaiyam",
+    "cc2": "22",
+    "latitude": 11.8941,
+    "longitude": 79.79215
+  },
+  {
+    "name": "ottampalaiyam",
+    "cc2": "22",
+    "latitude": 11.89887,
+    "longitude": 79.7896
+  },
+  {
+    "name": "pappanchavadi",
+    "cc2": "22",
+    "latitude": 11.90329,
+    "longitude": 79.79678
+  },
+  {
+    "name": "nallareddipalaiyam",
+    "cc2": "22",
+    "latitude": 11.89089,
+    "longitude": 79.78763
+  },
+  {
+    "name": "pudukkuppam",
+    "cc2": "22",
+    "latitude": 11.88698,
+    "longitude": 79.79177
+  },
+  {
+    "name": "kilinjikkuppam",
+    "cc2": "22",
+    "latitude": 11.88875,
+    "longitude": 79.7717
+  },
+  {
+    "name": "sandikkuppam",
+    "cc2": "22",
+    "latitude": 11.90282,
+    "longitude": 79.77922
+  },
+  {
+    "name": "kottamedu",
+    "cc2": "22",
+    "latitude": 11.90935,
+    "longitude": 79.75389
+  },
+  {
+    "name": "andipalaiyam",
+    "cc2": "22",
+    "latitude": 11.89253,
+    "longitude": 79.75999
+  },
+  {
+    "name": "narimedu",
+    "cc2": "22",
+    "latitude": 11.89154,
+    "longitude": 79.75776
+  },
+  {
+    "name": "uruvaiyar",
+    "cc2": "22",
+    "latitude": 11.88938,
+    "longitude": 79.75153
+  },
+  {
+    "name": "tirukkanji",
+    "cc2": "22",
+    "latitude": 11.88864,
+    "longitude": 79.76788
+  },
+  {
+    "name": "punjolaikkuppam",
+    "cc2": "22",
+    "latitude": 11.88005,
+    "longitude": 79.78468
+  },
+  {
+    "name": "idaiyarpalaiyam",
+    "cc2": "22",
+    "latitude": 11.87182,
+    "longitude": 79.79913
+  },
+  {
+    "name": "davalakuppam",
+    "cc2": "22",
+    "latitude": 11.86655,
+    "longitude": 79.79402
+  },
+  {
+    "name": "tanampalaiyam",
+    "cc2": "22",
+    "latitude": 11.86044,
+    "longitude": 79.79887
+  },
+  {
+    "name": "singarakkudi",
+    "cc2": "22",
+    "latitude": 11.86477,
+    "longitude": 79.77979
+  },
+  {
+    "name": "avispakkam",
+    "cc2": "22",
+    "latitude": 11.86346,
+    "longitude": 79.77702
+  },
+  {
+    "name": "tanattamedu",
+    "cc2": "22",
+    "latitude": 11.87569,
+    "longitude": 79.75677
+  },
+  {
+    "name": "perungalur",
+    "cc2": "22",
+    "latitude": 11.86949,
+    "longitude": 79.75746
+  },
+  {
+    "name": "vadapuram",
+    "cc2": "22",
+    "latitude": 11.86641,
+    "longitude": 79.75709
+  },
+  {
+    "name": "pudukkadai",
+    "cc2": "22",
+    "latitude": 11.86426,
+    "longitude": 79.75999
+  },
+  {
+    "name": "palaiyam",
+    "cc2": "22",
+    "latitude": 11.84326,
+    "longitude": 79.76814
+  },
+  {
+    "name": "kattuppalaiyam",
+    "cc2": "22",
+    "latitude": 11.85299,
+    "longitude": 79.78967
+  },
+  {
+    "name": "korukkamedu",
+    "cc2": "22",
+    "latitude": 11.85688,
+    "longitude": 79.79485
+  },
+  {
+    "name": "kasantittu",
+    "cc2": "22",
+    "latitude": 11.85675,
+    "longitude": 79.80048
+  },
+  {
+    "name": "andipalaiyam",
+    "cc2": "22",
+    "latitude": 11.85683,
+    "longitude": 79.80301
+  },
+  {
+    "name": "nallavadu",
+    "cc2": "22",
+    "latitude": 11.85834,
+    "longitude": 79.81426
+  },
+  {
+    "name": "vellipalaiyam",
+    "cc2": "22",
+    "latitude": 11.85196,
+    "longitude": 79.79595
+  },
+  {
+    "name": "reddichavadi",
+    "cc2": "22",
+    "latitude": 11.8385,
+    "longitude": 79.78599
+  },
+  {
+    "name": "madalappattu",
+    "cc2": "22",
+    "latitude": 11.82982,
+    "longitude": 79.79488
+  },
+  {
+    "name": "pannittittu",
+    "cc2": "22",
+    "latitude": 11.82869,
+    "longitude": 79.80331
+  },
+  {
+    "name": "seliyamedur",
+    "cc2": "22",
+    "latitude": 11.82495,
+    "longitude": 79.75398
+  },
+  {
+    "name": "narambai",
+    "cc2": "22",
+    "latitude": 11.81214,
+    "longitude": 79.80007
+  },
+  {
+    "name": "vemba kirappalaiyam",
+    "cc2": "22",
+    "latitude": 11.91987,
+    "longitude": 79.83137
+  },
+  {
+    "name": "mulakkulam",
+    "cc2": "22",
+    "latitude": 11.92939,
+    "longitude": 79.78871
+  },
+  {
+    "name": "chinnakattuppalaiyam",
+    "cc2": "22",
+    "latitude": 11.83633,
+    "longitude": 79.79322
+  },
+  {
+    "name": "sivanathapuram",
+    "cc2": "22",
+    "latitude": 11.85115,
+    "longitude": 79.80283
+  },
+  {
+    "name": "mel alinjippattu",
+    "cc2": "22",
+    "latitude": 11.84377,
+    "longitude": 79.76433
+  },
+  {
+    "name": "kil kasakkudi",
+    "cc2": "22",
+    "latitude": 10.95318,
+    "longitude": 79.8261
+  },
+  {
+    "name": "kurumbapet",
+    "cc2": "22",
+    "latitude": 11.93983,
+    "longitude": 79.77127
+  }
+]

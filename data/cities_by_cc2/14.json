@@ -1,0 +1,56 @@
+[
+  {
+    "name": "kavaratti",
+    "cc2": "14",
+    "latitude": 10.56688,
+    "longitude": 72.64203
+  },
+  {
+    "name": "kalpeni",
+    "cc2": "14",
+    "latitude": 10.0826,
+    "longitude": 73.64316
+  },
+  {
+    "name": "minicoy",
+    "cc2": "14",
+    "latitude": 8.28899,
+    "longitude": 73.0617
+  },
+  {
+    "name": "andrott",
+    "cc2": "14",
+    "latitude": 10.81186,
+    "longitude": 73.67408
+  },
+  {
+    "name": "amini",
+    "cc2": "14",
+    "latitude": 11.11408,
+    "longitude": 72.71907
+  },
+  {
+    "name": "agatti",
+    "cc2": "14",
+    "latitude": 10.83522,
+    "longitude": 72.18217
+  },
+  {
+    "name": "kadmat",
+    "cc2": "14",
+    "latitude": 11.22467,
+    "longitude": 72.77482
+  },
+  {
+    "name": "kiltan",
+    "cc2": "14",
+    "latitude": 11.48577,
+    "longitude": 73.00384
+  },
+  {
+    "name": "chetlat",
+    "cc2": "14",
+    "latitude": 11.68828,
+    "longitude": 72.70957
+  }
+]

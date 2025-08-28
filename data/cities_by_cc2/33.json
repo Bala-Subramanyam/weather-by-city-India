@@ -1,0 +1,2708 @@
+[
+  {
+    "name": "zarani",
+    "cc2": "33",
+    "latitude": 15.55611,
+    "longitude": 74.23195
+  },
+  {
+    "name": "xelvona",
+    "cc2": "33",
+    "latitude": 15.26667,
+    "longitude": 74.08333
+  },
+  {
+    "name": "xeldem",
+    "cc2": "33",
+    "latitude": 15.25,
+    "longitude": 74.08333
+  },
+  {
+    "name": "virnora",
+    "cc2": "33",
+    "latitude": 15.70724,
+    "longitude": 73.81846
+  },
+  {
+    "name": "viliena",
+    "cc2": "33",
+    "latitude": 15.16667,
+    "longitude": 74.23333
+  },
+  {
+    "name": "vichondrem",
+    "cc2": "33",
+    "latitude": 15.09642,
+    "longitude": 74.20202
+  },
+  {
+    "name": "verna",
+    "cc2": "33",
+    "latitude": 15.35479,
+    "longitude": 73.92454
+  },
+  {
+    "name": "verlem",
+    "cc2": "33",
+    "latitude": 15.04344,
+    "longitude": 74.25234
+  },
+  {
+    "name": "verla",
+    "cc2": "33",
+    "latitude": 15.58986,
+    "longitude": 73.76363
+  },
+  {
+    "name": "verem",
+    "cc2": "33",
+    "latitude": 15.51011,
+    "longitude": 73.81135
+  },
+  {
+    "name": "verem",
+    "cc2": "33",
+    "latitude": 15.46667,
+    "longitude": 74.01667
+  },
+  {
+    "name": "verdi",
+    "cc2": "33",
+    "latitude": 15.55105,
+    "longitude": 73.9791
+  },
+  {
+    "name": "veluz",
+    "cc2": "33",
+    "latitude": 15.53911,
+    "longitude": 74.14096
+  },
+  {
+    "name": "velinga",
+    "cc2": "33",
+    "latitude": 15.42811,
+    "longitude": 73.97373
+  },
+  {
+    "name": "velim",
+    "cc2": "33",
+    "latitude": 15.16441,
+    "longitude": 73.97592
+  },
+  {
+    "name": "velguem",
+    "cc2": "33",
+    "latitude": 15.50085,
+    "longitude": 74.05287
+  },
+  {
+    "name": "velcao",
+    "cc2": "33",
+    "latitude": 15.35,
+    "longitude": 73.88333
+  },
+  {
+    "name": "vasco da gama",
+    "cc2": "33",
+    "latitude": 15.39585,
+    "longitude": 73.81568
+  },
+  {
+    "name": "varconda",
+    "cc2": "33",
+    "latitude": 15.7,
+    "longitude": 73.83333
+  },
+  {
+    "name": "varca",
+    "cc2": "33",
+    "latitude": 15.23237,
+    "longitude": 73.94311
+  },
+  {
+    "name": "vantem",
+    "cc2": "33",
+    "latitude": 15.46667,
+    "longitude": 74.1
+  },
+  {
+    "name": "valpoi",
+    "cc2": "33",
+    "latitude": 15.53239,
+    "longitude": 74.13671
+  },
+  {
+    "name": "vainguinim",
+    "cc2": "33",
+    "latitude": 15.56887,
+    "longitude": 73.91207
+  },
+  {
+    "name": "vaddem",
+    "cc2": "33",
+    "latitude": 15.39902,
+    "longitude": 73.82569
+  },
+  {
+    "name": "utorda",
+    "cc2": "33",
+    "latitude": 15.32603,
+    "longitude": 73.91104
+  },
+  {
+    "name": "ustem",
+    "cc2": "33",
+    "latitude": 15.56079,
+    "longitude": 74.20292
+  },
+  {
+    "name": "usgao",
+    "cc2": "33",
+    "latitude": 15.43333,
+    "longitude": 74.06667
+  },
+  {
+    "name": "uguem",
+    "cc2": "33",
+    "latitude": 15.75,
+    "longitude": 73.83333
+  },
+  {
+    "name": "uguem",
+    "cc2": "33",
+    "latitude": 15.21667,
+    "longitude": 74.16667
+  },
+  {
+    "name": "ucassaim",
+    "cc2": "33",
+    "latitude": 15.58539,
+    "longitude": 73.83006
+  },
+  {
+    "name": "tuem",
+    "cc2": "33",
+    "latitude": 15.66486,
+    "longitude": 73.79914
+  },
+  {
+    "name": "tudou",
+    "cc2": "33",
+    "latitude": 15.21667,
+    "longitude": 74.21667
+  },
+  {
+    "name": "torxem",
+    "cc2": "33",
+    "latitude": 15.78333,
+    "longitude": 73.85
+  },
+  {
+    "name": "toldem",
+    "cc2": "33",
+    "latitude": 15.42548,
+    "longitude": 74.19912
+  },
+  {
+    "name": "tivim",
+    "cc2": "33",
+    "latitude": 15.61932,
+    "longitude": 73.84423
+  },
+  {
+    "name": "tilamola",
+    "cc2": "33",
+    "latitude": 15.21667,
+    "longitude": 74.08333
+  },
+  {
+    "name": "terekhol",
+    "cc2": "33",
+    "latitude": 15.73092,
+    "longitude": 73.68281
+  },
+  {
+    "name": "tanem",
+    "cc2": "33",
+    "latitude": 15.60432,
+    "longitude": 74.14175
+  },
+  {
+    "name": "tamboxem",
+    "cc2": "33",
+    "latitude": 15.75993,
+    "longitude": 73.83706
+  },
+  {
+    "name": "talvorda",
+    "cc2": "33",
+    "latitude": 15.2,
+    "longitude": 74.03333
+  },
+  {
+    "name": "taleigao",
+    "cc2": "33",
+    "latitude": 15.46915,
+    "longitude": 73.83285
+  },
+  {
+    "name": "talaulim",
+    "cc2": "33",
+    "latitude": 15.38333,
+    "longitude": 73.98333
+  },
+  {
+    "name": "telaulim",
+    "cc2": "33",
+    "latitude": 15.23933,
+    "longitude": 73.96243
+  },
+  {
+    "name": "surla",
+    "cc2": "33",
+    "latitude": 15.66869,
+    "longitude": 74.17016
+  },
+  {
+    "name": "surla",
+    "cc2": "33",
+    "latitude": 15.50021,
+    "longitude": 74.02502
+  },
+  {
+    "name": "surla",
+    "cc2": "33",
+    "latitude": 15.41703,
+    "longitude": 74.19711
+  },
+  {
+    "name": "sulcorna",
+    "cc2": "33",
+    "latitude": 15.10423,
+    "longitude": 74.17291
+  },
+  {
+    "name": "solim",
+    "cc2": "33",
+    "latitude": 15.61521,
+    "longitude": 73.7674
+  },
+  {
+    "name": "sirvoi",
+    "cc2": "33",
+    "latitude": 15.2,
+    "longitude": 74.08333
+  },
+  {
+    "name": "sirsodem",
+    "cc2": "33",
+    "latitude": 15.5,
+    "longitude": 74.16667
+  },
+  {
+    "name": "siroda",
+    "cc2": "33",
+    "latitude": 15.32184,
+    "longitude": 74.04138
+  },
+  {
+    "name": "sirigao",
+    "cc2": "33",
+    "latitude": 15.6,
+    "longitude": 73.9
+  },
+  {
+    "name": "sirangulim",
+    "cc2": "33",
+    "latitude": 15.48458,
+    "longitude": 74.18096
+  },
+  {
+    "name": "silidao",
+    "cc2": "33",
+    "latitude": 15.45136,
+    "longitude": 73.85885
+  },
+  {
+    "name": "sigonem",
+    "cc2": "33",
+    "latitude": 15.11667,
+    "longitude": 74.25
+  },
+  {
+    "name": "sigao",
+    "cc2": "33",
+    "latitude": 15.33494,
+    "longitude": 74.20662
+  },
+  {
+    "name": "serula",
+    "cc2": "33",
+    "latitude": 15.54774,
+    "longitude": 73.84329
+  },
+  {
+    "name": "sarzora",
+    "cc2": "33",
+    "latitude": 15.21405,
+    "longitude": 74.00022
+  },
+  {
+    "name": "sarvona",
+    "cc2": "33",
+    "latitude": 15.58494,
+    "longitude": 73.96981
+  },
+  {
+    "name": "sanvordem",
+    "cc2": "33",
+    "latitude": 15.26269,
+    "longitude": 74.11965
+  },
+  {
+    "name": "santa cruz",
+    "cc2": "33",
+    "latitude": 15.47519,
+    "longitude": 73.84563
+  },
+  {
+    "name": "sanquelim",
+    "cc2": "33",
+    "latitude": 15.56422,
+    "longitude": 74.00799
+  },
+  {
+    "name": "sanguem",
+    "cc2": "33",
+    "latitude": 15.22901,
+    "longitude": 74.15149
+  },
+  {
+    "name": "sangod",
+    "cc2": "33",
+    "latitude": 15.38333,
+    "longitude": 74.16667
+  },
+  {
+    "name": "sancordem",
+    "cc2": "33",
+    "latitude": 15.41057,
+    "longitude": 74.16235
+  },
+  {
+    "name": "sancoale",
+    "cc2": "33",
+    "latitude": 15.37794,
+    "longitude": 73.90352
+  },
+  {
+    "name": "saligao",
+    "cc2": "33",
+    "latitude": 15.55359,
+    "longitude": 73.79036
+  },
+  {
+    "name": "salem",
+    "cc2": "33",
+    "latitude": 15.7,
+    "longitude": 73.91667
+  },
+  {
+    "name": "salauli",
+    "cc2": "33",
+    "latitude": 15.18865,
+    "longitude": 74.17045
+  },
+  {
+    "name": "rivona",
+    "cc2": "33",
+    "latitude": 15.17837,
+    "longitude": 74.10909
+  },
+  {
+    "name": "ribandar",
+    "cc2": "33",
+    "latitude": 15.49918,
+    "longitude": 73.86821
+  },
+  {
+    "name": "revora",
+    "cc2": "33",
+    "latitude": 15.66515,
+    "longitude": 73.85609
+  },
+  {
+    "name": "raia",
+    "cc2": "33",
+    "latitude": 15.30499,
+    "longitude": 73.97096
+  },
+  {
+    "name": "rachol",
+    "cc2": "33",
+    "latitude": 15.30796,
+    "longitude": 74.0047
+  },
+  {
+    "name": "racaim",
+    "cc2": "33",
+    "latitude": 15.34392,
+    "longitude": 73.99437
+  },
+  {
+    "name": "queula",
+    "cc2": "33",
+    "latitude": 15.39011,
+    "longitude": 73.98557
+  },
+  {
+    "name": "querim",
+    "cc2": "33",
+    "latitude": 15.60385,
+    "longitude": 74.07353
+  },
+  {
+    "name": "querim",
+    "cc2": "33",
+    "latitude": 15.45,
+    "longitude": 74
+  },
+  {
+    "name": "quepem",
+    "cc2": "33",
+    "latitude": 15.2128,
+    "longitude": 74.0772
+  },
+  {
+    "name": "quelossim",
+    "cc2": "33",
+    "latitude": 15.39183,
+    "longitude": 73.94133
+  },
+  {
+    "name": "priol",
+    "cc2": "33",
+    "latitude": 15.41667,
+    "longitude": 73.98333
+  },
+  {
+    "name": "potrem",
+    "cc2": "33",
+    "latitude": 15.2027,
+    "longitude": 74.26333
+  },
+  {
+    "name": "poroscodem",
+    "cc2": "33",
+    "latitude": 15.74031,
+    "longitude": 73.82994
+  },
+  {
+    "name": "poriem",
+    "cc2": "33",
+    "latitude": 15.58257,
+    "longitude": 74.038
+  },
+  {
+    "name": "ponsuli",
+    "cc2": "33",
+    "latitude": 15.6255,
+    "longitude": 74.10602
+  },
+  {
+    "name": "ponda",
+    "cc2": "33",
+    "latitude": 15.40341,
+    "longitude": 74.01519
+  },
+  {
+    "name": "pomburpa",
+    "cc2": "33",
+    "latitude": 15.55,
+    "longitude": 73.85
+  },
+  {
+    "name": "pololem",
+    "cc2": "33",
+    "latitude": 15.01667,
+    "longitude": 74.01667
+  },
+  {
+    "name": "poliem",
+    "cc2": "33",
+    "latitude": 14.91344,
+    "longitude": 74.08468
+  },
+  {
+    "name": "poninguinim",
+    "cc2": "33",
+    "latitude": 14.96789,
+    "longitude": 74.08649
+  },
+  {
+    "name": "pissurlem",
+    "cc2": "33",
+    "latitude": 15.52376,
+    "longitude": 74.06367
+  },
+  {
+    "name": "pirna",
+    "cc2": "33",
+    "latitude": 15.67211,
+    "longitude": 73.89129
+  },
+  {
+    "name": "piligao",
+    "cc2": "33",
+    "latitude": 15.55199,
+    "longitude": 73.95305
+  },
+  {
+    "name": "piliem",
+    "cc2": "33",
+    "latitude": 15.4053,
+    "longitude": 74.08398
+  },
+  {
+    "name": "pilerne",
+    "cc2": "33",
+    "latitude": 15.53353,
+    "longitude": 73.79533
+  },
+  {
+    "name": "pernem",
+    "cc2": "33",
+    "latitude": 15.723,
+    "longitude": 73.79511
+  },
+  {
+    "name": "patnem",
+    "cc2": "33",
+    "latitude": 14.99889,
+    "longitude": 74.03783
+  },
+  {
+    "name": "parxem",
+    "cc2": "33",
+    "latitude": 15.67512,
+    "longitude": 73.77991
+  },
+  {
+    "name": "parra",
+    "cc2": "33",
+    "latitude": 15.57961,
+    "longitude": 73.7941
+  },
+  {
+    "name": "paroda",
+    "cc2": "33",
+    "latitude": 15.23103,
+    "longitude": 74.05375
+  },
+  {
+    "name": "panjim",
+    "cc2": "33",
+    "latitude": 15.49574,
+    "longitude": 73.82624
+  },
+  {
+    "name": "palle",
+    "cc2": "33",
+    "latitude": 15.46667,
+    "longitude": 74.08333
+  },
+  {
+    "name": "paliem",
+    "cc2": "33",
+    "latitude": 15.7093,
+    "longitude": 73.72069
+  },
+  {
+    "name": "pale",
+    "cc2": "33",
+    "latitude": 15.36285,
+    "longitude": 73.88112
+  },
+  {
+    "name": "ozorim",
+    "cc2": "33",
+    "latitude": 15.68333,
+    "longitude": 73.88333
+  },
+  {
+    "name": "oxel",
+    "cc2": "33",
+    "latitude": 15.62716,
+    "longitude": 73.76631
+  },
+  {
+    "name": "oxel",
+    "cc2": "33",
+    "latitude": 15.28277,
+    "longitude": 74.24626
+  },
+  {
+    "name": "orxel",
+    "cc2": "33",
+    "latitude": 15.45,
+    "longitude": 73.81667
+  },
+  {
+    "name": "orlim",
+    "cc2": "33",
+    "latitude": 15.22145,
+    "longitude": 73.95068
+  },
+  {
+    "name": "nuvem",
+    "cc2": "33",
+    "latitude": 15.31738,
+    "longitude": 73.93873
+  },
+  {
+    "name": "nundem",
+    "cc2": "33",
+    "latitude": 15.06667,
+    "longitude": 74.2
+  },
+  {
+    "name": "nogorcem",
+    "cc2": "33",
+    "latitude": 15.01667,
+    "longitude": 74.03333
+  },
+  {
+    "name": "nirancal",
+    "cc2": "33",
+    "latitude": 15.36088,
+    "longitude": 74.08604
+  },
+  {
+    "name": "neura",
+    "cc2": "33",
+    "latitude": 15.44259,
+    "longitude": 73.91736
+  },
+  {
+    "name": "netorlim",
+    "cc2": "33",
+    "latitude": 15.08333,
+    "longitude": 74.21667
+  },
+  {
+    "name": "nerul",
+    "cc2": "33",
+    "latitude": 15.51031,
+    "longitude": 73.78087
+  },
+  {
+    "name": "navelim",
+    "cc2": "33",
+    "latitude": 15.53333,
+    "longitude": 73.98333
+  },
+  {
+    "name": "navelim",
+    "cc2": "33",
+    "latitude": 15.25885,
+    "longitude": 73.96637
+  },
+  {
+    "name": "naroa",
+    "cc2": "33",
+    "latitude": 15.55054,
+    "longitude": 73.9282
+  },
+  {
+    "name": "naozor",
+    "cc2": "33",
+    "latitude": 15.7036,
+    "longitude": 73.85105
+  },
+  {
+    "name": "nanuz",
+    "cc2": "33",
+    "latitude": 15.50755,
+    "longitude": 74.13312
+  },
+  {
+    "name": "nanodem",
+    "cc2": "33",
+    "latitude": 15.57943,
+    "longitude": 74.20752
+  },
+  {
+    "name": "naneli",
+    "cc2": "33",
+    "latitude": 15.58213,
+    "longitude": 74.14862
+  },
+  {
+    "name": "naina",
+    "cc2": "33",
+    "latitude": 15.14248,
+    "longitude": 74.10219
+  },
+  {
+    "name": "nagorgao",
+    "cc2": "33",
+    "latitude": 15.56624,
+    "longitude": 74.15833
+  },
+  {
+    "name": "nadora",
+    "cc2": "33",
+    "latitude": 15.67538,
+    "longitude": 73.87453
+  },
+  {
+    "name": "nachinola",
+    "cc2": "33",
+    "latitude": 15.59568,
+    "longitude": 73.86158
+  },
+  {
+    "name": "mulgao",
+    "cc2": "33",
+    "latitude": 15.61669,
+    "longitude": 73.92325
+  },
+  {
+    "name": "mulem",
+    "cc2": "33",
+    "latitude": 15.24234,
+    "longitude": 74.03798
+  },
+  {
+    "name": "muguli",
+    "cc2": "33",
+    "latitude": 15.23333,
+    "longitude": 74.16667
+  },
+  {
+    "name": "morpirla",
+    "cc2": "33",
+    "latitude": 15.1,
+    "longitude": 74
+  },
+  {
+    "name": "morlem",
+    "cc2": "33",
+    "latitude": 15.5926,
+    "longitude": 74.04677
+  },
+  {
+    "name": "morjim",
+    "cc2": "33",
+    "latitude": 15.63097,
+    "longitude": 73.73903
+  },
+  {
+    "name": "mopa",
+    "cc2": "33",
+    "latitude": 15.75,
+    "longitude": 73.85
+  },
+  {
+    "name": "molem",
+    "cc2": "33",
+    "latitude": 15.37557,
+    "longitude": 74.22685
+  },
+  {
+    "name": "molcornem",
+    "cc2": "33",
+    "latitude": 15.17391,
+    "longitude": 74.15618
+  },
+  {
+    "name": "moira",
+    "cc2": "33",
+    "latitude": 15.60256,
+    "longitude": 73.83902
+  },
+  {
+    "name": "merces",
+    "cc2": "33",
+    "latitude": 15.48333,
+    "longitude": 73.85
+  },
+  {
+    "name": "mencurem",
+    "cc2": "33",
+    "latitude": 15.7,
+    "longitude": 73.88333
+  },
+  {
+    "name": "maus",
+    "cc2": "33",
+    "latitude": 15.54582,
+    "longitude": 74.1144
+  },
+  {
+    "name": "maulinguem",
+    "cc2": "33",
+    "latitude": 15.61194,
+    "longitude": 73.96271
+  },
+  {
+    "name": "marna",
+    "cc2": "33",
+    "latitude": 15.61344,
+    "longitude": 73.78332
+  },
+  {
+    "name": "mormugao",
+    "cc2": "33",
+    "latitude": 15.38914,
+    "longitude": 73.81491
+  },
+  {
+    "name": "mardol",
+    "cc2": "33",
+    "latitude": 15.44045,
+    "longitude": 73.97239
+  },
+  {
+    "name": "mapusa",
+    "cc2": "33",
+    "latitude": 15.59154,
+    "longitude": 73.80898
+  },
+  {
+    "name": "mandur",
+    "cc2": "33",
+    "latitude": 15.45462,
+    "longitude": 73.9234
+  },
+  {
+    "name": "mandrem",
+    "cc2": "33",
+    "latitude": 15.65337,
+    "longitude": 73.72272
+  },
+  {
+    "name": "malvona",
+    "cc2": "33",
+    "latitude": 15.45,
+    "longitude": 74.16667
+  },
+  {
+    "name": "malcopona",
+    "cc2": "33",
+    "latitude": 15.18766,
+    "longitude": 74.12848
+  },
+  {
+    "name": "malconda",
+    "cc2": "33",
+    "latitude": 15.43333,
+    "longitude": 74.23333
+  },
+  {
+    "name": "malar",
+    "cc2": "33",
+    "latitude": 15.52969,
+    "longitude": 73.91064
+  },
+  {
+    "name": "maida",
+    "cc2": "33",
+    "latitude": 15.15,
+    "longitude": 74.2
+  },
+  {
+    "name": "mayem",
+    "cc2": "33",
+    "latitude": 15.57956,
+    "longitude": 73.92603
+  },
+  {
+    "name": "magdal",
+    "cc2": "33",
+    "latitude": 14.96988,
+    "longitude": 74.05651
+  },
+  {
+    "name": "maem",
+    "cc2": "33",
+    "latitude": 15.63333,
+    "longitude": 73.9
+  },
+  {
+    "name": "madkai",
+    "cc2": "33",
+    "latitude": 15.41416,
+    "longitude": 73.93982
+  },
+  {
+    "name": "madgaon",
+    "cc2": "33",
+    "latitude": 15.27501,
+    "longitude": 73.95786
+  },
+  {
+    "name": "macasana",
+    "cc2": "33",
+    "latitude": 15.65723,
+    "longitude": 73.83146
+  },
+  {
+    "name": "macasana",
+    "cc2": "33",
+    "latitude": 15.28981,
+    "longitude": 74.06284
+  },
+  {
+    "name": "loutolim",
+    "cc2": "33",
+    "latitude": 15.33837,
+    "longitude": 73.9959
+  },
+  {
+    "name": "loliem",
+    "cc2": "33",
+    "latitude": 14.9445,
+    "longitude": 74.07138
+  },
+  {
+    "name": "ledo",
+    "cc2": "33",
+    "latitude": 27.2949,
+    "longitude": 95.73585
+  },
+  {
+    "name": "latambarcem",
+    "cc2": "33",
+    "latitude": 15.65096,
+    "longitude": 73.93643
+  },
+  {
+    "name": "kankon",
+    "cc2": "33",
+    "latitude": 15.02698,
+    "longitude": 74.04617
+  },
+  {
+    "name": "jua",
+    "cc2": "33",
+    "latitude": 15.5307,
+    "longitude": 73.95047
+  },
+  {
+    "name": "jambavali",
+    "cc2": "33",
+    "latitude": 15.18466,
+    "longitude": 74.09405
+  },
+  {
+    "name": "jagvi",
+    "cc2": "33",
+    "latitude": 15.08333,
+    "longitude": 74.18333
+  },
+  {
+    "name": "ibrampur",
+    "cc2": "33",
+    "latitude": 15.70693,
+    "longitude": 73.94141
+  },
+  {
+    "name": "gululem",
+    "cc2": "33",
+    "latitude": 15.61086,
+    "longitude": 74.10151
+  },
+  {
+    "name": "guirim",
+    "cc2": "33",
+    "latitude": 15.57552,
+    "longitude": 73.80722
+  },
+  {
+    "name": "guirdolim",
+    "cc2": "33",
+    "latitude": 15.28333,
+    "longitude": 74.05
+  },
+  {
+    "name": "govanem",
+    "cc2": "33",
+    "latitude": 15.46361,
+    "longitude": 74.17617
+  },
+  {
+    "name": "goltim",
+    "cc2": "33",
+    "latitude": 15.53333,
+    "longitude": 73.9
+  },
+  {
+    "name": "goa velha",
+    "cc2": "33",
+    "latitude": 15.44384,
+    "longitude": 73.88572
+  },
+  {
+    "name": "gaundongrem",
+    "cc2": "33",
+    "latitude": 15.03333,
+    "longitude": 74.11667
+  },
+  {
+    "name": "gandaulim",
+    "cc2": "33",
+    "latitude": 15.51273,
+    "longitude": 73.94066
+  },
+  {
+    "name": "fatorpa",
+    "cc2": "33",
+    "latitude": 15.14057,
+    "longitude": 73.99959
+  },
+  {
+    "name": "durbate",
+    "cc2": "33",
+    "latitude": 15.37827,
+    "longitude": 73.97746
+  },
+  {
+    "name": "dumacem",
+    "cc2": "33",
+    "latitude": 15.68811,
+    "longitude": 73.91537
+  },
+  {
+    "name": "dramapur",
+    "cc2": "33",
+    "latitude": 15.24318,
+    "longitude": 73.98187
+  },
+  {
+    "name": "dona paula",
+    "cc2": "33",
+    "latitude": 15.45588,
+    "longitude": 73.80431
+  },
+  {
+    "name": "bicholim",
+    "cc2": "33",
+    "latitude": 15.59319,
+    "longitude": 73.94571
+  },
+  {
+    "name": "derodem",
+    "cc2": "33",
+    "latitude": 15.59653,
+    "longitude": 74.21977
+  },
+  {
+    "name": "davorlim",
+    "cc2": "33",
+    "latitude": 15.27221,
+    "longitude": 73.99242
+  },
+  {
+    "name": "dauconda",
+    "cc2": "33",
+    "latitude": 15.35,
+    "longitude": 74.11667
+  },
+  {
+    "name": "dargalim",
+    "cc2": "33",
+    "latitude": 15.67354,
+    "longitude": 73.83721
+  },
+  {
+    "name": "darbandora",
+    "cc2": "33",
+    "latitude": 15.39138,
+    "longitude": 74.12227
+  },
+  {
+    "name": "damal",
+    "cc2": "33",
+    "latitude": 15.2,
+    "longitude": 74.2
+  },
+  {
+    "name": "dabolim",
+    "cc2": "33",
+    "latitude": 15.39911,
+    "longitude": 73.8559
+  },
+  {
+    "name": "dabem",
+    "cc2": "33",
+    "latitude": 15.55991,
+    "longitude": 74.10728
+  },
+  {
+    "name": "dabal",
+    "cc2": "33",
+    "latitude": 15.35,
+    "longitude": 74.1
+  },
+  {
+    "name": "curtorim",
+    "cc2": "33",
+    "latitude": 15.27563,
+    "longitude": 74.02158
+  },
+  {
+    "name": "curti",
+    "cc2": "33",
+    "latitude": 15.41667,
+    "longitude": 74.01667
+  },
+  {
+    "name": "curpem",
+    "cc2": "33",
+    "latitude": 15.13333,
+    "longitude": 74.16667
+  },
+  {
+    "name": "curdi",
+    "cc2": "33",
+    "latitude": 15.15,
+    "longitude": 74.18333
+  },
+  {
+    "name": "curchorem",
+    "cc2": "33",
+    "latitude": 15.26349,
+    "longitude": 74.10875
+  },
+  {
+    "name": "curchirem",
+    "cc2": "33",
+    "latitude": 15.60678,
+    "longitude": 74.00481
+  },
+  {
+    "name": "curca",
+    "cc2": "33",
+    "latitude": 15.45228,
+    "longitude": 73.87247
+  },
+  {
+    "name": "cupa",
+    "cc2": "33",
+    "latitude": 15.16667,
+    "longitude": 74.06667
+  },
+  {
+    "name": "cundaim",
+    "cc2": "33",
+    "latitude": 15.46023,
+    "longitude": 73.98123
+  },
+  {
+    "name": "cuncolim",
+    "cc2": "33",
+    "latitude": 15.1773,
+    "longitude": 73.99392
+  },
+  {
+    "name": "cunchelim",
+    "cc2": "33",
+    "latitude": 15.61441,
+    "longitude": 73.81906
+  },
+  {
+    "name": "cumbari",
+    "cc2": "33",
+    "latitude": 15.16991,
+    "longitude": 74.2662
+  },
+  {
+    "name": "cuelim",
+    "cc2": "33",
+    "latitude": 15.36239,
+    "longitude": 73.89303
+  },
+  {
+    "name": "cudnem",
+    "cc2": "33",
+    "latitude": 15.54476,
+    "longitude": 74.00482
+  },
+  {
+    "name": "cotorem",
+    "cc2": "33",
+    "latitude": 15.4823,
+    "longitude": 74.13677
+  },
+  {
+    "name": "cotigao",
+    "cc2": "33",
+    "latitude": 15,
+    "longitude": 74.2
+  },
+  {
+    "name": "costi",
+    "cc2": "33",
+    "latitude": 15.25,
+    "longitude": 74.16667
+  },
+  {
+    "name": "cortalim",
+    "cc2": "33",
+    "latitude": 15.40247,
+    "longitude": 73.90881
+  },
+  {
+    "name": "corqui",
+    "cc2": "33",
+    "latitude": 15.50779,
+    "longitude": 74.13943
+  },
+  {
+    "name": "cormonem",
+    "cc2": "33",
+    "latitude": 15.31667,
+    "longitude": 74.16667
+  },
+  {
+    "name": "corgao",
+    "cc2": "33",
+    "latitude": 15.7096,
+    "longitude": 73.74974
+  },
+  {
+    "name": "consua",
+    "cc2": "33",
+    "latitude": 15.37575,
+    "longitude": 73.91771
+  },
+  {
+    "name": "conquirem",
+    "cc2": "33",
+    "latitude": 15.46667,
+    "longitude": 74.11667
+  },
+  {
+    "name": "concem",
+    "cc2": "33",
+    "latitude": 15.35,
+    "longitude": 74.06667
+  },
+  {
+    "name": "comprol",
+    "cc2": "33",
+    "latitude": 15.25,
+    "longitude": 74.13333
+  },
+  {
+    "name": "colva",
+    "cc2": "33",
+    "latitude": 15.27976,
+    "longitude": 73.92285
+  },
+  {
+    "name": "colovale",
+    "cc2": "33",
+    "latitude": 15.63522,
+    "longitude": 73.82426
+  },
+  {
+    "name": "colombi",
+    "cc2": "33",
+    "latitude": 15.46667,
+    "longitude": 74.03333
+  },
+  {
+    "name": "colomba",
+    "cc2": "33",
+    "latitude": 15.14365,
+    "longitude": 74.14671
+  },
+  {
+    "name": "collem",
+    "cc2": "33",
+    "latitude": 15.33503,
+    "longitude": 74.24426
+  },
+  {
+    "name": "calangute",
+    "cc2": "33",
+    "latitude": 15.5439,
+    "longitude": 73.7553
+  },
+  {
+    "name": "cola",
+    "cc2": "33",
+    "latitude": 15.07633,
+    "longitude": 73.9708
+  },
+  {
+    "name": "codar",
+    "cc2": "33",
+    "latitude": 15.4,
+    "longitude": 74.05
+  },
+  {
+    "name": "codal",
+    "cc2": "33",
+    "latitude": 15.59469,
+    "longitude": 74.20608
+  },
+  {
+    "name": "codal",
+    "cc2": "33",
+    "latitude": 15.07186,
+    "longitude": 74.18896
+  },
+  {
+    "name": "chopdem",
+    "cc2": "33",
+    "latitude": 15.64702,
+    "longitude": 73.76348
+  },
+  {
+    "name": "chinchinim",
+    "cc2": "33",
+    "latitude": 15.21447,
+    "longitude": 73.97555
+  },
+  {
+    "name": "chicolna",
+    "cc2": "33",
+    "latitude": 15.37001,
+    "longitude": 73.83704
+  },
+  {
+    "name": "chicalim",
+    "cc2": "33",
+    "latitude": 15.39835,
+    "longitude": 73.84216
+  },
+  {
+    "name": "chapora",
+    "cc2": "33",
+    "latitude": 15.6034,
+    "longitude": 73.73996
+  },
+  {
+    "name": "chandor",
+    "cc2": "33",
+    "latitude": 15.28333,
+    "longitude": 74.03333
+  },
+  {
+    "name": "chandel",
+    "cc2": "33",
+    "latitude": 15.72711,
+    "longitude": 73.89549
+  },
+  {
+    "name": "cavelossim",
+    "cc2": "33",
+    "latitude": 15.17255,
+    "longitude": 73.94194
+  },
+  {
+    "name": "carmona",
+    "cc2": "33",
+    "latitude": 15.20345,
+    "longitude": 73.95396
+  },
+  {
+    "name": "carapur",
+    "cc2": "33",
+    "latitude": 15.56588,
+    "longitude": 73.98713
+  },
+  {
+    "name": "caranzol",
+    "cc2": "33",
+    "latitude": 15.50708,
+    "longitude": 74.21853
+  },
+  {
+    "name": "caranzol",
+    "cc2": "33",
+    "latitude": 15.35566,
+    "longitude": 74.2856
+  },
+  {
+    "name": "caranzalem",
+    "cc2": "33",
+    "latitude": 15.46725,
+    "longitude": 73.8119
+  },
+  {
+    "name": "carambolim",
+    "cc2": "33",
+    "latitude": 15.4841,
+    "longitude": 73.92198
+  },
+  {
+    "name": "capao",
+    "cc2": "33",
+    "latitude": 15.54395,
+    "longitude": 73.90861
+  },
+  {
+    "name": "canvorem",
+    "cc2": "33",
+    "latitude": 15.13333,
+    "longitude": 74.06667
+  },
+  {
+    "name": "candolim",
+    "cc2": "33",
+    "latitude": 15.51807,
+    "longitude": 73.76259
+  },
+  {
+    "name": "candeapar",
+    "cc2": "33",
+    "latitude": 15.42675,
+    "longitude": 74.04368
+  },
+  {
+    "name": "cancarvornem",
+    "cc2": "33",
+    "latitude": 15.71175,
+    "longitude": 73.88152
+  },
+  {
+    "name": "cuguyguy",
+    "cc2": "33",
+    "latitude": 15.11673,
+    "longitude": 73.93331
+  },
+  {
+    "name": "cana",
+    "cc2": "33",
+    "latitude": 15.26953,
+    "longitude": 73.93408
+  },
+  {
+    "name": "camorlim",
+    "cc2": "33",
+    "latitude": 15.63333,
+    "longitude": 73.8
+  },
+  {
+    "name": "calate",
+    "cc2": "33",
+    "latitude": 15.31106,
+    "longitude": 73.91823
+  },
+  {
+    "name": "buimpal",
+    "cc2": "33",
+    "latitude": 15.54899,
+    "longitude": 74.08637
+  },
+  {
+    "name": "borim",
+    "cc2": "33",
+    "latitude": 15.36667,
+    "longitude": 74
+  },
+  {
+    "name": "boma",
+    "cc2": "33",
+    "latitude": 15.47222,
+    "longitude": 73.96759
+  },
+  {
+    "name": "boma",
+    "cc2": "33",
+    "latitude": 15.3,
+    "longitude": 74.26667
+  },
+  {
+    "name": "bogmalo",
+    "cc2": "33",
+    "latitude": 15.37386,
+    "longitude": 73.84503
+  },
+  {
+    "name": "birondem",
+    "cc2": "33",
+    "latitude": 15.48751,
+    "longitude": 74.1293
+  },
+  {
+    "name": "betul",
+    "cc2": "33",
+    "latitude": 15.13711,
+    "longitude": 73.94918
+  },
+  {
+    "name": "betora",
+    "cc2": "33",
+    "latitude": 15.37611,
+    "longitude": 74.04369
+  },
+  {
+    "name": "betim",
+    "cc2": "33",
+    "latitude": 15.51109,
+    "longitude": 73.8283
+  },
+  {
+    "name": "betgui",
+    "cc2": "33",
+    "latitude": 15.50983,
+    "longitude": 73.97535
+  },
+  {
+    "name": "betalbatim",
+    "cc2": "33",
+    "latitude": 15.3,
+    "longitude": 73.91667
+  },
+  {
+    "name": "benaulim",
+    "cc2": "33",
+    "latitude": 15.26435,
+    "longitude": 73.92812
+  },
+  {
+    "name": "batim",
+    "cc2": "33",
+    "latitude": 15.46369,
+    "longitude": 73.88315
+  },
+  {
+    "name": "bastora",
+    "cc2": "33",
+    "latitude": 15.58088,
+    "longitude": 73.83248
+  },
+  {
+    "name": "barcem",
+    "cc2": "33",
+    "latitude": 15.06437,
+    "longitude": 74.05241
+  },
+  {
+    "name": "bandora",
+    "cc2": "33",
+    "latitude": 15.40823,
+    "longitude": 73.98129
+  },
+  {
+    "name": "bandoli",
+    "cc2": "33",
+    "latitude": 15.30546,
+    "longitude": 74.11983
+  },
+  {
+    "name": "bandavado",
+    "cc2": "33",
+    "latitude": 15.08333,
+    "longitude": 74.23333
+  },
+  {
+    "name": "banastarim",
+    "cc2": "33",
+    "latitude": 15.49133,
+    "longitude": 73.96069
+  },
+  {
+    "name": "bambolim",
+    "cc2": "33",
+    "latitude": 15.46361,
+    "longitude": 73.8531
+  },
+  {
+    "name": "bally",
+    "cc2": "33",
+    "latitude": 15.1263,
+    "longitude": 74.04038
+  },
+  {
+    "name": "azossim",
+    "cc2": "33",
+    "latitude": 15.47265,
+    "longitude": 73.93561
+  },
+  {
+    "name": "astagal",
+    "cc2": "33",
+    "latitude": 14.9784,
+    "longitude": 74.15101
+  },
+  {
+    "name": "assonora",
+    "cc2": "33",
+    "latitude": 15.61871,
+    "longitude": 73.89857
+  },
+  {
+    "name": "assolna",
+    "cc2": "33",
+    "latitude": 15.18067,
+    "longitude": 73.97117
+  },
+  {
+    "name": "assolda",
+    "cc2": "33",
+    "latitude": 15.1009,
+    "longitude": 74.02833
+  },
+  {
+    "name": "assagao",
+    "cc2": "33",
+    "latitude": 15.60287,
+    "longitude": 73.75949
+  },
+  {
+    "name": "arpora",
+    "cc2": "33",
+    "latitude": 15.54688,
+    "longitude": 73.75723
+  },
+  {
+    "name": "aros",
+    "cc2": "33",
+    "latitude": 15.78161,
+    "longitude": 73.78457
+  },
+  {
+    "name": "arambol",
+    "cc2": "33",
+    "latitude": 15.68681,
+    "longitude": 73.70449
+  },
+  {
+    "name": "anjunem",
+    "cc2": "33",
+    "latitude": 15.62669,
+    "longitude": 74.08735
+  },
+  {
+    "name": "anjuna",
+    "cc2": "33",
+    "latitude": 15.58005,
+    "longitude": 73.74487
+  },
+  {
+    "name": "amona",
+    "cc2": "33",
+    "latitude": 15.5377,
+    "longitude": 73.98404
+  },
+  {
+    "name": "ambora",
+    "cc2": "33",
+    "latitude": 15.32802,
+    "longitude": 73.99399
+  },
+  {
+    "name": "ambelim",
+    "cc2": "33",
+    "latitude": 15.17073,
+    "longitude": 73.96744
+  },
+  {
+    "name": "ambedem",
+    "cc2": "33",
+    "latitude": 15.55413,
+    "longitude": 74.16258
+  },
+  {
+    "name": "ambeachi-gavol",
+    "cc2": "33",
+    "latitude": 15.63333,
+    "longitude": 74.18333
+  },
+  {
+    "name": "ambaulim",
+    "cc2": "33",
+    "latitude": 15.19606,
+    "longitude": 74.06041
+  },
+  {
+    "name": "ambarim",
+    "cc2": "33",
+    "latitude": 15.56555,
+    "longitude": 73.88279
+  },
+  {
+    "name": "alorna",
+    "cc2": "33",
+    "latitude": 15.69594,
+    "longitude": 73.91713
+  },
+  {
+    "name": "aldona",
+    "cc2": "33",
+    "latitude": 15.59337,
+    "longitude": 73.87482
+  },
+  {
+    "name": "ajgaon",
+    "cc2": "33",
+    "latitude": 15.77494,
+    "longitude": 73.70134
+  },
+  {
+    "name": "aguada",
+    "cc2": "33",
+    "latitude": 15.4969,
+    "longitude": 73.76744
+  },
+  {
+    "name": "agonda",
+    "cc2": "33",
+    "latitude": 15.05139,
+    "longitude": 73.98435
+  },
+  {
+    "name": "aglot",
+    "cc2": "33",
+    "latitude": 15.43187,
+    "longitude": 74.17383
+  },
+  {
+    "name": "agarvado",
+    "cc2": "33",
+    "latitude": 15.64746,
+    "longitude": 73.79306
+  },
+  {
+    "name": "agacaim",
+    "cc2": "33",
+    "latitude": 15.41799,
+    "longitude": 73.90326
+  },
+  {
+    "name": "advolpale",
+    "cc2": "33",
+    "latitude": 15.63869,
+    "longitude": 73.9023
+  },
+  {
+    "name": "adsulim",
+    "cc2": "33",
+    "latitude": 15.26398,
+    "longitude": 73.92971
+  },
+  {
+    "name": "acaro",
+    "cc2": "33",
+    "latitude": 15.53548,
+    "longitude": 73.94286
+  },
+  {
+    "name": "majorda",
+    "cc2": "33",
+    "latitude": 15.31403,
+    "longitude": 73.92184
+  },
+  {
+    "name": "baga",
+    "cc2": "33",
+    "latitude": 15.56517,
+    "longitude": 73.75517
+  },
+  {
+    "name": "vagator",
+    "cc2": "33",
+    "latitude": 15.59766,
+    "longitude": 73.74496
+  },
+  {
+    "name": "dandos wadda",
+    "cc2": "33",
+    "latitude": 15.66659,
+    "longitude": 73.72779
+  },
+  {
+    "name": "ashvem beach",
+    "cc2": "33",
+    "latitude": 15.64671,
+    "longitude": 73.71662
+  },
+  {
+    "name": "olaulim",
+    "cc2": "33",
+    "latitude": 15.57084,
+    "longitude": 73.86941
+  },
+  {
+    "name": "sinquerim",
+    "cc2": "33",
+    "latitude": 15.5035,
+    "longitude": 73.76933
+  },
+  {
+    "name": "miramar",
+    "cc2": "33",
+    "latitude": 15.47232,
+    "longitude": 73.80967
+  },
+  {
+    "name": "poonawaddoo",
+    "cc2": "33",
+    "latitude": 15.10801,
+    "longitude": 74.2877
+  },
+  {
+    "name": "bardez",
+    "cc2": "33",
+    "latitude": 15.64441,
+    "longitude": 73.83308
+  },
+  {
+    "name": "tiswadi",
+    "cc2": "33",
+    "latitude": 15.42066,
+    "longitude": 73.89922
+  },
+  {
+    "name": "edorem",
+    "cc2": "33",
+    "latitude": 15.56382,
+    "longitude": 74.14512
+  },
+  {
+    "name": "velguem",
+    "cc2": "33",
+    "latitude": 15.52239,
+    "longitude": 74.15383
+  },
+  {
+    "name": "sanvordem",
+    "cc2": "33",
+    "latitude": 15.52767,
+    "longitude": 74.17176
+  },
+  {
+    "name": "massordem",
+    "cc2": "33",
+    "latitude": 15.526,
+    "longitude": 74.14235
+  },
+  {
+    "name": "sanvorcem",
+    "cc2": "33",
+    "latitude": 15.50251,
+    "longitude": 74.13924
+  },
+  {
+    "name": "gouteli",
+    "cc2": "33",
+    "latitude": 15.61275,
+    "longitude": 74.0602
+  },
+  {
+    "name": "raneachovado",
+    "cc2": "33",
+    "latitude": 15.58644,
+    "longitude": 74.02713
+  },
+  {
+    "name": "podocem",
+    "cc2": "33",
+    "latitude": 15.58016,
+    "longitude": 74.01019
+  },
+  {
+    "name": "vitolapur",
+    "cc2": "33",
+    "latitude": 15.56148,
+    "longitude": 74.00635
+  },
+  {
+    "name": "arvalem",
+    "cc2": "33",
+    "latitude": 15.56631,
+    "longitude": 74.04665
+  },
+  {
+    "name": "gauntona",
+    "cc2": "33",
+    "latitude": 15.54722,
+    "longitude": 74.01411
+  },
+  {
+    "name": "nevelim",
+    "cc2": "33",
+    "latitude": 15.52765,
+    "longitude": 74.00265
+  },
+  {
+    "name": "sonus",
+    "cc2": "33",
+    "latitude": 15.53112,
+    "longitude": 74.03933
+  },
+  {
+    "name": "soliem",
+    "cc2": "33",
+    "latitude": 15.53664,
+    "longitude": 74.04531
+  },
+  {
+    "name": "dondcol",
+    "cc2": "33",
+    "latitude": 15.53695,
+    "longitude": 74.05295
+  },
+  {
+    "name": "dignem",
+    "cc2": "33",
+    "latitude": 15.51814,
+    "longitude": 74.03444
+  },
+  {
+    "name": "codsai",
+    "cc2": "33",
+    "latitude": 15.51832,
+    "longitude": 74.03967
+  },
+  {
+    "name": "fal",
+    "cc2": "33",
+    "latitude": 15.53626,
+    "longitude": 74.01519
+  },
+  {
+    "name": "maina",
+    "cc2": "33",
+    "latitude": 15.50887,
+    "longitude": 74.0032
+  },
+  {
+    "name": "cosal baem",
+    "cc2": "33",
+    "latitude": 15.50583,
+    "longitude": 74.04497
+  },
+  {
+    "name": "vonvoliem",
+    "cc2": "33",
+    "latitude": 15.51089,
+    "longitude": 74.06373
+  },
+  {
+    "name": "codiem",
+    "cc2": "33",
+    "latitude": 15.50268,
+    "longitude": 74.09181
+  },
+  {
+    "name": "cumarconda",
+    "cc2": "33",
+    "latitude": 15.52244,
+    "longitude": 74.08928
+  },
+  {
+    "name": "banda",
+    "cc2": "33",
+    "latitude": 15.53142,
+    "longitude": 74.05892
+  },
+  {
+    "name": "saleli",
+    "cc2": "33",
+    "latitude": 15.56014,
+    "longitude": 74.07845
+  },
+  {
+    "name": "onda",
+    "cc2": "33",
+    "latitude": 15.55635,
+    "longitude": 74.05848
+  },
+  {
+    "name": "quelaudem",
+    "cc2": "33",
+    "latitude": 15.62726,
+    "longitude": 74.09423
+  },
+  {
+    "name": "postoaduaneirs",
+    "cc2": "33",
+    "latitude": 15.62598,
+    "longitude": 74.0964
+  },
+  {
+    "name": "siroli",
+    "cc2": "33",
+    "latitude": 15.62221,
+    "longitude": 74.06341
+  },
+  {
+    "name": "chorondem",
+    "cc2": "33",
+    "latitude": 15.62846,
+    "longitude": 74.13078
+  },
+  {
+    "name": "ivem-buzruco",
+    "cc2": "33",
+    "latitude": 15.63162,
+    "longitude": 74.14546
+  },
+  {
+    "name": "palichoval",
+    "cc2": "33",
+    "latitude": 15.61103,
+    "longitude": 74.14948
+  },
+  {
+    "name": "dongorvada",
+    "cc2": "33",
+    "latitude": 15.61045,
+    "longitude": 74.15688
+  },
+  {
+    "name": "rivem",
+    "cc2": "33",
+    "latitude": 15.62174,
+    "longitude": 74.16083
+  },
+  {
+    "name": "palli",
+    "cc2": "33",
+    "latitude": 15.59416,
+    "longitude": 74.1351
+  },
+  {
+    "name": "govolmol",
+    "cc2": "33",
+    "latitude": 15.5928,
+    "longitude": 74.1476
+  },
+  {
+    "name": "chorondem",
+    "cc2": "33",
+    "latitude": 15.58892,
+    "longitude": 74.13653
+  },
+  {
+    "name": "zormen",
+    "cc2": "33",
+    "latitude": 15.5735,
+    "longitude": 74.10414
+  },
+  {
+    "name": "compordem",
+    "cc2": "33",
+    "latitude": 15.5622,
+    "longitude": 74.1252
+  },
+  {
+    "name": "satorem",
+    "cc2": "33",
+    "latitude": 15.55572,
+    "longitude": 74.14222
+  },
+  {
+    "name": "dabocem",
+    "cc2": "33",
+    "latitude": 15.53081,
+    "longitude": 74.15016
+  },
+  {
+    "name": "botvado",
+    "cc2": "33",
+    "latitude": 15.51191,
+    "longitude": 74.13222
+  },
+  {
+    "name": "carambolim-buzruco",
+    "cc2": "33",
+    "latitude": 15.50945,
+    "longitude": 74.1773
+  },
+  {
+    "name": "dongarvada",
+    "cc2": "33",
+    "latitude": 15.50771,
+    "longitude": 74.18697
+  },
+  {
+    "name": "bailital",
+    "cc2": "33",
+    "latitude": 15.50837,
+    "longitude": 74.0306
+  },
+  {
+    "name": "cumtol",
+    "cc2": "33",
+    "latitude": 15.51618,
+    "longitude": 74.20224
+  },
+  {
+    "name": "dongarvada",
+    "cc2": "33",
+    "latitude": 15.52879,
+    "longitude": 74.18148
+  },
+  {
+    "name": "dongarvada",
+    "cc2": "33",
+    "latitude": 15.53534,
+    "longitude": 74.17411
+  },
+  {
+    "name": "bombedem",
+    "cc2": "33",
+    "latitude": 15.54254,
+    "longitude": 74.15965
+  },
+  {
+    "name": "sonal",
+    "cc2": "33",
+    "latitude": 15.53935,
+    "longitude": 74.18941
+  },
+  {
+    "name": "canasgal",
+    "cc2": "33",
+    "latitude": 15.53562,
+    "longitude": 74.20502
+  },
+  {
+    "name": "cazareachidat",
+    "cc2": "33",
+    "latitude": 15.5315,
+    "longitude": 74.21054
+  },
+  {
+    "name": "thurkunda",
+    "cc2": "33",
+    "latitude": 15.54962,
+    "longitude": 74.16155
+  },
+  {
+    "name": "davem",
+    "cc2": "33",
+    "latitude": 15.55218,
+    "longitude": 74.17705
+  },
+  {
+    "name": "bramacarambolim",
+    "cc2": "33",
+    "latitude": 15.56877,
+    "longitude": 74.16357
+  },
+  {
+    "name": "maloli",
+    "cc2": "33",
+    "latitude": 15.57717,
+    "longitude": 74.19624
+  },
+  {
+    "name": "xelopa-buzruco",
+    "cc2": "33",
+    "latitude": 15.59257,
+    "longitude": 74.16211
+  },
+  {
+    "name": "sigonem",
+    "cc2": "33",
+    "latitude": 15.60017,
+    "longitude": 74.17063
+  },
+  {
+    "name": "dongarvada",
+    "cc2": "33",
+    "latitude": 15.59281,
+    "longitude": 74.17297
+  },
+  {
+    "name": "golaulim",
+    "cc2": "33",
+    "latitude": 15.62401,
+    "longitude": 74.15854
+  },
+  {
+    "name": "satrem",
+    "cc2": "33",
+    "latitude": 15.61953,
+    "longitude": 74.23556
+  },
+  {
+    "name": "vainguinim",
+    "cc2": "33",
+    "latitude": 15.58489,
+    "longitude": 74.23353
+  },
+  {
+    "name": "pendral",
+    "cc2": "33",
+    "latitude": 15.55069,
+    "longitude": 74.23655
+  },
+  {
+    "name": "pendralvecho",
+    "cc2": "33",
+    "latitude": 15.5347,
+    "longitude": 74.24231
+  },
+  {
+    "name": "biroudem",
+    "cc2": "33",
+    "latitude": 15.51299,
+    "longitude": 74.24347
+  },
+  {
+    "name": "advoi",
+    "cc2": "33",
+    "latitude": 15.50268,
+    "longitude": 74.10308
+  },
+  {
+    "name": "varguriem",
+    "cc2": "33",
+    "latitude": 15.49861,
+    "longitude": 74.0848
+  },
+  {
+    "name": "bandir",
+    "cc2": "33",
+    "latitude": 15.54077,
+    "longitude": 74.21586
+  },
+  {
+    "name": "talpona",
+    "cc2": "33",
+    "latitude": 14.98217,
+    "longitude": 74.04123
+  },
+  {
+    "name": "veljem",
+    "cc2": "33",
+    "latitude": 14.91045,
+    "longitude": 74.08056
+  },
+  {
+    "name": "tanas",
+    "cc2": "33",
+    "latitude": 14.92247,
+    "longitude": 74.06925
+  },
+  {
+    "name": "tanjem",
+    "cc2": "33",
+    "latitude": 14.92535,
+    "longitude": 74.07205
+  },
+  {
+    "name": "durlegal",
+    "cc2": "33",
+    "latitude": 14.92361,
+    "longitude": 74.07685
+  },
+  {
+    "name": "sukangudi",
+    "cc2": "33",
+    "latitude": 14.92176,
+    "longitude": 74.10532
+  },
+  {
+    "name": "band",
+    "cc2": "33",
+    "latitude": 14.92612,
+    "longitude": 74.11105
+  },
+  {
+    "name": "kajalkiyar",
+    "cc2": "33",
+    "latitude": 14.93665,
+    "longitude": 74.06842
+  },
+  {
+    "name": "seli",
+    "cc2": "33",
+    "latitude": 14.93172,
+    "longitude": 74.07037
+  },
+  {
+    "name": "peddem",
+    "cc2": "33",
+    "latitude": 14.93686,
+    "longitude": 74.08172
+  },
+  {
+    "name": "maddal",
+    "cc2": "33",
+    "latitude": 14.9302,
+    "longitude": 74.11416
+  },
+  {
+    "name": "agas",
+    "cc2": "33",
+    "latitude": 14.95499,
+    "longitude": 74.06164
+  },
+  {
+    "name": "masem",
+    "cc2": "33",
+    "latitude": 14.95696,
+    "longitude": 74.05651
+  },
+  {
+    "name": "madiem",
+    "cc2": "33",
+    "latitude": 14.96134,
+    "longitude": 74.05324
+  },
+  {
+    "name": "karai",
+    "cc2": "33",
+    "latitude": 14.96542,
+    "longitude": 74.05808
+  },
+  {
+    "name": "kavat",
+    "cc2": "33",
+    "latitude": 14.96009,
+    "longitude": 74.10215
+  },
+  {
+    "name": "borus",
+    "cc2": "33",
+    "latitude": 14.96132,
+    "longitude": 74.08939
+  },
+  {
+    "name": "velovado",
+    "cc2": "33",
+    "latitude": 14.97051,
+    "longitude": 74.08494
+  },
+  {
+    "name": "tamanem",
+    "cc2": "33",
+    "latitude": 14.96618,
+    "longitude": 74.07862
+  },
+  {
+    "name": "galjibag",
+    "cc2": "33",
+    "latitude": 14.97322,
+    "longitude": 74.04842
+  },
+  {
+    "name": "dindibag",
+    "cc2": "33",
+    "latitude": 14.98375,
+    "longitude": 74.05331
+  },
+  {
+    "name": "mutal",
+    "cc2": "33",
+    "latitude": 14.98628,
+    "longitude": 74.05767
+  },
+  {
+    "name": "malevado",
+    "cc2": "33",
+    "latitude": 14.9732,
+    "longitude": 74.07138
+  },
+  {
+    "name": "piplibag",
+    "cc2": "33",
+    "latitude": 14.99167,
+    "longitude": 74.04355
+  },
+  {
+    "name": "derem",
+    "cc2": "33",
+    "latitude": 14.98947,
+    "longitude": 74.05344
+  },
+  {
+    "name": "kindalem",
+    "cc2": "33",
+    "latitude": 14.99571,
+    "longitude": 74.04831
+  },
+  {
+    "name": "sadolasem",
+    "cc2": "33",
+    "latitude": 14.99281,
+    "longitude": 74.06535
+  },
+  {
+    "name": "kondyabag",
+    "cc2": "33",
+    "latitude": 14.99874,
+    "longitude": 74.06209
+  },
+  {
+    "name": "pensulem",
+    "cc2": "33",
+    "latitude": 15.00116,
+    "longitude": 74.04519
+  },
+  {
+    "name": "ardifond",
+    "cc2": "33",
+    "latitude": 14.99639,
+    "longitude": 74.09316
+  },
+  {
+    "name": "partagal",
+    "cc2": "33",
+    "latitude": 14.9927,
+    "longitude": 74.10648
+  },
+  {
+    "name": "kombegal",
+    "cc2": "33",
+    "latitude": 14.99474,
+    "longitude": 74.12348
+  },
+  {
+    "name": "amonem",
+    "cc2": "33",
+    "latitude": 14.98423,
+    "longitude": 74.13642
+  },
+  {
+    "name": "sinchevhal",
+    "cc2": "33",
+    "latitude": 14.97971,
+    "longitude": 74.12446
+  },
+  {
+    "name": "kargal",
+    "cc2": "33",
+    "latitude": 14.95894,
+    "longitude": 74.12423
+  },
+  {
+    "name": "chipali",
+    "cc2": "33",
+    "latitude": 14.95465,
+    "longitude": 74.11818
+  },
+  {
+    "name": "trivon",
+    "cc2": "33",
+    "latitude": 14.95102,
+    "longitude": 74.11826
+  },
+  {
+    "name": "kargal",
+    "cc2": "33",
+    "latitude": 14.94432,
+    "longitude": 74.12987
+  },
+  {
+    "name": "mallem",
+    "cc2": "33",
+    "latitude": 14.93614,
+    "longitude": 74.14987
+  },
+  {
+    "name": "amadaphon",
+    "cc2": "33",
+    "latitude": 14.9359,
+    "longitude": 74.14329
+  },
+  {
+    "name": "trivol",
+    "cc2": "33",
+    "latitude": 14.95643,
+    "longitude": 74.14189
+  },
+  {
+    "name": "butpal",
+    "cc2": "33",
+    "latitude": 14.9774,
+    "longitude": 74.16833
+  },
+  {
+    "name": "monem",
+    "cc2": "33",
+    "latitude": 14.98636,
+    "longitude": 74.1527
+  },
+  {
+    "name": "pateh",
+    "cc2": "33",
+    "latitude": 14.99548,
+    "longitude": 74.14324
+  },
+  {
+    "name": "nadki",
+    "cc2": "33",
+    "latitude": 14.98249,
+    "longitude": 74.22431
+  },
+  {
+    "name": "enadriem",
+    "cc2": "33",
+    "latitude": 14.95588,
+    "longitude": 74.19549
+  },
+  {
+    "name": "madkarni",
+    "cc2": "33",
+    "latitude": 14.94715,
+    "longitude": 74.23492
+  },
+  {
+    "name": "galiem",
+    "cc2": "33",
+    "latitude": 14.96487,
+    "longitude": 74.09473
+  },
+  {
+    "name": "makod",
+    "cc2": "33",
+    "latitude": 15.0005,
+    "longitude": 74.0732
+  },
+  {
+    "name": "baripal",
+    "cc2": "33",
+    "latitude": 15.00089,
+    "longitude": 74.08211
+  },
+  {
+    "name": "tirval",
+    "cc2": "33",
+    "latitude": 14.9967,
+    "longitude": 74.26633
+  },
+  {
+    "name": "queri",
+    "cc2": "33",
+    "latitude": 14.98544,
+    "longitude": 74.25174
+  },
+  {
+    "name": "mobor beach",
+    "cc2": "33",
+    "latitude": 15.15768,
+    "longitude": 73.94816
+  },
+  {
+    "name": "cansaulim",
+    "cc2": "33",
+    "latitude": 15.33671,
+    "longitude": 73.89842
+  },
+  {
+    "name": "sangolda",
+    "cc2": "33",
+    "latitude": 15.53547,
+    "longitude": 73.81541
+  },
+  {
+    "name": "old goa city",
+    "cc2": "33",
+    "latitude": 15.50165,
+    "longitude": 73.91161
+  },
+  {
+    "name": "goa city",
+    "cc2": "33",
+    "latitude": 15.47201,
+    "longitude": 73.8958
+  },
+  {
+    "name": "orgao",
+    "cc2": "33",
+    "latitude": 15.51397,
+    "longitude": 73.95939
+  },
+  {
+    "name": "cumbarjua",
+    "cc2": "33",
+    "latitude": 15.51598,
+    "longitude": 73.94678
+  },
+  {
+    "name": "mercurim",
+    "cc2": "33",
+    "latitude": 15.42698,
+    "longitude": 73.89963
+  },
+  {
+    "name": "candola",
+    "cc2": "33",
+    "latitude": 15.52053,
+    "longitude": 73.96422
+  },
+  {
+    "name": "salvador do mundo",
+    "cc2": "33",
+    "latitude": 15.53036,
+    "longitude": 73.83629
+  },
+  {
+    "name": "aquem",
+    "cc2": "33",
+    "latitude": 15.25836,
+    "longitude": 73.98567
+  },
+  {
+    "name": "corlim",
+    "cc2": "33",
+    "latitude": 15.49611,
+    "longitude": 73.93387
+  },
+  {
+    "name": "murda",
+    "cc2": "33",
+    "latitude": 15.48022,
+    "longitude": 73.85441
+  },
+  {
+    "name": "reis magos",
+    "cc2": "33",
+    "latitude": 15.50761,
+    "longitude": 73.80972
+  },
+  {
+    "name": "sao jose de areal",
+    "cc2": "33",
+    "latitude": 15.25465,
+    "longitude": 74.01464
+  },
+  {
+    "name": "calapor",
+    "cc2": "33",
+    "latitude": 15.46454,
+    "longitude": 73.84665
+  },
+  {
+    "name": "chimbel",
+    "cc2": "33",
+    "latitude": 15.49261,
+    "longitude": 73.87474
+  },
+  {
+    "name": "penha de franca",
+    "cc2": "33",
+    "latitude": 15.51705,
+    "longitude": 73.83537
+  },
+  {
+    "name": "codal",
+    "cc2": "33",
+    "latitude": 15.55149,
+    "longitude": 74.24869
+  },
+  {
+    "name": "corqui",
+    "cc2": "33",
+    "latitude": 15.52535,
+    "longitude": 74.166
+  },
+  {
+    "name": "maulinguem",
+    "cc2": "33",
+    "latitude": 15.55956,
+    "longitude": 74.00899
+  }
+]

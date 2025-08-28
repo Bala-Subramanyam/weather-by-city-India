@@ -1,0 +1,3698 @@
+[
+  {
+    "name": "tughlakabad",
+    "cc2": "07",
+    "latitude": 28.51342,
+    "longitude": 77.26889
+  },
+  {
+    "name": "shakurpur",
+    "cc2": "07",
+    "latitude": 28.68379,
+    "longitude": 77.14338
+  },
+  {
+    "name": "shahdara",
+    "cc2": "07",
+    "latitude": 28.683,
+    "longitude": 77.29
+  },
+  {
+    "name": "samalka",
+    "cc2": "07",
+    "latitude": 28.53499,
+    "longitude": 77.09079
+  },
+  {
+    "name": "sabzi mandi",
+    "cc2": "07",
+    "latitude": 28.67263,
+    "longitude": 77.20607
+  },
+  {
+    "name": "palam",
+    "cc2": "07",
+    "latitude": 28.58855,
+    "longitude": 77.07862
+  },
+  {
+    "name": "pahar ganj",
+    "cc2": "07",
+    "latitude": 28.6407,
+    "longitude": 77.2154
+  },
+  {
+    "name": "new delhi",
+    "cc2": "07",
+    "latitude": 28.62137,
+    "longitude": 77.2148
+  },
+  {
+    "name": "narela",
+    "cc2": "07",
+    "latitude": 28.85267,
+    "longitude": 77.09288
+  },
+  {
+    "name": "nangloi jat",
+    "cc2": "07",
+    "latitude": 28.67957,
+    "longitude": 77.06799
+  },
+  {
+    "name": "najafgarh",
+    "cc2": "07",
+    "latitude": 28.60922,
+    "longitude": 76.97982
+  },
+  {
+    "name": "mukmelpur",
+    "cc2": "07",
+    "latitude": 28.79177,
+    "longitude": 77.16296
+  },
+  {
+    "name": "mahrauli",
+    "cc2": "07",
+    "latitude": 28.51997,
+    "longitude": 77.18031
+  },
+  {
+    "name": "karol bagh",
+    "cc2": "07",
+    "latitude": 28.65136,
+    "longitude": 77.19072
+  },
+  {
+    "name": "kalkaji devi",
+    "cc2": "07",
+    "latitude": 28.54855,
+    "longitude": 77.25133
+  },
+  {
+    "name": "jawaharnagar",
+    "cc2": "07",
+    "latitude": 28.67883,
+    "longitude": 77.20614
+  },
+  {
+    "name": "dhansa",
+    "cc2": "07",
+    "latitude": 28.55571,
+    "longitude": 76.86656
+  },
+  {
+    "name": "dera mandi",
+    "cc2": "07",
+    "latitude": 28.43597,
+    "longitude": 77.17601
+  },
+  {
+    "name": "delhi cantonment",
+    "cc2": "07",
+    "latitude": 28.6,
+    "longitude": 77.13333
+  },
+  {
+    "name": "delhi",
+    "cc2": "07",
+    "latitude": 28.65195,
+    "longitude": 77.23149
+  },
+  {
+    "name": "darya ganj",
+    "cc2": "07",
+    "latitude": 28.64528,
+    "longitude": 77.24562
+  },
+  {
+    "name": "connaught place",
+    "cc2": "07",
+    "latitude": 28.63313,
+    "longitude": 77.22115
+  },
+  {
+    "name": "chhatarpur",
+    "cc2": "07",
+    "latitude": 28.49849,
+    "longitude": 77.18254
+  },
+  {
+    "name": "bawana",
+    "cc2": "07",
+    "latitude": 28.7982,
+    "longitude": 77.03431
+  },
+  {
+    "name": "badarpur",
+    "cc2": "07",
+    "latitude": 28.50254,
+    "longitude": 77.30239
+  },
+  {
+    "name": "azadpur",
+    "cc2": "07",
+    "latitude": 28.70663,
+    "longitude": 77.17864
+  },
+  {
+    "name": "alipur",
+    "cc2": "07",
+    "latitude": 28.79862,
+    "longitude": 77.13314
+  },
+  {
+    "name": "jharoda kalan",
+    "cc2": "07",
+    "latitude": 28.65264,
+    "longitude": 76.95208
+  },
+  {
+    "name": "isharheri",
+    "cc2": "07",
+    "latitude": 28.63113,
+    "longitude": 76.93391
+  },
+  {
+    "name": "surkhpur",
+    "cc2": "07",
+    "latitude": 28.62569,
+    "longitude": 76.94268
+  },
+  {
+    "name": "nilwal",
+    "cc2": "07",
+    "latitude": 28.66732,
+    "longitude": 76.97931
+  },
+  {
+    "name": "dichaon kalan",
+    "cc2": "07",
+    "latitude": 28.63983,
+    "longitude": 76.98261
+  },
+  {
+    "name": "mandhela khurd",
+    "cc2": "07",
+    "latitude": 28.61763,
+    "longitude": 76.89076
+  },
+  {
+    "name": "mandhela kalan",
+    "cc2": "07",
+    "latitude": 28.61167,
+    "longitude": 76.89487
+  },
+  {
+    "name": "baqargarh",
+    "cc2": "07",
+    "latitude": 28.59586,
+    "longitude": 76.87699
+  },
+  {
+    "name": "kair",
+    "cc2": "07",
+    "latitude": 28.62438,
+    "longitude": 76.91764
+  },
+  {
+    "name": "mitraon",
+    "cc2": "07",
+    "latitude": 28.60623,
+    "longitude": 76.94598
+  },
+  {
+    "name": "soreda",
+    "cc2": "07",
+    "latitude": 28.5968,
+    "longitude": 76.93701
+  },
+  {
+    "name": "jafarpur kalan",
+    "cc2": "07",
+    "latitude": 28.59002,
+    "longitude": 76.92047
+  },
+  {
+    "name": "roshanpura",
+    "cc2": "07",
+    "latitude": 28.60924,
+    "longitude": 76.99065
+  },
+  {
+    "name": "roshanpura",
+    "cc2": "07",
+    "latitude": 28.60057,
+    "longitude": 76.98918
+  },
+  {
+    "name": "khaira",
+    "cc2": "07",
+    "latitude": 28.59417,
+    "longitude": 76.97011
+  },
+  {
+    "name": "dindarpur",
+    "cc2": "07",
+    "latitude": 28.59813,
+    "longitude": 76.99161
+  },
+  {
+    "name": "paprawat",
+    "cc2": "07",
+    "latitude": 28.58818,
+    "longitude": 76.97885
+  },
+  {
+    "name": "kharkhari nahar",
+    "cc2": "07",
+    "latitude": 28.58497,
+    "longitude": 76.95986
+  },
+  {
+    "name": "tilak nagar",
+    "cc2": "07",
+    "latitude": 28.63956,
+    "longitude": 77.08845
+  },
+  {
+    "name": "okhla",
+    "cc2": "07",
+    "latitude": 28.53446,
+    "longitude": 77.27787
+  },
+  {
+    "name": "asian games village",
+    "cc2": "07",
+    "latitude": 28.55331,
+    "longitude": 77.21457
+  },
+  {
+    "name": "lajpat nagar",
+    "cc2": "07",
+    "latitude": 28.57329,
+    "longitude": 77.24024
+  },
+  {
+    "name": "bhikaji cama place",
+    "cc2": "07",
+    "latitude": 28.56755,
+    "longitude": 77.18559
+  },
+  {
+    "name": "pitampura",
+    "cc2": "07",
+    "latitude": 28.68964,
+    "longitude": 77.13126
+  },
+  {
+    "name": "mahipalpur",
+    "cc2": "07",
+    "latitude": 28.54374,
+    "longitude": 77.12819
+  },
+  {
+    "name": "pahar ganj",
+    "cc2": "07",
+    "latitude": 28.64171,
+    "longitude": 77.2132
+  },
+  {
+    "name": "masudpur",
+    "cc2": "07",
+    "latitude": 28.53002,
+    "longitude": 77.15235
+  },
+  {
+    "name": "saket",
+    "cc2": "07",
+    "latitude": 28.51893,
+    "longitude": 77.21312
+  },
+  {
+    "name": "dwarka",
+    "cc2": "07",
+    "latitude": 28.59146,
+    "longitude": 77.05313
+  },
+  {
+    "name": "safdarjung enclave",
+    "cc2": "07",
+    "latitude": 28.565,
+    "longitude": 77.19724
+  },
+  {
+    "name": "janakpuri",
+    "cc2": "07",
+    "latitude": 28.6216,
+    "longitude": 77.09458
+  },
+  {
+    "name": "vasant kunj",
+    "cc2": "07",
+    "latitude": 28.54392,
+    "longitude": 77.15235
+  },
+  {
+    "name": "jangpura",
+    "cc2": "07",
+    "latitude": 28.58294,
+    "longitude": 77.24479
+  },
+  {
+    "name": "green park extension",
+    "cc2": "07",
+    "latitude": 28.5624,
+    "longitude": 77.2029
+  },
+  {
+    "name": "chittaranjan park",
+    "cc2": "07",
+    "latitude": 28.54015,
+    "longitude": 77.24805
+  },
+  {
+    "name": "khanpur",
+    "cc2": "07",
+    "latitude": 28.51355,
+    "longitude": 77.22754
+  },
+  {
+    "name": "civil lines",
+    "cc2": "07",
+    "latitude": 28.68045,
+    "longitude": 77.22633
+  },
+  {
+    "name": "hauz khas",
+    "cc2": "07",
+    "latitude": 28.55306,
+    "longitude": 77.19157
+  },
+  {
+    "name": "mahipalpur extension",
+    "cc2": "07",
+    "latitude": 28.5502,
+    "longitude": 77.13128
+  },
+  {
+    "name": "seelampur",
+    "cc2": "07",
+    "latitude": 28.67082,
+    "longitude": 77.27208
+  },
+  {
+    "name": "bhajanpura",
+    "cc2": "07",
+    "latitude": 28.70038,
+    "longitude": 77.25929
+  },
+  {
+    "name": "yamuna vihar",
+    "cc2": "07",
+    "latitude": 28.69876,
+    "longitude": 77.27371
+  },
+  {
+    "name": "maujpur",
+    "cc2": "07",
+    "latitude": 28.69032,
+    "longitude": 77.27367
+  },
+  {
+    "name": "khor punjab",
+    "cc2": "07",
+    "latitude": 28.77591,
+    "longitude": 76.96488
+  },
+  {
+    "name": "chatesar",
+    "cc2": "07",
+    "latitude": 28.75593,
+    "longitude": 76.96762
+  },
+  {
+    "name": "jhiwarpura",
+    "cc2": "07",
+    "latitude": 28.76347,
+    "longitude": 76.98352
+  },
+  {
+    "name": "jaunti",
+    "cc2": "07",
+    "latitude": 28.75024,
+    "longitude": 76.96991
+  },
+  {
+    "name": "salahpur majra",
+    "cc2": "07",
+    "latitude": 28.77021,
+    "longitude": 76.99843
+  },
+  {
+    "name": "khor jat",
+    "cc2": "07",
+    "latitude": 28.78819,
+    "longitude": 76.97534
+  },
+  {
+    "name": "outabgarh",
+    "cc2": "07",
+    "latitude": 28.80103,
+    "longitude": 76.96163
+  },
+  {
+    "name": "kateora",
+    "cc2": "07",
+    "latitude": 28.80326,
+    "longitude": 76.97823
+  },
+  {
+    "name": "firozpur bangar",
+    "cc2": "07",
+    "latitude": 28.83059,
+    "longitude": 76.98184
+  },
+  {
+    "name": "auchandi",
+    "cc2": "07",
+    "latitude": 28.82025,
+    "longitude": 76.99617
+  },
+  {
+    "name": "mungashpur",
+    "cc2": "07",
+    "latitude": 28.81805,
+    "longitude": 76.97392
+  },
+  {
+    "name": "munirpur",
+    "cc2": "07",
+    "latitude": 28.8723,
+    "longitude": 77.07008
+  },
+  {
+    "name": "nahri",
+    "cc2": "07",
+    "latitude": 28.86452,
+    "longitude": 77.04643
+  },
+  {
+    "name": "lampur",
+    "cc2": "07",
+    "latitude": 28.85086,
+    "longitude": 77.06592
+  },
+  {
+    "name": "ghoga",
+    "cc2": "07",
+    "latitude": 28.83113,
+    "longitude": 77.04999
+  },
+  {
+    "name": "hareoli",
+    "cc2": "07",
+    "latitude": 28.83335,
+    "longitude": 77.00884
+  },
+  {
+    "name": "sanoth",
+    "cc2": "07",
+    "latitude": 28.81385,
+    "longitude": 77.07395
+  },
+  {
+    "name": "daryapur kalan",
+    "cc2": "07",
+    "latitude": 28.81396,
+    "longitude": 77.01112
+  },
+  {
+    "name": "nangal thakuran",
+    "cc2": "07",
+    "latitude": 28.8081,
+    "longitude": 77.00721
+  },
+  {
+    "name": "bazidpur thakuran",
+    "cc2": "07",
+    "latitude": 28.8061,
+    "longitude": 77.00262
+  },
+  {
+    "name": "gangatoli",
+    "cc2": "07",
+    "latitude": 28.78724,
+    "longitude": 77.06544
+  },
+  {
+    "name": "chandpur khurd",
+    "cc2": "07",
+    "latitude": 28.7617,
+    "longitude": 77.00996
+  },
+  {
+    "name": "sultanpur dabas",
+    "cc2": "07",
+    "latitude": 28.76656,
+    "longitude": 77.04265
+  },
+  {
+    "name": "puth khurd",
+    "cc2": "07",
+    "latitude": 28.77001,
+    "longitude": 77.04944
+  },
+  {
+    "name": "barwala",
+    "cc2": "07",
+    "latitude": 28.76129,
+    "longitude": 77.06278
+  },
+  {
+    "name": "chandpur kalan",
+    "cc2": "07",
+    "latitude": 28.75344,
+    "longitude": 77.0091
+  },
+  {
+    "name": "pehladpur bangar",
+    "cc2": "07",
+    "latitude": 28.75058,
+    "longitude": 77.081
+  },
+  {
+    "name": "kankerkhera",
+    "cc2": "07",
+    "latitude": 28.7598,
+    "longitude": 77.10096
+  },
+  {
+    "name": "siraspur",
+    "cc2": "07",
+    "latitude": 28.75815,
+    "longitude": 77.13087
+  },
+  {
+    "name": "khera garhi",
+    "cc2": "07",
+    "latitude": 28.77182,
+    "longitude": 77.12186
+  },
+  {
+    "name": "khera kalan",
+    "cc2": "07",
+    "latitude": 28.77445,
+    "longitude": 77.11718
+  },
+  {
+    "name": "khera khurd",
+    "cc2": "07",
+    "latitude": 28.77555,
+    "longitude": 77.09967
+  },
+  {
+    "name": "iradatnagar",
+    "cc2": "07",
+    "latitude": 28.78517,
+    "longitude": 77.09405
+  },
+  {
+    "name": "budhpur bijapur",
+    "cc2": "07",
+    "latitude": 28.78141,
+    "longitude": 77.13842
+  },
+  {
+    "name": "holambi khurd",
+    "cc2": "07",
+    "latitude": 28.79678,
+    "longitude": 77.09705
+  },
+  {
+    "name": "holambi kalan",
+    "cc2": "07",
+    "latitude": 28.80441,
+    "longitude": 77.09688
+  },
+  {
+    "name": "shahpur garhi",
+    "cc2": "07",
+    "latitude": 28.81851,
+    "longitude": 77.10791
+  },
+  {
+    "name": "bhorgarh",
+    "cc2": "07",
+    "latitude": 28.82926,
+    "longitude": 77.09521
+  },
+  {
+    "name": "bankner",
+    "cc2": "07",
+    "latitude": 28.85252,
+    "longitude": 77.07869
+  },
+  {
+    "name": "kureni",
+    "cc2": "07",
+    "latitude": 28.83953,
+    "longitude": 77.09564
+  },
+  {
+    "name": "tikri khurd",
+    "cc2": "07",
+    "latitude": 28.83539,
+    "longitude": 77.1195
+  },
+  {
+    "name": "singhola",
+    "cc2": "07",
+    "latitude": 28.84329,
+    "longitude": 77.12405
+  },
+  {
+    "name": "singhu",
+    "cc2": "07",
+    "latitude": 28.85118,
+    "longitude": 77.13108
+  },
+  {
+    "name": "janti khurd",
+    "cc2": "07",
+    "latitude": 28.84733,
+    "longitude": 77.15501
+  },
+  {
+    "name": "tajpur kalan",
+    "cc2": "07",
+    "latitude": 28.83812,
+    "longitude": 77.16999
+  },
+  {
+    "name": "akbarpur majra",
+    "cc2": "07",
+    "latitude": 28.83586,
+    "longitude": 77.18466
+  },
+  {
+    "name": "palla",
+    "cc2": "07",
+    "latitude": 28.84199,
+    "longitude": 77.18698
+  },
+  {
+    "name": "garhi bakhtawarpur",
+    "cc2": "07",
+    "latitude": 28.82966,
+    "longitude": 77.18054
+  },
+  {
+    "name": "jhangola",
+    "cc2": "07",
+    "latitude": 28.82973,
+    "longitude": 77.20187
+  },
+  {
+    "name": "hamidpur",
+    "cc2": "07",
+    "latitude": 28.82827,
+    "longitude": 77.14918
+  },
+  {
+    "name": "khampur",
+    "cc2": "07",
+    "latitude": 28.82426,
+    "longitude": 77.13424
+  },
+  {
+    "name": "bankoli",
+    "cc2": "07",
+    "latitude": 28.81204,
+    "longitude": 77.14123
+  },
+  {
+    "name": "bakhtawarpur",
+    "cc2": "07",
+    "latitude": 28.8234,
+    "longitude": 77.17539
+  },
+  {
+    "name": "sungarpur",
+    "cc2": "07",
+    "latitude": 28.82306,
+    "longitude": 77.18574
+  },
+  {
+    "name": "tiggipur",
+    "cc2": "07",
+    "latitude": 28.82299,
+    "longitude": 77.18857
+  },
+  {
+    "name": "muhammadpur ramzanpur",
+    "cc2": "07",
+    "latitude": 28.8064,
+    "longitude": 77.18475
+  },
+  {
+    "name": "khushk",
+    "cc2": "07",
+    "latitude": 28.80223,
+    "longitude": 77.17642
+  },
+  {
+    "name": "hiranki",
+    "cc2": "07",
+    "latitude": 28.79907,
+    "longitude": 77.182
+  },
+  {
+    "name": "zindpur",
+    "cc2": "07",
+    "latitude": 28.79238,
+    "longitude": 77.15587
+  },
+  {
+    "name": "ibrahimpur",
+    "cc2": "07",
+    "latitude": 28.77566,
+    "longitude": 77.17771
+  },
+  {
+    "name": "nathupura",
+    "cc2": "07",
+    "latitude": 28.77096,
+    "longitude": 77.17595
+  },
+  {
+    "name": "khushk",
+    "cc2": "07",
+    "latitude": 28.77855,
+    "longitude": 77.16531
+  },
+  {
+    "name": "kadipur",
+    "cc2": "07",
+    "latitude": 28.77404,
+    "longitude": 77.16308
+  },
+  {
+    "name": "nangli puna",
+    "cc2": "07",
+    "latitude": 28.77269,
+    "longitude": 77.14767
+  },
+  {
+    "name": "khushk khurd",
+    "cc2": "07",
+    "latitude": 28.76655,
+    "longitude": 77.16424
+  },
+  {
+    "name": "shankarpura",
+    "cc2": "07",
+    "latitude": 28.76279,
+    "longitude": 77.19377
+  },
+  {
+    "name": "dhaula kuan",
+    "cc2": "07",
+    "latitude": 28.75517,
+    "longitude": 77.14853
+  },
+  {
+    "name": "libaspur",
+    "cc2": "07",
+    "latitude": 28.75089,
+    "longitude": 77.14647
+  },
+  {
+    "name": "zangirpur",
+    "cc2": "07",
+    "latitude": 28.75201,
+    "longitude": 77.18101
+  },
+  {
+    "name": "burari",
+    "cc2": "07",
+    "latitude": 28.7557,
+    "longitude": 77.19941
+  },
+  {
+    "name": "shubhpur",
+    "cc2": "07",
+    "latitude": 28.75435,
+    "longitude": 77.24588
+  },
+  {
+    "name": "kanjhawala",
+    "cc2": "07",
+    "latitude": 28.73675,
+    "longitude": 77.00516
+  },
+  {
+    "name": "karala",
+    "cc2": "07",
+    "latitude": 28.73548,
+    "longitude": 77.03522
+  },
+  {
+    "name": "auhammadpur majri",
+    "cc2": "07",
+    "latitude": 28.72922,
+    "longitude": 77.03827
+  },
+  {
+    "name": "nilhari",
+    "cc2": "07",
+    "latitude": 28.70579,
+    "longitude": 77.05704
+  },
+  {
+    "name": "mubarakpur dobas",
+    "cc2": "07",
+    "latitude": 28.7098,
+    "longitude": 77.03936
+  },
+  {
+    "name": "madanpur dobas",
+    "cc2": "07",
+    "latitude": 28.71593,
+    "longitude": 77.02726
+  },
+  {
+    "name": "rani khera",
+    "cc2": "07",
+    "latitude": 28.70604,
+    "longitude": 77.02584
+  },
+  {
+    "name": "rasulpur",
+    "cc2": "07",
+    "latitude": 28.70624,
+    "longitude": 77.02009
+  },
+  {
+    "name": "gheora",
+    "cc2": "07",
+    "latitude": 28.69408,
+    "longitude": 77.00156
+  },
+  {
+    "name": "begampur",
+    "cc2": "07",
+    "latitude": 28.72655,
+    "longitude": 77.06689
+  },
+  {
+    "name": "puth kalan",
+    "cc2": "07",
+    "latitude": 28.7116,
+    "longitude": 77.07887
+  },
+  {
+    "name": "kamaruddinnagar",
+    "cc2": "07",
+    "latitude": 28.67695,
+    "longitude": 77.05372
+  },
+  {
+    "name": "garhi pira",
+    "cc2": "07",
+    "latitude": 28.67599,
+    "longitude": 77.09174
+  },
+  {
+    "name": "mundka",
+    "cc2": "07",
+    "latitude": 28.68012,
+    "longitude": 77.02975
+  },
+  {
+    "name": "bakarwala",
+    "cc2": "07",
+    "latitude": 28.6678,
+    "longitude": 77.02011
+  },
+  {
+    "name": "nilithi",
+    "cc2": "07",
+    "latitude": 28.65201,
+    "longitude": 77.05644
+  },
+  {
+    "name": "shakurbasti",
+    "cc2": "07",
+    "latitude": 28.68382,
+    "longitude": 77.13279
+  },
+  {
+    "name": "guru ravidasnagar",
+    "cc2": "07",
+    "latitude": 28.68443,
+    "longitude": 77.06142
+  },
+  {
+    "name": "ranhola",
+    "cc2": "07",
+    "latitude": 28.65919,
+    "longitude": 77.03823
+  },
+  {
+    "name": "shafipur",
+    "cc2": "07",
+    "latitude": 28.664,
+    "longitude": 77.05345
+  },
+  {
+    "name": "tilangpur",
+    "cc2": "07",
+    "latitude": 28.64881,
+    "longitude": 77.02928
+  },
+  {
+    "name": "baprola",
+    "cc2": "07",
+    "latitude": 28.64133,
+    "longitude": 77.01415
+  },
+  {
+    "name": "nangli sakraoti",
+    "cc2": "07",
+    "latitude": 28.62425,
+    "longitude": 77.01823
+  },
+  {
+    "name": "nangli sakraoti",
+    "cc2": "07",
+    "latitude": 28.61963,
+    "longitude": 77.00183
+  },
+  {
+    "name": "niwada",
+    "cc2": "07",
+    "latitude": 28.62425,
+    "longitude": 77.02789
+  },
+  {
+    "name": "niwada mazra",
+    "cc2": "07",
+    "latitude": 28.62378,
+    "longitude": 77.04811
+  },
+  {
+    "name": "hashtsal",
+    "cc2": "07",
+    "latitude": 28.63406,
+    "longitude": 77.05771
+  },
+  {
+    "name": "budhela",
+    "cc2": "07",
+    "latitude": 28.63822,
+    "longitude": 77.07039
+  },
+  {
+    "name": "bindapur",
+    "cc2": "07",
+    "latitude": 28.61411,
+    "longitude": 77.07005
+  },
+  {
+    "name": "matola",
+    "cc2": "07",
+    "latitude": 28.61065,
+    "longitude": 77.04823
+  },
+  {
+    "name": "kakrola",
+    "cc2": "07",
+    "latitude": 28.60814,
+    "longitude": 77.01932
+  },
+  {
+    "name": "bawri",
+    "cc2": "07",
+    "latitude": 28.6,
+    "longitude": 77.04468
+  },
+  {
+    "name": "ambar hai",
+    "cc2": "07",
+    "latitude": 28.57839,
+    "longitude": 77.0511
+  },
+  {
+    "name": "kutbapur",
+    "cc2": "07",
+    "latitude": 28.57617,
+    "longitude": 77.02174
+  },
+  {
+    "name": "goela khurd",
+    "cc2": "07",
+    "latitude": 28.58561,
+    "longitude": 77.01132
+  },
+  {
+    "name": "tajpur khurd",
+    "cc2": "07",
+    "latitude": 28.57634,
+    "longitude": 77.01363
+  },
+  {
+    "name": "chhawala",
+    "cc2": "07",
+    "latitude": 28.56277,
+    "longitude": 77.00334
+  },
+  {
+    "name": "pochanpur",
+    "cc2": "07",
+    "latitude": 28.56211,
+    "longitude": 77.04784
+  },
+  {
+    "name": "dhul sira",
+    "cc2": "07",
+    "latitude": 28.55393,
+    "longitude": 77.03093
+  },
+  {
+    "name": "bharthal",
+    "cc2": "07",
+    "latitude": 28.54298,
+    "longitude": 77.05116
+  },
+  {
+    "name": "bamnoli",
+    "cc2": "07",
+    "latitude": 28.54443,
+    "longitude": 77.03237
+  },
+  {
+    "name": "raghopur",
+    "cc2": "07",
+    "latitude": 28.52019,
+    "longitude": 77.00527
+  },
+  {
+    "name": "isapur",
+    "cc2": "07",
+    "latitude": 28.53827,
+    "longitude": 77.0295
+  },
+  {
+    "name": "bijwasan",
+    "cc2": "07",
+    "latitude": 28.53461,
+    "longitude": 77.05355
+  },
+  {
+    "name": "tankle",
+    "cc2": "07",
+    "latitude": 28.52134,
+    "longitude": 77.065
+  },
+  {
+    "name": "shahlapur",
+    "cc2": "07",
+    "latitude": 28.51772,
+    "longitude": 77.05866
+  },
+  {
+    "name": "rijokri",
+    "cc2": "07",
+    "latitude": 28.51387,
+    "longitude": 77.1151
+  },
+  {
+    "name": "kapas herd",
+    "cc2": "07",
+    "latitude": 28.52614,
+    "longitude": 77.08396
+  },
+  {
+    "name": "malakpur kohi rangpur",
+    "cc2": "07",
+    "latitude": 28.54029,
+    "longitude": 77.12075
+  },
+  {
+    "name": "mehramnagar",
+    "cc2": "07",
+    "latitude": 28.56368,
+    "longitude": 77.12599
+  },
+  {
+    "name": "sohal sarai",
+    "cc2": "07",
+    "latitude": 28.5564,
+    "longitude": 77.10597
+  },
+  {
+    "name": "nangal dewat",
+    "cc2": "07",
+    "latitude": 28.5522,
+    "longitude": 77.09844
+  },
+  {
+    "name": "shahabad muhamadpur",
+    "cc2": "07",
+    "latitude": 28.55691,
+    "longitude": 77.07258
+  },
+  {
+    "name": "bagrola",
+    "cc2": "07",
+    "latitude": 28.57135,
+    "longitude": 77.07466
+  },
+  {
+    "name": "pehladpur",
+    "cc2": "07",
+    "latitude": 28.57884,
+    "longitude": 77.09695
+  },
+  {
+    "name": "kotla",
+    "cc2": "07",
+    "latitude": 28.57607,
+    "longitude": 77.12086
+  },
+  {
+    "name": "shekhawati lines",
+    "cc2": "07",
+    "latitude": 28.57979,
+    "longitude": 77.11273
+  },
+  {
+    "name": "maude lines",
+    "cc2": "07",
+    "latitude": 28.57945,
+    "longitude": 77.12036
+  },
+  {
+    "name": "shumran lines",
+    "cc2": "07",
+    "latitude": 28.58435,
+    "longitude": 77.12247
+  },
+  {
+    "name": "sannaiyat lines",
+    "cc2": "07",
+    "latitude": 28.58932,
+    "longitude": 77.12554
+  },
+  {
+    "name": "sagarpur",
+    "cc2": "07",
+    "latitude": 28.59213,
+    "longitude": 77.10558
+  },
+  {
+    "name": "palam enclave",
+    "cc2": "07",
+    "latitude": 28.5854,
+    "longitude": 77.09102
+  },
+  {
+    "name": "sadhnagar",
+    "cc2": "07",
+    "latitude": 28.58817,
+    "longitude": 77.09337
+  },
+  {
+    "name": "nasirpur",
+    "cc2": "07",
+    "latitude": 28.59708,
+    "longitude": 77.09225
+  },
+  {
+    "name": "dabri",
+    "cc2": "07",
+    "latitude": 28.60987,
+    "longitude": 77.0865
+  },
+  {
+    "name": "nangal raya",
+    "cc2": "07",
+    "latitude": 28.60935,
+    "longitude": 77.1118
+  },
+  {
+    "name": "nangal",
+    "cc2": "07",
+    "latitude": 28.60656,
+    "longitude": 77.11609
+  },
+  {
+    "name": "kabul lines",
+    "cc2": "07",
+    "latitude": 28.59641,
+    "longitude": 77.12839
+  },
+  {
+    "name": "baird place",
+    "cc2": "07",
+    "latitude": 28.60089,
+    "longitude": 77.1308
+  },
+  {
+    "name": "chitral lines",
+    "cc2": "07",
+    "latitude": 28.60345,
+    "longitude": 77.12631
+  },
+  {
+    "name": "kirbi place",
+    "cc2": "07",
+    "latitude": 28.60786,
+    "longitude": 77.12676
+  },
+  {
+    "name": "harinagar",
+    "cc2": "07",
+    "latitude": 28.62606,
+    "longitude": 77.11565
+  },
+  {
+    "name": "nari niketan",
+    "cc2": "07",
+    "latitude": 28.62417,
+    "longitude": 77.10282
+  },
+  {
+    "name": "poshangipur",
+    "cc2": "07",
+    "latitude": 28.62463,
+    "longitude": 77.08772
+  },
+  {
+    "name": "asalatpur khadar",
+    "cc2": "07",
+    "latitude": 28.62182,
+    "longitude": 77.0787
+  },
+  {
+    "name": "bhupendrasinghnagar",
+    "cc2": "07",
+    "latitude": 28.63359,
+    "longitude": 77.08387
+  },
+  {
+    "name": "harinagar",
+    "cc2": "07",
+    "latitude": 28.62794,
+    "longitude": 77.0999
+  },
+  {
+    "name": "nangli jalib",
+    "cc2": "07",
+    "latitude": 28.63255,
+    "longitude": 77.08818
+  },
+  {
+    "name": "fatehnagar",
+    "cc2": "07",
+    "latitude": 28.63218,
+    "longitude": 77.10235
+  },
+  {
+    "name": "tehar",
+    "cc2": "07",
+    "latitude": 28.63412,
+    "longitude": 77.1111
+  },
+  {
+    "name": "subhashnagar",
+    "cc2": "07",
+    "latitude": 28.63617,
+    "longitude": 77.11494
+  },
+  {
+    "name": "ashoknagar",
+    "cc2": "07",
+    "latitude": 28.63651,
+    "longitude": 77.10414
+  },
+  {
+    "name": "ganeshnagar",
+    "cc2": "07",
+    "latitude": 28.63519,
+    "longitude": 77.08713
+  },
+  {
+    "name": "mahanbirnag",
+    "cc2": "07",
+    "latitude": 28.63736,
+    "longitude": 77.08532
+  },
+  {
+    "name": "krishnapuri",
+    "cc2": "07",
+    "latitude": 28.6398,
+    "longitude": 77.08466
+  },
+  {
+    "name": "chaukandi",
+    "cc2": "07",
+    "latitude": 28.64517,
+    "longitude": 77.09818
+  },
+  {
+    "name": "tatarpur",
+    "cc2": "07",
+    "latitude": 28.64628,
+    "longitude": 77.11408
+  },
+  {
+    "name": "guru nanaknogar",
+    "cc2": "07",
+    "latitude": 28.64557,
+    "longitude": 77.09273
+  },
+  {
+    "name": "chandnagar",
+    "cc2": "07",
+    "latitude": 28.64873,
+    "longitude": 77.09721
+  },
+  {
+    "name": "saotgarn",
+    "cc2": "07",
+    "latitude": 28.64837,
+    "longitude": 77.0888
+  },
+  {
+    "name": "sahibpura",
+    "cc2": "07",
+    "latitude": 28.64734,
+    "longitude": 77.09278
+  },
+  {
+    "name": "pratapnagar",
+    "cc2": "07",
+    "latitude": 28.62382,
+    "longitude": 77.10614
+  },
+  {
+    "name": "balinagar",
+    "cc2": "07",
+    "latitude": 28.65314,
+    "longitude": 77.12782
+  },
+  {
+    "name": "basal darapur",
+    "cc2": "07",
+    "latitude": 28.65734,
+    "longitude": 77.13522
+  },
+  {
+    "name": "janta colony",
+    "cc2": "07",
+    "latitude": 28.65862,
+    "longitude": 77.11799
+  },
+  {
+    "name": "khiata",
+    "cc2": "07",
+    "latitude": 28.65568,
+    "longitude": 77.10213
+  },
+  {
+    "name": "nangloi saiyea",
+    "cc2": "07",
+    "latitude": 28.66121,
+    "longitude": 77.08426
+  },
+  {
+    "name": "jawalaheri",
+    "cc2": "07",
+    "latitude": 28.66809,
+    "longitude": 77.10301
+  },
+  {
+    "name": "punjabi bagh",
+    "cc2": "07",
+    "latitude": 28.66448,
+    "longitude": 77.12701
+  },
+  {
+    "name": "madipur",
+    "cc2": "07",
+    "latitude": 28.67318,
+    "longitude": 77.1215
+  },
+  {
+    "name": "srinagar madipur",
+    "cc2": "07",
+    "latitude": 28.673,
+    "longitude": 77.11182
+  },
+  {
+    "name": "ranibagh",
+    "cc2": "07",
+    "latitude": 28.6867,
+    "longitude": 77.13079
+  },
+  {
+    "name": "new multannagar",
+    "cc2": "07",
+    "latitude": 28.68064,
+    "longitude": 77.10675
+  },
+  {
+    "name": "kirari sulemannagar",
+    "cc2": "07",
+    "latitude": 28.69736,
+    "longitude": 77.0648
+  },
+  {
+    "name": "sultanpur mazra",
+    "cc2": "07",
+    "latitude": 28.69056,
+    "longitude": 77.0778
+  },
+  {
+    "name": "mangolpur khurd",
+    "cc2": "07",
+    "latitude": 28.70037,
+    "longitude": 77.09484
+  },
+  {
+    "name": "mangolpur kalan",
+    "cc2": "07",
+    "latitude": 28.69758,
+    "longitude": 77.10305
+  },
+  {
+    "name": "nanarpur",
+    "cc2": "07",
+    "latitude": 28.7066,
+    "longitude": 77.11664
+  },
+  {
+    "name": "razapur",
+    "cc2": "07",
+    "latitude": 28.71667,
+    "longitude": 77.12687
+  },
+  {
+    "name": "rithala",
+    "cc2": "07",
+    "latitude": 28.72009,
+    "longitude": 77.10269
+  },
+  {
+    "name": "dasghara",
+    "cc2": "07",
+    "latitude": 28.73511,
+    "longitude": 77.08876
+  },
+  {
+    "name": "daulotpur",
+    "cc2": "07",
+    "latitude": 28.74111,
+    "longitude": 77.0924
+  },
+  {
+    "name": "sahibabad daulotpur",
+    "cc2": "07",
+    "latitude": 28.74705,
+    "longitude": 77.11465
+  },
+  {
+    "name": "alumgirpur",
+    "cc2": "07",
+    "latitude": 28.7438,
+    "longitude": 77.12616
+  },
+  {
+    "name": "shamapur",
+    "cc2": "07",
+    "latitude": 28.74764,
+    "longitude": 77.14511
+  },
+  {
+    "name": "mukandpur",
+    "cc2": "07",
+    "latitude": 28.73944,
+    "longitude": 77.18315
+  },
+  {
+    "name": "ramgarn",
+    "cc2": "07",
+    "latitude": 28.72973,
+    "longitude": 77.16322
+  },
+  {
+    "name": "bhalswa jahangirpur",
+    "cc2": "07",
+    "latitude": 28.73558,
+    "longitude": 77.16682
+  },
+  {
+    "name": "shalamar",
+    "cc2": "07",
+    "latitude": 28.72186,
+    "longitude": 77.15897
+  },
+  {
+    "name": "halderpur",
+    "cc2": "07",
+    "latitude": 28.72365,
+    "longitude": 77.14764
+  },
+  {
+    "name": "sahipur",
+    "cc2": "07",
+    "latitude": 28.71706,
+    "longitude": 77.16174
+  },
+  {
+    "name": "bharaula",
+    "cc2": "07",
+    "latitude": 28.71631,
+    "longitude": 77.17084
+  },
+  {
+    "name": "matmy memar",
+    "cc2": "07",
+    "latitude": 28.72128,
+    "longitude": 77.16886
+  },
+  {
+    "name": "indranagar",
+    "cc2": "07",
+    "latitude": 28.7177,
+    "longitude": 77.1768
+  },
+  {
+    "name": "adarshnagar",
+    "cc2": "07",
+    "latitude": 28.71936,
+    "longitude": 77.17847
+  },
+  {
+    "name": "shingaipur",
+    "cc2": "07",
+    "latitude": 28.70444,
+    "longitude": 77.15766
+  },
+  {
+    "name": "rampura",
+    "cc2": "07",
+    "latitude": 28.6772,
+    "longitude": 77.15725
+  },
+  {
+    "name": "shantnagar",
+    "cc2": "07",
+    "latitude": 28.67697,
+    "longitude": 77.16431
+  },
+  {
+    "name": "bharatnagar",
+    "cc2": "07",
+    "latitude": 28.68134,
+    "longitude": 77.17691
+  },
+  {
+    "name": "wazirpur",
+    "cc2": "07",
+    "latitude": 28.69004,
+    "longitude": 77.17474
+  },
+  {
+    "name": "srinagar",
+    "cc2": "07",
+    "latitude": 28.68154,
+    "longitude": 77.13881
+  },
+  {
+    "name": "bhili bhulaiyan",
+    "cc2": "07",
+    "latitude": 28.67317,
+    "longitude": 77.18015
+  },
+  {
+    "name": "anandnagar",
+    "cc2": "07",
+    "latitude": 28.67409,
+    "longitude": 77.16792
+  },
+  {
+    "name": "tulsinagar",
+    "cc2": "07",
+    "latitude": 28.67089,
+    "longitude": 77.1673
+  },
+  {
+    "name": "punjabi bagh",
+    "cc2": "07",
+    "latitude": 28.67091,
+    "longitude": 77.14101
+  },
+  {
+    "name": "motingagar",
+    "cc2": "07",
+    "latitude": 28.66061,
+    "longitude": 77.14173
+  },
+  {
+    "name": "kirtinagar",
+    "cc2": "07",
+    "latitude": 28.65325,
+    "longitude": 77.13998
+  },
+  {
+    "name": "rameshnagar",
+    "cc2": "07",
+    "latitude": 28.64971,
+    "longitude": 77.13387
+  },
+  {
+    "name": "shardapuri colony",
+    "cc2": "07",
+    "latitude": 28.64545,
+    "longitude": 77.12931
+  },
+  {
+    "name": "shadipur",
+    "cc2": "07",
+    "latitude": 28.64702,
+    "longitude": 77.16021
+  },
+  {
+    "name": "khanpur raya",
+    "cc2": "07",
+    "latitude": 28.6496,
+    "longitude": 77.15828
+  },
+  {
+    "name": "south patelnagar",
+    "cc2": "07",
+    "latitude": 28.64685,
+    "longitude": 77.16451
+  },
+  {
+    "name": "east patelnagar",
+    "cc2": "07",
+    "latitude": 28.64634,
+    "longitude": 77.17568
+  },
+  {
+    "name": "west patelnagar",
+    "cc2": "07",
+    "latitude": 28.6522,
+    "longitude": 77.16395
+  },
+  {
+    "name": "premnagar",
+    "cc2": "07",
+    "latitude": 28.66189,
+    "longitude": 77.16206
+  },
+  {
+    "name": "anand parbat",
+    "cc2": "07",
+    "latitude": 28.65894,
+    "longitude": 77.17596
+  },
+  {
+    "name": "devnagar",
+    "cc2": "07",
+    "latitude": 28.65436,
+    "longitude": 77.19017
+  },
+  {
+    "name": "krishnanagar",
+    "cc2": "07",
+    "latitude": 28.64785,
+    "longitude": 77.18998
+  },
+  {
+    "name": "rajendranangar",
+    "cc2": "07",
+    "latitude": 28.63914,
+    "longitude": 77.18384
+  },
+  {
+    "name": "new rajendranagar",
+    "cc2": "07",
+    "latitude": 28.63285,
+    "longitude": 77.18013
+  },
+  {
+    "name": "dasghara",
+    "cc2": "07",
+    "latitude": 28.6221,
+    "longitude": 77.16491
+  },
+  {
+    "name": "todapur",
+    "cc2": "07",
+    "latitude": 28.62242,
+    "longitude": 77.1589
+  },
+  {
+    "name": "indrapuri",
+    "cc2": "07",
+    "latitude": 28.62909,
+    "longitude": 77.14962
+  },
+  {
+    "name": "naraina",
+    "cc2": "07",
+    "latitude": 28.62169,
+    "longitude": 77.14079
+  },
+  {
+    "name": "malakand lines",
+    "cc2": "07",
+    "latitude": 28.60063,
+    "longitude": 77.145
+  },
+  {
+    "name": "nicholson lines",
+    "cc2": "07",
+    "latitude": 28.60061,
+    "longitude": 77.1527
+  },
+  {
+    "name": "keren lines",
+    "cc2": "07",
+    "latitude": 28.59682,
+    "longitude": 77.15717
+  },
+  {
+    "name": "dhola kuan",
+    "cc2": "07",
+    "latitude": 28.5913,
+    "longitude": 77.16646
+  },
+  {
+    "name": "khyber lines",
+    "cc2": "07",
+    "latitude": 28.58779,
+    "longitude": 77.15067
+  },
+  {
+    "name": "north moti bagh",
+    "cc2": "07",
+    "latitude": 28.58391,
+    "longitude": 77.16951
+  },
+  {
+    "name": "asmara lines",
+    "cc2": "07",
+    "latitude": 28.58186,
+    "longitude": 77.14637
+  },
+  {
+    "name": "jharera",
+    "cc2": "07",
+    "latitude": 28.58175,
+    "longitude": 77.14157
+  },
+  {
+    "name": "south moti bagh",
+    "cc2": "07",
+    "latitude": 28.58062,
+    "longitude": 77.17159
+  },
+  {
+    "name": "netajinagar",
+    "cc2": "07",
+    "latitude": 28.57387,
+    "longitude": 77.18582
+  },
+  {
+    "name": "moti bagh",
+    "cc2": "07",
+    "latitude": 28.58178,
+    "longitude": 77.17929
+  },
+  {
+    "name": "chanakyapuri",
+    "cc2": "07",
+    "latitude": 28.59784,
+    "longitude": 77.1876
+  },
+  {
+    "name": "northern railway colony",
+    "cc2": "07",
+    "latitude": 28.60106,
+    "longitude": 77.16744
+  },
+  {
+    "name": "south vinaynagar",
+    "cc2": "07",
+    "latitude": 28.56722,
+    "longitude": 77.19412
+  },
+  {
+    "name": "krishnanagar",
+    "cc2": "07",
+    "latitude": 28.56599,
+    "longitude": 77.18966
+  },
+  {
+    "name": "muhammadpur",
+    "cc2": "07",
+    "latitude": 28.56628,
+    "longitude": 77.18564
+  },
+  {
+    "name": "ramakrishnapuram",
+    "cc2": "07",
+    "latitude": 28.56411,
+    "longitude": 77.18107
+  },
+  {
+    "name": "humayunpur",
+    "cc2": "07",
+    "latitude": 28.5606,
+    "longitude": 77.18869
+  },
+  {
+    "name": "munirka",
+    "cc2": "07",
+    "latitude": 28.55529,
+    "longitude": 77.17429
+  },
+  {
+    "name": "basantgaon",
+    "cc2": "07",
+    "latitude": 28.57281,
+    "longitude": 77.16006
+  },
+  {
+    "name": "muradabad pahari",
+    "cc2": "07",
+    "latitude": 28.56456,
+    "longitude": 77.15126
+  },
+  {
+    "name": "ber sarai",
+    "cc2": "07",
+    "latitude": 28.54835,
+    "longitude": 77.18283
+  },
+  {
+    "name": "katwaria sarai",
+    "cc2": "07",
+    "latitude": 28.54264,
+    "longitude": 77.18766
+  },
+  {
+    "name": "jia sarai",
+    "cc2": "07",
+    "latitude": 28.54698,
+    "longitude": 77.18815
+  },
+  {
+    "name": "kishangarh",
+    "cc2": "07",
+    "latitude": 28.51693,
+    "longitude": 77.1677
+  },
+  {
+    "name": "jogmaya mandir",
+    "cc2": "07",
+    "latitude": 28.5256,
+    "longitude": 77.18444
+  },
+  {
+    "name": "aulia masjid",
+    "cc2": "07",
+    "latitude": 28.51202,
+    "longitude": 77.1797
+  },
+  {
+    "name": "deoli",
+    "cc2": "07",
+    "latitude": 28.50254,
+    "longitude": 77.23117
+  },
+  {
+    "name": "tighri",
+    "cc2": "07",
+    "latitude": 28.51225,
+    "longitude": 77.24083
+  },
+  {
+    "name": "saiyad-ul-ajaib",
+    "cc2": "07",
+    "latitude": 28.51923,
+    "longitude": 77.20352
+  },
+  {
+    "name": "lado sarai",
+    "cc2": "07",
+    "latitude": 28.52545,
+    "longitude": 77.19491
+  },
+  {
+    "name": "madangir",
+    "cc2": "07",
+    "latitude": 28.52473,
+    "longitude": 77.23343
+  },
+  {
+    "name": "khitki",
+    "cc2": "07",
+    "latitude": 28.53161,
+    "longitude": 77.22143
+  },
+  {
+    "name": "hauz rani",
+    "cc2": "07",
+    "latitude": 28.53022,
+    "longitude": 77.21214
+  },
+  {
+    "name": "mal-viyanagar",
+    "cc2": "07",
+    "latitude": 28.53291,
+    "longitude": 77.21206
+  },
+  {
+    "name": "adb chini",
+    "cc2": "07",
+    "latitude": 28.53806,
+    "longitude": 77.20268
+  },
+  {
+    "name": "begampur",
+    "cc2": "07",
+    "latitude": 28.53981,
+    "longitude": 77.20804
+  },
+  {
+    "name": "shaikhpur",
+    "cc2": "07",
+    "latitude": 28.53961,
+    "longitude": 77.22021
+  },
+  {
+    "name": "chiragh delhi",
+    "cc2": "07",
+    "latitude": 28.53849,
+    "longitude": 77.22973
+  },
+  {
+    "name": "kalu sarai",
+    "cc2": "07",
+    "latitude": 28.54373,
+    "longitude": 77.20339
+  },
+  {
+    "name": "char minar",
+    "cc2": "07",
+    "latitude": 28.54629,
+    "longitude": 77.21258
+  },
+  {
+    "name": "shahpur jat",
+    "cc2": "07",
+    "latitude": 28.54833,
+    "longitude": 77.21549
+  },
+  {
+    "name": "hauz khas enclave",
+    "cc2": "07",
+    "latitude": 28.54864,
+    "longitude": 77.20444
+  },
+  {
+    "name": "green park",
+    "cc2": "07",
+    "latitude": 28.55532,
+    "longitude": 77.20515
+  },
+  {
+    "name": "yusuf sarai",
+    "cc2": "07",
+    "latitude": 28.55976,
+    "longitude": 77.20562
+  },
+  {
+    "name": "arjunnugar",
+    "cc2": "07",
+    "latitude": 28.56187,
+    "longitude": 77.20737
+  },
+  {
+    "name": "shantinagar",
+    "cc2": "07",
+    "latitude": 28.5626,
+    "longitude": 77.20109
+  },
+  {
+    "name": "gautamnagar",
+    "cc2": "07",
+    "latitude": 28.56128,
+    "longitude": 77.21139
+  },
+  {
+    "name": "sanwalnagar",
+    "cc2": "07",
+    "latitude": 28.56043,
+    "longitude": 77.22898
+  },
+  {
+    "name": "lajpat bhavan",
+    "cc2": "07",
+    "latitude": 28.56236,
+    "longitude": 77.23675
+  },
+  {
+    "name": "zumredpur",
+    "cc2": "07",
+    "latitude": 28.55606,
+    "longitude": 77.24259
+  },
+  {
+    "name": "mujahidpur",
+    "cc2": "07",
+    "latitude": 28.56383,
+    "longitude": 77.22362
+  },
+  {
+    "name": "kasturb nikelan",
+    "cc2": "07",
+    "latitude": 28.57189,
+    "longitude": 77.24583
+  },
+  {
+    "name": "defence colony",
+    "cc2": "07",
+    "latitude": 28.57144,
+    "longitude": 77.23272
+  },
+  {
+    "name": "muharakpur kotla",
+    "cc2": "07",
+    "latitude": 28.57344,
+    "longitude": 77.22098
+  },
+  {
+    "name": "kasturbanagar",
+    "cc2": "07",
+    "latitude": 28.57775,
+    "longitude": 77.22688
+  },
+  {
+    "name": "premnagar",
+    "cc2": "07",
+    "latitude": 28.57875,
+    "longitude": 77.22143
+  },
+  {
+    "name": "kidwainagar",
+    "cc2": "07",
+    "latitude": 28.57093,
+    "longitude": 77.21452
+  },
+  {
+    "name": "ansarinagar",
+    "cc2": "07",
+    "latitude": 28.5666,
+    "longitude": 77.21422
+  },
+  {
+    "name": "sarojininagar",
+    "cc2": "07",
+    "latitude": 28.57749,
+    "longitude": 77.19736
+  },
+  {
+    "name": "chanakyapuri colony",
+    "cc2": "07",
+    "latitude": 28.58472,
+    "longitude": 77.19968
+  },
+  {
+    "name": "aliganj",
+    "cc2": "07",
+    "latitude": 28.58375,
+    "longitude": 77.22176
+  },
+  {
+    "name": "lodi colony",
+    "cc2": "07",
+    "latitude": 28.58382,
+    "longitude": 77.22568
+  },
+  {
+    "name": "nizamuddin west",
+    "cc2": "07",
+    "latitude": 28.58942,
+    "longitude": 77.24695
+  },
+  {
+    "name": "kakanagar",
+    "cc2": "07",
+    "latitude": 28.60324,
+    "longitude": 77.2336
+  },
+  {
+    "name": "sundarnagar",
+    "cc2": "07",
+    "latitude": 28.60296,
+    "longitude": 77.24304
+  },
+  {
+    "name": "lodi estate",
+    "cc2": "07",
+    "latitude": 28.59251,
+    "longitude": 77.22809
+  },
+  {
+    "name": "ramlila ground",
+    "cc2": "07",
+    "latitude": 28.64186,
+    "longitude": 77.23179
+  },
+  {
+    "name": "chandni chauk",
+    "cc2": "07",
+    "latitude": 28.65621,
+    "longitude": 77.2263
+  },
+  {
+    "name": "salimgarh",
+    "cc2": "07",
+    "latitude": 28.66079,
+    "longitude": 77.24402
+  },
+  {
+    "name": "shiamgir",
+    "cc2": "07",
+    "latitude": 28.67377,
+    "longitude": 77.24632
+  },
+  {
+    "name": "sadr bazar",
+    "cc2": "07",
+    "latitude": 28.65807,
+    "longitude": 77.21227
+  },
+  {
+    "name": "civil line",
+    "cc2": "07",
+    "latitude": 28.6749,
+    "longitude": 77.22392
+  },
+  {
+    "name": "malka ganj",
+    "cc2": "07",
+    "latitude": 28.67635,
+    "longitude": 77.20744
+  },
+  {
+    "name": "pir ghaib",
+    "cc2": "07",
+    "latitude": 28.67629,
+    "longitude": 77.21821
+  },
+  {
+    "name": "kamlanagar",
+    "cc2": "07",
+    "latitude": 28.68185,
+    "longitude": 77.20373
+  },
+  {
+    "name": "shaktinagar",
+    "cc2": "07",
+    "latitude": 28.68147,
+    "longitude": 77.19693
+  },
+  {
+    "name": "roopnagar",
+    "cc2": "07",
+    "latitude": 28.68396,
+    "longitude": 77.20135
+  },
+  {
+    "name": "mauricenagar",
+    "cc2": "07",
+    "latitude": 28.68574,
+    "longitude": 77.20609
+  },
+  {
+    "name": "kajpura",
+    "cc2": "07",
+    "latitude": 28.68823,
+    "longitude": 77.19715
+  },
+  {
+    "name": "vijaynagar",
+    "cc2": "07",
+    "latitude": 28.69233,
+    "longitude": 77.2015
+  },
+  {
+    "name": "king's way camp",
+    "cc2": "07",
+    "latitude": 28.69679,
+    "longitude": 77.20864
+  },
+  {
+    "name": "hakikatnagar",
+    "cc2": "07",
+    "latitude": 28.69903,
+    "longitude": 77.20991
+  },
+  {
+    "name": "old chandrawal",
+    "cc2": "07",
+    "latitude": 28.69186,
+    "longitude": 77.22761
+  },
+  {
+    "name": "timarpur",
+    "cc2": "07",
+    "latitude": 28.7038,
+    "longitude": 77.22274
+  },
+  {
+    "name": "harijan colony",
+    "cc2": "07",
+    "latitude": 28.70525,
+    "longitude": 77.21025
+  },
+  {
+    "name": "malakpur",
+    "cc2": "07",
+    "latitude": 28.70556,
+    "longitude": 77.19903
+  },
+  {
+    "name": "dhaka",
+    "cc2": "07",
+    "latitude": 28.70886,
+    "longitude": 77.20712
+  },
+  {
+    "name": "nirankari colony",
+    "cc2": "07",
+    "latitude": 28.71206,
+    "longitude": 77.206
+  },
+  {
+    "name": "dahirpur",
+    "cc2": "07",
+    "latitude": 28.71648,
+    "longitude": 77.20585
+  },
+  {
+    "name": "wazirabad mandirwala",
+    "cc2": "07",
+    "latitude": 28.715,
+    "longitude": 77.23135
+  },
+  {
+    "name": "gopalpur",
+    "cc2": "07",
+    "latitude": 28.71737,
+    "longitude": 77.22384
+  },
+  {
+    "name": "wazirabad",
+    "cc2": "07",
+    "latitude": 28.72495,
+    "longitude": 77.22433
+  },
+  {
+    "name": "sadatpur gujran",
+    "cc2": "07",
+    "latitude": 28.72834,
+    "longitude": 77.24817
+  },
+  {
+    "name": "jharoda mazra burari",
+    "cc2": "07",
+    "latitude": 28.73014,
+    "longitude": 77.20911
+  },
+  {
+    "name": "jagatpur",
+    "cc2": "07",
+    "latitude": 28.7414,
+    "longitude": 77.21988
+  },
+  {
+    "name": "pipal thola",
+    "cc2": "07",
+    "latitude": 28.71842,
+    "longitude": 77.17099
+  },
+  {
+    "name": "shamnagar",
+    "cc2": "07",
+    "latitude": 28.64621,
+    "longitude": 77.10371
+  },
+  {
+    "name": "teen murti",
+    "cc2": "07",
+    "latitude": 28.60524,
+    "longitude": 77.20025
+  },
+  {
+    "name": "indraprasiha",
+    "cc2": "07",
+    "latitude": 28.60925,
+    "longitude": 77.24392
+  },
+  {
+    "name": "laksmibainagar",
+    "cc2": "07",
+    "latitude": 28.57747,
+    "longitude": 77.20807
+  },
+  {
+    "name": "model town",
+    "cc2": "07",
+    "latitude": 28.70876,
+    "longitude": 77.18963
+  },
+  {
+    "name": "jor bagh",
+    "cc2": "07",
+    "latitude": 28.58693,
+    "longitude": 77.21751
+  },
+  {
+    "name": "rangpur",
+    "cc2": "07",
+    "latitude": 28.53171,
+    "longitude": 77.1414
+  },
+  {
+    "name": "uttamnagar",
+    "cc2": "07",
+    "latitude": 28.62447,
+    "longitude": 77.06325
+  },
+  {
+    "name": "karawalnagar",
+    "cc2": "07",
+    "latitude": 28.72712,
+    "longitude": 77.27047
+  },
+  {
+    "name": "mirpur",
+    "cc2": "07",
+    "latitude": 28.71771,
+    "longitude": 77.26489
+  },
+  {
+    "name": "biharipur",
+    "cc2": "07",
+    "latitude": 28.71372,
+    "longitude": 77.26326
+  },
+  {
+    "name": "sherpur",
+    "cc2": "07",
+    "latitude": 28.71169,
+    "longitude": 77.26034
+  },
+  {
+    "name": "mustafabad",
+    "cc2": "07",
+    "latitude": 28.71974,
+    "longitude": 77.26781
+  },
+  {
+    "name": "sadatpur",
+    "cc2": "07",
+    "latitude": 28.72163,
+    "longitude": 77.26978
+  },
+  {
+    "name": "khajuri",
+    "cc2": "07",
+    "latitude": 28.70561,
+    "longitude": 77.25897
+  },
+  {
+    "name": "gokalpur",
+    "cc2": "07",
+    "latitude": 28.7029,
+    "longitude": 77.28961
+  },
+  {
+    "name": "mandoli",
+    "cc2": "07",
+    "latitude": 28.70275,
+    "longitude": 77.30995
+  },
+  {
+    "name": "saboli",
+    "cc2": "07",
+    "latitude": 28.70651,
+    "longitude": 77.30575
+  },
+  {
+    "name": "amandgram",
+    "cc2": "07",
+    "latitude": 28.68875,
+    "longitude": 77.32171
+  },
+  {
+    "name": "taharpur",
+    "cc2": "07",
+    "latitude": 28.68596,
+    "longitude": 77.31948
+  },
+  {
+    "name": "kachhipur",
+    "cc2": "07",
+    "latitude": 28.69439,
+    "longitude": 77.30618
+  },
+  {
+    "name": "nathunagar",
+    "cc2": "07",
+    "latitude": 28.69274,
+    "longitude": 77.30051
+  },
+  {
+    "name": "kardampur",
+    "cc2": "07",
+    "latitude": 28.69485,
+    "longitude": 77.28601
+  },
+  {
+    "name": "garhi mendhu",
+    "cc2": "07",
+    "latitude": 28.70313,
+    "longitude": 77.25176
+  },
+  {
+    "name": "gaonri",
+    "cc2": "07",
+    "latitude": 28.69206,
+    "longitude": 77.26103
+  },
+  {
+    "name": "ghonda",
+    "cc2": "07",
+    "latitude": 28.6886,
+    "longitude": 77.27073
+  },
+  {
+    "name": "naya usmanpur",
+    "cc2": "07",
+    "latitude": 28.68641,
+    "longitude": 77.26146
+  },
+  {
+    "name": "usmanpur",
+    "cc2": "07",
+    "latitude": 28.68491,
+    "longitude": 77.25287
+  },
+  {
+    "name": "kethwara",
+    "cc2": "07",
+    "latitude": 28.6822,
+    "longitude": 77.26111
+  },
+  {
+    "name": "brahmapuri",
+    "cc2": "07",
+    "latitude": 28.6819,
+    "longitude": 77.26858
+  },
+  {
+    "name": "pratappura",
+    "cc2": "07",
+    "latitude": 28.68643,
+    "longitude": 77.28096
+  },
+  {
+    "name": "babarpur",
+    "cc2": "07",
+    "latitude": 28.68747,
+    "longitude": 77.28558
+  },
+  {
+    "name": "balbirnagar",
+    "cc2": "07",
+    "latitude": 28.68355,
+    "longitude": 77.28961
+  },
+  {
+    "name": "ramnagar",
+    "cc2": "07",
+    "latitude": 28.68431,
+    "longitude": 77.29665
+  },
+  {
+    "name": "khera",
+    "cc2": "07",
+    "latitude": 28.67836,
+    "longitude": 77.3
+  },
+  {
+    "name": "rohtasnagar",
+    "cc2": "07",
+    "latitude": 28.68122,
+    "longitude": 77.28901
+  },
+  {
+    "name": "kabulnagar",
+    "cc2": "07",
+    "latitude": 28.6779,
+    "longitude": 77.29064
+  },
+  {
+    "name": "navin shahdara",
+    "cc2": "07",
+    "latitude": 28.67572,
+    "longitude": 77.28369
+  },
+  {
+    "name": "jafarabad",
+    "cc2": "07",
+    "latitude": 28.67873,
+    "longitude": 77.27116
+  },
+  {
+    "name": "silampurbasti",
+    "cc2": "07",
+    "latitude": 28.67393,
+    "longitude": 77.27004
+  },
+  {
+    "name": "kasturbanagar",
+    "cc2": "07",
+    "latitude": 28.66926,
+    "longitude": 77.30386
+  },
+  {
+    "name": "vishwasnagar",
+    "cc2": "07",
+    "latitude": 28.66369,
+    "longitude": 77.28961
+  },
+  {
+    "name": "bholanathnagar",
+    "cc2": "07",
+    "latitude": 28.66926,
+    "longitude": 77.28514
+  },
+  {
+    "name": "azadnagar",
+    "cc2": "07",
+    "latitude": 28.66414,
+    "longitude": 77.28112
+  },
+  {
+    "name": "silampur",
+    "cc2": "07",
+    "latitude": 28.6664,
+    "longitude": 77.27021
+  },
+  {
+    "name": "kailashnagar",
+    "cc2": "07",
+    "latitude": 28.66361,
+    "longitude": 77.26241
+  },
+  {
+    "name": "gandhinagar",
+    "cc2": "07",
+    "latitude": 28.66105,
+    "longitude": 77.26747
+  },
+  {
+    "name": "shankarnagar",
+    "cc2": "07",
+    "latitude": 28.66128,
+    "longitude": 77.27622
+  },
+  {
+    "name": "krishnanagar",
+    "cc2": "07",
+    "latitude": 28.65782,
+    "longitude": 77.28661
+  },
+  {
+    "name": "rajgarh colony",
+    "cc2": "07",
+    "latitude": 28.65902,
+    "longitude": 77.27391
+  },
+  {
+    "name": "lahri colony",
+    "cc2": "07",
+    "latitude": 28.65691,
+    "longitude": 77.29579
+  },
+  {
+    "name": "karkar duman",
+    "cc2": "07",
+    "latitude": 28.64976,
+    "longitude": 77.3042
+  },
+  {
+    "name": "ramnagar",
+    "cc2": "07",
+    "latitude": 28.6554,
+    "longitude": 77.28644
+  },
+  {
+    "name": "radhepuri",
+    "cc2": "07",
+    "latitude": 28.65314,
+    "longitude": 77.29202
+  },
+  {
+    "name": "new layalpur colony",
+    "cc2": "07",
+    "latitude": 28.65006,
+    "longitude": 77.28781
+  },
+  {
+    "name": "chandarnagar",
+    "cc2": "07",
+    "latitude": 28.65141,
+    "longitude": 77.28429
+  },
+  {
+    "name": "geeta colony",
+    "cc2": "07",
+    "latitude": 28.65066,
+    "longitude": 77.27639
+  },
+  {
+    "name": "vijay ghat",
+    "cc2": "07",
+    "latitude": 28.65096,
+    "longitude": 77.25245
+  },
+  {
+    "name": "gobindpura",
+    "cc2": "07",
+    "latitude": 28.64772,
+    "longitude": 77.28567
+  },
+  {
+    "name": "shastrinagar",
+    "cc2": "07",
+    "latitude": 28.6432,
+    "longitude": 77.27768
+  },
+  {
+    "name": "khuraili khas",
+    "cc2": "07",
+    "latitude": 28.64396,
+    "longitude": 77.28935
+  },
+  {
+    "name": "kishanganj",
+    "cc2": "07",
+    "latitude": 28.639,
+    "longitude": 77.27811
+  },
+  {
+    "name": "guru angadnagar",
+    "cc2": "07",
+    "latitude": 28.64104,
+    "longitude": 77.28498
+  },
+  {
+    "name": "preetnagar",
+    "cc2": "07",
+    "latitude": 28.63923,
+    "longitude": 77.29853
+  },
+  {
+    "name": "hasanpur",
+    "cc2": "07",
+    "latitude": 28.63486,
+    "longitude": 77.31167
+  },
+  {
+    "name": "gazipur",
+    "cc2": "07",
+    "latitude": 28.63215,
+    "longitude": 77.31974
+  },
+  {
+    "name": "vinodnagar",
+    "cc2": "07",
+    "latitude": 28.62205,
+    "longitude": 77.31184
+  },
+  {
+    "name": "mandaoli",
+    "cc2": "07",
+    "latitude": 28.62718,
+    "longitude": 77.29424
+  },
+  {
+    "name": "guru ramdasnagar",
+    "cc2": "07",
+    "latitude": 28.63629,
+    "longitude": 77.27776
+  },
+  {
+    "name": "shakarpur khas",
+    "cc2": "07",
+    "latitude": 28.62657,
+    "longitude": 77.2794
+  },
+  {
+    "name": "pandavnagar",
+    "cc2": "07",
+    "latitude": 28.61738,
+    "longitude": 77.28592
+  },
+  {
+    "name": "kalyanpuri",
+    "cc2": "07",
+    "latitude": 28.61422,
+    "longitude": 77.31622
+  },
+  {
+    "name": "trilokpuri",
+    "cc2": "07",
+    "latitude": 28.61165,
+    "longitude": 77.3163
+  },
+  {
+    "name": "patparganj",
+    "cc2": "07",
+    "latitude": 28.60902,
+    "longitude": 77.29528
+  },
+  {
+    "name": "shamaspur",
+    "cc2": "07",
+    "latitude": 28.61452,
+    "longitude": 77.28764
+  },
+  {
+    "name": "nagla panchi",
+    "cc2": "07",
+    "latitude": 28.61147,
+    "longitude": 77.25494
+  },
+  {
+    "name": "lakshminagar",
+    "cc2": "07",
+    "latitude": 28.63365,
+    "longitude": 77.2804
+  },
+  {
+    "name": "nangli",
+    "cc2": "07",
+    "latitude": 28.59773,
+    "longitude": 77.27983
+  },
+  {
+    "name": "behlolpur bangar",
+    "cc2": "07",
+    "latitude": 28.58641,
+    "longitude": 77.25682
+  },
+  {
+    "name": "bhogal",
+    "cc2": "07",
+    "latitude": 28.58377,
+    "longitude": 77.25227
+  },
+  {
+    "name": "kilokri",
+    "cc2": "07",
+    "latitude": 28.57876,
+    "longitude": 77.2652
+  },
+  {
+    "name": "maharanibagh",
+    "cc2": "07",
+    "latitude": 28.57284,
+    "longitude": 77.26361
+  },
+  {
+    "name": "chilla soroda bangar",
+    "cc2": "07",
+    "latitude": 28.59572,
+    "longitude": 77.30189
+  },
+  {
+    "name": "dalupura",
+    "cc2": "07",
+    "latitude": 28.6057,
+    "longitude": 77.31901
+  },
+  {
+    "name": "bhagol",
+    "cc2": "07",
+    "latitude": 28.57275,
+    "longitude": 77.27455
+  },
+  {
+    "name": "joga bai",
+    "cc2": "07",
+    "latitude": 28.56647,
+    "longitude": 77.28343
+  },
+  {
+    "name": "okhla",
+    "cc2": "07",
+    "latitude": 28.56331,
+    "longitude": 77.29013
+  },
+  {
+    "name": "nurnagar",
+    "cc2": "07",
+    "latitude": 28.55773,
+    "longitude": 77.28755
+  },
+  {
+    "name": "jamirnagar",
+    "cc2": "07",
+    "latitude": 28.56233,
+    "longitude": 77.28172
+  },
+  {
+    "name": "bharatnagar",
+    "cc2": "07",
+    "latitude": 28.56632,
+    "longitude": 77.27279
+  },
+  {
+    "name": "new friends colony",
+    "cc2": "07",
+    "latitude": 28.56723,
+    "longitude": 77.27253
+  },
+  {
+    "name": "taimurnagar",
+    "cc2": "07",
+    "latitude": 28.57017,
+    "longitude": 77.26824
+  },
+  {
+    "name": "nehrunagar",
+    "cc2": "07",
+    "latitude": 28.57085,
+    "longitude": 77.25365
+  },
+  {
+    "name": "sriniwaspuri",
+    "cc2": "07",
+    "latitude": 28.56497,
+    "longitude": 77.25743
+  },
+  {
+    "name": "friends colony",
+    "cc2": "07",
+    "latitude": 28.56474,
+    "longitude": 77.26583
+  },
+  {
+    "name": "sarai jolina",
+    "cc2": "07",
+    "latitude": 28.56022,
+    "longitude": 77.27193
+  },
+  {
+    "name": "ishwaenagar",
+    "cc2": "07",
+    "latitude": 28.55569,
+    "longitude": 77.27553
+  },
+  {
+    "name": "east of kailash",
+    "cc2": "07",
+    "latitude": 28.55893,
+    "longitude": 77.25313
+  },
+  {
+    "name": "santnagar",
+    "cc2": "07",
+    "latitude": 28.55479,
+    "longitude": 77.25108
+  },
+  {
+    "name": "jasaula",
+    "cc2": "07",
+    "latitude": 28.54723,
+    "longitude": 77.2936
+  },
+  {
+    "name": "shyamnagar",
+    "cc2": "07",
+    "latitude": 28.54537,
+    "longitude": 77.27081
+  },
+  {
+    "name": "bengali colony",
+    "cc2": "07",
+    "latitude": 28.53815,
+    "longitude": 77.2558
+  },
+  {
+    "name": "govindpuri",
+    "cc2": "07",
+    "latitude": 28.53596,
+    "longitude": 77.26429
+  },
+  {
+    "name": "madanpur khadar",
+    "cc2": "07",
+    "latitude": 28.53392,
+    "longitude": 77.30249
+  },
+  {
+    "name": "okhla phase i",
+    "cc2": "07",
+    "latitude": 28.52555,
+    "longitude": 77.28197
+  },
+  {
+    "name": "goyindpuri extension",
+    "cc2": "07",
+    "latitude": 28.52955,
+    "longitude": 77.25734
+  },
+  {
+    "name": "tikhand",
+    "cc2": "07",
+    "latitude": 28.52027,
+    "longitude": 77.28335
+  },
+  {
+    "name": "ali",
+    "cc2": "07",
+    "latitude": 28.5161,
+    "longitude": 77.30993
+  },
+  {
+    "name": "laikuari",
+    "cc2": "07",
+    "latitude": 28.50257,
+    "longitude": 77.28369
+  },
+  {
+    "name": "molarband",
+    "cc2": "07",
+    "latitude": 28.50295,
+    "longitude": 77.31442
+  },
+  {
+    "name": "kondli",
+    "cc2": "07",
+    "latitude": 28.61167,
+    "longitude": 77.32667
+  },
+  {
+    "name": "gharroli",
+    "cc2": "07",
+    "latitude": 28.6167,
+    "longitude": 77.33207
+  },
+  {
+    "name": "jhumil colony",
+    "cc2": "07",
+    "latitude": 28.66955,
+    "longitude": 77.31289
+  },
+  {
+    "name": "khuranja",
+    "cc2": "07",
+    "latitude": 28.65625,
+    "longitude": 77.27886
+  },
+  {
+    "name": "khichripur",
+    "cc2": "07",
+    "latitude": 28.61921,
+    "longitude": 77.31976
+  },
+  {
+    "name": "kotla",
+    "cc2": "07",
+    "latitude": 28.61266,
+    "longitude": 77.30148
+  },
+  {
+    "name": "railway colony",
+    "cc2": "07",
+    "latitude": 28.50334,
+    "longitude": 77.29251
+  },
+  {
+    "name": "hazrat nizamuddin",
+    "cc2": "07",
+    "latitude": 28.58776,
+    "longitude": 77.2541
+  },
+  {
+    "name": "indrapuri",
+    "cc2": "07",
+    "latitude": 28.49148,
+    "longitude": 77.30599
+  },
+  {
+    "name": "tajpur",
+    "cc2": "07",
+    "latitude": 28.49551,
+    "longitude": 77.31325
+  },
+  {
+    "name": "mithepur",
+    "cc2": "07",
+    "latitude": 28.4974,
+    "longitude": 77.31856
+  },
+  {
+    "name": "garhi rindhala",
+    "cc2": "07",
+    "latitude": 28.72929,
+    "longitude": 76.9672
+  },
+  {
+    "name": "ladpur",
+    "cc2": "07",
+    "latitude": 28.73809,
+    "longitude": 76.99526
+  },
+  {
+    "name": "nizampur rashidpur",
+    "cc2": "07",
+    "latitude": 28.71779,
+    "longitude": 76.95973
+  },
+  {
+    "name": "sauda",
+    "cc2": "07",
+    "latitude": 28.71032,
+    "longitude": 76.98119
+  },
+  {
+    "name": "baba haridasnagar",
+    "cc2": "07",
+    "latitude": 28.6904,
+    "longitude": 76.96552
+  },
+  {
+    "name": "tikri kalan",
+    "cc2": "07",
+    "latitude": 28.68355,
+    "longitude": 76.97007
+  },
+  {
+    "name": "jafarpur kalan",
+    "cc2": "07",
+    "latitude": 28.67154,
+    "longitude": 76.99844
+  },
+  {
+    "name": "baba haridas enclave",
+    "cc2": "07",
+    "latitude": 28.64635,
+    "longitude": 76.95831
+  },
+  {
+    "name": "shaidpur",
+    "cc2": "07",
+    "latitude": 28.63633,
+    "longitude": 76.90947
+  },
+  {
+    "name": "navin place",
+    "cc2": "07",
+    "latitude": 28.62616,
+    "longitude": 76.96741
+  },
+  {
+    "name": "baba haridasnagar",
+    "cc2": "07",
+    "latitude": 28.62296,
+    "longitude": 76.97131
+  },
+  {
+    "name": "vinoba enclave",
+    "cc2": "07",
+    "latitude": 28.63162,
+    "longitude": 76.96354
+  },
+  {
+    "name": "suryakunj",
+    "cc2": "07",
+    "latitude": 28.62947,
+    "longitude": 76.96938
+  },
+  {
+    "name": "lakshmi vihar",
+    "cc2": "07",
+    "latitude": 28.62861,
+    "longitude": 76.99577
+  },
+  {
+    "name": "shiv enclave block c",
+    "cc2": "07",
+    "latitude": 28.62209,
+    "longitude": 76.98531
+  },
+  {
+    "name": "raghubir enclave",
+    "cc2": "07",
+    "latitude": 28.61631,
+    "longitude": 76.97805
+  },
+  {
+    "name": "haibatpur",
+    "cc2": "07",
+    "latitude": 28.62,
+    "longitude": 76.96612
+  },
+  {
+    "name": "gopalnagar",
+    "cc2": "07",
+    "latitude": 28.61288,
+    "longitude": 76.96788
+  },
+  {
+    "name": "nangli sakrawat",
+    "cc2": "07",
+    "latitude": 28.62169,
+    "longitude": 76.9923
+  },
+  {
+    "name": "shiv enclave block a",
+    "cc2": "07",
+    "latitude": 28.62405,
+    "longitude": 76.98578
+  },
+  {
+    "name": "masudabad",
+    "cc2": "07",
+    "latitude": 28.61782,
+    "longitude": 76.99178
+  },
+  {
+    "name": "shri krishna colony",
+    "cc2": "07",
+    "latitude": 28.61537,
+    "longitude": 76.98779
+  },
+  {
+    "name": "roshan mandi",
+    "cc2": "07",
+    "latitude": 28.61318,
+    "longitude": 76.99183
+  },
+  {
+    "name": "chara mandi",
+    "cc2": "07",
+    "latitude": 28.61096,
+    "longitude": 76.9938
+  },
+  {
+    "name": "purana roshan pura",
+    "cc2": "07",
+    "latitude": 28.60719,
+    "longitude": 76.98496
+  },
+  {
+    "name": "krishan vihar",
+    "cc2": "07",
+    "latitude": 28.60569,
+    "longitude": 76.97548
+  },
+  {
+    "name": "premnagar",
+    "cc2": "07",
+    "latitude": 28.60331,
+    "longitude": 76.98174
+  },
+  {
+    "name": "dharmapura",
+    "cc2": "07",
+    "latitude": 28.60384,
+    "longitude": 76.98938
+  },
+  {
+    "name": "new rashanpura",
+    "cc2": "07",
+    "latitude": 28.60143,
+    "longitude": 76.99213
+  },
+  {
+    "name": "roshan vihar",
+    "cc2": "07",
+    "latitude": 28.59932,
+    "longitude": 76.98432
+  },
+  {
+    "name": "durga vihar",
+    "cc2": "07",
+    "latitude": 28.59363,
+    "longitude": 76.98582
+  },
+  {
+    "name": "shyam enclave",
+    "cc2": "07",
+    "latitude": 28.59291,
+    "longitude": 76.99462
+  },
+  {
+    "name": "betaista enclave",
+    "cc2": "07",
+    "latitude": 28.59506,
+    "longitude": 76.97672
+  },
+  {
+    "name": "gopalnagar",
+    "cc2": "07",
+    "latitude": 28.60768,
+    "longitude": 76.96724
+  },
+  {
+    "name": "chetan vihar",
+    "cc2": "07",
+    "latitude": 28.60934,
+    "longitude": 76.96484
+  },
+  {
+    "name": "gopal nagar extension",
+    "cc2": "07",
+    "latitude": 28.60534,
+    "longitude": 76.95925
+  },
+  {
+    "name": "gopalnagar",
+    "cc2": "07",
+    "latitude": 28.6038,
+    "longitude": 76.96312
+  },
+  {
+    "name": "kharkhari jatmal",
+    "cc2": "07",
+    "latitude": 28.57983,
+    "longitude": 76.94552
+  },
+  {
+    "name": "hansnagar",
+    "cc2": "07",
+    "latitude": 28.57328,
+    "longitude": 76.94818
+  },
+  {
+    "name": "khera dabar",
+    "cc2": "07",
+    "latitude": 28.58266,
+    "longitude": 76.93621
+  },
+  {
+    "name": "rajeev colony",
+    "cc2": "07",
+    "latitude": 28.59317,
+    "longitude": 76.9072
+  },
+  {
+    "name": "samaspur khalsa",
+    "cc2": "07",
+    "latitude": 28.58044,
+    "longitude": 76.90737
+  },
+  {
+    "name": "qazipur",
+    "cc2": "07",
+    "latitude": 28.57787,
+    "longitude": 76.88171
+  },
+  {
+    "name": "isapur",
+    "cc2": "07",
+    "latitude": 28.57482,
+    "longitude": 76.86604
+  },
+  {
+    "name": "luksar",
+    "cc2": "07",
+    "latitude": 28.61832,
+    "longitude": 76.87068
+  },
+  {
+    "name": "malakpur zer najafgarh",
+    "cc2": "07",
+    "latitude": 28.55038,
+    "longitude": 76.90033
+  },
+  {
+    "name": "daryapur khurd",
+    "cc2": "07",
+    "latitude": 28.55215,
+    "longitude": 76.9108
+  },
+  {
+    "name": "ojwah",
+    "cc2": "07",
+    "latitude": 28.56938,
+    "longitude": 76.9084
+  },
+  {
+    "name": "kharkhari raund",
+    "cc2": "07",
+    "latitude": 28.56157,
+    "longitude": 76.93943
+  },
+  {
+    "name": "pindwala khurd",
+    "cc2": "07",
+    "latitude": 28.55882,
+    "longitude": 76.96329
+  },
+  {
+    "name": "hasanpur",
+    "cc2": "07",
+    "latitude": 28.55294,
+    "longitude": 76.94149
+  },
+  {
+    "name": "daulatpur",
+    "cc2": "07",
+    "latitude": 28.54657,
+    "longitude": 76.9593
+  },
+  {
+    "name": "asalatpur khadar",
+    "cc2": "07",
+    "latitude": 28.54174,
+    "longitude": 76.95097
+  },
+  {
+    "name": "pindwala kalan",
+    "cc2": "07",
+    "latitude": 28.56775,
+    "longitude": 76.96032
+  },
+  {
+    "name": "premnagar",
+    "cc2": "07",
+    "latitude": 28.56994,
+    "longitude": 76.97629
+  },
+  {
+    "name": "reola khanpur",
+    "cc2": "07",
+    "latitude": 28.56493,
+    "longitude": 76.98187
+  },
+  {
+    "name": "raota",
+    "cc2": "07",
+    "latitude": 28.52323,
+    "longitude": 76.90192
+  },
+  {
+    "name": "ghalibpur",
+    "cc2": "07",
+    "latitude": 28.52832,
+    "longitude": 76.87926
+  },
+  {
+    "name": "sarangpur",
+    "cc2": "07",
+    "latitude": 28.54148,
+    "longitude": 76.886
+  },
+  {
+    "name": "jhiljhili",
+    "cc2": "07",
+    "latitude": 28.53662,
+    "longitude": 76.90261
+  },
+  {
+    "name": "jainpur",
+    "cc2": "07",
+    "latitude": 28.52972,
+    "longitude": 76.92964
+  },
+  {
+    "name": "gummanhera",
+    "cc2": "07",
+    "latitude": 28.53251,
+    "longitude": 76.92501
+  },
+  {
+    "name": "shikarpur",
+    "cc2": "07",
+    "latitude": 28.52708,
+    "longitude": 76.95342
+  },
+  {
+    "name": "badosra",
+    "cc2": "07",
+    "latitude": 28.52979,
+    "longitude": 76.98535
+  },
+  {
+    "name": "kanganheri",
+    "cc2": "07",
+    "latitude": 28.54567,
+    "longitude": 76.98921
+  },
+  {
+    "name": "shiv enclave block b",
+    "cc2": "07",
+    "latitude": 28.61942,
+    "longitude": 76.99101
+  },
+  {
+    "name": "maidan garhi",
+    "cc2": "07",
+    "latitude": 28.5003,
+    "longitude": 77.20558
+  },
+  {
+    "name": "ab2 pandara road",
+    "cc2": "07",
+    "latitude": 28.6057,
+    "longitude": 77.23103
+  },
+  {
+    "name": "dashrath puri",
+    "cc2": "07",
+    "latitude": 28.60376,
+    "longitude": 77.0878
+  },
+  {
+    "name": "shahdara",
+    "cc2": "07",
+    "latitude": 28.60311,
+    "longitude": 77.13988
+  },
+  {
+    "name": "rohini",
+    "cc2": "07",
+    "latitude": 28.74322,
+    "longitude": 77.06778
+  },
+  {
+    "name": "preet vihar",
+    "cc2": "07",
+    "latitude": 28.64123,
+    "longitude": 77.29233
+  },
+  {
+    "name": "shakar pur baramad",
+    "cc2": "07",
+    "latitude": 28.62081,
+    "longitude": 77.27938
+  },
+  {
+    "name": "tukhmir pur",
+    "cc2": "07",
+    "latitude": 28.71934,
+    "longitude": 77.26006
+  },
+  {
+    "name": "chandan hola",
+    "cc2": "07",
+    "latitude": 28.46852,
+    "longitude": 77.18314
+  },
+  {
+    "name": "khan pur dhani",
+    "cc2": "07",
+    "latitude": 28.70997,
+    "longitude": 77.28301
+  },
+  {
+    "name": "kotla mahigiran",
+    "cc2": "07",
+    "latitude": 28.53671,
+    "longitude": 77.28066
+  },
+  {
+    "name": "fateh pur beri",
+    "cc2": "07",
+    "latitude": 28.45769,
+    "longitude": 77.17885
+  },
+  {
+    "name": "saidabad",
+    "cc2": "07",
+    "latitude": 28.52783,
+    "longitude": 77.28986
+  },
+  {
+    "name": "jona pur",
+    "cc2": "07",
+    "latitude": 28.46615,
+    "longitude": 77.15377
+  },
+  {
+    "name": "raj pur khurd",
+    "cc2": "07",
+    "latitude": 28.49445,
+    "longitude": 77.19083
+  },
+  {
+    "name": "chilla saroda khadar",
+    "cc2": "07",
+    "latitude": 28.58761,
+    "longitude": 77.30357
+  },
+  {
+    "name": "asola",
+    "cc2": "07",
+    "latitude": 28.45726,
+    "longitude": 77.18413
+  },
+  {
+    "name": "tilang pur kotla",
+    "cc2": "07",
+    "latitude": 28.64956,
+    "longitude": 77.02724
+  },
+  {
+    "name": "baqiabad",
+    "cc2": "07",
+    "latitude": 28.7325,
+    "longitude": 77.24688
+  },
+  {
+    "name": "ghitorni",
+    "cc2": "07",
+    "latitude": 28.49478,
+    "longitude": 77.14403
+  },
+  {
+    "name": "sultan pur",
+    "cc2": "07",
+    "latitude": 28.49555,
+    "longitude": 77.16112
+  },
+  {
+    "name": "neb sarai",
+    "cc2": "07",
+    "latitude": 28.50841,
+    "longitude": 77.20063
+  },
+  {
+    "name": "kusum pur",
+    "cc2": "07",
+    "latitude": 28.55472,
+    "longitude": 77.1573
+  },
+  {
+    "name": "bhati",
+    "cc2": "07",
+    "latitude": 28.42953,
+    "longitude": 77.22569
+  },
+  {
+    "name": "mir pur turk",
+    "cc2": "07",
+    "latitude": 28.70493,
+    "longitude": 77.26424
+  },
+  {
+    "name": "raja pur khurd",
+    "cc2": "07",
+    "latitude": 28.63517,
+    "longitude": 77.03303
+  },
+  {
+    "name": "dayal pur",
+    "cc2": "07",
+    "latitude": 28.71753,
+    "longitude": 77.26508
+  },
+  {
+    "name": "shafi pur ranhola",
+    "cc2": "07",
+    "latitude": 28.65729,
+    "longitude": 77.04001
+  },
+  {
+    "name": "aya nagar",
+    "cc2": "07",
+    "latitude": 28.47202,
+    "longitude": 77.1327
+  },
+  {
+    "name": "gharonda neemka bangar",
+    "cc2": "07",
+    "latitude": 28.61644,
+    "longitude": 77.288
+  },
+  {
+    "name": "kamal pur majra burari",
+    "cc2": "07",
+    "latitude": 28.74667,
+    "longitude": 77.19348
+  },
+  {
+    "name": "nithari",
+    "cc2": "07",
+    "latitude": 28.70489,
+    "longitude": 77.05285
+  },
+  {
+    "name": "taj pul",
+    "cc2": "07",
+    "latitude": 28.49482,
+    "longitude": 77.30587
+  },
+  {
+    "name": "ziauddin pur",
+    "cc2": "07",
+    "latitude": 28.70873,
+    "longitude": 77.27654
+  },
+  {
+    "name": "pul pehlad",
+    "cc2": "07",
+    "latitude": 28.49938,
+    "longitude": 77.29104
+  },
+  {
+    "name": "khajoori khas",
+    "cc2": "07",
+    "latitude": 28.70958,
+    "longitude": 77.2587
+  },
+  {
+    "name": "sultan pur majra",
+    "cc2": "07",
+    "latitude": 28.68966,
+    "longitude": 77.07648
+  }
+]

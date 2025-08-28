@@ -1,0 +1,926 @@
+[
+  {
+    "name": "yat-kirana",
+    "cc2": "01",
+    "latitude": 8.23333,
+    "longitude": 93.23333
+  },
+  {
+    "name": "yadita",
+    "cc2": "01",
+    "latitude": 12.46759,
+    "longitude": 92.71993
+  },
+  {
+    "name": "wrightmyo",
+    "cc2": "01",
+    "latitude": 11.78333,
+    "longitude": 92.71667
+  },
+  {
+    "name": "wimberleyganj",
+    "cc2": "01",
+    "latitude": 11.7415,
+    "longitude": 92.70967
+  },
+  {
+    "name": "tusonabad",
+    "cc2": "01",
+    "latitude": 11.67695,
+    "longitude": 92.63929
+  },
+  {
+    "name": "toinyugeda",
+    "cc2": "01",
+    "latitude": 10.68333,
+    "longitude": 92.63333
+  },
+  {
+    "name": "toibalawe",
+    "cc2": "01",
+    "latitude": 10.53333,
+    "longitude": 92.5
+  },
+  {
+    "name": "tochangedu",
+    "cc2": "01",
+    "latitude": 10.7,
+    "longitude": 92.35
+  },
+  {
+    "name": "titaije",
+    "cc2": "01",
+    "latitude": 10.71667,
+    "longitude": 92.53333
+  },
+  {
+    "name": "tenlaa",
+    "cc2": "01",
+    "latitude": 7.01667,
+    "longitude": 93.9
+  },
+  {
+    "name": "temain",
+    "cc2": "01",
+    "latitude": 7.25,
+    "longitude": 93.63333
+  },
+  {
+    "name": "taylerabad",
+    "cc2": "01",
+    "latitude": 11.6,
+    "longitude": 92.7
+  },
+  {
+    "name": "tapuye",
+    "cc2": "01",
+    "latitude": 7.9,
+    "longitude": 93.45
+  },
+  {
+    "name": "tapiyang",
+    "cc2": "01",
+    "latitude": 8.06667,
+    "longitude": 93.56667
+  },
+  {
+    "name": "tamalu",
+    "cc2": "01",
+    "latitude": 9.2,
+    "longitude": 92.81667
+  },
+  {
+    "name": "talarom",
+    "cc2": "01",
+    "latitude": 8.16667,
+    "longitude": 93.45
+  },
+  {
+    "name": "taka-roait",
+    "cc2": "01",
+    "latitude": 8.21667,
+    "longitude": 83.53333
+  },
+  {
+    "name": "tafwap",
+    "cc2": "01",
+    "latitude": 7.38333,
+    "longitude": 93.71667
+  },
+  {
+    "name": "tae-angha",
+    "cc2": "01",
+    "latitude": 6.93333,
+    "longitude": 93.75
+  },
+  {
+    "name": "stewartganj",
+    "cc2": "01",
+    "latitude": 11.71667,
+    "longitude": 92.71667
+  },
+  {
+    "name": "shake",
+    "cc2": "01",
+    "latitude": 7.88333,
+    "longitude": 93.35
+  },
+  {
+    "name": "shadipur",
+    "cc2": "01",
+    "latitude": 11.65879,
+    "longitude": 92.74384
+  },
+  {
+    "name": "sawi",
+    "cc2": "01",
+    "latitude": 9.2,
+    "longitude": 92.71667
+  },
+  {
+    "name": "sanenya",
+    "cc2": "01",
+    "latitude": 8.46667,
+    "longitude": 93.03333
+  },
+  {
+    "name": "sabari",
+    "cc2": "01",
+    "latitude": 12.5,
+    "longitude": 92.9
+  },
+  {
+    "name": "rongat",
+    "cc2": "01",
+    "latitude": 12.46667,
+    "longitude": 92.93333
+  },
+  {
+    "name": "rangachang",
+    "cc2": "01",
+    "latitude": 11.58481,
+    "longitude": 92.73701
+  },
+  {
+    "name": "pulo kunji",
+    "cc2": "01",
+    "latitude": 7.03333,
+    "longitude": 93.66667
+  },
+  {
+    "name": "protheroepur",
+    "cc2": "01",
+    "latitude": 11.61659,
+    "longitude": 92.72324
+  },
+  {
+    "name": "port blair",
+    "cc2": "01",
+    "latitude": 11.66613,
+    "longitude": 92.74635
+  },
+  {
+    "name": "poahat",
+    "cc2": "01",
+    "latitude": 8.25,
+    "longitude": 93.21667
+  },
+  {
+    "name": "phaiapong",
+    "cc2": "01",
+    "latitude": 13.28333,
+    "longitude": 92.95
+  },
+  {
+    "name": "perka",
+    "cc2": "01",
+    "latitude": 9.18333,
+    "longitude": 92.81667
+  },
+  {
+    "name": "patua",
+    "cc2": "01",
+    "latitude": 7.33333,
+    "longitude": 93.7
+  },
+  {
+    "name": "passa",
+    "cc2": "01",
+    "latitude": 9.2,
+    "longitude": 92.75
+  },
+  {
+    "name": "palalankwe",
+    "cc2": "01",
+    "latitude": 10.86667,
+    "longitude": 92.48333
+  },
+  {
+    "name": "pahua",
+    "cc2": "01",
+    "latitude": 7.36667,
+    "longitude": 93.61667
+  },
+  {
+    "name": "pahlagaon",
+    "cc2": "01",
+    "latitude": 12.83333,
+    "longitude": 92.86667
+  },
+  {
+    "name": "oukchaung",
+    "cc2": "01",
+    "latitude": 9.15,
+    "longitude": 92.71667
+  },
+  {
+    "name": "olenchi",
+    "cc2": "01",
+    "latitude": 7.93333,
+    "longitude": 93.45
+  },
+  {
+    "name": "obate",
+    "cc2": "01",
+    "latitude": 10.8,
+    "longitude": 92.6
+  },
+  {
+    "name": "oal-hetaih",
+    "cc2": "01",
+    "latitude": 7.91667,
+    "longitude": 93.31667
+  },
+  {
+    "name": "namunaghar",
+    "cc2": "01",
+    "latitude": 11.65,
+    "longitude": 92.68333
+  },
+  {
+    "name": "nachuge",
+    "cc2": "01",
+    "latitude": 10.78333,
+    "longitude": 92.35
+  },
+  {
+    "name": "mus",
+    "cc2": "01",
+    "latitude": 9.23333,
+    "longitude": 92.78333
+  },
+  {
+    "name": "moshoit",
+    "cc2": "01",
+    "latitude": 8.16667,
+    "longitude": 93.51667
+  },
+  {
+    "name": "mohean",
+    "cc2": "01",
+    "latitude": 7.96667,
+    "longitude": 93.31667
+  },
+  {
+    "name": "mitha khari",
+    "cc2": "01",
+    "latitude": 11.65,
+    "longitude": 92.66667
+  },
+  {
+    "name": "mayabandar",
+    "cc2": "01",
+    "latitude": 12.90954,
+    "longitude": 92.90348
+  },
+  {
+    "name": "mattai-ta-hoe",
+    "cc2": "01",
+    "latitude": 7.98333,
+    "longitude": 93.56667
+  },
+  {
+    "name": "mathura",
+    "cc2": "01",
+    "latitude": 11.71667,
+    "longitude": 92.68333
+  },
+  {
+    "name": "matait-anla",
+    "cc2": "01",
+    "latitude": 6.83333,
+    "longitude": 93.88333
+  },
+  {
+    "name": "maru",
+    "cc2": "01",
+    "latitude": 8.1,
+    "longitude": 93.48333
+  },
+  {
+    "name": "manpur",
+    "cc2": "01",
+    "latitude": 11.68333,
+    "longitude": 92.61667
+  },
+  {
+    "name": "mannar ghat",
+    "cc2": "01",
+    "latitude": 11.76667,
+    "longitude": 92.71667
+  },
+  {
+    "name": "manjeri",
+    "cc2": "01",
+    "latitude": 11.58333,
+    "longitude": 92.66667
+  },
+  {
+    "name": "manglutan",
+    "cc2": "01",
+    "latitude": 11.58296,
+    "longitude": 92.65371
+  },
+  {
+    "name": "malappuram",
+    "cc2": "01",
+    "latitude": 11.78333,
+    "longitude": 92.71667
+  },
+  {
+    "name": "malacca",
+    "cc2": "01",
+    "latitude": 9.16667,
+    "longitude": 92.81667
+  },
+  {
+    "name": "maimyo",
+    "cc2": "01",
+    "latitude": 11.6,
+    "longitude": 92.63333
+  },
+  {
+    "name": "lapate",
+    "cc2": "01",
+    "latitude": 9.21667,
+    "longitude": 92.8
+  },
+  {
+    "name": "laksi",
+    "cc2": "01",
+    "latitude": 8.21667,
+    "longitude": 93.15
+  },
+  {
+    "name": "laful",
+    "cc2": "01",
+    "latitude": 7.16667,
+    "longitude": 93.86667
+  },
+  {
+    "name": "kwate tu kwage",
+    "cc2": "01",
+    "latitude": 10.61667,
+    "longitude": 92.56667
+  },
+  {
+    "name": "kwachengui",
+    "cc2": "01",
+    "latitude": 10.58333,
+    "longitude": 92.6
+  },
+  {
+    "name": "kola-rue",
+    "cc2": "01",
+    "latitude": 8.23333,
+    "longitude": 93.16667
+  },
+  {
+    "name": "koi-mekeah",
+    "cc2": "01",
+    "latitude": 7.91667,
+    "longitude": 93.35
+  },
+  {
+    "name": "koi-hoa",
+    "cc2": "01",
+    "latitude": 8.2,
+    "longitude": 93.48333
+  },
+  {
+    "name": "kire-henpoan",
+    "cc2": "01",
+    "latitude": 7.98333,
+    "longitude": 93.38333
+  },
+  {
+    "name": "kerawa",
+    "cc2": "01",
+    "latitude": 8.25,
+    "longitude": 93.11667
+  },
+  {
+    "name": "kemios",
+    "cc2": "01",
+    "latitude": 9.13333,
+    "longitude": 92.78333
+  },
+  {
+    "name": "keaiya",
+    "cc2": "01",
+    "latitude": 8.18333,
+    "longitude": 93.46667
+  },
+  {
+    "name": "kartara",
+    "cc2": "01",
+    "latitude": 12.73211,
+    "longitude": 92.73122
+  },
+  {
+    "name": "karen",
+    "cc2": "01",
+    "latitude": 12.85,
+    "longitude": 92.88333
+  },
+  {
+    "name": "kanalla",
+    "cc2": "01",
+    "latitude": 6.96667,
+    "longitude": 93.91667
+  },
+  {
+    "name": "kakana",
+    "cc2": "01",
+    "latitude": 9.11667,
+    "longitude": 92.8
+  },
+  {
+    "name": "janglighat",
+    "cc2": "01",
+    "latitude": 11.66136,
+    "longitude": 92.72779
+  },
+  {
+    "name": "jalebar",
+    "cc2": "01",
+    "latitude": 12.01667,
+    "longitude": 92.93333
+  },
+  {
+    "name": "ingoie",
+    "cc2": "01",
+    "latitude": 10.51667,
+    "longitude": 92.48333
+  },
+  {
+    "name": "inaka",
+    "cc2": "01",
+    "latitude": 8.06667,
+    "longitude": 93.53333
+  },
+  {
+    "name": "ilichar",
+    "cc2": "01",
+    "latitude": 13.21667,
+    "longitude": 92.86667
+  },
+  {
+    "name": "ignoitijala",
+    "cc2": "01",
+    "latitude": 10.55,
+    "longitude": 92.35
+  },
+  {
+    "name": "hope town rv",
+    "cc2": "01",
+    "latitude": 11.70553,
+    "longitude": 92.73615
+  },
+  {
+    "name": "homfrayganj",
+    "cc2": "01",
+    "latitude": 11.6,
+    "longitude": 92.66667
+  },
+  {
+    "name": "hobdaypur",
+    "cc2": "01",
+    "latitude": 11.65,
+    "longitude": 92.65
+  },
+  {
+    "name": "hinam",
+    "cc2": "01",
+    "latitude": 8.25,
+    "longitude": 93.08333
+  },
+  {
+    "name": "heya",
+    "cc2": "01",
+    "latitude": 7.41667,
+    "longitude": 93.7
+  },
+  {
+    "name": "herbertabad",
+    "cc2": "01",
+    "latitude": 11.71667,
+    "longitude": 92.61667
+  },
+  {
+    "name": "henpoin",
+    "cc2": "01",
+    "latitude": 6.86667,
+    "longitude": 93.76667
+  },
+  {
+    "name": "henhoaha",
+    "cc2": "01",
+    "latitude": 6.81667,
+    "longitude": 93.81667
+  },
+  {
+    "name": "hastmatabad",
+    "cc2": "01",
+    "latitude": 11.6,
+    "longitude": 92.63333
+  },
+  {
+    "name": "haoin",
+    "cc2": "01",
+    "latitude": 8.31667,
+    "longitude": 93.1
+  },
+  {
+    "name": "haddo",
+    "cc2": "01",
+    "latitude": 11.68333,
+    "longitude": 92.71667
+  },
+  {
+    "name": "goplakabang",
+    "cc2": "01",
+    "latitude": 11.76667,
+    "longitude": 92.71667
+  },
+  {
+    "name": "geinyale",
+    "cc2": "01",
+    "latitude": 10.56667,
+    "longitude": 92.53333
+  },
+  {
+    "name": "garacherama",
+    "cc2": "01",
+    "latitude": 11.6065,
+    "longitude": 92.70109
+  },
+  {
+    "name": "eoya",
+    "cc2": "01",
+    "latitude": 8.28333,
+    "longitude": 93.1
+  },
+  {
+    "name": "enounga",
+    "cc2": "01",
+    "latitude": 8.01667,
+    "longitude": 93.53333
+  },
+  {
+    "name": "endea-geleda",
+    "cc2": "01",
+    "latitude": 10.68333,
+    "longitude": 92.35
+  },
+  {
+    "name": "dolyganj",
+    "cc2": "01",
+    "latitude": 11.63333,
+    "longitude": 92.63333
+  },
+  {
+    "name": "dit-dak",
+    "cc2": "01",
+    "latitude": 7.31667,
+    "longitude": 93.63333
+  },
+  {
+    "name": "diglipur",
+    "cc2": "01",
+    "latitude": 13.26667,
+    "longitude": 93
+  },
+  {
+    "name": "dak-omkeh",
+    "cc2": "01",
+    "latitude": 7.08333,
+    "longitude": 93.65
+  },
+  {
+    "name": "dakoank",
+    "cc2": "01",
+    "latitude": 7.03333,
+    "longitude": 93.71667
+  },
+  {
+    "name": "chetamale",
+    "cc2": "01",
+    "latitude": 10.71667,
+    "longitude": 92.55
+  },
+  {
+    "name": "chanumla",
+    "cc2": "01",
+    "latitude": 8.31667,
+    "longitude": 93.08333
+  },
+  {
+    "name": "chanumia",
+    "cc2": "01",
+    "latitude": 8.35,
+    "longitude": 93.1
+  },
+  {
+    "name": "calicut",
+    "cc2": "01",
+    "latitude": 11.6,
+    "longitude": 92.73333
+  },
+  {
+    "name": "bumlitan",
+    "cc2": "01",
+    "latitude": 11.61667,
+    "longitude": 92.7
+  },
+  {
+    "name": "brookesabad",
+    "cc2": "01",
+    "latitude": 11.61667,
+    "longitude": 92.75
+  },
+  {
+    "name": "bonington",
+    "cc2": "01",
+    "latitude": 12.91667,
+    "longitude": 92.9
+  },
+  {
+    "name": "birchganj",
+    "cc2": "01",
+    "latitude": 11.61667,
+    "longitude": 92.75
+  },
+  {
+    "name": "bindraban",
+    "cc2": "01",
+    "latitude": 11.71667,
+    "longitude": 92.66667
+  },
+  {
+    "name": "betapur",
+    "cc2": "01",
+    "latitude": 12.71667,
+    "longitude": 92.9
+  },
+  {
+    "name": "beadonabad",
+    "cc2": "01",
+    "latitude": 11.58333,
+    "longitude": 92.73333
+  },
+  {
+    "name": "bananga",
+    "cc2": "01",
+    "latitude": 6.95,
+    "longitude": 93.9
+  },
+  {
+    "name": "bamboo flat",
+    "cc2": "01",
+    "latitude": 11.7,
+    "longitude": 92.71667
+  },
+  {
+    "name": "bajajag",
+    "cc2": "01",
+    "latitude": 11.71667,
+    "longitude": 92.66667
+  },
+  {
+    "name": "austinabad",
+    "cc2": "01",
+    "latitude": 11.63333,
+    "longitude": 92.75
+  },
+  {
+    "name": "arong",
+    "cc2": "01",
+    "latitude": 9.16667,
+    "longitude": 92.71667
+  },
+  {
+    "name": "arainj-laka-punga",
+    "cc2": "01",
+    "latitude": 12.59976,
+    "longitude": 92.71864
+  },
+  {
+    "name": "anowa",
+    "cc2": "01",
+    "latitude": 7.96059,
+    "longitude": 93.55597
+  },
+  {
+    "name": "alipur",
+    "cc2": "01",
+    "latitude": 11.73108,
+    "longitude": 92.67466
+  },
+  {
+    "name": "aberdeen",
+    "cc2": "01",
+    "latitude": 11.6677,
+    "longitude": 92.73997
+  },
+  {
+    "name": "chingenh",
+    "cc2": "01",
+    "latitude": 6.80833,
+    "longitude": 93.84972
+  },
+  {
+    "name": "pulo bakka",
+    "cc2": "01",
+    "latitude": 6.84444,
+    "longitude": 93.78472
+  },
+  {
+    "name": "ogechai",
+    "cc2": "01",
+    "latitude": 10.85081,
+    "longitude": 92.452
+  },
+  {
+    "name": "tambe-e-bui",
+    "cc2": "01",
+    "latitude": 10.83191,
+    "longitude": 92.54467
+  },
+  {
+    "name": "pahiala",
+    "cc2": "01",
+    "latitude": 8.27457,
+    "longitude": 93.1117
+  },
+  {
+    "name": "enfak",
+    "cc2": "01",
+    "latitude": 7.3576,
+    "longitude": 93.62716
+  },
+  {
+    "name": "tiden",
+    "cc2": "01",
+    "latitude": 7.24682,
+    "longitude": 93.64586
+  },
+  {
+    "name": "ferrargunj",
+    "cc2": "01",
+    "latitude": 11.72116,
+    "longitude": 92.65234
+  },
+  {
+    "name": "mt harriet rv",
+    "cc2": "01",
+    "latitude": 11.71351,
+    "longitude": 92.72942
+  },
+  {
+    "name": "atlanta point",
+    "cc2": "01",
+    "latitude": 11.67367,
+    "longitude": 92.74508
+  },
+  {
+    "name": "adazig",
+    "cc2": "01",
+    "latitude": 12.25937,
+    "longitude": 92.79804
+  },
+  {
+    "name": "navasari",
+    "cc2": "01",
+    "latitude": 12.25492,
+    "longitude": 92.81409
+  },
+  {
+    "name": "bejoygarh rv",
+    "cc2": "01",
+    "latitude": 12.24108,
+    "longitude": 92.79426
+  },
+  {
+    "name": "kanchangarh",
+    "cc2": "01",
+    "latitude": 12.18534,
+    "longitude": 92.77182
+  },
+  {
+    "name": "kishorinagar",
+    "cc2": "01",
+    "latitude": 13.15525,
+    "longitude": 92.87777
+  },
+  {
+    "name": "rangat",
+    "cc2": "01",
+    "latitude": 12.50595,
+    "longitude": 92.9155
+  },
+  {
+    "name": "tapani",
+    "cc2": "01",
+    "latitude": 7.98903,
+    "longitude": 93.51614
+  },
+  {
+    "name": "lapat",
+    "cc2": "01",
+    "latitude": 7.979,
+    "longitude": 93.5303
+  },
+  {
+    "name": "itoi",
+    "cc2": "01",
+    "latitude": 7.99277,
+    "longitude": 93.53228
+  },
+  {
+    "name": "hindra",
+    "cc2": "01",
+    "latitude": 7.96595,
+    "longitude": 93.5388
+  },
+  {
+    "name": "inroak/chinlak",
+    "cc2": "01",
+    "latitude": 7.98435,
+    "longitude": 93.55579
+  },
+  {
+    "name": "neang",
+    "cc2": "01",
+    "latitude": 7.98376,
+    "longitude": 93.57785
+  },
+  {
+    "name": "mus",
+    "cc2": "01",
+    "latitude": 7.94389,
+    "longitude": 93.57523
+  },
+  {
+    "name": "bahua",
+    "cc2": "01",
+    "latitude": 8.01856,
+    "longitude": 93.50382
+  },
+  {
+    "name": "changua",
+    "cc2": "01",
+    "latitude": 8.02902,
+    "longitude": 93.4952
+  },
+  {
+    "name": "nancowry",
+    "cc2": "01",
+    "latitude": 7.97585,
+    "longitude": 93.55134
+  },
+  {
+    "name": "campbell bay",
+    "cc2": "01",
+    "latitude": 7.00832,
+    "longitude": 93.89419
+  },
+  {
+    "name": "bakultala",
+    "cc2": "01",
+    "latitude": 12.50399,
+    "longitude": 92.8617
+  },
+  {
+    "name": "prothrapur",
+    "cc2": "01",
+    "latitude": 11.61797,
+    "longitude": 92.72442
+  },
+  {
+    "name": "garacharma",
+    "cc2": "01",
+    "latitude": 11.61374,
+    "longitude": 92.70358
+  }
+]
