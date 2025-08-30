@@ -1,10 +1,10 @@
-import { LocationCityForm } from "./weatherPage"
+import { WeatherApp} from "./weatherPage"
 
 function App() {
   
   return(
     <>
-      <LocationCityForm/>
+      <WeatherApp/>
     </>
   )
 }

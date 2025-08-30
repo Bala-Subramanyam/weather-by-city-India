@@ -4,7 +4,7 @@ import { CitySelector } from "./components/city-selector";
 import { WeatherFetcher } from "./components/weather-fetcher";
 import type { Location } from "./data/states_by_cc2";
 
-export function LocationCityForm() {
+export function WeatherApp() {
   const [selectedLocation, setSelectedLocation] = useState<Location | null>(null);
   const [selectedCoordinates, setSelectedCoordinates] = useState<{ lat: number; long: number } | null>(null);
 
