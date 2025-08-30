@@ -10,7 +10,7 @@ export function LocationCityForm() {
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-blue-50 to-white flex items-center justify-center p-4">
-      <div className="w-full max-w-md sm:max-w-lg bg-white rounded-lg shadow-lg p-6">
+      <div className="w-full max-w-md sm:max-w-xl lg:max-w-4xl bg-white rounded-lg shadow-lg p-6">
         <div className="text-center mb-6">
           <h1 className="text-3xl font-bold text-blue-700">🌡️ Weather App</h1>
           <p className="text-gray-600 text-sm">Get real-time weather information for cities across India</p>
@@ -38,22 +38,10 @@ export function LocationCityForm() {
           </div>
 
           {selectedCoordinates && (
-            <>
-              <div>
-                <WeatherFetcher
-                  latitude={selectedCoordinates.lat}
-                  longitude={selectedCoordinates.long}
-                  section="now"
-                />
-              </div>
-              <div>
-                <WeatherFetcher
-                  latitude={selectedCoordinates.lat}
-                  longitude={selectedCoordinates.long}
-                  section="forecast"
-                />
-              </div>
-            </>
+            <WeatherFetcher
+              latitude={selectedCoordinates.lat}
+              longitude={selectedCoordinates.long}
+            />
           )}
         </div>
       </div>

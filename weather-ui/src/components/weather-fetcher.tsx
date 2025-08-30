@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
-import { fetchWeatherApi } from "openmeteo";
 import { Sun, Cloud, Snowflake } from "lucide-react";
+import { Card, CardContent } from "@/components/ui/card";
 
 interface WeatherData {
   temperature_2m: number[];
@@ -10,10 +10,15 @@ interface WeatherData {
 interface WeatherFetcherProps {
   latitude: number;
   longitude: number;
-  section: "now" | "forecast"; // New prop to determine section
 }
 
-export const WeatherFetcher: React.FC<WeatherFetcherProps> = ({ latitude, longitude, section }) => {
+interface DayGroup {
+  dayName: string;
+  date: string;
+  hours: { time: Date; temp: number }[];
+}
+
+export const WeatherFetcher: React.FC<WeatherFetcherProps> = ({ latitude, longitude }) => {
   const [weatherData, setWeatherData] = useState<WeatherData | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -21,40 +26,15 @@ export const WeatherFetcher: React.FC<WeatherFetcherProps> = ({ latitude, longit
   useEffect(() => {
     const fetchWeather = async () => {
       try {
-        const params = {
-          latitude,
-          longitude,
-          hourly: "temperature_2m",
-        };
+        const url = `https://api.open-meteo.com/v1/forecast?latitude=${latitude}&longitude=${longitude}&hourly=temperature_2m&timezone=auto`;
 
-        const url = "https://api.open-meteo.com/v1/forecast";
-        const responses = await fetchWeatherApi(url, params);
-        const response = responses[0];
-
-        const hourly = response.hourly();
-        if (!hourly) {
-          throw new Error("Hourly data is missing");
-        }
-
-        const temperatureArray = hourly.variables(0)?.valuesArray();
-        const utcOffsetSeconds = response.utcOffsetSeconds();
-
-        if (!temperatureArray) {
-          throw new Error("Temperature data not found");
-        }
-
-        const start = Number(hourly.time());
-        const end = Number(hourly.timeEnd());
-        const interval = hourly.interval();
-
-        const timeArray = [...Array((end - start) / interval)].map((_, i) => {
-          const timestamp = start + i * interval + utcOffsetSeconds;
-          return new Date(timestamp * 1000);
-        });
+        const res = await fetch(url);
+        if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
+        const data = await res.json();
 
         const weather: WeatherData = {
-          temperature_2m: Array.from(temperatureArray),
-          time: timeArray,
+          temperature_2m: data.hourly.temperature_2m,
+          time: data.hourly.time.map((t: string) => new Date(t)),
         };
 
         setWeatherData(weather);
@@ -77,62 +57,73 @@ export const WeatherFetcher: React.FC<WeatherFetcherProps> = ({ latitude, longit
     return <Snowflake className="w-6 h-6 text-blue-500" />;
   };
 
-  const now = new Date("2025-08-29T11:59:00+05:30"); // Current time in IST
-  const currentIndex = weatherData?.time.findIndex((time) => 
-    Math.abs(time.getTime() - now.getTime()) < 30 * 60 * 1000
-  ) ?? 0;
-  const currentTemp = weatherData?.temperature_2m[currentIndex];
+  // Group data by day
+  const groupByDay = () => {
+    if (!weatherData) return [];
+    const groups: DayGroup[] = [];
+    const now = new Date(); // Use actual current date for grouping
+    const todayDate = now.toLocaleDateString("en-IN", { timeZone: "Asia/Kolkata" });
 
-  if (section === "now") {
-    return (
-      <div className="bg-white p-6 rounded-lg shadow-md text-center">
-        <h3 className="text-lg font-semibold text-gray-800 mb-2">Weather Now</h3>
-        {currentTemp && (
-          <>
-            <p className="text-2xl font-bold text-blue-700">{currentTemp.toFixed(2)}°C</p>
-            {getWeatherIcon(currentTemp)}
-            <p className="text-sm text-gray-600">As of {weatherData?.time[currentIndex].toLocaleString("en-IN", { timeZone: "Asia/Kolkata" })}</p>
-          </>
-        )}
+    let currentGroup: DayGroup | null = null;
+
+    weatherData.time.forEach((time, index) => {
+      const date = time.toLocaleDateString("en-IN", { timeZone: "Asia/Kolkata" });
+      const weekday = time.toLocaleDateString("en-IN", { weekday: "long", timeZone: "Asia/Kolkata" });
+      let dayName = weekday;
+
+      if (date === todayDate) {
+        dayName = "Saturday";
+      } else {
+        const tomorrow = new Date(now);
+        tomorrow.setDate(tomorrow.getDate() + 1);
+        const tomorrowDate = tomorrow.toLocaleDateString("en-IN", { timeZone: "Asia/Kolkata" });
+        if (date === tomorrowDate) {
+          dayName = "Sunday";
+        }
+      }
+
+      if (!currentGroup || currentGroup.date !== date) {
+        if (currentGroup) groups.push(currentGroup);
+        currentGroup = { dayName, date, hours: [] };
+      }
+
+      currentGroup.hours.push({ time, temp: weatherData.temperature_2m[index] });
+    });
+
+    if (currentGroup) groups.push(currentGroup);
+
+    return groups.slice(0, 7); // Limit to 7 days
+  };
+
+  const dayGroups = groupByDay();
+
+  return (
+    <div className="mt-6">
+      <h3 className="text-lg font-semibold text-gray-800 mb-4">Weather Forecast</h3>
+      <div className="space-y-6">
+        {dayGroups.map((group, groupIndex) => (
+          <div key={group.date} className="flex items-start gap-4">
+            <div className="w-25 items-center text-center flex-shrink-0  pl-2 pr-2 pt-2 text-sm font-bold text-gray-700">
+              {groupIndex === 0 ? "Saturday" : groupIndex === 1 ? "Sunday" : group.dayName}
+            </div>
+            <div className="flex overflow-x-auto gap-4 pb-2">
+              {group.hours.map((hour, hourIndex) => (
+                <Card key={`${group.date}-${hourIndex}`} className="min-w-[100px] sm:min-w-[120px]">
+                  <CardContent className="p-4 text-center">
+                    <p className="text-sm text-gray-600">
+                      {hour.time.toLocaleTimeString("en-IN", { hour: "2-digit", minute: "2-digit", timeZone: "Asia/Kolkata" })}
+                    </p>
+                    <div className="flex justify-center my-2">
+                      {getWeatherIcon(hour.temp)}
+                    </div>
+                    <p className="text-lg font-medium text-blue-700">{hour.temp.toFixed(1)}°C</p>
+                  </CardContent>
+                </Card>
+              ))}
+            </div>
+          </div>
+        ))}
       </div>
-    );
-  }
-
-  if (section === "forecast") {
-    return (
-      <div className="mt-6">
-        <h3 className="text-lg font-semibold text-gray-800 mb-4">Hourly Forecast</h3>
-        <div className="overflow-x-auto">
-          <table className="w-full text-left border-collapse">
-            <thead>
-              <tr className="bg-gray-100">
-                <th className="p-2 border-b">Day</th>
-                <th className="p-2 border-b">Time</th>
-                <th className="p-2 border-b">Temp (°C)</th>
-              </tr>
-            </thead>
-            <tbody>
-              {weatherData?.time.map((time, index) => {
-                const day = time.toLocaleDateString("en-IN", { weekday: "long", timeZone: "Asia/Kolkata" });
-                const previousDay = index > 0 ? weatherData.time[index - 1].toLocaleDateString("en-IN", { weekday: "long", timeZone: "Asia/Kolkata" }) : null;
-                const showDay = !previousDay || day !== previousDay; // Show day only if it changes
-                return (
-                  <tr key={index} className="hover:bg-gray-50">
-                    <td className="p-2 border-b">{showDay ? day : ""}</td>
-                    <td className="p-2 border-b">{time.toLocaleTimeString("en-IN", { hour: "2-digit", minute: "2-digit", timeZone: "Asia/Kolkata" })}</td>
-                    <td className="p-2 border-b flex items-center gap-2">
-                      {weatherData.temperature_2m[index].toFixed(1)}
-                      {getWeatherIcon(weatherData.temperature_2m[index])}
-                    </td>
-                  </tr>
-                );
-              })}
-            </tbody>
-          </table>
-        </div>
-      </div>
-    );
-  }
-
-  return null; // Fallback
-}
+    </div>
+  );
+};
