@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState, useMemo } from "react";
 import { Input } from "@/components/ui/input";
 import {
   Popover,
@@ -21,9 +21,9 @@ interface City {
 }
 
 interface Props {
-  cc2: string | null; // cc2 code to load city data for
-  onSelect: (lat: number, long: number) => void; // callback on city select
-  disabled?: boolean; // disable dropdown when no cc2 selected
+  cc2: string | null;
+  onSelect: (lat: number, long: number) => void;
+  disabled?: boolean;
 }
 
 export function CitySelector({ cc2, onSelect, disabled = false }: Props) {
@@ -33,45 +33,56 @@ export function CitySelector({ cc2, onSelect, disabled = false }: Props) {
   const [selectedCity, setSelectedCity] = useState<City | null>(null);
   const [loading, setLoading] = useState(false);
 
-  // Load city data on cc2 change
+  // Load city data when cc2 changes
   useEffect(() => {
     if (!cc2) {
       setCities([]);
       setSelectedCity(null);
       return;
     }
-    const url = `/data/cities_by_cc2/${cc2}.json`;
-    setLoading(true);
-    fetch(url)
-      .then((res) => {
+
+    const controller = new AbortController();
+    const signal = controller.signal;
+
+    const fetchCities = async () => {
+      try {
+        setLoading(true);
+        const res = await fetch(`/data/cities_by_cc2/${cc2}.json`, { signal });
         if (!res.ok) throw new Error("Failed to fetch city data");
-        return res.json();
-      })
-      .then((data: City[]) => {
+
+        const data: City[] = await res.json();
         const sorted = data.sort((a, b) =>
           a.name.localeCompare(b.name, undefined, { sensitivity: "base" })
         );
         setCities(sorted);
+      } catch (error) {
+        if (typeof error === "object" && error !== null && "name" in error) {
+          if ((error as { name: string }).name === "AbortError") {
+            return; // silently ignore aborted request
+          }
+        }
+
+        console.error("Error loading cities:", error);
+      } finally {
         setSelectedCity(null);
         setLoading(false);
-      })
-      .catch(() => {
-        setCities([]);
-        setSelectedCity(null);
-        setLoading(false);
-      });
+      }
+    };
+
+    fetchCities();
+
+    return () => {
+      controller.abort(); // Cancel fetch on unmount or cc2 change
+    };
   }, [cc2]);
 
-  // Filter cities based on search, showing top 10 starting with search text
-  const filteredCities = React.useMemo(() => {
-    if (!search) {
-      return cities.slice(0, 10);
-    }
+  // Filter cities
+  const filteredCities = useMemo(() => {
+    if (!search) return cities.slice(0, 10);
     const lowerSearch = search.toLowerCase();
-    const filtered = cities.filter((city) =>
-      city.name.toLowerCase().startsWith(lowerSearch)
-    );
-    return filtered.slice(0, 10);
+    return cities
+      .filter((city) => city.name.toLowerCase().startsWith(lowerSearch))
+      .slice(0, 10);
   }, [cities, search]);
 
   const handleSelect = (city: City) => {
@@ -85,24 +96,38 @@ export function CitySelector({ cc2, onSelect, disabled = false }: Props) {
     <Popover
       open={open}
       onOpenChange={(isOpen) => {
-        if (!disabled) setOpen(isOpen);
+        if (!disabled && !loading) setOpen(isOpen);
       }}
     >
       <PopoverTrigger asChild>
-        <Input
-          readOnly
-          value={selectedCity ? capitalizeFirstLetter(selectedCity.name) : ""}
-          placeholder={disabled ? "Select a state first" : "Select a city"}
-          onClick={() => {
-            if (!disabled) setOpen(true);
-          }}
-          disabled={disabled}
-        />
+        <div className="relative">
+          <Input
+            readOnly
+            value={selectedCity ? capitalizeFirstLetter(selectedCity.name) : ""}
+            placeholder={
+              disabled
+                ? "Select a state first"
+                : loading
+                ? "Loading cities..."
+                : "Select a city"
+            }
+            onClick={() => {
+              if (!disabled && !loading) setOpen(true);
+            }}
+            disabled={disabled || loading}
+          />
+          {loading && (
+            <div className="absolute right-3 top-1/2 -translate-y-1/2">
+              <Spinner />
+            </div>
+          )}
+        </div>
       </PopoverTrigger>
+
       <PopoverContent className="w-[300px] p-0">
         <Command>
           <CommandInput
-            placeholder={loading ? "Loading cities..." : "Search cities..."}
+            placeholder="Search cities..."
             value={search}
             onValueChange={setSearch}
             disabled={loading || disabled}
@@ -116,7 +141,7 @@ export function CitySelector({ cc2, onSelect, disabled = false }: Props) {
             {!loading &&
               filteredCities.map((city) => (
                 <CommandItem
-                  key={`${city.name}-${city.latitude}-${city.longitude}`} // Unique key
+                  key={`${city.name}-${city.latitude}-${city.longitude}`}
                   onSelect={() => handleSelect(city)}
                   className="capitalize"
                 >
@@ -130,7 +155,26 @@ export function CitySelector({ cc2, onSelect, disabled = false }: Props) {
   );
 }
 
-// Function to capitalize first letter of the city name
-const capitalizeFirstLetter = (cityName: string) => {
-  return cityName.charAt(0).toUpperCase() + cityName.slice(1);
-};
+// Capitalize city name
+const capitalizeFirstLetter = (cityName: string) =>
+  cityName.charAt(0).toUpperCase() + cityName.slice(1);
+
+// Minimal spinner component
+const Spinner = () => (
+  <svg className="animate-spin h-4 w-4 text-gray-400" viewBox="0 0 24 24">
+    <circle
+      className="opacity-25"
+      cx="12"
+      cy="12"
+      r="10"
+      stroke="currentColor"
+      strokeWidth="4"
+      fill="none"
+    />
+    <path
+      className="opacity-75"
+      fill="currentColor"
+      d="M4 12a8 8 0 018-8v4a4 4 0 00-4 4H4z"
+    />
+  </svg>
+);
