@@ -12,6 +12,7 @@ import {
   CommandList,
   CommandEmpty,
 } from "@/components/ui/command";
+import { Loader2 } from "lucide-react"; // 👈 Lucide spinner
 
 interface City {
   name: string;
@@ -56,13 +57,11 @@ export function CitySelector({ cc2, onSelect, disabled = false }: Props) {
         );
         setCities(sorted);
       } catch (error) {
-        if (typeof error === "object" && error !== null && "name" in error) {
-          if ((error as { name: string }).name === "AbortError") {
-            return; // silently ignore aborted request
-          }
+        if (error instanceof DOMException && error.name === "AbortError") {
+          return; // Request was aborted
         }
-
         console.error("Error loading cities:", error);
+        setCities([]);
       } finally {
         setSelectedCity(null);
         setLoading(false);
@@ -118,7 +117,7 @@ export function CitySelector({ cc2, onSelect, disabled = false }: Props) {
           />
           {loading && (
             <div className="absolute right-3 top-1/2 -translate-y-1/2">
-              <Spinner />
+              <Loader2 className="h-4 w-4 animate-spin text-muted-foreground" />
             </div>
           )}
         </div>
@@ -158,23 +157,3 @@ export function CitySelector({ cc2, onSelect, disabled = false }: Props) {
 // Capitalize city name
 const capitalizeFirstLetter = (cityName: string) =>
   cityName.charAt(0).toUpperCase() + cityName.slice(1);
-
-// Minimal spinner component
-const Spinner = () => (
-  <svg className="animate-spin h-4 w-4 text-gray-400" viewBox="0 0 24 24">
-    <circle
-      className="opacity-25"
-      cx="12"
-      cy="12"
-      r="10"
-      stroke="currentColor"
-      strokeWidth="4"
-      fill="none"
-    />
-    <path
-      className="opacity-75"
-      fill="currentColor"
-      d="M4 12a8 8 0 018-8v4a4 4 0 00-4 4H4z"
-    />
-  </svg>
-);
